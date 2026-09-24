@@ -16,7 +16,12 @@ within an area is the same place.
 | Summit Lake (Mount Blue Sky) | 27 | 11 |
 | Torreys Peak (including Kelso Ridge) | 60 | 20 |
 
-Counts reflect the initial mapping and will change as entries are contributed.
+The broader pass adds 54 more groups, including Longs Peak routes, Mount Blue
+Sky/Evans, Quandary ridges, Eldorado Canyon climbs, Flatiron spellings and local
+park/trail/lake aliases. See the [complete review and counts](location-review.md).
+Regenerate that report with `python3 scripts/location-report.py > docs/location-review.md`.
+
+Counts above reflect the initial mappings; the linked report covers all current groups.
 The supporting evidence is the accepted records' location, county, summary and
 source notes. No incident text, IDs, outcomes or source URLs were overwritten.
 
@@ -36,7 +41,10 @@ Grays/Torreys and Grizzly areas stay separate. Both `Clear Creek` and the legacy
 Edit `config/location-groups.json` in a PR. Each group has a display name, explicit
 counties, explicit aliases, and a rationale. Match is case-insensitive with outer
 whitespace ignored, otherwise exact; unlisted names or counties fall back to the
-reported location. Read the affected summaries and source notes before adding
+reported location. A blank county may be explicitly allowed for an unmistakably named feature
+(such as a record explicitly naming Longs Peak); it does not fill in the county.
+Legacy `County` suffixes must be listed explicitly. Read the affected summaries
+and source notes before adding
 an alias. Do not infer equivalence from fuzzy name similarity alone. Explain the
 evidence and exclusions in the PR, and extend `tests/test_locations.py` for
 ambiguous names. Do not add `location_group` to canonical or pending records;

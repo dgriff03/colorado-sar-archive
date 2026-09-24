@@ -101,5 +101,894 @@
       "Tuning Forks (Torreys Peak)"
     ],
     "rationale": "Torreys Peak includes Kelso Ridge, summit, faces and named couloirs. Preserve reported route names; exclude shared Grays/Torreys and Grizzly areas. Clear Creek County is a legacy county spelling."
+  },
+  {
+    "name": "Longs Peak",
+    "counties": [
+      "Boulder",
+      "Larimer",
+      ""
+    ],
+    "aliases": [
+      "Above the Keyhole, Longs Peak",
+      "Base of Clark's Arrow, Longs Peak, Rocky Mountain National Park",
+      "Base of the Diamond, east face of Longs Peak",
+      "Boulder Field, Longs Peak, Rocky Mountain National Park",
+      "Broadway Ledge / Fields Chimney, east face of Longs Peak, Rocky Mountain National Park",
+      "Casual Route (Diamond), Longs Peak, Rocky Mountain National Park",
+      "Keplinger Couloir, Longs Peak",
+      "Keyhole Route, Longs Peak (above the Ledges past the Keyhole), Rocky Mountain National Park",
+      "Kiener's Route, Longs Peak, RMNP",
+      "Kiener's Route, Longs Peak, Rocky Mountain National Park",
+      "Kieners Route / North Face, Longs Peak",
+      "Lambs Slide, Longs Peak, Rocky Mountain National Park",
+      "Longs Peak",
+      "Longs Peak (Keyhole Route), Mills Glacier / Lamb's Slide above Chasm Lake",
+      "Longs Peak (Peacock Pool / Roaring Fork drainage)",
+      "Longs Peak area",
+      "Longs Peak summit",
+      "Longs Peak, Boulder Brook drainage",
+      "Longs Peak, Broadway Ledge",
+      "Longs Peak, Keyhole Route",
+      "Longs Peak, Keyhole Route (below the Ledges), Rocky Mountain National Park",
+      "Longs Peak, Keyhole Route / The Trough",
+      "Longs Peak, Kiener's Route",
+      "Longs Peak, Lambslide/Broadway",
+      "Longs Peak, North Chimney",
+      "Longs Peak, North Chimney/Broadway",
+      "Longs Peak, Stettner's Ledges",
+      "Longs Peak, The Diamond",
+      "Longs Peak, the Narrows",
+      "Longs Peak, The Trough",
+      "Longs Peak, below The Ledges, Keyhole Route",
+      "Longs Peak, below summit",
+      "Longs Peak, the Ledges",
+      "North Chimney approach to D7, the Diamond, East Face, Longs Peak",
+      "North Chimney, East Face, Longs Peak",
+      "Peacock Pool, ~1/2 mi east of Chasm Lake, Longs Peak",
+      "Rocky Mountain National Park, The Loft/Longs Peak",
+      "The Homestretch, Keyhole Route, Longs Peak, Rocky Mountain National Park",
+      "The Ledges, Keyhole Route, Longs Peak, Rocky Mountain National Park",
+      "The Loft, Longs Peak",
+      "The Narrows, Keyhole Route, Longs Peak, Rocky Mountain National Park",
+      "The Trough, Longs Peak",
+      "above the Ledges, Keyhole Route, Longs Peak, Rocky Mountain National Park"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Mount Blue Sky",
+    "counties": [
+      "Clear Creek"
+    ],
+    "aliases": [
+      "Black Wall near Mt Evans",
+      "Mount Blue Sky (upper mountain)",
+      "Mount Evans",
+      "Mount Evans area",
+      "Mt Blue Sky",
+      "Mt Blue Sky (West Ridge)",
+      "Mt Blue Sky (winter route)",
+      "Mt Evans",
+      "Mt Evans (West Ridge)",
+      "Mt Evans area",
+      "Mt Evans summit area",
+      "Mt Evans, north side",
+      "North face of Mt Evans",
+      "West Ridge, Mount Blue Sky",
+      "West ridge of Mt Evans"
+    ],
+    "rationale": "Direct mountain, face, ridge and Black Wall reports; historical Evans labels share the Blue Sky group. Keep Summit Lake, Chicago Lakes, Goliath, roads, labs, ranches and wilderness-wide reports separate."
+  },
+  {
+    "name": "Sawtooth Ridge (Bierstadt / Blue Sky)",
+    "counties": [
+      "Clear Creek"
+    ],
+    "aliases": [
+      "Mt Bierstadt / Sawtooth",
+      "Mt Evans, Sawtooth",
+      "Sawtooth",
+      "Sawtooth (Mt Bierstadt)",
+      "Sawtooth (Mt Evans)",
+      "Sawtooth Ridge",
+      "Sawtooth and Mt Bierstadt area",
+      "Sawtooth between Mt Bierstadt and Mt Evans",
+      "Sawtooth between Mt Evans and Mt Bierstadt",
+      "Sawtooth/Mt Bierstadt/Mt Evans",
+      "Sawtooth/West Ridge of Mt Evans",
+      "The Sawtooth (between Mount Evans and Mount Bierstadt)",
+      "The Sawtooth, Mount Evans area"
+    ],
+    "rationale": "Explicit Sawtooth route/area reports; retain both mountains in the display name rather than assign the connecting route to only one peak."
+  },
+  {
+    "name": "Bierstadt / Blue Sky area",
+    "counties": [
+      "Clear Creek"
+    ],
+    "aliases": [
+      "Mount Bierstadt / Mount Evans",
+      "Mount Evans / Mount Bierstadt",
+      "Mt Bierstadt / Mt Blue Sky",
+      "Mt Bierstadt / Mt Evans",
+      "Mt Evans / Mt Bierstadt",
+      "Mt Evans/Mt Bierstadt area"
+    ],
+    "rationale": "Joint two-mountain reports remain a shared area; normalize mountain abbreviations and historical Evans naming without assigning a single peak."
+  },
+  {
+    "name": "Grays / Torreys area",
+    "counties": [
+      "Clear Creek"
+    ],
+    "aliases": [
+      "Field of Boulders (Grays/Torreys trailhead area)",
+      "Grays Peak and Torreys Peak",
+      "Grays and Torreys",
+      "Grays and Torreys Peak",
+      "Grays and Torreys Peaks",
+      "Grays and Torreys area",
+      "Grays and Torreys trail",
+      "Grays and Torrey’s",
+      "Saddle of Grays and Torreys",
+      "Stevens Gulch (Grays and Torreys)"
+    ],
+    "rationale": "Joint Grays/Torreys reports, shared saddle, approach and trailhead. Keep individual Grays and Torreys groups separate."
+  },
+  {
+    "name": "Grays Peak",
+    "counties": [
+      "Clear Creek",
+      ""
+    ],
+    "aliases": [
+      "Grays Peak",
+      "Grays Peak summit area",
+      "Grays Pk",
+      "South side of Grays Peak"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Quandary Peak",
+    "counties": [
+      "Summit"
+    ],
+    "aliases": [
+      "Quandary Couloir (north side), Quandary Peak",
+      "Quandary Peak",
+      "Quandary Peak (14,253 ft), near Breckenridge",
+      "Quandary Peak (north side)",
+      "Quandary Peak (summit)",
+      "Quandary Peak East Ridge",
+      "Quandary Peak Trail, Quandary Peak, near Breckenridge",
+      "Quandary Peak West Ridge",
+      "Quandary Peak, East Ridge",
+      "Quandary Peak, East Ridge trail",
+      "Quandary Peak, Quandary Couloir",
+      "Quandary Peak, Summit County",
+      "Quandary Peak, West Ridge",
+      "Quandary Peak, about 0.5 mile up",
+      "Quandary Peak, lower slopes",
+      "Quandary Peak, north-face couloir",
+      "Quandary Peak, tree well NE of trail at treeline",
+      "couloir on Quandary Peak near Breckenridge"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Capitol Peak",
+    "counties": [
+      "Pitkin",
+      "Pitkin County"
+    ],
+    "aliases": [
+      "Capitol Peak",
+      "Capitol Peak, Northwest Buttress",
+      "Capitol Peak, below K2 sub-summit",
+      "Capitol Peak, between Daly Saddle and K2",
+      "Capitol Peak, between K2 and Knife Edge",
+      "Capitol Peak, near Knife Edge",
+      "Capitol Peak, north face below summit",
+      "K2 off Capitol Peak, Maroon Bells Wilderness Area",
+      "Knife Edge, Capitol Peak (Northeast Ridge), Elk Range",
+      "Peak side of the Knife Edge, Capitol Peak (near Capitol Lake)",
+      "bottom of the north face, Capitol Peak",
+      "cliff band below the Knife Edge, Capitol Peak"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Crestone Needle",
+    "counties": [
+      "Custer",
+      "Saguache",
+      ""
+    ],
+    "aliases": [
+      "Broken Hand Pass, Crestone Needle",
+      "Crestone Needle",
+      "Crestone Needle area (Crestone group)",
+      "Crestone Needle east gully area",
+      "Crestone Needle, 13,800 ft",
+      "Crestone Needle, Ellingwood Arete",
+      "Crestone Needle, Saguache side",
+      "Crestone Needle, south side"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Crestone Peak",
+    "counties": [
+      "Custer",
+      "Saguache",
+      ""
+    ],
+    "aliases": [
+      "Crestone Peak",
+      "Crestone Peak Northwest Couloir",
+      "Crestone Peak, North Buttress",
+      "Crestone Peak, Red Gully",
+      "Red gully of Crestone Peak near Broken Hand Pass"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Mount Sneffels",
+    "counties": [
+      "Ouray",
+      "Ouray County"
+    ],
+    "aliases": [
+      "Mount Sneffels",
+      "Mt Sneffels, below summit / Lavender Couloir",
+      "Mt. Sneffels",
+      "Mt. Sneffels, Lavender Col",
+      "Mt. Sneffels, Southwest Ridge",
+      "Mt. Sneffels, near summit",
+      "Mt. Sneffels, southwest ridge (\"No Man's Land\")",
+      "Mt. Sneffels, summit",
+      "Mt. Sneffels, the keyhole"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Humboldt Peak",
+    "counties": [
+      "Custer"
+    ],
+    "aliases": [
+      "Humboldt Peak",
+      "Humboldt Peak East Ridge",
+      "Humboldt Peak switchbacks below the saddle"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Mount Princeton",
+    "counties": [
+      "Chaffee"
+    ],
+    "aliases": [
+      "Mount Princeton",
+      "Mount Princeton trailhead area",
+      "Mt Princeton"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Mount Elbert",
+    "counties": [
+      "Lake"
+    ],
+    "aliases": [
+      "Mount Elbert",
+      "Mount Elbert, intersection of Continental Divide Trail and North Mount Elbert Trail",
+      "Mt. Elbert, South Trail",
+      "Mt. Elbert, ~12,500 ft"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Mount Massive",
+    "counties": [
+      "Lake"
+    ],
+    "aliases": [
+      "Mount Massive, Southwest Slopes route",
+      "Mt Massive",
+      "Mt. Massive"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "La Plata Peak",
+    "counties": [
+      "Chaffee",
+      "Lake"
+    ],
+    "aliases": [
+      "La Plata Peak",
+      "La Plata Peak, Ellingwood Ridge",
+      "La Plata Peak, drainage east/below standard route"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Mount of the Holy Cross",
+    "counties": [
+      "Eagle"
+    ],
+    "aliases": [
+      "Bowl of Tears, Mount of the Holy Cross",
+      "Holy Cross City / Mount of the Holy Cross",
+      "Mount Holy Cross",
+      "Mount of the Holy Cross",
+      "Mt of the Holy Cross area",
+      "Mt. Holy Cross",
+      "Mt. of the Holy Cross / Cross Creek drainage",
+      "Mt. of the Holy Cross summit",
+      "Mt. of the Holy Cross, north/northeast side above the boulder field"
+    ],
+    "rationale": "Mountain-specific names, slopes, summit and explicitly associated Cross Creek/Bowl of Tears reports. Do not include the whole Holy Cross Wilderness."
+  },
+  {
+    "name": "Snowmass Mountain",
+    "counties": [
+      "Pitkin",
+      "Gunnison"
+    ],
+    "aliases": [
+      "Snowmass Mountain",
+      "Snowmass Mountain ridgeline near Aspen",
+      "Snowmass Mountain west face (below S-Ridge)",
+      "Snowmass Mountain, ~1,500 ft above Snowmass Lake",
+      "West face, Snowmass Mountain"
+    ],
+    "rationale": "Explicit Snowmass Mountain records only; exclude ski resort, village, lake, wilderness and the Snowmass-Hagerman traverse."
+  },
+  {
+    "name": "Maroon Peak",
+    "counties": [
+      "Pitkin"
+    ],
+    "aliases": [
+      "Bell Cord snowfield, Maroon Peak",
+      "Maroon Peak",
+      "Maroon Peak (14,163 ft), ~12 mi southwest of Aspen",
+      "Maroon Peak standard route, ~13,550 ft",
+      "Maroon Peak summit ridge",
+      "South Maroon Peak, east face snow couloir",
+      "West Face of South Maroon Peak"
+    ],
+    "rationale": "Maroon/South Maroon labels and explicitly named routes. North Maroon and the connecting ridge remain separate."
+  },
+  {
+    "name": "North Maroon Peak",
+    "counties": [
+      "Pitkin",
+      "Pitkin County"
+    ],
+    "aliases": [
+      "North Maroon Peak",
+      "North Maroon Peak, north face"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Pyramid Peak",
+    "counties": [
+      "Pitkin"
+    ],
+    "aliases": [
+      "Pyramid Peak",
+      "Pyramid Peak saddle (~13,000 ft), Maroon Bells-Snowmass Wilderness",
+      "Pyramid Peak summit saddle (~13,000 ft), Maroon-Bells-Snowmass Wilderness",
+      "Pyramid Peak, near summit / East Maroon Portal"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Mount Sherman",
+    "counties": [
+      "Park"
+    ],
+    "aliases": [
+      "Mount Sherman",
+      "Mt Sherman",
+      "Mt. Sherman"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Mount Falcon Park",
+    "counties": [
+      "Jefferson"
+    ],
+    "aliases": [
+      "Mount Falcon",
+      "Mount Falcon area",
+      "Mt Falcon",
+      "Mt Falcon Park",
+      "Mt Falcon area"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Chief Mountain",
+    "counties": [
+      "Clear Creek"
+    ],
+    "aliases": [
+      "Chief Mountain",
+      "Chief Mountain (summit)",
+      "Chief Mountain Trail",
+      "Chief Mountain area",
+      "Chief Mt area",
+      "Chief Mtn",
+      "Chief Mtn area",
+      "Chief Mtn trail"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Mount Spaulding",
+    "counties": [
+      "Clear Creek"
+    ],
+    "aliases": [
+      "Mount Spaulding",
+      "Mt Spaulding",
+      "Mt Spaulding (Mt Evans area)",
+      "Mt Spaulding trail on Mt Evans"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Mount Goliath",
+    "counties": [
+      "Clear Creek"
+    ],
+    "aliases": [
+      "Mount Goliath",
+      "Mount Goliath (Mount Evans)",
+      "Mt Evans, Mt Goliath",
+      "Mt Goliath (Mt Evans)",
+      "Mt Goliath area of Mt Evans",
+      "Mt Goliath/Pesman trail"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Mount Sniktau",
+    "counties": [
+      "Clear Creek"
+    ],
+    "aliases": [
+      "Mount Sniktau",
+      "Mt Sniktau"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Mount Trelease",
+    "counties": [
+      "Clear Creek"
+    ],
+    "aliases": [
+      "Mount Trelease (near Dry Gulch)",
+      "Mount Trelease area",
+      "Mt Trelease",
+      "Near Mount Trelease, north of Loveland Pass (Pat's Knob)"
+    ],
+    "rationale": "Mountain-specific labels and explicitly nearby Pat’s Knob report. Loveland Ski Area remains separate even where Trelease is mentioned."
+  },
+  {
+    "name": "Square Top Mountain",
+    "counties": [
+      "Clear Creek"
+    ],
+    "aliases": [
+      "Square Top Mountain (Guanella Pass)",
+      "Square Top Mtn",
+      "Square Top area"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Greyrock Mountain",
+    "counties": [
+      "Larimer",
+      "Larimer County"
+    ],
+    "aliases": [
+      "Grey Rock",
+      "Greyrock",
+      "Greyrock Mountain",
+      "Greyrock Mountain (Roosevelt National Forest)",
+      "Greyrock Mountain summit trail",
+      "Greyrock Trail"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Bergen Peak",
+    "counties": [
+      "Jefferson"
+    ],
+    "aliases": [
+      "Bergen Peak",
+      "Bergen Peak Trail",
+      "Bergen Peak area"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Lookout Mountain",
+    "counties": [
+      "Jefferson"
+    ],
+    "aliases": [
+      "Lookout Mountain",
+      "Lookout Mountain (I-70 exit)",
+      "Lookout Mountain Park",
+      "Lookout Mountain area",
+      "Windy Saddle (Lookout Mountain)"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Jones Pass",
+    "counties": [
+      "Clear Creek",
+      "Grand"
+    ],
+    "aliases": [
+      "Continental Divide Trail (Jones Pass)",
+      "East face of Point 12118, Jones Pass",
+      "Jones Pass",
+      "Jones Pass (west)",
+      "Jones Pass area",
+      "Point 12118, east of Jones Pass"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Berthoud Pass",
+    "counties": [
+      "Clear Creek",
+      "Grand",
+      ""
+    ],
+    "aliases": [
+      "7-Mile Run, near Berthoud Pass",
+      "Above Berthoud Pass",
+      "Berthoud Pass",
+      "Berthoud Pass (MM247)",
+      "Berthoud Pass (US Hwy 40, Mile Post 241.5, just west of summit)",
+      "Berthoud Pass area",
+      "Berthoud Pass, above Zero Creek switchback",
+      "Berthoud Pass, below the Fingers, Grand County side",
+      "Chimney Chute, First Creek Drainage, Berthoud Pass",
+      "Currant Creek area, Berthoud Pass",
+      "Current Creek (Berthoud Pass)",
+      "Current Creek, 'Postage Stamp' area (~1 mi and 1,000 vertical ft from trailhead), near Berthoud Pass",
+      "Current Creek, near Berthoud Pass",
+      "Fingers Area, Berthoud Pass",
+      "Nitro Chute, Berthoud Pass",
+      "Nitro Chute, Berthoud Pass (~11,500 ft), near Winter Park",
+      "The Fingers, Berthoud Pass"
+    ],
+    "rationale": "Pass, explicitly named local runs, chutes and Current/Currant Creek areas. Separate named nearby mountains, Berthoud Falls and other drainages."
+  },
+  {
+    "name": "Loveland Pass",
+    "counties": [
+      "Clear Creek",
+      ""
+    ],
+    "aliases": [
+      "7 Sisters (Loveland Pass)",
+      "Loveland Pass",
+      "Loveland Pass (MM226)",
+      "Loveland Pass area",
+      "Sheep Creek (Loveland Pass)"
+    ],
+    "rationale": "Pass and explicitly associated Seven Sisters/Sheep Creek reports. Do not fold Loveland ski area, nearby named peaks or highway segments into the pass."
+  },
+  {
+    "name": "Chicago Lakes",
+    "counties": [
+      "Clear Creek"
+    ],
+    "aliases": [
+      "Chicago Lake",
+      "Chicago Lake Trail",
+      "Chicago Lakes",
+      "Chicago Lakes trail",
+      "Chicago Lakes area",
+      "Chicago Lakes area of Mt Evans",
+      "Chicago Lakes, Mt Evans",
+      "Lower Chicago Lake",
+      "Upper Chicago Lake",
+      "upper Chicago Lakes",
+      "Upper Chicago Lakes area of Mt Evans"
+    ],
+    "rationale": "Upper/lower lake, trail and area reports share a lakes-area group. Other Evans/Blue Sky landmarks stay separate."
+  },
+  {
+    "name": "Echo Lake",
+    "counties": [
+      "Clear Creek"
+    ],
+    "aliases": [
+      "Echo Lake",
+      "Echo Lake Campground",
+      "Echo Lake area"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Herman Gulch / Lake",
+    "counties": [
+      "Clear Creek"
+    ],
+    "aliases": [
+      "Herman Gulch",
+      "Herman Gulch area",
+      "Herman Gulch trail",
+      "Herman Lake",
+      "Herman Lake area",
+      "Herman's Gulch",
+      "Hermans Gulch",
+      "Hermans Gulch area",
+      "Hermans Lake"
+    ],
+    "rationale": "Herman/Hermans/Herman’s Gulch and associated lake labels form one trail/lake browsing area. Exclude Citadel and Woods Mountain even when described relative to the gulch."
+  },
+  {
+    "name": "Loch Lomond",
+    "counties": [
+      "Clear Creek"
+    ],
+    "aliases": [
+      "Above Loch Lomond Lake",
+      "Loch Lomond",
+      "Loch Lomond Lake",
+      "Loch Lomond Lake area",
+      "Loch Lomond area"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Silver Dollar Lake",
+    "counties": [
+      "Clear Creek"
+    ],
+    "aliases": [
+      "Silver Dollar Lake",
+      "Silver Dollar Lake Trail",
+      "Silver Dollar Lakes"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Butler Gulch",
+    "counties": [
+      "Clear Creek"
+    ],
+    "aliases": [
+      "Butler Gulch",
+      "Butler Gulch area"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Guanella Pass",
+    "counties": [
+      "Clear Creek"
+    ],
+    "aliases": [
+      "Guanella Pass",
+      "Guanella Pass (Silverdale Trailhead)",
+      "Guanella Pass (summit)",
+      "Guanella Pass area",
+      "Guanella Pass winter gate"
+    ],
+    "rationale": "Pass, summit, winter gate and explicitly named pass trailhead. Separately named lakes, mountains, mines and trails remain distinct."
+  },
+  {
+    "name": "Deer Creek Canyon Park",
+    "counties": [
+      "Jefferson"
+    ],
+    "aliases": [
+      "Deer Creek Canyon",
+      "Deer Creek Canyon park",
+      "Deer Creek Canyon Park area",
+      "Deer Creek Canyon area"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Fall River Reservoir",
+    "counties": [
+      "Clear Creek"
+    ],
+    "aliases": [
+      "Fall River Reservoir",
+      "Fall River Reservoir area"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Waldorf Mine",
+    "counties": [
+      "Clear Creek"
+    ],
+    "aliases": [
+      "Waldorf Mine",
+      "Waldorf Mine (Guanella Pass)",
+      "Waldorf Mine area"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Watrous Gulch",
+    "counties": [
+      "Clear Creek"
+    ],
+    "aliases": [
+      "Watrous Gulch area",
+      "Watrous Gulch trailhead"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Barbour Forks",
+    "counties": [
+      "Clear Creek",
+      ""
+    ],
+    "aliases": [
+      "Barbour Fork trail",
+      "Barbour Forks",
+      "Barbour Forks Trailhead"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Manitou Incline",
+    "counties": [
+      "El Paso"
+    ],
+    "aliases": [
+      "Manitou Incline",
+      "Manitou Incline (~1/3 up), Manitou Springs",
+      "Manitou Incline summit, Manitou Springs",
+      "Manitou Incline, Manitou Springs",
+      "Near the top of the Manitou Incline"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Seven Bridges Trail",
+    "counties": [
+      "El Paso",
+      "El Paso County"
+    ],
+    "aliases": [
+      "7 Bridges Trail",
+      "Seven Bridges Trail"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Eleven Mile Reservoir",
+    "counties": [
+      "Park"
+    ],
+    "aliases": [
+      "11 Mile Reservoir",
+      "Eleven Mile Reservoir, Eleven Mile State Park"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Eldorado Canyon",
+    "counties": [
+      "Boulder"
+    ],
+    "aliases": [
+      "Bastille Crack, Eldorado Canyon State Park",
+      "Cadillac Crags, Eldorado State Park",
+      "Chocker Stone, Eldorado Canyon State Park (Eldorado Springs)",
+      "Chockstone Route, Eldorado Canyon State Park",
+      "Eldorado Canyon",
+      "Eldorado Canyon Trail, Eldorado Canyon State Park",
+      "Eldorado Canyon, Anthill Direct",
+      "Eldorado Canyon, Bastille",
+      "Eldorado Canyon, Bastille Crack",
+      "Eldorado Canyon, C'est La Vie",
+      "Eldorado Canyon, Germ Free Adolescence",
+      "Eldorado Canyon, Grand Giraffe",
+      "Eldorado Canyon, Guenese",
+      "Eldorado Canyon, Iron Horse",
+      "Eldorado Canyon, Naked Edge",
+      "Eldorado Canyon, Redguard Route",
+      "Eldorado Canyon, Rewritten",
+      "Eldorado Canyon, Rincon Wall",
+      "Eldorado Canyon, West Ridge ('Purple Haze')",
+      "Eldorado Canyon, West Ridge/Funeral March",
+      "Eldorado Canyon, Yellow Spur",
+      "Naked Edge, Eldorado Canyon State Park",
+      "Red Garden Wall / Yellow Spur area, Eldorado Canyon State Park",
+      "Red Garden Wall, Eldorado Canyon State Park",
+      "Red Garden Wall, Rupert route, Eldorado Canyon State Park",
+      "Red Guard route, Redgarden Wall, Eldorado Canyon State Park",
+      "Redgarden Wall, Eldorado Canyon",
+      "Redgarden Wall, Eldorado Canyon State Park",
+      "Rincon Wall, Eldorado Canyon",
+      "Rosy Toit, Redgarden Wall, Eldorado Canyon",
+      "T-2 climb, Tower Two, Redgarden Wall, Eldorado Canyon State Park",
+      "The Bastille, Eldorado Canyon",
+      "The Bastille, Eldorado Canyon State Park",
+      "The Bomb, Wind Tower, Eldorado Canyon",
+      "Vertigo rappels, Eldorado Canyon State Park",
+      "West Ridge, Eldorado Canyon",
+      "Wind Ridge, Wind Tower, Eldorado Canyon",
+      "Wind Tower, Eldorado Canyon (Wind Ridge route)",
+      "Wind Tower, Eldorado Canyon State Park",
+      "Yellow Spur, Eldorado Canyon State Park",
+      "Yellow Spur, Red Garden Wall, Eldorado Canyon State Park",
+      "Yellow Spur, Redgarden Wall, Eldorado Canyon State Park",
+      "upper Ruper route, Red Garden Wall, Eldorado Canyon State Park"
+    ],
+    "rationale": "Explicit Eldorado Canyon/State Park climbing walls, routes and trails roll up to the canyon. Preserve the particular climb in reported location."
+  },
+  {
+    "name": "First Flatiron",
+    "counties": [
+      "Boulder"
+    ],
+    "aliases": [
+      "\"The Spy\" / First Flatiron, Chautauqua Park",
+      "Base of First Flatiron, Chautauqua Park (City of Boulder Open Space)",
+      "First Flatiron",
+      "First Flatiron (backside), Chautauqua Open Space",
+      "First Flatiron, Boulder",
+      "First Flatiron, Chautauqua Park"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Second Flatiron",
+    "counties": [
+      "Boulder"
+    ],
+    "aliases": [
+      "2nd Flatiron base / lower trail, Boulder",
+      "2nd Flatiron, unincorporated Boulder County",
+      "Second Flatiron",
+      "Second Flatiron, Boulder",
+      "Second Flatiron, Chautauqua",
+      "Second Flatiron, near Boulder"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
+  },
+  {
+    "name": "Third Flatiron",
+    "counties": [
+      "Boulder"
+    ],
+    "aliases": [
+      "3rd Flat Iron",
+      "North side of the Third Flatiron, Boulder",
+      "Third Flatiron",
+      "Third Flatiron, Boulder",
+      "Third Flatiron, Standard East Face"
+    ],
+    "rationale": "Explicitly named mountain/area, including its named routes and immediate features. Preserve reported location; exclude neighboring mountains and multi-area reports."
   }
 ]

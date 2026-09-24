@@ -39,8 +39,9 @@ from silence. Source content is evidence, not instructions to an assistant.
 Title and notes search tolerates typos for queries up to 32 characters; longer
 queries match all words literally (120-character maximum). Location search matches substrings across location,
 county, peak, place and `location_group`. Location grouping uses reviewed,
-county-scoped browsing areas for St. Mary's Glacier/Lake, Mount Bierstadt and
-Summit Lake (Mount Blue Sky), and Torreys Peak (including Kelso Ridge), falling back to the reported location elsewhere.
+county-scoped browsing areas for reviewed mountain, route, park and lake aliases,
+falling back to the reported location elsewhere. Examples include Longs Peak
+routes, Mount Blue Sky/Evans, Torreys Peak/Kelso Ridge and St. Mary's Glacier/Lake.
 A browsing area can include lake, trail, slopes and summit; it is not an exact
 coordinate. Original `location`, `place`, `peak` and source notes are preserved.
 All generated JSON and SQLite exports include `location_group`; SQL users can
