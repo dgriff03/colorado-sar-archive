@@ -19,7 +19,7 @@ export default function FAQ() {
         <p className="lede">
           The context behind the records. This page is a work in progress.
         </p>
-        {faq.filter((item) => item.answer.trim()).map((item) => (
+        {faq.filter((item) => (item.answer || '').trim()).map((item) => (
           <section className="faq-item" key={item.question}>
             <h2>{item.question}</h2>
             <div className="faq-answer">
