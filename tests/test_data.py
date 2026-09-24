@@ -11,7 +11,7 @@ class DataTests(unittest.TestCase):
     def write(self,r):
         p=self.root/'pending'/(r['id']+'.json');p.write_text(json.dumps(r));return p
     def test_promote_and_export_roundtrip(self):
-        r=self.record(victims=0,notes='Details unknown',wx_high_f=45.2);p=self.write(r)
+        r=self.record(victims=0,notes='Details unknown');p=self.write(r)
         data.promote(self.root);self.assertFalse(p.exists());data.promote(self.root);data.build(self.root)
         db=sqlite3.connect(self.root/'public/data/colorado-sar.db');db.row_factory=sqlite3.Row
         row=dict(db.execute('select * from incidents').fetchone());db.close()
@@ -37,8 +37,15 @@ class DataTests(unittest.TestCase):
         self.write(self.record());data.build(self.root)
         self.assertEqual(json.loads((self.root/'public/data/incidents.json').read_text()),[])
     def test_nonfinite_number_rejected(self):
-        self.write(self.record(wx_high_f=float('nan')))
+        self.write(self.record(detail_score=float('nan')))
         with self.assertRaises(ValueError):data.read_records(self.root)
+    def test_identical_submission_blocks_entire_promotion(self):
+        a=self.write(self.record());b=self.write(self.record())
+        with self.assertRaisesRegex(ValueError, 'identical submission'):data.promote(self.root)
+        self.assertTrue(a.exists());self.assertTrue(b.exists())
+    def test_weather_fields_are_rejected(self):
+        self.write(self.record(wx_high_f=50))
+        with self.assertRaisesRegex(ValueError, 'unknown fields'):data.read_records(self.root)
     def test_unknown_fields_rejected(self):
         self.write(self.record(private_email='not for publication'))
         with self.assertRaises(ValueError):data.read_records(self.root)

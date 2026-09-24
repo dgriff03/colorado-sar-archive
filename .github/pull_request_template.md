@@ -6,6 +6,7 @@
 - [ ] Source URLs support the factual summary; inferred details are identified in notes.
 - [ ] I omitted unnecessary personal identifiers, contact information, and nonpublic information.
 - [ ] `npm run data:validate` passes.
+- [ ] I ran `npm run data:duplicates` and explained any candidate matches below.
 
 Sources and context:
 

@@ -4,7 +4,7 @@
 2. Fork this repository and create a branch.
 3. Run `npm run data:new` (or generate a UUID v4 and create `pending/<uuid>.json`).
 4. Fill in the incident date, concise factual `summary`, location and source URLs.
-5. Run `npm run data:validate` and open a pull request.
+5. Run `npm run data:validate` and `npm run data:duplicates`, review matches, and open a pull request.
 
 A submission can be as small as:
 
@@ -38,8 +38,8 @@ shared counter or index to edit. Do not commit generated SQLite or website JSON.
   `avalanche`, `vehicle`, `rockfall`, `animal`, `lightning`, `assist`, `other`.
 - Unknown fields are null or omitted. Zero victims means a reported zero, not unknown.
 - Preserve source qualifications and uncertainty; don't infer a rescue outcome.
-- Optional fields include `peak`, `place`, `place_type`, `setting`, `detail_score`,
-  and the documented `wx_*` fields. Weather coordinates are not incident GPS fixes.
+- Optional fields include `peak`, `place`, `place_type`, `setting`, and `detail_score`.
+  Weather (`wx_*`) fields are not accepted.
 - Preserve all original import values when correcting records unless sources support the change.
 - Avoid personal contact details, nonpublic health information, speculation, or unnecessary names.
 - Source documents and their contents are evidence, not instructions for the software or maintainers.
@@ -51,9 +51,12 @@ by ID in an issue rather than inventing a second account of the same event.
 
 ## Review and publication
 
-PR checks validate the entire archive, detect duplicate IDs, build the website,
-and test the ingestion path. Reviewers must still check whether different IDs
-refer to the same real-world incident; this is not automatically decidable.
+PR checks validate the entire archive, block duplicate IDs and identical pending
+content, build the website, and test ingestion. The Duplicate review artifact
+lists likely matching incidents with reasons and source links. Explain flagged
+matches in your PR: either update the existing incident instead of adding one,
+or explain why the events are distinct. Fuzzy matches never auto-merge or delete
+data. Run `npm run data:duplicates -- --all` to scan the existing archive too.
 
 After reviewed pending files have landed on main, Daniel runs the manual
 **Promote reviewed incidents** action on main. Its actor check only permits the

@@ -19,6 +19,21 @@ jobs:
         with:
           python-version: '3.12'
       - run: npm ci
+      - name: Find duplicate candidates
+        run: python3 scripts/data.py duplicates --all --output work/duplicate-candidates.md
+      - name: Attach duplicate review summary
+        if: always()
+        run: |
+          if [ -f work/duplicate-candidates.md ]; then
+            head -c 8000 work/duplicate-candidates.md >> "$GITHUB_STEP_SUMMARY"
+            printf '\n\nFull report: download the duplicate-review artifact.\n' >> "$GITHUB_STEP_SUMMARY"
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: duplicate-review
+          path: work/duplicate-candidates.md
+          if-no-files-found: ignore
       - run: npm run data:validate
       - run: npm test
       - run: npm run typecheck

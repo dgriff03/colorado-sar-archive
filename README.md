@@ -48,7 +48,8 @@ publish changes. No local script can stop the owner of a local clone from editin
 ## Import and provenance
 
 The initial SQLite upload was read as a standalone immutable snapshot and passed
-SQLite integrity_check. All 3,718 rows and original fields were retained. Original
+SQLite integrity_check. All 3,718 rows were retained. Weather fields (`wx_*`) were subsequently removed
+at the maintainer’s request; all other original fields are preserved. Original
 numeric IDs are in `legacy_id`; stable public IDs are `legacy-000001`, etc. New
 incidents use UUID v4 IDs. The generated SQLite `id` column is TEXT, with the
 original numeric ID available in `legacy_id`. SQL columns preserve original
@@ -61,8 +62,9 @@ is for standalone snapshots; export/checkpoint a live WAL database before import
 
 Dates, counties, outcomes, and source coverage are not uniformly complete or
 verified. County strings are preserved verbatim, including multi-county values.
-The weather lat/lon fields may be county-level estimates and are deliberately not
-plotted as rescue locations. Read source notes before interpreting statistics.
+Read source notes before interpreting statistics. Weather fields are excluded
+from canonical JSON, the website, new imports, and generated SQLite. The original
+upload and past Git revisions remain untouched.
 
 ## FAQ
 
@@ -107,7 +109,7 @@ This archive does not claim completeness or agency endorsement.
 ## Validation notes
 
 All original fields were compared with the supplied SQLite snapshot after import.
-The ingestion/search tests cover malformed input, batch preflight, duplicate IDs,
+The ingestion/search tests cover malformed input, batch preflight, duplicate IDs and content,
 pending exclusion, fuzzy search, combined filters and generated SQLite consistency.
 Production checks verify both routes, the search index, incident details and
 database downloads over HTTP. Browser interaction/visual testing was not run.
@@ -119,3 +121,38 @@ collection grows substantially (for example, beyond tens of thousands of rows),
 move search into a worker or server index instead of loading the full index into
 the main browser thread. Canonical incident files and the contribution flow can
 remain unchanged.
+
+## Finding duplicates
+
+```sh
+npm run data:duplicates                         # pending vs accepted + pending
+npm run data:duplicates -- --all --output work/duplicate-candidates.md
+```
+
+CI attaches a **Duplicate review** summary and full downloadable Markdown report
+on each check and promotion run. Every candidate has IDs, dates, places, source
+URLs and matching reasons. Identical pending content (excluding IDs and empty
+optional fields) blocks validation and promotion, including matches elsewhere
+in the pending batch. Similar descriptions, nearby dates, places, and shared
+source URLs are advisory review candidates; no records are automatically merged
+or deleted. Common source URLs (more than 10 records) are treated as collection
+reports and cannot alone trigger a match. Recognizable category, tag, pagination,
+and mission-summary URLs are also treated as collections. Different explicit
+mission numbers from the same agency suppress a fuzzy match. These heuristics
+trade some recall for fewer false alarms; they are not a proof of distinct events.
+Tracking parameters are stripped for
+comparison; article-identifying URL parameters remain intact.
+
+Different wording, inaccurate dates, and missing sources can hide duplicates;
+multiple incidents in one article can cause false positives. The default date
+window is ±3 days. Uncommon shared sources can also find date disagreements.
+Use the full archive scan for a cleanup audit; resolve a candidate by editing the
+existing record with its stable ID and adding sources, then removing a redundant
+pending submission. Historical accepted duplicates need an explicit reviewed
+correction; the tool never edits data.
+
+One file per incident trades a larger file count for independent diffs. Current
+year folders are small. If ingestion grows toward 100 incidents/day, introduce
+month or ID-prefix subfolders before any one directory becomes too wide. The
+website reads one generated search index and fetches details on demand; it does
+not make one request per repository file on page load.
