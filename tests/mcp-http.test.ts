@@ -103,12 +103,12 @@ test('Hosted MCP handles stateless HTTP clients, tools, concurrency and invalid 
     );
     const options = await fetch(url, {
       method: 'OPTIONS',
-      headers: { origin: 'https://accidents.typetwo.dev' },
+      headers: { origin: 'https://rescue.typetwo.dev' },
     });
     assert.equal(options.status, 204);
     assert.equal(
       options.headers.get('Access-Control-Allow-Origin'),
-      'https://accidents.typetwo.dev',
+      'https://rescue.typetwo.dev',
     );
   } finally {
     await client.close();

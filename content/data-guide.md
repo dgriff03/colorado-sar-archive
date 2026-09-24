@@ -1,6 +1,6 @@
 # Colorado SAR Archive data guide
 
-Canonical website: https://accidents.typetwo.dev/
+Canonical website: https://rescue.typetwo.dev/
 
 The archive contains reported Colorado search and rescue incidents. It is not a
 complete incident census, an emergency service, or a basis for comparing risk
@@ -10,7 +10,7 @@ without exposure and reporting data. Weather fields are intentionally excluded.
 
 The search index is `/data/incidents.json`. For full notes and fields, retrieve
 `/data/incidents/{id}.json` using an ID from that index. Human-readable incident
-links use `https://accidents.typetwo.dev/?incident={id}`. The same accepted data
+links use `https://rescue.typetwo.dev/?incident={id}`. The same accepted data
 is available in `/data/colorado-sar.db` in the `incidents` table.
 
 Imported IDs look like `legacy-000001`; new records use UUID v4 IDs. IDs remain

@@ -86,3 +86,6 @@ test-results/
 ._*
 Thumbs.db
 Desktop.ini
+
+/public/llms.txt
+/public/data-guide.md

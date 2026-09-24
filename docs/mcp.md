@@ -7,7 +7,7 @@ counts. No clone, local installation, API key, or archive account is required.
 **Server URL — Streamable HTTP:**
 
 ```text
-https://accidents.typetwo.dev/api/mcp
+https://rescue.typetwo.dev/api/mcp
 ```
 
 The server is public and read-only. It cannot add, edit, promote, or delete
@@ -18,7 +18,7 @@ incidents. This `/mcp/` page is the setup guide; use `/api/mcp` for the connecti
 Run:
 
 ```sh
-codex mcp add colorado-sar --url https://accidents.typetwo.dev/api/mcp
+codex mcp add colorado-sar --url https://rescue.typetwo.dev/api/mcp
 codex mcp list
 ```
 
@@ -28,7 +28,7 @@ Alternatively, replace its section in `~/.codex/config.toml` with:
 
 ```toml
 [mcp_servers.colorado-sar]
-url = "https://accidents.typetwo.dev/api/mcp"
+url = "https://rescue.typetwo.dev/api/mcp"
 ```
 
 Use one registration method. Start a new session or restart your client to load
@@ -39,7 +39,7 @@ restrict which servers are allowed. See the [official Codex MCP documentation](h
 
 1. Open **Customize → Connectors** (or **Settings → Connectors**, depending on your client).
 2. Choose **Add custom connector**, and name it **Colorado SAR Archive**.
-3. Paste `https://accidents.typetwo.dev/api/mcp` as the server URL.
+3. Paste `https://rescue.typetwo.dev/api/mcp` as the server URL.
 4. Leave OAuth client ID and secret empty, then add/connect it.
 5. Enable Colorado SAR Archive from the conversation's **+ → Connectors** menu.
 
@@ -84,7 +84,7 @@ query bodies or use Google Analytics. Do not submit private information.
 
 Opening the endpoint in a browser can return **405 Method Not Allowed**. That is
 expected: MCP clients send protocol requests using POST. Use the guide URL
-`https://accidents.typetwo.dev/mcp/` for a human-readable page. If a client
+`https://rescue.typetwo.dev/mcp/` for a human-readable page. If a client
 cannot connect, check the exact URL, remove an old local configuration, and retry.
 The service can take longer after inactivity or return errors under heavy load.
 

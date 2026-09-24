@@ -1,3 +1,4 @@
+import { siteDocumentation } from '@/lib/site';
 import type { Metadata } from 'next';
 import { readFileSync } from 'node:fs';
 import { join } from 'node:path';
@@ -10,7 +11,7 @@ export const metadata: Metadata = {
     'Connect to the hosted read-only Colorado SAR MCP server for incident search, source details and grouped counts.',
 };
 export default function MCPGuide() {
-  const guide = readFileSync(join(process.cwd(), 'docs/mcp.md'), 'utf8');
+  const guide = siteDocumentation(readFileSync(join(process.cwd(), 'docs/mcp.md'), 'utf8'));
   return (
     <>
       <Header active="mcp" />

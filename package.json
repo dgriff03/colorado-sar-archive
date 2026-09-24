@@ -23,8 +23,8 @@
     "postbuild": "python3 scripts/verify_export.py",
     "data:duplicates": "python3 scripts/data.py duplicates",
     "mcp": "node --experimental-strip-types mcp/server.ts",
-    "mcp:build": "npm run data:build && node scripts/build-mcp.mjs",
-    "docs:build": "node scripts/build-agent-docs.mjs"
+    "mcp:build": "npm run data:build && node --experimental-strip-types scripts/build-mcp.mjs",
+    "docs:build": "node --experimental-strip-types scripts/build-agent-docs.mjs"
   },
   "dependencies": {
     "@base-ui/react": "1.7.0",
