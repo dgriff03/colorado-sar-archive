@@ -146,30 +146,6 @@ export default function Home() {
       ].sort(),
     [records],
   );
-  const locations = useMemo(
-    () =>
-      [
-        ...new Set(
-          records
-            .flatMap((r) => [
-              r.location_group,
-              r.location,
-              r.peak,
-              r.place,
-              r.county,
-            ])
-            .filter(Boolean) as string[],
-        ),
-      ].sort(),
-    [records],
-  );
-  const suggestions = useMemo(
-    () =>
-      locations
-        .filter((x) => x.toLowerCase().includes(filters.location.toLowerCase()))
-        .slice(0, 30),
-    [locations, filters.location],
-  );
   const deferred = useDeferredValue(filters),
     search = useMemo(() => createSearch(records), [records]);
   const baseResults = useMemo(() => search(deferred), [search, deferred]);
@@ -357,20 +333,16 @@ export default function Home() {
                 <MapPin size={17} />
                 <input
                   id="location"
-                  list="locations"
+                  type="text"
+                  autoComplete="off"
                   maxLength={300}
                   value={filters.location}
                   onChange={(e) => update('location', e.target.value)}
                   placeholder="Peak, trail, or county"
                 />
               </div>
-              <datalist id="locations">
-                {suggestions.map((x) => (
-                  <option key={x} value={x} />
-                ))}
-              </datalist>
               <p className="field-hint">
-                Suggestions come from the archive. Mt / Mount are matched alike.
+                Search by peak, trail, or county. Mt / Mount are matched alike.
               </p>
               <Picker
                 title="Year"
