@@ -279,47 +279,6 @@ h1 {
   background: none;
   padding: 0;
 }
-.coverage {
-  border-top: 1px solid var(--border);
-  margin-top: 30px;
-  padding-top: 26px;
-}
-.coverage .eyebrow {
-  font-size: 10px;
-  letter-spacing: 1.2px;
-}
-.histogram {
-  height: 90px;
-  display: flex;
-  align-items: end;
-  gap: 4px;
-  padding-top: 12px;
-}
-.histogram button {
-  flex: 1;
-  background: #aac1c7;
-  border: 0;
-  min-width: 0;
-  border-radius: 2px 2px 0 0;
-}
-.histogram button:hover,
-.histogram button.chosen {
-  background: #b85b2b;
-}
-.axis {
-  display: flex;
-  justify-content: space-between;
-  font-size: 11px;
-  color: #708187;
-  border-top: 1px solid #aec2c7;
-  padding-top: 6px;
-}
-.coverage > p:last-child {
-  font-size: 12px;
-  line-height: 1.7;
-  color: #667a80;
-  margin-top: 16px;
-}
 .download {
   display: flex;
   gap: 11px;
@@ -808,7 +767,6 @@ dd {
     width: 100%;
   }
   .filter-title,
-  .coverage,
   .download,
   .field-hint {
     display: none;
@@ -1086,22 +1044,8 @@ body {
   background: #fffef9;
   border-color: #c4d1bf;
 }
-.field-hint,
-.coverage > p:last-child {
+.field-hint {
   color: #536b5b;
-}
-.coverage .eyebrow {
-  color: #49634e;
-}
-.histogram button {
-  background: #8fa88c;
-}
-.histogram button:hover,
-.histogram button.chosen {
-  background: #b77a34;
-}
-.axis {
-  border-color: #93a78a;
 }
 .download {
   background: #244b3c;

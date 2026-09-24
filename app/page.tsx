@@ -212,18 +212,6 @@ export default function Home() {
       ].sort(),
     [records],
   );
-  const countByYear = useMemo(
-    () =>
-      years
-        .slice()
-        .reverse()
-        .map((y) => ({
-          year: y,
-          count: records.filter((r) => r.date.startsWith(y)).length,
-        })),
-    [years, records],
-  );
-  const maxCount = Math.max(1, ...countByYear.map((y) => y.count));
   function update(key: keyof Filters, value: string) {
     navigate(
       {
@@ -554,36 +542,6 @@ export default function Home() {
                   <X size={14} /> Clear all filters
                 </button>
               )}
-              <div className="coverage">
-                <p className="eyebrow">THE RECORD OVER TIME</p>
-                <div
-                  className="histogram"
-                  aria-label="Recorded incidents by year"
-                >
-                  {countByYear.map((y) => (
-                    <button
-                      key={y.year}
-                      title={`${y.year}: ${y.count} incidents`}
-                      aria-label={`Filter to ${y.year}, ${y.count} incidents`}
-                      className={filters.year === y.year ? 'chosen' : ''}
-                      onClick={() =>
-                        update('year', filters.year === y.year ? 'all' : y.year)
-                      }
-                      style={{
-                        height: `${Math.max(4, (y.count / maxCount) * 78)}px`,
-                      }}
-                    />
-                  ))}
-                </div>
-                <div className="axis">
-                  <span>{years.at(-1)}</span>
-                  <span>{years[0]}</span>
-                </div>
-                <p>
-                  Counts reflect this collection, not all rescues. Coverage
-                  varies by year and agency.
-                </p>
-              </div>
               <a className="download" href="/data/colorado-sar.db" download>
                 <Download size={17} />
                 <span>
