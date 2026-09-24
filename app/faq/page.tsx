@@ -19,16 +19,12 @@ export default function FAQ() {
         <p className="lede">
           The context behind the records. This page is a work in progress.
         </p>
-        {faq.map((item) => (
+        {faq.filter((item) => (item.answer || '').trim()).map((item) => (
           <section className="faq-item" key={item.question}>
             <h2>{item.question}</h2>
-            {item.answer ? (
-              <div className="faq-answer">
-                <Markdown skipHtml>{item.answer}</Markdown>
-              </div>
-            ) : (
-              <p className="pending">Answer coming soon.</p>
-            )}
+            <div className="faq-answer">
+              <Markdown skipHtml>{item.answer}</Markdown>
+            </div>
           </section>
         ))}
         <section className="faq-item">

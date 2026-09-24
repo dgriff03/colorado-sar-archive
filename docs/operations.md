@@ -72,7 +72,7 @@ upload and past Git revisions remain untouched.
 
 Edit `content/faq.json`. Answers support standard Markdown: inline links, emphasis,
 lists, blockquotes, and code. Questions remain plain text. Set `answer` to null
-to show “Answer coming soon.” No CMS is involved. For example:
+to keep the question unpublished. No CMS is involved. For example:
 
 ```json
 {
