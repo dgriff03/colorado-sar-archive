@@ -24,6 +24,10 @@
     "answer": "Daniel ([@dgriff03](https://github.com/dgriff03)) maintains this independent archive. It is not an official SAR agency service. Contributions are reviewed through the public repository."
   },
   {
+    "question": "Who do I contact with questions?",
+    "answer": "Email Daniel at [dgriff@typetwo.dev](mailto:dgriff@typetwo.dev) with questions about the archive."
+  },
+  {
     "question": "Does this site use analytics?",
     "answer": "Google Analytics collection is currently paused while automatic URL tracking is disabled. The replacement configuration allows only coarse page names, without search queries, incident IDs, titles, hashes or referrers. It respects Do Not Track and Global Privacy Control. Search filters remain in shareable URLs, so avoid entering private information."
   },

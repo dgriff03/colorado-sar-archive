@@ -139,7 +139,7 @@ with `--only hosting`. Hosted MCP deployment details are in
 
 - **FAQ:** edit `content/faq.json`. Answers support Markdown links, lists,
   emphasis, and code; use `\n\n` inside JSON strings for paragraphs. A null
-  answer displays “Answer coming soon.” Rebuild/deploy to publish.
+  answer keeps that question unpublished. Rebuild/deploy to publish.
 - **Claude Desktop or Codex:** follow the [MCP setup guide](docs/mcp.md).
   The hosted, read-only server supports search, full details, and grouped counts.
   Connect by URL without installing anything; local/offline setup is optional.

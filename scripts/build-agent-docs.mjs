@@ -12,9 +12,10 @@ await writeFile(
   new URL('public/faq/index.md', root),
   '# Colorado SAR Archive FAQ\n\n' +
     faq
+      .filter((item) => item.answer.trim())
       .map(
         (item) =>
-          `## ${item.question}\n\n${item.answer || 'Answer coming soon.'}`,
+          `## ${item.question}\n\n${item.answer}`,
       )
       .join('\n\n') +
     '\n',
