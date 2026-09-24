@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import './globals.css';
+import { Analytics } from '@/components/analytics';
 export const metadata: Metadata = {
   title: 'Colorado SAR Archive — Search & Rescue Incidents',
   icons: { icon: '/favicon.svg' },
@@ -18,6 +19,7 @@ export default function RootLayout({
           Skip to content
         </a>
         {children}
+        <Analytics />
       </body>
     </html>
   );

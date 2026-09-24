@@ -168,3 +168,45 @@ year folders are small. If ingestion grows toward 100 incidents/day, introduce
 month or ID-prefix subfolders before any one directory becomes too wide. The
 website reads one generated search index and fetches details on demand; it does
 not make one request per repository file on page load.
+
+## Grouped exploration and sharing
+
+Use **Group & count** to group the filtered archive by location, outcome, county,
+incident type, or responding agency, with an optional second field. Counts sort
+descending. Clicking a group shows only its exact members (not substring matches).
+Case and surrounding whitespace are normalized; empty values form a “Not recorded”
+group. Place aliases are not automatically merged. Counts reflect this collection,
+not all incidents or geographic risk.
+
+Filters, selected group, view, pagination, and incident IDs are encoded in the URL.
+Opening an incident adds a history entry; Back closes it and restores the previous
+view, and Forward reopens it. Direct incident links work on Firebase without a
+server route. Closing a direct link returns to the archive instead of leaving the
+site. The incident panel includes **Copy incident link**.
+
+## Analytics
+
+The archive has its own GA4 property **555725939**, web stream **15837736850**, and
+measurement ID **G-2L4K7PT38M**, under the owner's existing Analytics account.
+[Open Analytics](https://analytics.google.com/analytics/web/#/p555725939/reports/intelligenthome).
+The public measurement configuration lives in `config/analytics.json`; it contains
+no secrets. No Firebase SDK credentials are needed in the website.
+
+The Google tag sends page views for page loads and browser history changes, including
+group and incident navigation and Back/Forward. Enhanced measurement was verified
+as enabled in the tag configuration. The application deliberately does not send
+manual `page_view` events as well, which would double-count them. URL filter changes
+also represent page views; reports can use “Page path + query string” to distinguish
+them. Reporting can be delayed, and blockers, Do Not Track, and Global Privacy
+Control can prevent collection. Localhost is excluded. Google signals, ad
+personalization, and enhanced conversions are disabled in the tag configuration.
+
+The code and configured Google tag were checked; real production visitor reports
+need to populate after deployment. Search URLs may include typed queries, so do
+not enter private information.
+
+## Landscape credit
+
+The header uses a public-domain National Park Service photo of Hallett Peak and
+Dream Lake, attributed to John Marino / NPS. Source and processing details are in
+`public/IMAGE-CREDITS.md`. The image is stored locally as an optimized WebP.
