@@ -93,3 +93,56 @@ test('unsupported agent browser is harmless', () =>
     registerArchiveTool(undefined, search, () => {}),
     undefined,
   ));
+
+import { displayValue } from '../lib/search.ts';
+test('notes, combined filters, multiple types, date range and location aliases', () => {
+  const dataset = [
+    {
+      ...records[0],
+      notes: 'Hypothermia treated with warming equipment',
+      location: 'Mount Elbert',
+      outcome: 'injury',
+      responding_agency: 'Lake County SAR',
+      setting: 'wilderness',
+      place_type: 'peak',
+    },
+    { ...records[1], outcome: 'rescued' },
+  ] as Incident[];
+  const run = createSearch(dataset);
+  assert.equal(run({ ...defaults, q: 'hypothermia' })[0].id, 'a');
+  assert.equal(
+    run({
+      ...defaults,
+      location: 'Mt. Elbert',
+      outcome: 'injury',
+      agency: 'LAKE',
+      type: 'fall,injury',
+      from: '2024-12-01',
+      to: '2025-02-01',
+      month: '01',
+      setting: 'wilderness',
+      placeType: 'peak',
+    }).length,
+    1,
+  );
+  assert.equal(
+    run({ ...defaults, from: '2026-01-01', to: '2025-01-01' }).length,
+    0,
+  );
+  assert.equal(run({ ...defaults, type: 'fall,avalanche' }).length, 0);
+  assert.equal(
+    run({ ...defaults, q: 'Hypothermia treated with warming equipment' })
+      .length,
+    1,
+  );
+  assert.equal(run({ ...defaults, q: 'x'.repeat(300) }).length, 0);
+});
+test('blank values are explicit and zero remains zero', () => {
+  assert.equal(displayValue('  '), 'Not recorded');
+  assert.equal(displayValue(null), 'Not recorded');
+  assert.equal(displayValue(0), '0');
+  assert.deepEqual(
+    sourceLinks('https://user:secret@example.com/a|https://example.com/report'),
+    ['https://example.com/report'],
+  );
+});

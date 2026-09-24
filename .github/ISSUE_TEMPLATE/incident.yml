@@ -1,0 +1,26 @@
+name: Incident correction or duplicate
+description: Report a factual correction, missing source, or duplicate record.
+title: "Data: "
+body:
+  - type: markdown
+    attributes:
+      value: "Please include public evidence only. Do not post private medical/contact information. For new entries, follow CONTRIBUTING.md."
+  - type: input
+    id: incident
+    attributes:
+      label: Incident ID or archive URL
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: What should change and why?
+      description: For duplicates, include both IDs. Distinguish confirmed facts from uncertainty.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Public supporting sources
+    validations:
+      required: true

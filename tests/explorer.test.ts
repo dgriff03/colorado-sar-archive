@@ -56,7 +56,19 @@ test('filters are applied before aggregation', () =>
 test('URL roundtrip preserves group, filters, page, and incident', () => {
   const state: ExplorerState = {
     ...initialExplorer,
-    filters: { ...initialExplorer.filters, q: 'climber', location: 'Longs' },
+    filters: {
+      ...initialExplorer.filters,
+      q: 'climber',
+      location: 'Longs',
+      agency: 'SAR',
+      outcome: 'injury',
+      type: 'fall,injury',
+      from: '2025-01-01',
+      to: '2026-01-01',
+      month: '01',
+      setting: 'wilderness',
+      placeType: 'peak',
+    },
     by: 'outcome',
     then: 'location',
     drill: [{ field: 'location', value: 'longs peak' }],

@@ -49,4 +49,18 @@ class DataTests(unittest.TestCase):
     def test_unknown_fields_rejected(self):
         self.write(self.record(private_email='not for publication'))
         with self.assertRaises(ValueError):data.read_records(self.root)
+    def test_domain_and_payload_validation(self):
+        for patch in [dict(date='2099-01-01'),dict(date='0001-01-01'),dict(incident_type='INJURY'),dict(county='Made Up'),dict(summary='x'*2001),dict(notes='x'*16001),dict(source_urls='https://user:password@example.org/report')]:
+            r=self.record();r.update(patch)
+            with self.subTest(patch=list(patch)), self.assertRaises(ValueError):
+                data.validate(r,Path(r['id']+'.json'),True)
+        r=self.record(county='Lake; Chaffee',incident_type='injury')
+        data.validate(r,Path(r['id']+'.json'),True)
+    def test_oversized_file_rejected_before_parsing(self):
+        r=self.record();p=self.write(r);p.write_text(' '*65537)
+        with self.assertRaisesRegex(ValueError,'64 KiB'): data.read_records(self.root)
+    def test_search_export_retains_context(self):
+        r=self.record(notes='hoist operation',victims=0,place_type='peak',setting='wilderness');self.write(r);data.promote(self.root);data.build(self.root)
+        index=json.loads((self.root/'public/data/incidents.json').read_text())[0]
+        for key in ['notes','victims','place_type','setting','source_urls']: self.assertEqual(index[key],r[key])
 if __name__=='__main__':unittest.main()

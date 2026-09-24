@@ -63,6 +63,8 @@ import { Skeleton } from '@/components/ui/skeleton';
 import type { Incident } from '@/lib/types';
 import {
   createSearch,
+  displayValue,
+  MAX_QUERY_LENGTH,
   defaults,
   label,
   formatDate,
@@ -108,6 +110,33 @@ export default function Home() {
   const [detail, setDetail] = useState<Incident | null>(null),
     [detailError, setDetailError] = useState(false);
   const [copyStatus, setCopyStatus] = useState('');
+  const [filtersOpen, setFiltersOpen] = useState(false);
+  const choices = (key: keyof Incident) =>
+    [
+      ...new Set(
+        records
+          .map((r) => r[key])
+          .filter((v) => typeof v === 'string' && v.trim()) as string[],
+      ),
+    ].sort();
+  const locations = useMemo(
+    () =>
+      [
+        ...new Set(
+          records
+            .flatMap((r) => [r.location, r.peak, r.place, r.county])
+            .filter(Boolean) as string[],
+        ),
+      ].sort(),
+    [records],
+  );
+  const suggestions = useMemo(
+    () =>
+      locations
+        .filter((x) => x.toLowerCase().includes(filters.location.toLowerCase()))
+        .slice(0, 30),
+    [locations, filters.location],
+  );
   const deferred = useDeferredValue(filters),
     search = useMemo(() => createSearch(records), [records]);
   const baseResults = useMemo(() => search(deferred), [search, deferred]);
@@ -174,7 +203,7 @@ export default function Home() {
         },
         page: 1,
       },
-      key === 'q' || key === 'location' ? 'replace' : 'push',
+      ['q', 'location', 'agency'].includes(key) ? 'replace' : 'push',
     );
   }
   function clear() {
@@ -241,11 +270,9 @@ export default function Home() {
       : `${view === 'groups' ? 'Group & count' : 'Explore incidents'} — Colorado SAR Archive`;
   }, [ready, selected, detail, view]);
   const active =
-    filters.q ||
-    filters.location ||
-    filters.year !== 'all' ||
-    filters.type !== 'all' ||
-    drill.length > 0;
+    Object.entries(filters).some(
+      ([k, v]) => k !== 'sort' && v !== defaults[k as keyof Filters],
+    ) || drill.length > 0;
   const pages = Math.max(
       1,
       Math.ceil((view === 'groups' ? groups.length : results.length) / 20),
@@ -281,103 +308,237 @@ export default function Home() {
           </div>
         </section>
         <div className="workspace">
-          <aside className="filters">
-            <div className="filter-title">
-              <SlidersHorizontal size={17} />
-              <h2>Refine the archive</h2>
-            </div>
-            <label className="field-label" htmlFor="location">
-              Location
-            </label>
-            <div className="input-wrap">
-              <MapPin size={17} />
-              <input
-                id="location"
-                value={filters.location}
-                onChange={(e) => update('location', e.target.value)}
-                placeholder="Peak, trail, or county"
-              />
-            </div>
-            <p className="field-hint">Search places and county names.</p>
-            <Picker
-              title="Year"
-              value={filters.year}
-              onChange={(v) => update('year', v)}
-              options={[
-                { value: 'all', label: 'All years' },
-                ...years.map((y) => ({ value: y, label: y })),
-              ]}
-            />
-            <Picker
-              title="Incident type"
-              value={filters.type}
-              onChange={(v) => update('type', v)}
-              options={[
-                { value: 'all', label: 'All incident types' },
-                ...types.map((t) => ({ value: t, label: label(t) })),
-              ]}
-            />
-            {active && (
-              <button className="clear-button" onClick={clear}>
-                <X size={14} /> Clear all filters
-              </button>
-            )}
-            <div className="coverage">
-              <p className="eyebrow">THE RECORD OVER TIME</p>
-              <div
-                className="histogram"
-                aria-label="Recorded incidents by year"
-              >
-                {countByYear.map((y) => (
-                  <button
-                    key={y.year}
-                    title={`${y.year}: ${y.count} incidents`}
-                    aria-label={`Filter to ${y.year}, ${y.count} incidents`}
-                    className={filters.year === y.year ? 'chosen' : ''}
-                    onClick={() =>
-                      update('year', filters.year === y.year ? 'all' : y.year)
-                    }
-                    style={{
-                      height: `${Math.max(4, (y.count / maxCount) * 78)}px`,
-                    }}
-                  />
+          <aside className={'filters ' + (filtersOpen ? 'filters-open' : '')}>
+            <button
+              className="mobile-filter-toggle"
+              aria-expanded={filtersOpen}
+              aria-controls="filter-controls"
+              onClick={() => setFiltersOpen(!filtersOpen)}
+            >
+              <SlidersHorizontal size={17} />{' '}
+              {filtersOpen ? 'Hide filters' : 'Show filters'}
+              {active ? ' · active' : ''}
+            </button>
+            <div id="filter-controls" className="filter-controls">
+              <div className="filter-title">
+                <SlidersHorizontal size={17} />
+                <h2>Refine the archive</h2>
+              </div>
+              <label className="field-label" htmlFor="location">
+                Location
+              </label>
+              <div className="input-wrap">
+                <MapPin size={17} />
+                <input
+                  id="location"
+                  list="locations"
+                  maxLength={300}
+                  value={filters.location}
+                  onChange={(e) => update('location', e.target.value)}
+                  placeholder="Peak, trail, or county"
+                />
+              </div>
+              <datalist id="locations">
+                {suggestions.map((x) => (
+                  <option key={x} value={x} />
                 ))}
-              </div>
-              <div className="axis">
-                <span>{years.at(-1)}</span>
-                <span>{years[0]}</span>
-              </div>
-              <p>
-                Counts reflect this collection, not all rescues. Coverage varies
-                by year and agency.
+              </datalist>
+              <p className="field-hint">
+                Suggestions come from the archive. Mt / Mount are matched alike.
               </p>
+              <Picker
+                title="Year"
+                value={filters.year}
+                onChange={(v) => update('year', v)}
+                options={[
+                  { value: 'all', label: 'All years' },
+                  ...years.map((y) => ({ value: y, label: y })),
+                ]}
+              />
+              <fieldset className="type-options">
+                <legend>Incident types · select any</legend>
+                {types.map((t) => (
+                  <label key={t}>
+                    <input
+                      type="checkbox"
+                      checked={
+                        filters.type !== 'all' &&
+                        filters.type.split(',').includes(t)
+                      }
+                      onChange={(e) => {
+                        const selected = new Set(
+                          filters.type === 'all' ? [] : filters.type.split(','),
+                        );
+                        if (e.target.checked) selected.add(t);
+                        else selected.delete(t);
+                        update('type', [...selected].sort().join(',') || 'all');
+                      }}
+                    />
+                    {label(t)}
+                  </label>
+                ))}
+                <p className="field-hint">No selection includes all types.</p>
+              </fieldset>
+              <Picker
+                title="Outcome"
+                value={filters.outcome}
+                onChange={(v) => update('outcome', v)}
+                options={[
+                  { value: 'all', label: 'All outcomes' },
+                  { value: '__missing__', label: 'Not recorded' },
+                  ...choices('outcome').map((v) => ({
+                    value: v,
+                    label: label(v),
+                  })),
+                ]}
+              />
+              <label className="field-label" htmlFor="agency">
+                Responding agency
+              </label>
+              <input
+                className="filter-input"
+                id="agency"
+                list="agencies"
+                maxLength={300}
+                value={filters.agency}
+                onChange={(e) => update('agency', e.target.value)}
+                placeholder="Agency or SAR team"
+              />
+              <datalist id="agencies">
+                {choices('responding_agency').map((v) => (
+                  <option key={v} value={v} />
+                ))}
+              </datalist>
+              <div className="date-filters">
+                <label>
+                  From
+                  <input
+                    type="date"
+                    value={filters.from}
+                    onChange={(e) => update('from', e.target.value)}
+                  />
+                </label>
+                <label>
+                  Through
+                  <input
+                    type="date"
+                    value={filters.to}
+                    onChange={(e) => update('to', e.target.value)}
+                  />
+                </label>
+              </div>
+              {filters.from && filters.to && filters.from > filters.to && (
+                <p role="alert" className="field-hint">
+                  Start date must be on or before the end date.
+                </p>
+              )}
+              <Picker
+                title="Month"
+                value={filters.month}
+                onChange={(v) => update('month', v)}
+                options={[
+                  { value: 'all', label: 'All months' },
+                  ...Array.from({ length: 12 }, (_, i) => ({
+                    value: String(i + 1).padStart(2, '0'),
+                    label: new Date(2000, i, 1).toLocaleString('en-US', {
+                      month: 'long',
+                    }),
+                  })),
+                ]}
+              />
+              <p className="field-hint">
+                Dates, year and month filters intersect. Use a date range for a
+                season spanning two years.
+              </p>
+              <Picker
+                title="Setting"
+                value={filters.setting}
+                onChange={(v) => update('setting', v)}
+                options={[
+                  { value: 'all', label: 'All settings' },
+                  ...choices('setting').map((v) => ({
+                    value: v,
+                    label: label(v),
+                  })),
+                ]}
+              />
+              <Picker
+                title="Place type"
+                value={filters.placeType}
+                onChange={(v) => update('placeType', v)}
+                options={[
+                  { value: 'all', label: 'All place types' },
+                  ...choices('place_type').map((v) => ({
+                    value: v,
+                    label: label(v),
+                  })),
+                ]}
+              />
+              {active && (
+                <button className="clear-button" onClick={clear}>
+                  <X size={14} /> Clear all filters
+                </button>
+              )}
+              <div className="coverage">
+                <p className="eyebrow">THE RECORD OVER TIME</p>
+                <div
+                  className="histogram"
+                  aria-label="Recorded incidents by year"
+                >
+                  {countByYear.map((y) => (
+                    <button
+                      key={y.year}
+                      title={`${y.year}: ${y.count} incidents`}
+                      aria-label={`Filter to ${y.year}, ${y.count} incidents`}
+                      className={filters.year === y.year ? 'chosen' : ''}
+                      onClick={() =>
+                        update('year', filters.year === y.year ? 'all' : y.year)
+                      }
+                      style={{
+                        height: `${Math.max(4, (y.count / maxCount) * 78)}px`,
+                      }}
+                    />
+                  ))}
+                </div>
+                <div className="axis">
+                  <span>{years.at(-1)}</span>
+                  <span>{years[0]}</span>
+                </div>
+                <p>
+                  Counts reflect this collection, not all rescues. Coverage
+                  varies by year and agency.
+                </p>
+              </div>
+              <a className="download" href="/data/colorado-sar.db" download>
+                <Download size={17} />
+                <span>
+                  Download SQLite<small>Full archive · open format</small>
+                </span>
+                <ArrowUpRight size={16} />
+              </a>
             </div>
-            <a className="download" href="/data/colorado-sar.db" download>
-              <Download size={17} />
-              <span>
-                Download SQLite<small>Full archive · open format</small>
-              </span>
-              <ArrowUpRight size={16} />
-            </a>
           </aside>
           <section className="results" aria-label="Incident search">
             <div className="searchbar">
               <Search size={21} />
               <input
-                aria-label="Search incident titles"
-                placeholder="Search incident titles…"
+                aria-label="Search titles and notes"
+                placeholder="Search titles and notes…"
+                maxLength={MAX_QUERY_LENGTH}
                 value={filters.q}
                 onChange={(e) => update('q', e.target.value)}
               />
               {filters.q && (
                 <button
-                  aria-label="Clear title search"
+                  aria-label="Clear search"
                   onClick={() => update('q', '')}
                 >
                   <X size={17} />
                 </button>
               )}
-              <span className="fuzzy-label">FUZZY SEARCH</span>
+              <span className="fuzzy-label">
+                {filters.q.trim().length > 32 ? 'ALL WORDS' : 'FUZZY SEARCH'}
+              </span>
             </div>
             <Tabs
               value={view}
@@ -443,9 +604,11 @@ export default function Home() {
                       ]}
                     />
                     <p>
-                      Counts use the current filters.
+                      Counts reflect uneven source coverage, not geographic
+                      risk.
                       <br />
-                      Click a group to see its incidents.
+                      More records do not mean a place is more dangerous. Click
+                      a group to inspect its records.
                     </p>
                   </div>
                 )}
@@ -671,6 +834,15 @@ export default function Home() {
                             >
                               {r.summary}
                             </a>
+                            <div className="incident-context">
+                              <span>Outcome: {label(r.outcome)}</span>
+                              <span>
+                                People involved: {displayValue(r.victims)}
+                              </span>
+                              <span>
+                                Agency: {displayValue(r.responding_agency)}
+                              </span>
+                            </div>
                             <div className="incident-location">
                               <MapPin size={14} />
                               <span>
@@ -764,6 +936,33 @@ export default function Home() {
           {detail ? (
             <div className="detail-body">
               <h2>{detail.summary}</h2>
+              {(detail.location || detail.place || detail.peak) && (
+                <p>
+                  <a
+                    className="map-search-link"
+                    href={
+                      'https://www.google.com/maps/search/?api=1&query=' +
+                      encodeURIComponent(
+                        [
+                          detail.location || detail.place || detail.peak,
+                          detail.county,
+                          'Colorado',
+                        ]
+                          .filter(Boolean)
+                          .join(', '),
+                      )
+                    }
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Find reported place on a map{' '}
+                    <ExternalLink size={14} className="inline" />
+                  </a>
+                  <small className="field-hint">
+                    Place-name search only; not a verified incident coordinate.
+                  </small>
+                </p>
+              )}
               <dl className="detail-grid">
                 {[
                   ['Location', detail.location],
@@ -775,10 +974,12 @@ export default function Home() {
                   ['Place', detail.place],
                   ['Peak', detail.peak],
                   ['Setting', detail.setting],
+                  ['Place type', detail.place_type],
+                  ['Source detail score', detail.detail_score],
                 ].map(([k, v]) => (
                   <div key={k as string}>
                     <dt>{k}</dt>
-                    <dd>{v ?? 'Not recorded'}</dd>
+                    <dd>{displayValue(v)}</dd>
                   </div>
                 ))}
               </dl>
@@ -799,7 +1000,7 @@ export default function Home() {
                       key={i}
                       href={url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="noopener noreferrer nofollow ugc"
                     >
                       <span>
                         {new URL(url).hostname}

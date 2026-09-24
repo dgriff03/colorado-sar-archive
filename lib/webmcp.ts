@@ -1,4 +1,4 @@
-import { defaults, type Filters } from './search.ts';
+import { defaults, MAX_QUERY_LENGTH, type Filters } from './search.ts';
 import type { Incident } from './types';
 type Context = {
   registerTool: (
@@ -27,12 +27,12 @@ export function registerArchiveTool(
           name: 'search_sar_archive',
           title: 'Search Colorado SAR incidents',
           description:
-            'Search the public archive by fuzzy incident title and location. Updates the visible search and returns the first 20 matches.',
+            'Search the public archive by incident titles/notes and location. Updates the visible search and returns the first 20 matches.',
           inputSchema: {
             type: 'object',
             properties: {
-              title: { type: 'string' },
-              location: { type: 'string' },
+              title: { type: 'string', maxLength: MAX_QUERY_LENGTH },
+              location: { type: 'string', maxLength: 300 },
             },
             additionalProperties: false,
           },
@@ -48,6 +48,11 @@ export function registerArchiveTool(
               Object.values(params).some((v) => typeof v !== 'string')
             )
               throw new Error('Only string title and location are supported');
+            if (
+              ((params.title as string) || '').length > MAX_QUERY_LENGTH ||
+              ((params.location as string) || '').length > 300
+            )
+              throw new Error('Search input too long');
             const filters = {
               ...defaults,
               q: (params.title as string) || '',

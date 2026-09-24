@@ -75,11 +75,11 @@ for configuration locations and troubleshooting on your operating system.
 - “Find reports with a title similar to ‘injured hiker’. Read the full notes for the first match.”
 - “Group the archive by outcome and location. Show the ten largest groups and explain the coverage limitations.”
 
-- **`search_incidents`** returns fuzzy title matches; location, year, incident type
+- **`search_incidents`** returns title and notes matches; location, year, incident type
   and outcome filters; total count, paginated results, source links and incident URLs.
 - **`get_incident`** returns a complete record by stable ID, including notes and source URLs.
 - **`group_incidents`** returns descending counts by one or two fields: location,
-  outcome, county, incident type or responding agency. Supports the same filters.
+  outcome, county, incident type, responding agency, setting or place type. Supports the same filters.
 
 Search and grouping accept `limit` (1–100, default 20) and `offset` (default 0).
 Use the returned `next_offset` to continue. Outcome matches are exact ignoring
@@ -111,3 +111,12 @@ The provided direct Node command works regardless of the client's working direct
 The server itself does not send telemetry or fetch source pages. Results supplied
 to your assistant are handled under that assistant's settings and policies.
 Archive coverage is incomplete; counts do not measure all rescues or risk.
+
+## Search details
+
+Queries are limited to 120 characters. Up to 32 characters use fuzzy matching;
+longer queries require all words literally. Filters also accept agency, inclusive
+`from`/`to` dates (YYYY-MM-DD), `month` (1–12), `setting`, `place_type`, and
+comma-separated `incident_type` values (OR). Other filters intersect. Recorded
+outcomes are preserved as reported, not merged into inferred categories.
+Hosted requests may return 429 with Retry-After during bursts; wait before retrying.

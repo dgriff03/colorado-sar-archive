@@ -5,7 +5,12 @@ import sys
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from duplicates import ensure_no_identical_submissions, find_candidates, markdown_report
 ROOT = Path(__file__).resolve().parents[1]
+COUNTIES = set(json.loads((ROOT/'config/counties.json').read_text())['counties'])
 TEXT_FIELDS = ['date','summary','location','county','incident_type','outcome','responding_agency','source_urls','notes','peak','setting','place','place_type']
+MAX_RECORD_BYTES = 64 * 1024
+TEXT_LIMITS = {key: 500 for key in TEXT_FIELDS}
+TEXT_LIMITS.update(summary=2000, notes=16000, source_urls=8192, responding_agency=1000, date=10)
+INCIDENT_TYPES = {'lost/stranded','injury','fall','medical','avalanche','vehicle','rockfall','animal','lightning','assist','other'}
 NUMBER_FIELDS = []
 FIELDS = ['id','legacy_id'] + TEXT_FIELDS + ['victims','detail_score'] + NUMBER_FIELDS
 
@@ -18,11 +23,24 @@ def validate(record, path, pending=False):
     if pending and (ident.startswith('legacy-') or 'legacy_id' in record): raise ValueError(f'{path}: legacy IDs reserved for initial import')
     date = record.get('date','')
     if not isinstance(date,str) or not re.fullmatch(r'\d{4}-\d{2}-\d{2}',date): raise ValueError(f'{path}: ISO date required')
-    datetime.date.fromisoformat(date)
+    parsed_date = datetime.date.fromisoformat(date)
+    if not ident.startswith('legacy-') and not datetime.date(1900,1,1) <= parsed_date <= datetime.date.today():
+        raise ValueError(f'{path}: incident date must be between 1900-01-01 and today')
+    if not ident.startswith('legacy-') and record.get('incident_type') not in INCIDENT_TYPES | {None}:
+        raise ValueError(f'{path}: incident_type must use a documented category or null')
     for key in (['summary','location','source_urls'] if pending or not ident.startswith('legacy-') else ['summary']):
         if not isinstance(record.get(key),str) or not record[key].strip(): raise ValueError(f'{path}: {key} required')
     for key in TEXT_FIELDS:
         if record.get(key) is not None and not isinstance(record[key],str): raise ValueError(f'{path}: {key} must be text or null')
+    for key, limit in TEXT_LIMITS.items():
+        if isinstance(record.get(key), str) and len(record[key]) > limit:
+            raise ValueError(f'{path}: {key} exceeds {limit} characters')
+    if isinstance(record.get('detail_score'), str) and len(record['detail_score']) > 100:
+        raise ValueError(f'{path}: detail_score exceeds 100 characters')
+    if not ident.startswith('legacy-') and record.get('county') is not None:
+        counties = [part.strip() for part in record['county'].split(';')]
+        if not counties or any(c not in COUNTIES for c in counties):
+            raise ValueError(f'{path}: county must use Colorado county names separated by semicolons, or null')
     for key in NUMBER_FIELDS + ['victims','legacy_id']:
         value=record.get(key)
         if value is not None and (isinstance(value,bool) or not isinstance(value,(float,int)) or not math.isfinite(value)): raise ValueError(f'{path}: invalid {key}')
@@ -30,11 +48,11 @@ def validate(record, path, pending=False):
         value=record.get(key)
         if value is not None and (not isinstance(value,int) or value<0): raise ValueError(f'{path}: {key} must be a nonnegative integer')
     if record.get('detail_score') is not None and (isinstance(record['detail_score'],bool) or not isinstance(record['detail_score'],(str,int,float)) or (isinstance(record['detail_score'],float) and not math.isfinite(record['detail_score']))): raise ValueError(f'{path}: invalid detail_score')
-    if pending:
+    if pending or not ident.startswith('legacy-'):
         from urllib.parse import urlparse
         for url in record['source_urls'].split('|'):
             parsed=urlparse(url.strip())
-            if parsed.scheme not in ('https','http') or not parsed.netloc: raise ValueError(f'{path}: source must be an HTTP(S) URL')
+            if parsed.scheme not in ('https','http') or not parsed.hostname or parsed.username or parsed.password: raise ValueError(f'{path}: source must be an HTTP(S) URL')
     return record
 
 def read_records(root, include_pending=True, check_identical=True):
@@ -44,6 +62,7 @@ def read_records(root, include_pending=True, check_identical=True):
     for directory,items,is_pending in groups:
         for path in sorted(directory.rglob('*.json')):
             if path.is_symlink(): raise ValueError(f'{path}: symlinks not allowed')
+            if path.stat().st_size > MAX_RECORD_BYTES: raise ValueError(f'{path}: record exceeds 64 KiB')
             record=validate(json.loads(path.read_text()),path,is_pending)
             if not is_pending and path.parent.name != record['date'][:4]: raise ValueError(f'{path}: wrong year directory')
             if record['id'] in seen: raise ValueError(f'{path}: duplicate ID')
@@ -74,7 +93,7 @@ def build(root):
     for old in details.glob('*.json'):
         if old.name not in keep: old.unlink()
     index=[]
-    index_fields=['id','date','summary','location','county','incident_type','outcome','responding_agency','place','peak']
+    index_fields=['id','date','summary','location','county','incident_type','outcome','responding_agency','place','peak','notes','source_urls','victims','setting','place_type']
     for record in records:
         (details/(record['id']+'.json')).write_text(json.dumps(record,ensure_ascii=False,separators=(',',':'))+'\n')
         index.append({k:record.get(k) for k in index_fields})
