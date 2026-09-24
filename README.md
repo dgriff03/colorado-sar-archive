@@ -67,6 +67,7 @@ reference](docs/operations.md) for import provenance and schema caveats.
 
 ```sh
 npm ci
+npm ci --prefix functions
 npm run dev
 ```
 
@@ -82,17 +83,19 @@ npm run build
 
 The deployable static website is in **`dist/client/`**, including the SQLite
 download, search index, and incident details. Search runs in the browser; no
-application server or paid database is required. `npm run build` also checks
+application server or paid database is required for browsing. The optional hosted
+MCP uses a Firebase Cloud Function. `npm run build` also checks
 that all website routes and data files were exported successfully.
 
 To deploy **your own copy**, create a Firebase project with Hosting, install the
-Firebase CLI, then use your project ID explicitly:
+Firebase CLI, enable the Blaze plan for the hosted MCP, then use your project ID explicitly:
 
 ```sh
 npm install -g firebase-tools
 firebase login
 npm run build
-firebase deploy --only hosting --project YOUR_FIREBASE_PROJECT_ID
+npm ci --prefix functions
+firebase deploy --only functions:sar-mcp,hosting --project YOUR_FIREBASE_PROJECT_ID
 ```
 
 The checked-in `.firebaserc` points to the original archive. Do not use the
@@ -100,7 +103,10 @@ maintainer's `npm run deploy` shortcut for your fork until you change that
 project mapping. Add a custom domain in your Firebase Hosting console.
 For your own copy, replace `config/analytics.json` with your own GA measurement
 configuration, or remove `<Analytics />` and its import in `app/layout.tsx`.
-Replace archive/repository links when branding a fork.
+Replace archive/repository links and MCP URLs when branding a fork. For a static-only
+copy on Firebase Spark, remove the MCP rewrites from `firebase.json` and deploy
+with `--only hosting`. Hosted MCP deployment details are in
+[docs/hosting-mcp.md](docs/hosting-mcp.md).
 
 ### Edit content or connect an assistant
 
@@ -108,8 +114,8 @@ Replace archive/repository links when branding a fork.
   emphasis, and code; use `\n\n` inside JSON strings for paragraphs. A null
   answer displays “Answer coming soon.” Rebuild/deploy to publish.
 - **Claude Desktop or Codex:** follow the [MCP setup guide](docs/mcp.md).
-  The local, read-only server supports search, full details, and grouped counts.
-  It needs no API key and does not run on Firebase Hosting.
+  The hosted, read-only server supports search, full details, and grouped counts.
+  Connect by URL without installing anything; local/offline setup is optional.
 - **Maintainer reference:** [operations, analytics, provenance, and
   permissions](docs/operations.md). [Landscape credit](public/IMAGE-CREDITS.md).
 

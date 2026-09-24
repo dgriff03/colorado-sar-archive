@@ -66,7 +66,7 @@ merge the promotion into the protected main branch. A single promotion branch
 prevents overlapping batches; merge or close it and delete the branch before
 starting another batch.
 
-Website deployment is separate and owner-operated: pull latest main, `npm ci`,
+Website deployment is separate and owner-operated: pull latest main, `npm ci`, `npm ci --prefix functions`,
 then `npm run deploy`. GitHub Actions contains no Firebase credential. A commit
 created with GITHUB_TOKEN does not automatically start another workflow; this is
 why promotion explicitly dispatches the check workflow on the promotion branch.

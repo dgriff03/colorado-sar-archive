@@ -93,7 +93,8 @@ firebase login
 npm run deploy
 ```
 
-Deployment rebuilds the accepted data and site, then deploys Hosting only.
+Deployment rebuilds the accepted data, site and MCP package, then deploys Hosting
+and the read-only MCP Cloud Function. See [hosted MCP operations](hosting-mcp.md).
 In the [Firebase Hosting console](https://console.firebase.google.com/project/colorado-sar-archive/hosting),
 choose **Add custom domain** and follow the ownership/DNS steps. No code change is
 required for a domain. [Firebase Hosting documentation](https://firebase.google.com/docs/hosting).

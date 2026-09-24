@@ -1,7 +1,11 @@
 {
   "hosting": {
     "public": "dist/client",
-    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
     "cleanUrls": true,
     "trailingSlash": true,
     "headers": [
@@ -40,6 +44,36 @@
           }
         ]
       }
+    ],
+    "rewrites": [
+      {
+        "source": "/api/mcp",
+        "function": {
+          "functionId": "sarMcp",
+          "region": "us-central1"
+        }
+      },
+      {
+        "source": "/api/mcp/**",
+        "function": {
+          "functionId": "sarMcp",
+          "region": "us-central1"
+        }
+      }
     ]
-  }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "sar-mcp",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "index.ts"
+      ],
+      "predeploy": [
+        "npm run mcp:build"
+      ]
+    }
+  ]
 }
