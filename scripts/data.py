@@ -3,6 +3,7 @@ import argparse, datetime, json, math, os, re, sqlite3, tempfile, uuid
 from pathlib import Path
 import sys
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+from locations import location_group
 from duplicates import ensure_no_identical_submissions, find_candidates, markdown_report
 ROOT = Path(__file__).resolve().parents[1]
 COUNTIES = set(json.loads((ROOT/'config/counties.json').read_text())['counties'])
@@ -87,13 +88,14 @@ def promote(root):
 def build(root):
     accepted,_=read_records(root)
     records=sorted((r for _,r in accepted),key=lambda r:(r['date'],r['id']),reverse=True)
+    records=[dict(r, location_group=location_group(r)) for r in records]
     out=root/'public/data'; out.mkdir(parents=True,exist_ok=True)
     details=out/'incidents'; details.mkdir(exist_ok=True)
     keep={r['id']+'.json' for r in records}
     for old in details.glob('*.json'):
         if old.name not in keep: old.unlink()
     index=[]
-    index_fields=['id','date','summary','location','county','incident_type','outcome','responding_agency','place','peak','notes','source_urls','victims','setting','place_type']
+    index_fields=['id','date','summary','location','county','incident_type','outcome','responding_agency','place','peak','notes','source_urls','victims','setting','place_type','location_group']
     for record in records:
         (details/(record['id']+'.json')).write_text(json.dumps(record,ensure_ascii=False,separators=(',',':'))+'\n')
         index.append({k:record.get(k) for k in index_fields})
@@ -102,8 +104,10 @@ def build(root):
     try:
         db=sqlite3.connect(tmp)
         cols=['id TEXT PRIMARY KEY','legacy_id INTEGER']+[f'{k} TEXT' for k in TEXT_FIELDS]+['victims INTEGER','detail_score']+[f'{k} REAL' for k in NUMBER_FIELDS]
+        cols += ['location_group TEXT']
+        export_fields = FIELDS + ['location_group']
         db.execute('CREATE TABLE incidents ('+','.join(cols)+')')
-        db.executemany('INSERT INTO incidents VALUES ('+','.join('?' for _ in FIELDS)+')',[[r.get(k) for k in FIELDS] for r in records])
+        db.executemany('INSERT INTO incidents VALUES ('+','.join('?' for _ in export_fields)+')',[[r.get(k) for k in export_fields] for r in records])
         db.execute('CREATE INDEX idx_incidents_date ON incidents(date)'); db.execute('CREATE INDEX idx_incidents_county ON incidents(county)')
         db.commit(); db.close(); os.replace(tmp,out/'colorado-sar.db')
     finally:

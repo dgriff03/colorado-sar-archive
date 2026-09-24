@@ -33,6 +33,9 @@ export const normalizePlace = (s: string) =>
   s
     .toLocaleLowerCase()
     .replace(/\bmt\.?\s+/g, 'mount ')
+    .replace(/\bsaint\b/g, 'st')
+    .replace(/[.’']/g, '')
+    .replace(/\bberistdat\b/g, 'bierstadt')
     .replace(/\s+/g, ' ')
     .trim();
 export function displayValue(value: unknown) {
@@ -57,7 +60,7 @@ export function createSearch(records: Incident[]) {
     const types = filters.type === 'all' ? [] : filters.type.split(',');
     const matchesFilters = (r: Incident) =>
       (!location ||
-        [r.location, r.county, r.place, r.peak].some(
+        [r.location, r.location_group, r.county, r.place, r.peak].some(
           (s) => s && normalizePlace(s).includes(location),
         )) &&
       (!agency || r.responding_agency?.toLocaleLowerCase().includes(agency)) &&

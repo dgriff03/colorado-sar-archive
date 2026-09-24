@@ -39,7 +39,7 @@ export function createArchiveServer(
       .string()
       .max(300)
       .optional()
-      .describe('Substring in location, county, place or peak'),
+      .describe('Substring in reported location, normalized location group, county, place or peak'),
     year: z.number().int().min(1900).max(2200).optional(),
     incident_type: z
       .string()
@@ -178,7 +178,7 @@ export function createArchiveServer(
     'group_incidents',
     {
       description:
-        'Count filtered incidents by one or two dimensions, descending by count. Counts describe archive records, not risk. Blank values group together; place aliases are not merged.',
+        'Count filtered incidents by one or two dimensions, descending by count. Counts describe archive records, not risk. Blank values group together; location uses reviewed county-scoped area groups, falling back to reported location.',
       inputSchema: {
         ...filters,
         ...paging,

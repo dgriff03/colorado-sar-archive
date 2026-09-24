@@ -2,7 +2,9 @@
 
 Explore Colorado search and rescue reports by location, title and notes search, year,
 and incident type—or group records by outcome, location, county, and agency.
-Incidents and filtered views have shareable links.
+Incidents and filtered views have shareable links. Location counts consolidate
+reviewed aliases into browsing areas while preserving reported locations.
+See [location curation](docs/locations.md) to extend the mappings.
 
 [Explore the website](https://rescue.typetwo.dev/) ·
 [Download SQLite](https://rescue.typetwo.dev/data/colorado-sar.db) ·

@@ -124,7 +124,7 @@ export default function Home() {
       [
         ...new Set(
           records
-            .flatMap((r) => [r.location, r.peak, r.place, r.county])
+            .flatMap((r) => [r.location_group, r.location, r.peak, r.place, r.county])
             .filter(Boolean) as string[],
         ),
       ].sort(),
@@ -965,7 +965,8 @@ export default function Home() {
               )}
               <dl className="detail-grid">
                 {[
-                  ['Location', detail.location],
+                  ['Reported location', detail.location],
+                  ['Location group', detail.location_group],
                   ['County', detail.county],
                   ['Incident type', label(detail.incident_type)],
                   ['Recorded outcome', label(detail.outcome)],
