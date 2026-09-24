@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import Markdown from 'react-markdown';
 import { ArrowLeft, ArrowUpRight } from 'lucide-react';
 import { Header } from '@/components/header';
 import faq from '@/content/faq.json';
@@ -20,9 +21,13 @@ export default function FAQ() {
         {faq.map((item) => (
           <section className="faq-item" key={item.question}>
             <h2>{item.question}</h2>
-            <p className={item.answer ? '' : 'pending'}>
-              {item.answer || 'Answer coming soon.'}
-            </p>
+            {item.answer ? (
+              <div className="faq-answer">
+                <Markdown skipHtml>{item.answer}</Markdown>
+              </div>
+            ) : (
+              <p className="pending">Answer coming soon.</p>
+            )}
           </section>
         ))}
         <section className="faq-item">

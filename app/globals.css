@@ -901,3 +901,54 @@ dd {
     animation: none !important;
   }
 }
+
+.faq-answer {
+  color: #627880;
+  line-height: 1.8;
+  overflow-wrap: anywhere;
+}
+.faq-answer > * + * {
+  margin-top: 1rem;
+}
+.faq-answer a {
+  color: #155e6b;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.faq-answer a:hover {
+  color: #ad5125;
+}
+.faq-answer ul {
+  list-style: disc;
+  padding-left: 1.5rem;
+}
+.faq-answer ol {
+  list-style: decimal;
+  padding-left: 1.5rem;
+}
+.faq-answer li + li {
+  margin-top: 0.35rem;
+}
+.faq-answer strong {
+  font-weight: 700;
+}
+.faq-answer blockquote {
+  border-left: 3px solid #aac1c7;
+  padding-left: 1rem;
+}
+.faq-answer pre {
+  overflow-x: auto;
+  padding: 1rem;
+  background: #edf3f4;
+  border-radius: 5px;
+}
+.faq-answer code {
+  font-size: 0.9em;
+  background: #edf3f4;
+  padding: 0.1em 0.25em;
+  border-radius: 3px;
+}
+.faq-answer img {
+  max-width: 100%;
+  height: auto;
+}
