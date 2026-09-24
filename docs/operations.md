@@ -3,7 +3,7 @@
 
 A public, searchable archive of Colorado search and rescue incidents.
 
-**Website:** https://colorado-sar-archive.web.app  
+**Website:** https://accidents.typetwo.dev
 **Initial dataset:** 3,718 records, January 1, 2010–September 21, 2026.
 
 Search by place, peak, trail, or county; use typo-tolerant title search; filter by

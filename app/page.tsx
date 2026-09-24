@@ -1,4 +1,5 @@
 'use client';
+import { SITE_URL } from '@/lib/site';
 import { useEffect, useMemo, useState, useDeferredValue } from 'react';
 import {
   ArrowRight,
@@ -128,7 +129,9 @@ export default function Home() {
   const setPage = (value: number) => navigate({ page: value });
   async function copyIncident() {
     try {
-      await navigator.clipboard.writeText(location.href);
+      await navigator.clipboard.writeText(
+        new URL(location.pathname + location.search, SITE_URL).href,
+      );
       setCopyStatus('Copied');
     } catch {
       setCopyStatus('Copy the URL from your address bar');

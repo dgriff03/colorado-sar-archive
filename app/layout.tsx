@@ -1,7 +1,10 @@
+import { SITE_URL } from '@/lib/site';
 import type { Metadata } from 'next';
 import './globals.css';
 import { Analytics } from '@/components/analytics';
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
+  alternates: { canonical: '/' },
   title: 'Colorado SAR Archive — Search & Rescue Incidents',
   icons: { icon: '/favicon.svg' },
   description:

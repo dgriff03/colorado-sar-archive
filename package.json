@@ -15,15 +15,16 @@
     "data:build": "python3 scripts/data.py build",
     "data:new": "python3 scripts/data.py new",
     "data:promote": "python3 scripts/data.py promote",
-    "predev": "npm run data:build",
-    "prebuild": "npm run data:build",
+    "predev": "npm run data:build && npm run docs:build",
+    "prebuild": "npm run data:build && npm run docs:build",
     "test": "python3 -m unittest discover -s tests && node --experimental-strip-types --test tests/*.test.ts",
     "typecheck": "tsc --noEmit",
     "deploy": "npm run build && firebase deploy --only functions:sar-mcp,hosting",
     "postbuild": "python3 scripts/verify_export.py",
     "data:duplicates": "python3 scripts/data.py duplicates",
     "mcp": "node --experimental-strip-types mcp/server.ts",
-    "mcp:build": "npm run data:build && node scripts/build-mcp.mjs"
+    "mcp:build": "npm run data:build && node scripts/build-mcp.mjs",
+    "docs:build": "node scripts/build-agent-docs.mjs"
   },
   "dependencies": {
     "@base-ui/react": "1.7.0",

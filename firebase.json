@@ -23,6 +23,10 @@
           {
             "key": "X-Frame-Options",
             "value": "DENY"
+          },
+          {
+            "key": "Link",
+            "value": "</llms.txt>; rel=\"describedby\""
           }
         ]
       },
@@ -41,6 +45,15 @@
           {
             "key": "Cache-Control",
             "value": "public, max-age=31536000, immutable"
+          }
+        ]
+      },
+      {
+        "source": "**/*.md",
+        "headers": [
+          {
+            "key": "Content-Type",
+            "value": "text/markdown; charset=utf-8"
           }
         ]
       }

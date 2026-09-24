@@ -1,3 +1,4 @@
+import { SITE_URL } from '../lib/site.ts';
 import { McpServer } from '@modelcontextprotocol/sdk/server/mcp.js';
 import { z } from 'zod';
 import { createSearch, defaults, sourceLinks } from '../lib/search.ts';
@@ -94,7 +95,7 @@ export function createArchiveServer(
           .map((r) => ({
             ...r,
             sources: sourceLinks(r.source_urls),
-            url: `https://colorado-sar-archive.web.app/?incident=${encodeURIComponent(r.id)}`,
+            url: `${SITE_URL}/?incident=${encodeURIComponent(r.id)}`,
           })),
       });
     },
@@ -128,7 +129,7 @@ export function createArchiveServer(
       return result({
         incident,
         sources: sourceLinks(incident.source_urls),
-        url: `https://colorado-sar-archive.web.app/?incident=${encodeURIComponent(id)}`,
+        url: `${SITE_URL}/?incident=${encodeURIComponent(id)}`,
       });
     },
   );

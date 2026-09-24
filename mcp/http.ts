@@ -1,9 +1,11 @@
+import { SITE_URL } from '../lib/site.ts';
 import type { IncomingMessage, ServerResponse } from 'node:http';
 import { StreamableHTTPServerTransport } from '@modelcontextprotocol/sdk/server/streamableHttp.js';
 import { createArchiveServer } from './archive.ts';
 import type { Incident } from '../lib/types.ts';
 
 const allowedOrigins = new Set([
+  SITE_URL,
   'https://colorado-sar-archive.web.app',
   'https://colorado-sar-archive.firebaseapp.com',
   'https://claude.ai',

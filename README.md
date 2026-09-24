@@ -4,15 +4,19 @@ Explore Colorado search and rescue reports by location, fuzzy title search, year
 and incident type—or group records by outcome, location, county, and agency.
 Incidents and filtered views have shareable links.
 
-[Explore the website](https://colorado-sar-archive.web.app/) ·
-[Download SQLite](https://colorado-sar-archive.web.app/data/colorado-sar.db) ·
-[Connect Claude or Codex](https://colorado-sar-archive.web.app/mcp/)
+[Explore the website](https://accidents.typetwo.dev/) ·
+[Download SQLite](https://accidents.typetwo.dev/data/colorado-sar.db) ·
+[Connect Claude or Codex](https://accidents.typetwo.dev/mcp/)
 
 The initial collection contains **3,718 records from 2010–2026**. Coverage and
 source quality vary: counts describe this archive, not all rescues or geographic
 risk. Weather data is excluded. Code is [MIT licensed](LICENSE); incident data
 and linked source material are **not** covered by that license. Data licensing
 awaits maintainer review; source publishers retain their rights.
+
+Canonical domain: **accidents.typetwo.dev**. [Domain setup](docs/domain.md).
+AI discovery: [`/llms.txt`](https://accidents.typetwo.dev/llms.txt), with generated
+Markdown FAQ/MCP guides and a [data guide](https://accidents.typetwo.dev/data-guide.md).
 
 ## 1. Run the website, build it, or build only the database
 
@@ -123,7 +127,7 @@ with `--only hosting`. Hosted MCP deployment details are in
 
 ### Start with an existing-event check
 
-Search the [archive](https://colorado-sar-archive.web.app/) for the date, place,
+Search the [archive](https://accidents.typetwo.dev/) for the date, place,
 and event before submitting. Two reports about one rescue belong in one record.
 For an existing event, propose a correction to its accepted JSON file and add
 supporting sources instead of creating a new incident. Keep its stable ID.

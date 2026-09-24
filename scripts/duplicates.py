@@ -163,7 +163,7 @@ def markdown_report(candidates, root, all_records=False):
             except ValueError: pass
             lines += [f"**{escape(r['id'])}** · {escape(r['date'])} · {escape(r.get('location'))} · {escape(r.get('county'))}", '',
                       escape(r['summary']), '', f"File: `{path}`", '',
-                      f"[Search archive record](https://colorado-sar-archive.web.app/?incident={r['id']})", '',
+                      f"[Search archive record](https://accidents.typetwo.dev/?incident={r['id']})", '',
                       'Sources: ' + escape(r.get('source_urls')), '']
     if not candidates:
         lines += ['No candidates found. Different wording, incorrect dates, and missing sources can still hide duplicates.']

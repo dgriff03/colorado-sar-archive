@@ -4,6 +4,7 @@ import { ArrowLeft, ArrowUpRight } from 'lucide-react';
 import { Header } from '@/components/header';
 import faq from '@/content/faq.json';
 export const metadata: Metadata = {
+  alternates: { canonical: '/faq/' },
   title: 'FAQ — Colorado SAR Archive',
   description:
     'About the Colorado search and rescue incident archive, its sources, and its limitations.',

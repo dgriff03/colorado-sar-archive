@@ -5,7 +5,7 @@ or count incidents by location and outcome. The MCP server runs locally and
 reads your built archive snapshot. It is read-only: it cannot add, edit, promote,
 or delete incidents. No API key, Firebase login, or running website is needed.
 
-For the default hosted connection, see [the online setup guide](https://colorado-sar-archive.web.app/mcp/). This alternative is a **local stdio MCP server**.
+For the default hosted connection, see [the online setup guide](https://accidents.typetwo.dev/mcp/). This alternative is a **local stdio MCP server**.
 Claude web custom connectors cannot use this local process; use Claude Desktop
 or a local Codex client.
 
