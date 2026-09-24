@@ -2,9 +2,9 @@
 
 1. Search the archive for the same event; multiple news articles may describe one rescue.
 2. Fork this repository and create a branch.
-3. Run `npm run data:new` (or generate a UUID v4 and create `pending/<uuid>.json`).
+3. Run `python3 scripts/data.py new` (or generate a UUID v4 and create `pending/<uuid>.json`).
 4. Fill in the incident date, concise factual `summary`, location and source URLs.
-5. Run `npm run data:validate` and `npm run data:duplicates`, review matches, and open a pull request.
+5. Run `python3 scripts/data.py validate` and `python3 scripts/data.py duplicates`, review matches, and open a pull request.
 
 A submission can be as small as:
 
@@ -56,7 +56,7 @@ content, build the website, and test ingestion. The Duplicate review artifact
 lists likely matching incidents with reasons and source links. Explain flagged
 matches in your PR: either update the existing incident instead of adding one,
 or explain why the events are distinct. Fuzzy matches never auto-merge or delete
-data. Run `npm run data:duplicates -- --all` to scan the existing archive too.
+data. Run `python3 scripts/data.py duplicates --all` to scan the existing archive too.
 
 After reviewed pending files have landed on main, Daniel runs the manual
 **Promote reviewed incidents** action on main. Its actor check only permits the
