@@ -68,8 +68,20 @@ upload and past Git revisions remain untouched.
 
 ## FAQ
 
-Edit `content/faq.json`. Set `answer` to a string to publish an answer; null shows
-“Answer coming soon.” Starter questions are included for the maintainer to fill.
+Edit `content/faq.json`. Answers support standard Markdown: inline links, emphasis,
+lists, blockquotes, and code. Questions remain plain text. Set `answer` to null
+to show “Answer coming soon.” No CMS is involved. For example:
+
+```json
+{
+  "question": "Where can I find the project?",
+  "answer": "Visit the [public repository](https://github.com/dgriff03/colorado-sar-archive).\n\nRead the **contribution guide** before submitting an incident."
+}
+```
+
+Inside JSON strings, use `\n` for a line break and `\n\n` for a new paragraph.
+Raw HTML is skipped, and unsafe link schemes are filtered by the Markdown renderer.
+Rebuild and deploy to publish edits.
 
 ## Deploy and custom domain
 
