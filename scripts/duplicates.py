@@ -7,6 +7,7 @@ import datetime
 import difflib
 import html
 import json
+import os
 import re
 import unicodedata
 from collections import defaultdict
@@ -163,7 +164,7 @@ def markdown_report(candidates, root, all_records=False):
             except ValueError: pass
             lines += [f"**{escape(r['id'])}** · {escape(r['date'])} · {escape(r.get('location'))} · {escape(r.get('county'))}", '',
                       escape(r['summary']), '', f"File: `{path}`", '',
-                      f"[Search archive record](https://accidents.typetwo.dev/?incident={r['id']})", '',
+                      f"[Search archive record]({os.environ.get('NEXT_PUBLIC_SITE_URL', 'https://rescue.typetwo.dev').rstrip('/')}/?incident={r['id']})", '',
                       'Sources: ' + escape(r.get('source_urls')), '']
     if not candidates:
         lines += ['No candidates found. Different wording, incorrect dates, and missing sources can still hide duplicates.']

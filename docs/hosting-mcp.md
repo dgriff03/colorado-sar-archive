@@ -56,7 +56,7 @@ tool calls, full details, invalid methods/origins/JSON and oversized requests.
 After deployment, verify with an MCP client using:
 
 ```sh
-codex mcp add colorado-sar --url https://accidents.typetwo.dev/api/mcp
+codex mcp add colorado-sar --url https://rescue.typetwo.dev/api/mcp
 ```
 
 Then ask it to list tools and search for Longs Peak. A browser GET returning 405

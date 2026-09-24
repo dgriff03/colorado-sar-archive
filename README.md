@@ -4,9 +4,9 @@ Explore Colorado search and rescue reports by location, title and notes search, 
 and incident type—or group records by outcome, location, county, and agency.
 Incidents and filtered views have shareable links.
 
-[Explore the website](https://accidents.typetwo.dev/) ·
-[Download SQLite](https://accidents.typetwo.dev/data/colorado-sar.db) ·
-[Connect Claude or Codex](https://accidents.typetwo.dev/mcp/)
+[Explore the website](https://rescue.typetwo.dev/) ·
+[Download SQLite](https://rescue.typetwo.dev/data/colorado-sar.db) ·
+[Connect Claude or Codex](https://rescue.typetwo.dev/mcp/)
 
 The initial collection contains **3,718 records from 2010–2026**. Coverage and
 source quality vary: counts describe this archive, not all rescues or geographic
@@ -14,9 +14,9 @@ risk. Weather data is excluded. Code is [MIT licensed](LICENSE); incident data
 and linked source material are **not** covered by that license. Data licensing
 awaits maintainer review; source publishers retain their rights.
 
-Canonical domain: **accidents.typetwo.dev**. [Domain setup](docs/domain.md).
-AI discovery: [`/llms.txt`](https://accidents.typetwo.dev/llms.txt), with generated
-Markdown FAQ/MCP guides and a [data guide](https://accidents.typetwo.dev/data-guide.md).
+Canonical domain: **rescue.typetwo.dev**. [Domain setup](docs/domain.md).
+AI discovery: [`/llms.txt`](https://rescue.typetwo.dev/llms.txt), with generated
+Markdown FAQ/MCP guides and a [data guide](https://rescue.typetwo.dev/data-guide.md).
 
 ## 1. Run the website, build it, or build only the database
 
@@ -30,6 +30,24 @@ cd colorado-sar-archive
 The data pipeline needs **Python 3.10+**, with no third-party Python packages.
 The website and MCP also need **Node.js 22.13+** and npm. Run commands below
 from the repository root.
+
+### Use your own domain
+
+Copy `.env.example` to `.env.local` and set `NEXT_PUBLIC_SITE_URL` to your public
+origin (for example `https://rescues.example.org`). It defaults to
+`https://rescue.typetwo.dev`. Use an HTTP(S) origin with no subdirectory, query,
+or fragment. This is public configuration, not a secret.
+
+Run `npm run build` and `npm run mcp:build` after changing it. Both builds use
+this setting for links, metadata, MCP browser origins, and published Markdown
+and `llms.txt`. Shell environment variables override `.env.local` and `.env`.
+Repository documentation continues to describe the upstream deployment.
+
+For local stdio MCP or Python duplicate reports, export the same variable in
+your shell (`export NEXT_PUBLIC_SITE_URL=https://rescues.example.org`); these
+commands read the process environment directly. Domain configuration does not
+change Firebase project IDs: self-hosters must also select their own Firebase
+project and connect their domain as described in [domain setup](docs/domain.md).
 
 ### Just build the database
 
@@ -128,7 +146,7 @@ with `--only hosting`. Hosted MCP deployment details are in
 
 ### Start with an existing-event check
 
-Search the [archive](https://accidents.typetwo.dev/) for the date, place,
+Search the [archive](https://rescue.typetwo.dev/) for the date, place,
 and event before submitting. Two reports about one rescue belong in one record.
 For an existing event, propose a correction to its accepted JSON file and add
 supporting sources instead of creating a new incident. Keep its stable ID.

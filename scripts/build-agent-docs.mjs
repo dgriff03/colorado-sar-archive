@@ -1,3 +1,6 @@
+import { siteUrl } from './site-config.mjs';
+import { DEFAULT_SITE_URL } from '../lib/site-url.ts';
+const customize = (text) => text.replaceAll(DEFAULT_SITE_URL, siteUrl);
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 const root = new URL('../', import.meta.url);
 const faq = JSON.parse(
@@ -18,6 +21,10 @@ await writeFile(
 );
 await writeFile(
   new URL('public/mcp/index.md', root),
-  await readFile(new URL('docs/mcp.md', root), 'utf8'),
+  customize(await readFile(new URL('docs/mcp.md', root), 'utf8')),
 );
 console.log('Built Markdown FAQ and MCP guide');
+
+for (const file of ['llms.txt', 'data-guide.md']) {
+  await writeFile(new URL(`public/${file}`, root), customize(await readFile(new URL(`content/${file}`, root), 'utf8')));
+}

@@ -1,3 +1,4 @@
+import { siteUrl } from './site-config.mjs';
 import { build } from 'esbuild';
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 const root = new URL('../', import.meta.url);
@@ -20,6 +21,7 @@ await build({
   entryPoints: [new URL('functions/index.ts', root).pathname],
   outfile: new URL('functions/lib/index.js', root).pathname,
   bundle: true,
+  define: { 'process.env.NEXT_PUBLIC_SITE_URL': JSON.stringify(siteUrl) },
   platform: 'node',
   target: 'node22',
   format: 'esm',
