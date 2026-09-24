@@ -1,10 +1,10 @@
-import { displayValue, label } from '@/lib/search';
+import { label } from '@/lib/search';
 import type { Incident } from '@/lib/types';
 
-import { detailLabels } from '@/lib/detail';
+import { detailLabel } from '@/lib/detail';
 
 export function IncidentTags({ incident }: { incident: Incident }) {
-  const score = displayValue(incident.detail_score);
+  const score = detailLabel(incident.detail_score);
   return (
     <>
       <span className="type-tag outcome-tag">Outcome: {label(incident.outcome)}</span>
@@ -12,7 +12,7 @@ export function IncidentTags({ incident }: { incident: Incident }) {
         className="type-tag detail-tag"
         title={`Reported detail classification: ${score}. Describes source detail, not independent verification.`}
       >
-        Detail: {detailLabels[score] || score}
+        Detail: {score}
       </span>
     </>
   );
