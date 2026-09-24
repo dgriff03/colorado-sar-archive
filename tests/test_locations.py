@@ -14,6 +14,13 @@ class LocationTests(unittest.TestCase):
                                  ('Camp Rock (east of Summit Lake)', 'Clear Creek')]:
             self.assertEqual(location_group(dict(location=location, county=county)), location)
 
+    def test_kelso_ridge_groups_with_torreys_but_not_shared_areas(self):
+        for location in ['Kelso Ridge', 'Kelso Ridge (Torreys Peak)', "Torrey's Peak", 'Torreys Peak']:
+            for county in ['Clear Creek', 'Clear Creek County']:
+                self.assertEqual(location_group(dict(location=location, county=county)), 'Torreys Peak')
+        for location in ['Grays and Torreys', 'Saddle of Grays and Torreys', 'Torreys and Grizzly Peak']:
+            self.assertEqual(location_group(dict(location=location, county='Clear Creek')), location)
+
     def test_exports_preserve_original_and_include_group_everywhere(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)

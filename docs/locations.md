@@ -14,6 +14,7 @@ within an area is the same place.
 | St. Mary's Glacier / Lake area | 109 | 17 |
 | Mount Bierstadt | 187 | 19 |
 | Summit Lake (Mount Blue Sky) | 27 | 11 |
+| Torreys Peak (including Kelso Ridge) | 60 | 20 |
 
 Counts reflect the initial mapping and will change as entries are contributed.
 The supporting evidence is the accepted records' location, county, summary and
@@ -26,6 +27,9 @@ Sawtooth and multi-mountain reports stay separate. Bierstadt Lake in Rocky
 Mountain National Park is excluded. Summit Lake is scoped to Clear Creek County;
 Camp Rock and the Summit Lake-to-Dumont Lake report in Routt County are excluded.
 Historical Mount Evans wording remains in the original records.
+Torreys Peak includes Kelso Ridge, summit, faces and named couloirs. Shared
+Grays/Torreys and Grizzly areas stay separate. Both `Clear Creek` and the legacy
+`Clear Creek County` spelling are matched; reported route names are preserved.
 
 ## Add or correct a mapping
 
