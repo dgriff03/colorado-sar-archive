@@ -17,7 +17,7 @@
     "data:promote": "python3 scripts/data.py promote",
     "predev": "npm run data:build",
     "prebuild": "npm run data:build",
-    "test": "python3 -m unittest discover -s tests && node --experimental-strip-types --test tests/search.test.ts",
+    "test": "python3 -m unittest discover -s tests && node --experimental-strip-types --test tests/*.test.ts",
     "typecheck": "tsc --noEmit",
     "deploy": "npm run build && firebase deploy --only hosting",
     "postbuild": "python3 scripts/verify_export.py",
