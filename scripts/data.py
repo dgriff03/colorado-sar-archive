@@ -1,5 +1,5 @@
 """Validate, promote and build incident data using only Python's standard library."""
-import argparse, datetime, json, os, re, sqlite3, tempfile, uuid
+import argparse, datetime, json, math, os, re, sqlite3, tempfile, uuid
 from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 TEXT_FIELDS = ['date','summary','location','county','incident_type','outcome','responding_agency','source_urls','notes','peak','wx_source','wx_note','setting','place','place_type']
@@ -22,11 +22,11 @@ def validate(record, path, pending=False):
         if record.get(key) is not None and not isinstance(record[key],str): raise ValueError(f'{path}: {key} must be text or null')
     for key in NUMBER_FIELDS + ['victims','legacy_id']:
         value=record.get(key)
-        if value is not None and (isinstance(value,bool) or not isinstance(value,(float,int))): raise ValueError(f'{path}: invalid {key}')
+        if value is not None and (isinstance(value,bool) or not isinstance(value,(float,int)) or not math.isfinite(value)): raise ValueError(f'{path}: invalid {key}')
     for key in ['victims','legacy_id']:
         value=record.get(key)
         if value is not None and (not isinstance(value,int) or value<0): raise ValueError(f'{path}: {key} must be a nonnegative integer')
-    if record.get('detail_score') is not None and not isinstance(record['detail_score'],(str,int,float)): raise ValueError(f'{path}: invalid detail_score')
+    if record.get('detail_score') is not None and (isinstance(record['detail_score'],bool) or not isinstance(record['detail_score'],(str,int,float)) or (isinstance(record['detail_score'],float) and not math.isfinite(record['detail_score']))): raise ValueError(f'{path}: invalid detail_score')
     if pending:
         from urllib.parse import urlparse
         for url in record['source_urls'].split('|'):

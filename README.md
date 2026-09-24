@@ -103,3 +103,19 @@ Project code is MIT licensed; see LICENSE. Incident data and linked source
 material are **not** covered by that code license. Data redistribution/licensing
 terms are pending maintainer review. Source publishers retain their rights.
 This archive does not claim completeness or agency endorsement.
+
+## Validation notes
+
+All original fields were compared with the supplied SQLite snapshot after import.
+The ingestion/search tests cover malformed input, batch preflight, duplicate IDs,
+pending exclusion, fuzzy search, combined filters and generated SQLite consistency.
+Production checks verify both routes, the search index, incident details and
+database downloads over HTTP. Browser interaction/visual testing was not run.
+The optional WebMCP search tool has registry contract tests; a native WebMCP
+browser context was not available for verification.
+
+The current 1.6 MB search index is appropriate for this initial archive. As the
+collection grows substantially (for example, beyond tens of thousands of rows),
+move search into a worker or server index instead of loading the full index into
+the main browser thread. Canonical incident files and the contribution flow can
+remain unchanged.

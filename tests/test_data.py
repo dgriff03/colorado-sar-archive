@@ -36,6 +36,9 @@ class DataTests(unittest.TestCase):
     def test_pending_not_published(self):
         self.write(self.record());data.build(self.root)
         self.assertEqual(json.loads((self.root/'public/data/incidents.json').read_text()),[])
+    def test_nonfinite_number_rejected(self):
+        self.write(self.record(wx_high_f=float('nan')))
+        with self.assertRaises(ValueError):data.read_records(self.root)
     def test_unknown_fields_rejected(self):
         self.write(self.record(private_email='not for publication'))
         with self.assertRaises(ValueError):data.read_records(self.root)
