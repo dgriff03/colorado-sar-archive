@@ -146,3 +146,62 @@ test('blank values are explicit and zero remains zero', () => {
     ['https://example.com/report'],
   );
 });
+
+import { agencyNames, agencySuggestions } from '../lib/agencies.ts';
+import { label } from '../lib/search.ts';
+test('agency aliases combine joint responses without combining distinct teams', () => {
+  assert.deepEqual(
+    agencySuggestions([
+      'Summit County SAR; Alpine Rescue Team',
+      'SCRG',
+      'Summit County Rescue Group',
+    ]),
+    ['Alpine Rescue Team', 'Summit County Rescue Group'],
+  );
+  assert.deepEqual(
+    agencyNames(
+      'Chaffee County SAR North; Chaffee County Search and Rescue South',
+    ),
+    [
+      'Chaffee County Search and Rescue North',
+      'Chaffee County Search and Rescue South',
+    ],
+  );
+  assert.deepEqual(agencyNames('NPS Rocky Mountain National Park rangers'), [
+    'Rocky Mountain National Park',
+  ]);
+  const run = createSearch([
+    { ...records[0], responding_agency: 'SCRG; Alpine Rescue Team' },
+    { ...records[1], responding_agency: 'Summit County SAR' },
+    { ...records[2], responding_agency: 'Unlisted local rescue organization' },
+  ]);
+  for (const agency of [
+    'Summit County Rescue Group',
+    'SCRG',
+    'Summit County SAR',
+  ])
+    assert.equal(run({ ...defaults, agency }).length, 2);
+  assert.equal(run({ ...defaults, agency: 'Unlisted local' }).length, 1);
+});
+test('months use OR, intersect other filters, and detail distinguishes missing from zero', () => {
+  const run = createSearch([
+    { ...records[0], detail_score: 'BASIC_FACTS' },
+    { ...records[1], detail_score: 0 },
+    { ...records[2], detail_score: null },
+  ]);
+  assert.deepEqual(
+    run({ ...defaults, month: '01,03' }).map((r) => r.id),
+    ['c', 'a'],
+  );
+  assert.deepEqual(
+    run({ ...defaults, month: '01,03', year: '2026' }).map((r) => r.id),
+    ['c'],
+  );
+  assert.equal(
+    run({ ...defaults, month: '01,02', detail: 'BASIC_FACTS' })[0].id,
+    'a',
+  );
+  assert.equal(run({ ...defaults, detail: '0' })[0].id, 'b');
+  assert.equal(run({ ...defaults, detail: '__missing__' })[0].id, 'c');
+  assert.equal(label('trail_head'), 'Trail Head');
+});

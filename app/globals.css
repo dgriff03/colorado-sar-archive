@@ -1617,3 +1617,6 @@ body {
 .incident-tags { flex-wrap: wrap; }
 .type-tag.outcome-tag { background: #e5e9dd; color: #34432f; }
 .type-tag.detail-tag { background: #eee6d8; color: #594a35; white-space: normal; }
+
+.month-options { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.month-options .field-hint { grid-column: 1 / -1; }

@@ -116,7 +116,13 @@ Archive coverage is incomplete; counts do not measure all rescues or risk.
 
 Queries are limited to 120 characters. Up to 32 characters use fuzzy matching;
 longer queries require all words literally. Filters also accept agency, inclusive
-`from`/`to` dates (YYYY-MM-DD), `month` (1–12), `setting`, `place_type`, and
+`from`/`to` dates (YYYY-MM-DD), `month` (1–12 or an array such as `[6, 7, 8]`), `setting`, `place_type`,
+`detail_level` (a recorded `detail_score` classification or `__missing__`), and
 comma-separated `incident_type` values (OR). Other filters intersect. Recorded
 outcomes are preserved as reported, not merged into inferred categories.
 Hosted requests may return 429 with Retry-After during bursts; wait before retrying.
+
+Agency filtering recognizes common aliases (for example `SCRG` and `Summit County SAR`)
+and individual teams in joint responses. Original agency text remains searchable.
+Detail classifications include `ONE_LINER`, `BASIC_FACTS`, `HOW_MINIMAL_SOURCING`,
+`MECHANISM_SINGLE_SOURCE`, and `DETAILED_MULTIPLE_SOURCES`.

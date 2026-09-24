@@ -199,3 +199,12 @@ and verification before re-enabling. Configuration contains public IDs only.
 The header uses a public-domain National Park Service photo of Hallett Peak and
 Dream Lake, attributed to John Marino / NPS. Source and processing details are in
 `public/IMAGE-CREDITS.md`. The image is stored locally as an optimized WebP.
+
+### Agency filter vocabulary
+
+`lib/agencies.ts` maintains recognized agency names and aliases used by the website
+and MCP search. Suggestions contain individual recognized organizations rather than
+whole multi-agency response strings. Add aliases there when reviewing new variants;
+keep separate organizations (including Chaffee North and South) distinct. This is a
+derived search vocabulary: original incident text is preserved, and unlisted agencies
+remain searchable as free text. Agency grouping still uses reported response strings.
