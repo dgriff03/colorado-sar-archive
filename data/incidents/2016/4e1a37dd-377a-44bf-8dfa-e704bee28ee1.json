@@ -1,0 +1,19 @@
+{
+  "id": "4e1a37dd-377a-44bf-8dfa-e704bee28ee1",
+  "date": "2016-07-03",
+  "summary": "Assist to RMRG with a search in the Allens Park area",
+  "location": "Allens Park area",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team (assist to RMRG)",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-64. Search ran 07/04; paged 07/03",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Allens Park",
+  "place_type": "park",
+  "legacy_id": 2088
+}

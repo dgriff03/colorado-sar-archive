@@ -1,0 +1,19 @@
+{
+  "id": "493354b7-d0c7-45bb-8a86-2537c4675f07",
+  "date": "2015-12-15",
+  "summary": "Two overdue hikers above Camp Hale located safe at Jackal Hut after a snowmobile trail search; out ~8:30 a.m. Dec 16",
+  "location": "Camp Hale / Jackal Hut",
+  "county": "Eagle",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Vail Mountain Rescue Group",
+  "source_urls": "https://www.vaildaily.com/news/december-tallies-11-rescue-missions-in-vail-valley/",
+  "notes": "Party size unstated in source; victim count per occupant-count-unstated convention. Dec-2015 VMRG mission digest.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Camp Hale",
+  "place_type": "other",
+  "legacy_id": 3104
+}

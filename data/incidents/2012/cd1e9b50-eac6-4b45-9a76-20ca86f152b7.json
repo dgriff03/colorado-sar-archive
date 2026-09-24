@@ -1,0 +1,19 @@
+{
+  "id": "cd1e9b50-eac6-4b45-9a76-20ca86f152b7",
+  "date": "2012-11-24",
+  "summary": "Brother and sister rappelling into Zapata Falls canyon; sister stranded when her rope proved too short to reach the canyon floor, trapped on a ledge above the main falls after wading the partially frozen creek; AVSAR high-angle techs set anchors, lowered a rescuer with dry clothes, and she ascended a belayed rope back out; escorted to the trailhead uninjured",
+  "location": "Zapata Falls",
+  "county": "Alamosa",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alamosa Volunteer SAR; Alamosa County Sheriff's Office",
+  "source_urls": "https://avsar.us/missions-from-2008-2015/",
+  "notes": "AVSAR 2012 archive narrative; ASO deputy + local climber first on scene; ~1600 hours dispatch",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Zapata Falls",
+  "place_type": "waterfall",
+  "legacy_id": 2483
+}

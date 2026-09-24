@@ -1,0 +1,19 @@
+{
+  "id": "a9df18a6-f22d-4d19-9744-ccfdf9e4c351",
+  "date": "2024-09-08",
+  "summary": "Injured female party near the summit of Mt Bierstadt",
+  "location": "Mt Bierstadt",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "Injury mechanism not stated in log; ART mission 2024-130.",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1475
+}

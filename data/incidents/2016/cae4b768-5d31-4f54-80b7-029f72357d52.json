@@ -1,0 +1,19 @@
+{
+  "id": "cae4b768-5d31-4f54-80b7-029f72357d52",
+  "date": "2016-08-23",
+  "summary": "Assist to Jeffco Sheriff's Office with a search for a party in the Evergreen area",
+  "location": "Evergreen area",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team (assist to Jeffco SO)",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-101.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Evergreen",
+  "place_type": "town",
+  "legacy_id": 2112
+}

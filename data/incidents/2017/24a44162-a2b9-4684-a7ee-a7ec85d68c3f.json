@@ -1,0 +1,19 @@
+{
+  "id": "24a44162-a2b9-4684-a7ee-a7ec85d68c3f",
+  "date": "2017-07-13",
+  "summary": "Lost hikers in Loch Lomond area (2017-61)",
+  "location": "Loch Lomond area",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2018/01/2017-Missions-Website.pdf",
+  "notes": "ART mission 2017-61. Victim count estimated from plural; outcome not stated, presumed rescued-uninjured.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Loch Lomond",
+  "place_type": "lake",
+  "legacy_id": 398
+}

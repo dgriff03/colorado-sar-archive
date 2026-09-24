@@ -1,0 +1,19 @@
+{
+  "id": "82c0f34b-7821-415c-987c-353101490e48",
+  "date": "2015-10-29",
+  "summary": "Missing 16-year-old male in the Evergreen/Conifer area",
+  "location": "Evergreen/Conifer area",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-113.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Conifer",
+  "place_type": "town",
+  "legacy_id": 2036
+}

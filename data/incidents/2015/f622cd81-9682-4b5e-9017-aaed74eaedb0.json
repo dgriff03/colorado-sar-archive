@@ -1,0 +1,19 @@
+{
+  "id": "f622cd81-9682-4b5e-9017-aaed74eaedb0",
+  "date": "2015-07-07",
+  "summary": "A 76-year-old man from Chico, California drowned after falling from a commercial raft carrying seven adults on the Poudre River near mile marker 110 on Highway 14, about 11 miles west of US 287. Two other riders who also fell in were quickly pulled back into the raft; the man was recovered unresponsive, CPR was started on scene and continued until medical personnel arrived, and he was transported to a local hospital where he did not survive. All occupants were wearing helmets and personal flotation devices.",
+  "location": "Poudre River near mile marker 110, Highway 14 (~11 mi W of US 287), Poudre Canyon",
+  "county": "Larimer",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Larimer County Sheriff's Office deputies; LCSO Emergency Services; Larimer County Dive Rescue; Poudre Canyon Fire Protection District",
+  "source_urls": "https://northfortynews.com/category/news/california-man-dies-in-poudre-river-rafting-accident/",
+  "notes": "DATE APPROXIMATE — article text gives only 'July 7'; year 2015 pinned via search-index last-updated metadata (~4089 days before 2026-09-17, consistent with breaking-news timing on 2015-07-07); 2015-07-07 Tuesday-verified; commercial-raft drowning coded other/fatality per the id-3132/2438/2452/2454/2440 rafting convention; zero Chico-token rows and zero 2015-07 Poudre-rafting rows at central dedupe (run 791).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Poudre River",
+  "place_type": "river",
+  "legacy_id": 3297
+}

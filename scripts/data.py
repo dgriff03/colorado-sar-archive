@@ -5,6 +5,7 @@ import sys
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from locations import location_group
 from merges import incident_merges
+from id_aliases import id_aliases
 from source_policy import read_policy, exclusion_reason, normalize_url, publication_records
 from duplicates import ensure_no_identical_submissions, find_candidates, markdown_report
 ROOT = Path(__file__).resolve().parents[1]
@@ -17,21 +18,22 @@ INCIDENT_TYPES = {'lost/stranded','injury','fall','medical','avalanche','vehicle
 NUMBER_FIELDS = []
 FIELDS = ['id','legacy_id'] + TEXT_FIELDS + ['victims','detail_score'] + NUMBER_FIELDS
 
-def validate(record, path, pending=False, policy=None):
+def validate(record, path, pending=False, policy=None, imported=False):
     if not isinstance(record, dict): raise ValueError(f'{path}: expected JSON object')
     if set(record) - set(FIELDS): raise ValueError(f'{path}: unknown fields {set(record)-set(FIELDS)}')
     ident = record.get('id','')
     if not isinstance(ident,str) or not re.fullmatch(r'(legacy-\d{6}|[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12})',ident): raise ValueError(f'{path}: use a UUID v4 ID')
     if path.stem != ident: raise ValueError(f'{path}: filename must equal id.json')
     if pending and (ident.startswith('legacy-') or 'legacy_id' in record): raise ValueError(f'{path}: legacy IDs reserved for initial import')
+    imported = imported or ident.startswith('legacy-')
     date = record.get('date','')
     if not isinstance(date,str) or not re.fullmatch(r'\d{4}-\d{2}-\d{2}',date): raise ValueError(f'{path}: ISO date required')
     parsed_date = datetime.date.fromisoformat(date)
-    if not ident.startswith('legacy-') and not datetime.date(1900,1,1) <= parsed_date <= datetime.date.today():
+    if not imported and not datetime.date(1900,1,1) <= parsed_date <= datetime.date.today():
         raise ValueError(f'{path}: incident date must be between 1900-01-01 and today')
-    if not ident.startswith('legacy-') and record.get('incident_type') not in INCIDENT_TYPES | {None}:
+    if not imported and record.get('incident_type') not in INCIDENT_TYPES | {None}:
         raise ValueError(f'{path}: incident_type must use a documented category or null')
-    for key in (['summary','location','source_urls'] if pending or not ident.startswith('legacy-') else ['summary']):
+    for key in (['summary','location','source_urls'] if pending or not imported else ['summary']):
         if not isinstance(record.get(key),str) or not record[key].strip(): raise ValueError(f'{path}: {key} required')
     for key in TEXT_FIELDS:
         if record.get(key) is not None and not isinstance(record[key],str): raise ValueError(f'{path}: {key} must be text or null')
@@ -40,7 +42,7 @@ def validate(record, path, pending=False, policy=None):
             raise ValueError(f'{path}: {key} exceeds {limit} characters')
     if isinstance(record.get('detail_score'), str) and len(record['detail_score']) > 100:
         raise ValueError(f'{path}: detail_score exceeds 100 characters')
-    if not ident.startswith('legacy-') and record.get('county') is not None:
+    if not imported and record.get('county') is not None:
         counties = [part.strip() for part in record['county'].split(';')]
         if not counties or any(c not in COUNTIES for c in counties):
             raise ValueError(f'{path}: county must use Colorado county names separated by semicolons, or null')
@@ -51,12 +53,12 @@ def validate(record, path, pending=False, policy=None):
         value=record.get(key)
         if value is not None and (not isinstance(value,int) or value<0): raise ValueError(f'{path}: {key} must be a nonnegative integer')
     if record.get('detail_score') is not None and (isinstance(record['detail_score'],bool) or not isinstance(record['detail_score'],(str,int,float)) or (isinstance(record['detail_score'],float) and not math.isfinite(record['detail_score']))): raise ValueError(f'{path}: invalid detail_score')
-    if pending or not ident.startswith('legacy-'):
+    if pending or not imported:
         from urllib.parse import urlparse
         for url in record['source_urls'].split('|'):
             parsed=urlparse(url.strip())
             if parsed.scheme not in ('https','http') or not parsed.hostname or parsed.username or parsed.password: raise ValueError(f'{path}: source must be an HTTP(S) URL')
-    if policy is not None and (pending or not ident.startswith('legacy-')):
+    if policy is not None and (pending or not imported):
         for source in (record.get('source_urls') or '').split('|'):
             if source.strip(): normalize_url(source)
         reason=exclusion_reason(record, policy)
@@ -66,13 +68,18 @@ def validate(record, path, pending=False, policy=None):
 def read_records(root, include_pending=True, check_identical=True):
     accepted=[]; submissions=[]; seen=set()
     policy=read_policy(root)
+    imports={target:int(old.removeprefix('legacy-')) for old,target in id_aliases(root).items()}
     groups=[(root/'data/incidents',accepted,False)]
     if include_pending: groups.append((root/'pending',submissions,True))
     for directory,items,is_pending in groups:
         for path in sorted(directory.rglob('*.json')):
             if path.is_symlink(): raise ValueError(f'{path}: symlinks not allowed')
             if path.stat().st_size > MAX_RECORD_BYTES: raise ValueError(f'{path}: record exceeds 64 KiB')
-            record=validate(json.loads(path.read_text()),path,is_pending,policy if is_pending else None)
+            record=json.loads(path.read_text())
+            if imports and isinstance(record,dict) and str(record.get('id','')).startswith('legacy-'): raise ValueError(f'{path}: use the migrated UUID, not an original import ID')
+            imported=isinstance(record,dict) and record.get('id') in imports and not is_pending
+            if imported and record.get('legacy_id') != imports[record['id']]: raise ValueError(f'{path}: import provenance does not match ID registry')
+            record=validate(record,path,is_pending,policy if is_pending else None,imported=imported)
             if not is_pending and path.parent.name != record['date'][:4]: raise ValueError(f'{path}: wrong year directory')
             if record['id'] in seen: raise ValueError(f'{path}: duplicate ID')
             seen.add(record['id']); items.append((path,record))
@@ -98,7 +105,9 @@ def build(root):
     accepted,_=read_records(root)
     published,merges=publication_records(root, accepted)
     records=sorted(published,key=lambda r:(r['date'],r['id']),reverse=True)
-    records=[dict(r, location_group=location_group(r), merged_ids=sorted(old for old, entry in merges.items() if entry['into']==r['id'])) for r in records]
+    aliases_by_id={}
+    for old,entry in merges.items(): aliases_by_id.setdefault(entry['into'],[]).append(old)
+    records=[dict(r, location_group=location_group(r), merged_ids=sorted(aliases_by_id.get(r['id'],[]))) for r in records]
     out=root/'public/data'; out.mkdir(parents=True,exist_ok=True)
     details=out/'incidents'; details.mkdir(exist_ok=True)
     keep={r['id']+'.json' for r in records} | {old+'.json' for old in merges}

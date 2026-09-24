@@ -1,0 +1,19 @@
+{
+  "id": "0251c91a-9b5d-42f0-ad6a-eac5d613de7e",
+  "date": "2021-02-09",
+  "summary": "21-year-old woman from Texas slid 70-100 ft into talus on the south side of Emerald Lake; rescue toboggan to Bear Lake trailhead; ambulance to Estes Park Health then a trauma center.",
+  "location": "Emerald Lake, south side, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "National Park Service",
+  "source_urls": "https://www.npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "NPS ROMO morning-report compendium entry.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Emerald Lake",
+  "place_type": "lake",
+  "legacy_id": 2864
+}

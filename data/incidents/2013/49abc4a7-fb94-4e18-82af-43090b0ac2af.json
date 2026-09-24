@@ -1,0 +1,19 @@
+{
+  "id": "49abc4a7-fb94-4e18-82af-43090b0ac2af",
+  "date": "2013-04-18",
+  "summary": "Snowboarder killed in a very large (10 ft deep, ~300 ft wide) persistent-slab avalanche in Avalanche Bowl south of Vail Pass; two riders caught, one washed into trees and killed (friends located him via avalanche beacon but resuscitation failed), the other rode out of the debris; three were snowmobile-assisted laps, experienced and beacon-equipped",
+  "location": "Avalanche Bowl, south of Vail Pass",
+  "county": "Eagle",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Vail Mountain Rescue Group",
+  "source_urls": "http://archives2.realvail.com/article/1760/Sheriff-says-snowboarder-who-died-in-Vail-Pass-avalanche-may-have-been-smoking-Dead-Head-OG",
+  "notes": "US Forest Service, Eagle + Summit County sheriff's offices and Summit County Rescue Group also responded; CAIC sized the slide; victim identity withheld at publication; distinct from the 2013-04-20 Loveland Pass 5-fatality avalanche (id 180)",
+  "peak": "Vail Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2478
+}

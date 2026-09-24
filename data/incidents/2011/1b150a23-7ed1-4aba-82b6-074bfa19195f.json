@@ -1,0 +1,19 @@
+{
+  "id": "1b150a23-7ed1-4aba-82b6-074bfa19195f",
+  "date": "2011-06-25",
+  "summary": "John P. Novak, 31, of Minturn died kayaking on the Eagle River near the Eagle County Fairgrounds on a private, non-commercial river trip with two friends; wearing a PFD and helmet; Vail Mountain Rescue + Eagle County SO + Greater Eagle/Gypsum fire and Western Eagle County ambulance responded for recovery",
+  "location": "Eagle River near Eagle County Fairgrounds",
+  "county": "Eagle",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Vail Mountain Rescue; Eagle County Sheriff's Office",
+  "source_urls": "http://archives2.realvail.com/article/725/Kayaker-who-died-on-Eagle-River-identified-as-John-Novak-31-of-Minturn",
+  "notes": "2011-06-25 = Saturday (article: died Saturday afternoon, identified Sunday by Eagle County coroner); cause pending autopsy at time of report. Fills thin 2011 Eagle year; inserted run 706.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Eagle River",
+  "place_type": "river",
+  "legacy_id": 3226
+}

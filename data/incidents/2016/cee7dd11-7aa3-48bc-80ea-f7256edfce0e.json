@@ -1,0 +1,19 @@
+{
+  "id": "cee7dd11-7aa3-48bc-80ea-f7256edfce0e",
+  "date": "2016-06-12",
+  "summary": "Overdue hiker in the Mount Evans area",
+  "location": "Mount Evans area",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-48.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2077
+}

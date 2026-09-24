@@ -1,0 +1,19 @@
+{
+  "id": "b3861c09-acf8-4c31-8ec8-cc0e9d21de91",
+  "date": "2016-07-31",
+  "summary": "Two-day search for a vehicle reported rolled on Indian Mountain after the occupants called a spouse saying one of them was pinned under the vehicle and injured; unable to give a location, the driver walked out to Tarryall Reservoir and a deputy transported him back to the vehicle, where the other occupant was found uninjured; circumstances deemed suspicious and handled by the sheriff's department",
+  "location": "Indian Mountain",
+  "county": "Park",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Park County SAR; Park County Sheriff's Office; Colorado Parks and Wildlife",
+  "source_urls": "https://www.theflume.com/news/article_d540cf68-6bd1-11e6-a6a4-8b8247bc52c4.html",
+  "notes": "DATE APPROXIMATE: exact date not given; The Flume's mid-Aug 2016 PCSAR Happenings roundup places this two-day search between its end-of-July MTB incident and its Aug-1 bee-sting item, i.e. very late July 2016. Resolves the run-42 pending Indian Mountain lead.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Indian Mountain",
+  "place_type": "peak",
+  "legacy_id": 2306
+}

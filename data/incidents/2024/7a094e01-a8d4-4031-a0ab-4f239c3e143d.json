@@ -1,0 +1,19 @@
+{
+  "id": "7a094e01-a8d4-4031-a0ab-4f239c3e143d",
+  "date": "2024-07-23",
+  "summary": "Injured male party on the Hermans Gulch trail",
+  "location": "Hermans Gulch",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "Injury mechanism not stated in log; ART mission 2024-077.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Hermans Gulch",
+  "place_type": "gulch",
+  "legacy_id": 1412
+}

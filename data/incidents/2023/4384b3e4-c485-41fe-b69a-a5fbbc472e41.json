@@ -1,0 +1,19 @@
+{
+  "id": "4384b3e4-c485-41fe-b69a-a5fbbc472e41",
+  "date": "2023-12-17",
+  "summary": "Two snowmobilers stuck overnight in the North Fork of Fish Creek, several miles above Fish Creek Falls. RCSAR was paged the evening of December 16; incident command deferred the field response to morning given night-time avalanche risk, and the pair maintained a fire through the night. On December 17 Classic Air Medical flew four RCSAR skiers to the top of the drainage and dropped supplies; teams freed the snowmobiles and worked them out of the drainage.",
+  "location": "North Fork of Fish Creek, above Fish Creek Falls",
+  "county": "Routt",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Routt County Search and Rescue; Classic Air Medical",
+  "source_urls": "https://myemail.constantcontact.com/Far-Routt-Newsletter.html?soid=1139552188087&aid=WlJRvmEwh8U",
+  "notes": "RCSAR Far Routt Newsletter, Winter Edition (January 2024) — \"3 Missions in 12 Hours\". Paged evening Dec 16; rescue completed Dec 17.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "North Fork of Fish Creek",
+  "place_type": "creek",
+  "legacy_id": 3479
+}

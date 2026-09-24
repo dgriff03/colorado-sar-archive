@@ -1,0 +1,19 @@
+{
+  "id": "ad51a453-cf5d-4135-9ade-ab24d69f16a8",
+  "date": "2024-09-14",
+  "summary": "Injured mountain biker on Flume Trail near Fraser; bystanders helped the rider reach the trailhead where Grand County SO and EMS met them for medical care.",
+  "location": "Flume Trail near Fraser",
+  "county": "Grand",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Grand County Search and Rescue; Grand County Sheriff's Office; Grand County EMS",
+  "source_urls": "https://www.facebook.com/GCSAR/posts/pfbid02tV6Xc375t3LSyJkqLU7y6fZCML355WJ11sevVcVxnDZU6vWe9kuBCLLmWhu2deYyl|https://www.facebook.com/GCSAR/posts/pfbid0Z43nXj96YGFSUKmD5CCThvsQ1yC61ymiczmCW8mJ7VbciGdXVk7C4F95vohHvZuGl",
+  "notes": "Date 2024-09-14 per the team's Sept-14-pairs post; the press release ('today, ~10:40 AM') was posted 2024-09-15.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Flume Trail",
+  "place_type": "trail",
+  "legacy_id": 3419
+}

@@ -1,0 +1,19 @@
+{
+  "id": "52e3ee56-3ce0-4379-a68b-4976fa41eae8",
+  "date": "2023-09-07",
+  "summary": "Assist to Saguache County with two rescue techs for an injured hunter in the Merkt Creek area",
+  "location": "Merkt Creek",
+  "county": "Saguache",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Saguache County SAR",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2024/01/2023-Missions-Website.pdf|https://alpha.creativecirclecdn.com/valley/files/20240412-124050-81ecd10dfb265be1d2807e2258bc9d8d.zip~9-13%20MVJ.pdf",
+  "notes": "Injury mechanism not stated in log; ART mission 2023-088. MVJ 9-13-2023 print PDF: Sept 7 hunter arrow injury, North Decker Creek vicinity; COARNG Blackhawk hoist of two Alpine techs, Reach 29 transfer at Poncha Pass.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Merkt Creek",
+  "place_type": "creek",
+  "legacy_id": 1282
+}

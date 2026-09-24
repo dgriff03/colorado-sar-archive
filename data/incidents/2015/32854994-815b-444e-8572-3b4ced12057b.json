@@ -1,0 +1,19 @@
+{
+  "id": "32854994-815b-444e-8572-3b4ced12057b",
+  "date": "2015-02-06",
+  "summary": "Carry-out of an injured 27-year-old female in Jefferson County",
+  "location": "Jefferson County",
+  "county": "Jefferson",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-04.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1961
+}

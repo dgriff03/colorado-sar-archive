@@ -1,0 +1,19 @@
+{
+  "id": "f964a74c-cedc-43b4-a63b-42d8973e8b26",
+  "date": "2014-08-23",
+  "summary": "Climber fell approximately 60 feet on Reef On It, Tan Corridor, Staunton State Park, after single tether unclipped; bruises and scratches; rescue and helicopter.",
+  "location": "Staunton State Park, Tan Corridor",
+  "county": "Jefferson",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Helicopter",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201213515",
+  "notes": "County Jefferson (Staunton SP is in Jefferson/Park; listed as Jefferson).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Staunton State Park",
+  "place_type": "park",
+  "legacy_id": 215
+}

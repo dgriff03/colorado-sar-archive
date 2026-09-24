@@ -1,0 +1,19 @@
+{
+  "id": "814534cb-ae0f-4ce3-b5ff-a0ab6810a947",
+  "date": "2011-07-11",
+  "summary": "Climber stepped backward off a cliff top in Boulder Canyon after untying; injuries not stated in report.",
+  "location": "Boulder Canyon",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201212430",
+  "notes": "Outcome listed as injury; specific injuries not stated.",
+  "peak": "Boulder Canyon",
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 139
+}

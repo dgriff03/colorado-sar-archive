@@ -1,0 +1,19 @@
+{
+  "id": "551da9f2-b33b-4049-b5d9-fa6ccfe3e4f8",
+  "date": "2025-05-26",
+  "summary": "Injured male skier in the Loveland Pass area",
+  "location": "Loveland Pass",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf",
+  "notes": "Injury mechanism not stated in log; ART mission 2025-042.",
+  "peak": "Loveland Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1579
+}

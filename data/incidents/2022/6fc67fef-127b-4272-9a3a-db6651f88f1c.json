@@ -1,0 +1,19 @@
+{
+  "id": "6fc67fef-127b-4272-9a3a-db6651f88f1c",
+  "date": "2022-08-13",
+  "summary": "Assist to Foothills Fire for an injured 55-year-old man on the Beaver Brook Trail",
+  "location": "Beaver Brook Trail",
+  "county": "Jefferson",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Foothills Fire Protection District",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2023/01/2022-Missions-Website.pdf",
+  "notes": "Injury mechanism not stated in log; ART mission 2022-073.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Beaver Brook Trail",
+  "place_type": "trail",
+  "legacy_id": 1125
+}

@@ -1,0 +1,19 @@
+{
+  "id": "b4c4c3d9-6871-4cf0-a1a2-3d4e8aa03144",
+  "date": "2024-07-01",
+  "summary": "Climber with an ankle injury in Boulder Canyon; NFPD crews assisted with the evacuation.",
+  "location": "Boulder Canyon",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Nederland Fire Protection District",
+  "source_urls": "https://www.nfpd.org/files/599cc1d65/Chiefs+Board+report+08212024.pdf",
+  "notes": "DATE APPROXIMATE — month-pinned per run-800 NFPD convention; ~July 17–Aug 21, 2024 window of the Aug 21, 2024 report. Distinct from id 3310 (Boulder Canyon fallen climber, Aug 21–Sep 17 window, Sept 17, 2024 report).",
+  "peak": "Boulder Canyon",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3351
+}

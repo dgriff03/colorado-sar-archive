@@ -1,0 +1,19 @@
+{
+  "id": "3d564157-eca1-4796-9a5d-6a15f3cbe13d",
+  "date": "2017-07-29",
+  "summary": "Barney Criz, 27, of Seguin, Texas, died in an apparent rockfall between Blanca Peak and Lake Como; witnesses heard rocks sliding",
+  "location": "Blanca Peak, near Lake Como",
+  "county": "Alamosa",
+  "incident_type": "rockfall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "County Sheriff",
+  "source_urls": "https://www.alanarnette.com/blog/2017/08/28/staying-safe-on-colorados-deadly-14ers/",
+  "notes": "Denver Post roundup spells surname Cruz and dates it July 28",
+  "peak": "Blanca Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 414
+}

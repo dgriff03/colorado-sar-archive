@@ -1,0 +1,19 @@
+{
+  "id": "8a203bf7-1e02-4abe-86ea-aa715ffa9c16",
+  "date": "2021-06-09",
+  "summary": "Female hiker on a Continental Divide Trail trek was struck in the lower left leg by a rolling rock while descending a steep, treacherous incline near Platoro, breaking her tibia; the couple pushed their SPOT emergency beacon. Flight for Life from Durango dropped a nurse team that climbed a snow-filled avalanche chute to reach her; the Conejos County sheriff and undersheriff were airlifted to the scene from Platoro. She was carried off the mountain and flown to the Pagosa Springs hospital.",
+  "location": "Snow-filled avalanche chute near Platoro, Continental Divide Trail",
+  "county": "Conejos",
+  "incident_type": "rockfall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Conejos County Sheriff's Office; Conejos County Search and Rescue; Flight for Life (Durango, Pueblo)",
+  "source_urls": "https://conejoscounty.colorado.gov/sites/conejoscounty/files/documents/july-1-2021-newsletter-1-5.pdf",
+  "notes": "Extracted in the same June 9, 2021 SAR operation as a second, unassociated male hiker who fell several hundred feet down the same chute (separate row). Sheriff's newsletter notes four Conejos County high-country SAR responses in the first half of June 2021, two with Flight for Life.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Continental Divide Trail",
+  "place_type": "trail",
+  "legacy_id": 2384
+}

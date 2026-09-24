@@ -1,0 +1,19 @@
+{
+  "id": "2dbf26ba-8285-4a0c-8a15-82ab46b16513",
+  "date": "2018-09-17",
+  "summary": "32-year-old man swimming near the South Bay swim beach at Horsetooth Reservoir went under and did not resurface ~2:33 p.m. Divers located him ~50 minutes later ~45 ft from shore and pulled him from the water; he was flown by helicopter to a local hospital but did not survive. His wife, on the beach, called 911 when she lost sight of him.",
+  "location": "Horsetooth Reservoir, South Bay swim beach",
+  "county": "Larimer",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Larimer County Sheriff's Office, Larimer County Department of Natural Resources Park Rangers, Poudre Fire Authority, Larimer County Dive Rescue Team",
+  "source_urls": "https://northfortynews.com/category/news/body-recovered-at-horsetooth-reservoir/",
+  "notes": "Coroner's office to release identity at a later date; not published in the article.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Horsetooth Reservoir",
+  "place_type": "reservoir",
+  "legacy_id": 2439
+}

@@ -1,0 +1,19 @@
+{
+  "id": "1bbe81d4-f52d-4dd8-86a0-cc681a952da3",
+  "date": "2024-10-28",
+  "summary": "A 19-year-old bypassed the park entry gate at high speed; the vehicle was found three miles down East Portal Road, off the side about 150 feet down a slope, empty, with signs the driver's head hit the windshield; an area search with ground teams, dogs, and drones (Montrose County, NPS, Gunnison SAR) began October 28; the individual was found deceased on November 5 by drone at the base of cliffs and the body was recovered with technical rope rescue techniques.",
+  "location": "East Portal Road, Black Canyon of the Gunnison NP",
+  "county": "Montrose",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Montrose County Sheriff's Office; NPS Black Canyon rangers; Gunnison SAR; Montrose County Coroner",
+  "source_urls": "http://npshistory.com/morningreport/incidents/blca.htm",
+  "notes": "NPS morning-report entries dated 2024-11-13 (sources: Montrose Press, Idaho Statesman). Individual was the vehicle's registered owner; phone and wallet left behind. 2024-10-28 is the incident-start date; body found 2024-11-05.",
+  "peak": "Black Canyon of the Gunnison",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2783
+}

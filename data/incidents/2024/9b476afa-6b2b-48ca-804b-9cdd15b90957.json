@@ -1,0 +1,19 @@
+{
+  "id": "9b476afa-6b2b-48ca-804b-9cdd15b90957",
+  "date": "2024-03-10",
+  "summary": "Avalanche near the summit of Berthoud Pass",
+  "location": "Berthoud Pass",
+  "county": "Clear Creek",
+  "incident_type": "avalanche",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "Burial/subject not confirmed in log; ART mission 2024-016.",
+  "peak": "Berthoud Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1341
+}

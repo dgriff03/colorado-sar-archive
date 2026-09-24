@@ -1,0 +1,19 @@
+{
+  "id": "a721a3c1-58db-478a-9a73-8a8c17464aaa",
+  "date": "2019-08-14",
+  "summary": "Man in his 20s fell ~20 ft lead climbing the Yellow Spur route on the Red Garden Wall, Eldorado Canyon State Park, after calling for slack and missing a handhold; serious but non-life-threatening injuries; BCSO, RMRG, Rocky Mountain Fire Authority, and Colorado Parks & Wildlife ran a ~3-hour technical rescue — litter carry to ambulance, transported to area hospital",
+  "location": "Yellow Spur, Red Garden Wall, Eldorado Canyon State Park",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "BCSO, Rocky Mountain Rescue Group, Rocky Mountain Fire Authority, Colorado Parks and Wildlife",
+  "source_urls": "https://www.mountainproject.com/forum/topic/117597820/yellow-spur-accident",
+  "notes": "Source quotes the Daily Camera 2019-08-14 article verbatim (Daily Camera fetch failed, paywall/JS); run 646 BCSO chunk",
+  "peak": "Eldorado Canyon",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3125
+}

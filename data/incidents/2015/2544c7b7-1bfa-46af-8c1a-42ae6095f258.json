@@ -1,0 +1,19 @@
+{
+  "id": "2544c7b7-1bfa-46af-8c1a-42ae6095f258",
+  "date": "2015-08-15",
+  "summary": "Father and two sons overdue from Gibson Creek; located uninjured and emerged on their own",
+  "location": "Gibson Creek",
+  "county": "Custer",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 3,
+  "responding_agency": "Custer County SAR",
+  "source_urls": "https://custersar.org/hectic-weekend-for-local-sar-teams-in-the-sangres/",
+  "notes": "date estimated: from official combined report covering the Aug 14-16, 2015 weekend",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Gibson Creek",
+  "place_type": "creek",
+  "legacy_id": 263
+}

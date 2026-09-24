@@ -1,0 +1,19 @@
+{
+  "id": "ae118b0d-6e31-4b84-b333-1472a2295bba",
+  "date": "2016-02-26",
+  "summary": "Missing 3-year-old in the Kings Valley area off Highway 285",
+  "location": "Kings Valley (off Hwy 285)",
+  "county": "",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-17. County ambiguous in one-liner; left blank",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Kings Valley",
+  "place_type": "other",
+  "legacy_id": 2052
+}

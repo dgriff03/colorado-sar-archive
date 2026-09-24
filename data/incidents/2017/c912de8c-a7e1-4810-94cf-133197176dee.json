@@ -1,0 +1,19 @@
+{
+  "id": "c912de8c-a7e1-4810-94cf-133197176dee",
+  "date": "2017-08-13",
+  "summary": "Two front-range hikers descending Snowmass Mountain's S-Ridge to escape lightning got cliffed out on the west face and activated a Garmin inReach SOS; CBMRT technical team flown in by CareFlight 4 led a 60-meter 5.8 pitch to reach them and lowered them off the cliff with the San Juan Pickoff technique",
+  "location": "West face, Snowmass Mountain",
+  "county": "Gunnison",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Crested Butte Mountain Rescue Team; CareFlight 4 (Montrose); High Altitude Army National Guard (standby)",
+  "source_urls": "https://crestedbuttenews.com/2017/08/cb-mountain-rescue-plucks-climbers-from-snowmass-mountain/|http://coloradosar.org/san-juan-pickoff/",
+  "notes": "SOS call Sunday 2017-08-13 afternoon; subjects not injured, cold/wet on a small ledge overnight; technical rescue completed morning of 2017-08-14 run-757 merge: coloradosar.org Randy Felix first-person \"San Juan Pickoff\" CSAR writeup (parent-opened) corroborates the 2017-08-13 Snowmass west-face rescue (S-Ridge lightning, Garmin inReach, CareFlight helo to 12,500 ft, 5.8 pitch).",
+  "peak": "Snowmass Mountain",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2196
+}

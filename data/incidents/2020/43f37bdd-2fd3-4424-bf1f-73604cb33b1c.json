@@ -1,0 +1,19 @@
+{
+  "id": "43f37bdd-2fd3-4424-bf1f-73604cb33b1c",
+  "date": "2020-04-25",
+  "summary": "Carryout for injured hiker on Bergen Peak, Jeffco (2020-20)",
+  "location": "Bergen Peak",
+  "county": "Jefferson",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2021/01/2020-Missions-Website.pdf",
+  "notes": "ART mission 2020-20.",
+  "peak": "Bergen Peak",
+  "setting": "frontcountry",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 775
+}

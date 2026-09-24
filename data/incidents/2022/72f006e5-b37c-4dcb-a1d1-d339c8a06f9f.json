@@ -1,0 +1,19 @@
+{
+  "id": "72f006e5-b37c-4dcb-a1d1-d339c8a06f9f",
+  "date": "2022-09-20",
+  "summary": "Two lost parties in the Cloudland Picnic area off Hwy 103",
+  "location": "Cloudland Picnic area (Hwy 103)",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2023/01/2022-Missions-Website.pdf",
+  "notes": "Final outcome not stated in log; ART mission 2022-102.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Cloudland",
+  "place_type": "other",
+  "legacy_id": 1155
+}

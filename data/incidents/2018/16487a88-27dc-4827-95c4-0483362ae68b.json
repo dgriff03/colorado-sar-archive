@@ -1,0 +1,19 @@
+{
+  "id": "16487a88-27dc-4827-95c4-0483362ae68b",
+  "date": "2018-06-30",
+  "summary": "Maria Blakley, 18, of Dinosaur, found deceased at the scene of a single-vehicle crash on Harpers Corner Road in Dinosaur National Monument (~3 mi north of Hwy 40); last seen ~9 p.m. June 29, a passerby reported the vehicle off the road ~7 a.m. June 30; Artesia Fire Department first on scene; National Park Service and Colorado State Patrol jointly investigated; the road was closed until 1 p.m.",
+  "location": "Harpers Corner Road (~3 mi north of Hwy 40), Dinosaur National Monument",
+  "county": "Moffat",
+  "incident_type": "vehicle",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Artesia Fire Department; National Park Service; Colorado State Patrol",
+  "source_urls": "https://www.nps.gov/dino/learn/news/june2018vehiclefatality.htm",
+  "notes": "DATE APPROXIMATE — vehicle found Saturday morning; crash occurred overnight 2018-06-29/30. First Moffat County 2018 row in the index. Scope: road-vehicle fatality with documented multi-agency response (fire + NPS + CSP) per ids 3262/3475/2393/3357/3338 precedent.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Harpers Corner Road",
+  "place_type": "road",
+  "legacy_id": 3644
+}

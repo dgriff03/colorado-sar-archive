@@ -1,0 +1,19 @@
+{
+  "id": "4f9182bd-6139-4f3a-8e0b-ae1317fb046c",
+  "date": "2013-07-22",
+  "summary": "Response for an injured party in the Mt Falcon area (13-52).",
+  "location": "Mt Falcon",
+  "county": "Jefferson",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/category/recent-missions/jefferson-county/page/36/",
+  "notes": "Alpine Rescue Team mission 13-52; paged 07/22/13 08:29.",
+  "peak": "Mount Falcon",
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2221
+}

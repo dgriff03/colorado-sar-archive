@@ -1,0 +1,19 @@
+{
+  "id": "6b19c20d-d2c6-4bea-8e74-42ed347d14a3",
+  "date": "2024-06-01",
+  "summary": "Raft capsized near Yarmony Rapid on the Upper Colorado River below Radium Hot Springs; Brent Boulter, 56, of Aurora died despite bystander CPR; Thomas Russell, 61, of Littleton missing after raft/ground/drone/Hi-Rail searches between Radium and Two Bridges; third rafter self-rescued; neither victim wore a life jacket",
+  "location": "Yarmony Rapid, Upper Colorado River below Radium Hot Springs",
+  "county": "Grand",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 3,
+  "responding_agency": "Grand County Sheriff's Office",
+  "source_urls": "https://krystal93.com/search-continues-for-missing-rafter-on-upper-colorado-river/",
+  "notes": "Date pinned 2024-06-01 (Saturday): story reports the raft flipped \"on Saturday\", the river was searched \"Saturday and Sunday\", and \"the search continues today\"; page \"last updated 837 days ago\" resolves to Sun 2024-06-02. Russell still unlocated at story time. Incident-focused only.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Colorado River",
+  "place_type": "river",
+  "legacy_id": 3417
+}

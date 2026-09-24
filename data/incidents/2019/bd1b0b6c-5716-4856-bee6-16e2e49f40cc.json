@@ -1,0 +1,19 @@
+{
+  "id": "bd1b0b6c-5716-4856-bee6-16e2e49f40cc",
+  "date": "2019-07-21",
+  "summary": "Bill Wood, 47, of Denver tumbled about 150 ft on a snowfield roughly 700 ft below Cathedral Peak's summit, injuring his ankle; he activated a SPOT emergency beacon at 7:45 a.m.; Mountain Rescue Aspen volunteers and a medical helicopter dispatched from Frisco located him and a companion at 13,200 ft on the peak's east face and airlifted him to the hospital",
+  "location": "Cathedral Peak, east face at 13,200 ft",
+  "county": "Pitkin",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Mountain Rescue Aspen + medical helicopter (Frisco)",
+  "source_urls": "https://unofficialnetworks.com/2019/07/25/spot-beacon-rescue-colorado/",
+  "notes": "Date inferred: article published Thu 2019-07-25 reports the incident on \"Sunday\", i.e. 2019-07-21. MRA reached the party at 11:38 a.m.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Cathedral Peak",
+  "place_type": "peak",
+  "legacy_id": 2244
+}

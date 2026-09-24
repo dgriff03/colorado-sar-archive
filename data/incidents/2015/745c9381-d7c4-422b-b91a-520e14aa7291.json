@@ -1,0 +1,19 @@
+{
+  "id": "745c9381-d7c4-422b-b91a-520e14aa7291",
+  "date": "2015-06-28",
+  "summary": "24-year-old man tumbled about 150 ft down The Homestretch on the Keyhole Route of Longs Peak; rangers assisted him through the Boulder Field and stayed with him overnight; Lifeguard One helicopter to MCR.",
+  "location": "The Homestretch, Keyhole Route, Longs Peak, Rocky Mountain National Park",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "National Park Service",
+  "source_urls": "https://www.npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "NPS ROMO morning-report compendium entry.",
+  "peak": "Longs Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2854
+}

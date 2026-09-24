@@ -1,0 +1,19 @@
+{
+  "id": "8a15f982-a4e0-4969-9407-977ec202f944",
+  "date": "2026-08-17",
+  "summary": "Satellite messenger activation from a hiker in the Herman Lake area",
+  "location": "Herman Lake area",
+  "county": "Clear Creek",
+  "incident_type": "other",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/category/mesa-county/clear-creek-county/page/3/",
+  "notes": "ART mission 2026-114; paged code 3; post dated 2026-08-17 but paged-time line reads '06/17/26 19:03' (likely typo for 08/17/26); mission-sequence order supports 2026-08-17; terse one-liner, outcome not published.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Herman Lake",
+  "place_type": "lake",
+  "legacy_id": 2726
+}

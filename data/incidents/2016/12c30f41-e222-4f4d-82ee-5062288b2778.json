@@ -1,0 +1,19 @@
+{
+  "id": "12c30f41-e222-4f4d-82ee-5062288b2778",
+  "date": "2016-01-05",
+  "summary": "Ice leader struck by falling object on Skylight, Ouray, and injured; guide service, ambulance, and helicopter response.",
+  "location": "Ouray, Skylight",
+  "county": "Ouray",
+  "incident_type": "rockfall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "San Juan Mountain Guides, ambulance, helicopter",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201214377",
+  "notes": "",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Ouray",
+  "place_type": "town",
+  "legacy_id": 285
+}

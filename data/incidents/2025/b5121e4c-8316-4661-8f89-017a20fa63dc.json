@@ -1,0 +1,19 @@
+{
+  "id": "b5121e4c-8316-4661-8f89-017a20fa63dc",
+  "date": "2025-04-20",
+  "summary": "Injured 31-year-old male skier on the north side of Grizzly Peak",
+  "location": "Grizzly Peak",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf|https://unofficialnetworks.com/2025/04/24/snowboarder-avalanche-broken-knee/",
+  "notes": "Injury mechanism not stated in log; county unverified; ART mission 2025-032. UN merge (run 663): UN/CAIC article confirms same incident (north-facing gully, Grizzly Peak, Alpine Rescue Team 24 members + snowmobiles, Flight for Life to Frisco, 4/20 weekend) — DISCREPANCY: UN says the victim was a snowboarder in a mixed party of 4; ART mission log says skier.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Grizzly Peak",
+  "place_type": "peak",
+  "legacy_id": 1567
+}

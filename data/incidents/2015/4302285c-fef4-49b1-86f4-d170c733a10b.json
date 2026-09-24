@@ -1,0 +1,19 @@
+{
+  "id": "4302285c-fef4-49b1-86f4-d170c733a10b",
+  "date": "2015-08-26",
+  "summary": "Two men text-guided off Kit Carson during a storm; reached safely",
+  "location": "Kit Carson Peak",
+  "county": "Saguache",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Custer County SAR",
+  "source_urls": "https://custersar.org/hiker-overdue-in-camp/",
+  "notes": "Storm date per official report",
+  "peak": "Kit Carson Peak",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 269
+}

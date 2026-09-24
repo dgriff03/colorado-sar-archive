@@ -1,0 +1,19 @@
+{
+  "id": "e4d13218-5420-48e1-8a6f-1cfd38ae04de",
+  "date": "2026-03-01",
+  "summary": "Hiker suffered a major heart attack on the Manitou Incline; Fort Carson combat medic Spc. Faraz Farooqui coordinated with aerial support and the patient was successfully airlifted to a nearby hospital for critical care.",
+  "location": "Manitou Incline, Manitou Springs",
+  "county": "El Paso",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Fort Carson (combat medic); aerial medical evacuation",
+  "source_urls": "https://www.dvidshub.net/image/9635483/fort-carson-combat-medic-saves-hiker-manitou-incline",
+  "notes": "DVIDS image metadata: Date Taken 03.01.2026 (posted 04.23.2026); 2026-03-01 = Sunday. Run 640 EPSO chunk; parent-opened this run. Inserted in backfill per run-634 convention refinement (predates freshness-sweep windows; fully verified). Possible EPCSAR TikTok of a top-of-Incline rescue undated and unused.",
+  "peak": "Pikes Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3092
+}

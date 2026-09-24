@@ -1,0 +1,19 @@
+{
+  "id": "0d83f0d9-ef2f-40ed-8de9-cc2097a67c30",
+  "date": "2020-07-12",
+  "summary": "Party needing assistance in the Music Pass area; airlifted out by Flight for Life",
+  "location": "Music Pass area",
+  "county": "Saguache",
+  "incident_type": "other",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Custer County SAR + Saguache County SAR + NPS + Flight for Life",
+  "source_urls": "https://custersar.org/saguache-assist-in-the-great-sand-dunes-national-park-and-preserve/|https://custersar.org/past-missions/",
+  "notes": "Nature of emergency not stated | run 833: CCSAR Past Missions archive (July-13-2020 post) corroborates the 2020-07-12 Music Pass party-assist — CCSAR ground + ATV teams deployed, Flight For Life activated",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Music Pass",
+  "place_type": "pass",
+  "legacy_id": 812
+}

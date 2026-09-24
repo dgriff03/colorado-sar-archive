@@ -1,0 +1,19 @@
+{
+  "id": "ee1af415-219d-4553-9ffa-e2e64464a5ba",
+  "date": "2014-11-27",
+  "summary": "Alpine paged Code 3 for a possible avalanche entrapment in the Loveland Valley area (Alpine mission 14-125)",
+  "location": "Loveland Valley",
+  "county": "Clear Creek",
+  "incident_type": "avalanche",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2015/01/2014-Missions-Website.pdf",
+  "notes": "Alpine Rescue Team 2014 annual mission summary PDF (one-line mission log; page date used as mission date). possible avalanche involvement; outcome not stated in the log",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Loveland Valley",
+  "place_type": "other",
+  "legacy_id": 1955
+}

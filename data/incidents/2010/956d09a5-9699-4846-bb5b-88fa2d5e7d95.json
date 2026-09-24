@@ -1,0 +1,19 @@
+{
+  "id": "956d09a5-9699-4846-bb5b-88fa2d5e7d95",
+  "date": "2010-08-15",
+  "summary": "Injured party on East Ridge of Mt Bierstadt (10-68)",
+  "location": "Mt Bierstadt East Ridge",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-68. Cause of injury not stated.",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 77
+}

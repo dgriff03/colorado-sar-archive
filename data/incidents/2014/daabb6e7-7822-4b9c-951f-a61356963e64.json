@@ -1,0 +1,19 @@
+{
+  "id": "daabb6e7-7822-4b9c-951f-a61356963e64",
+  "date": "2014-02-11",
+  "summary": "Clark Nelson, 66, of Garden City, Kansas: his SUV got stuck in a field over the weekend and he wandered away on foot; found safe Tuesday Feb. 11 in Cheyenne County by a Civil Air Patrol pilot who directed ground searchers to him after a six-county search (including Kiowa County); hungry and thirsty, no serious injuries",
+  "location": "Cheyenne County, eastern Colorado (found; six-county search incl. Kiowa County)",
+  "county": "Cheyenne",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Colorado Civil Air Patrol (air search); Kiowa County Sheriff's Office + multi-county ground searchers",
+  "source_urls": "https://www.gocivilairpatrol.com/media/cms/Colorado_SAR_Media_Report_BA3B1445EFD51.pdf",
+  "notes": "DATE PIN — CAP 'Colorado SAR Results' media-report PDF (parent-opened run 632): found safe 2014-02-11 (Tuesday); zero Cheyenne rows and zero Clark-Nelson rows before insert. Not the pre-2010/Kansas-only items: found in Cheyenne County, CO.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3079
+}

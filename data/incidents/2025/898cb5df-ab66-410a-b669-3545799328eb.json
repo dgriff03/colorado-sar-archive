@@ -1,0 +1,19 @@
+{
+  "id": "898cb5df-ab66-410a-b669-3545799328eb",
+  "date": "2025-04-19",
+  "summary": "Possible avalanche on Mt Russell near Berthoud Pass",
+  "location": "Mt Russell (Berthoud Pass)",
+  "county": "Clear Creek",
+  "incident_type": "avalanche",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf",
+  "notes": "Possible avalanche; burial/subject not confirmed; county unverified; ART mission 2025-031.",
+  "peak": "Berthoud Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1566
+}

@@ -1,0 +1,19 @@
+{
+  "id": "c4ed67fc-3c08-4168-a6d9-b12209133e24",
+  "date": "2014-08-06",
+  "summary": "Search for a missing 10-year-old female in the Marshdale Elementary School area (Alpine mission 14-68)",
+  "location": "Marshdale Elementary School",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2015/01/2014-Missions-Website.pdf",
+  "notes": "Alpine Rescue Team 2014 annual mission summary PDF (one-line mission log; page date used as mission date).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Marshdale Elementary School",
+  "place_type": "other",
+  "legacy_id": 1914
+}

@@ -1,0 +1,19 @@
+{
+  "id": "236d9eb1-3ded-4c84-96c8-674766ddb89e",
+  "date": "2023-07-05",
+  "summary": "Solo female backpacker stranded by deep snow on the north side of Silver Creek Pass; cold and tired, unable to navigate the buried trail; helicopter extraction",
+  "location": "Silver Creek Trail, East Avalanche Creek, Maroon Bells-Snowmass Wilderness (Lead King Loop outside Marble)",
+  "county": "Gunnison",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Gunnison County Sheriff's Office; West Elk Mountain Rescue",
+  "source_urls": "https://www.kvnf.org/show/kvnf-regional-newscast/2023-07-12/kvnf-regional-newscast-july-12-2023",
+  "notes": "KVNF regional newscast 2023-07-12: WEMR responded to two incidents in three days on the Silver Creek Trail during the high-snowpack 2023 season; this party helicopter-transported.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Silver Creek Trail",
+  "place_type": "trail",
+  "legacy_id": 2721
+}

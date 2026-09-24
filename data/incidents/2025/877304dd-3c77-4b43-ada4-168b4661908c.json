@@ -1,0 +1,19 @@
+{
+  "id": "877304dd-3c77-4b43-ada4-168b4661908c",
+  "date": "2025-07-30",
+  "summary": "Hiker suffering high-altitude pulmonary edema (HAPE) unable to walk more than ~10 feet at a time was airlifted by Flight for Life to a hospital",
+  "location": "Summit County backcountry",
+  "county": "Summit",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Summit County Rescue Group + Summit County Sheriff, Flight for Life",
+  "source_urls": "https://unofficialnetworks.com/2025/07/30/hiker-rescued-high-altitude-pulmonary-edema/",
+  "notes": "approx; article published July 30 2025 describing recent rescue",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1623
+}

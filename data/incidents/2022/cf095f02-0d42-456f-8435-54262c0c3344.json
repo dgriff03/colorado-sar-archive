@@ -1,0 +1,19 @@
+{
+  "id": "cf095f02-0d42-456f-8435-54262c0c3344",
+  "date": "2022-08-15",
+  "summary": "Douglas Christensen, 53, of Castle Pines, fell ~30 ft while descending Windom Peak (14,089 ft) in the Chicago Basin area of the Weminuche Wilderness. A climbing partner and a passerby attempted CPR at the scene without success. Storms prevented aerial recovery Monday; conditions allowed his body to be removed Tuesday via helicopter long-line extraction.",
+  "location": "Windom Peak, Chicago Basin",
+  "county": "La Plata",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "La Plata County",
+  "source_urls": "https://www.denvergazette.com/2022/08/17/man-dies-after-fall-on-remote-14089-foot-peak-in-colorado-fb291662-06e7-5bba-becf-a6b3af4148f6/",
+  "notes": null,
+  "peak": "Windom Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3047
+}

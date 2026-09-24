@@ -1,0 +1,19 @@
+{
+  "id": "ec2dab7b-f333-47b6-a96a-55c3f2ca39db",
+  "date": "2022-03-15",
+  "summary": "Lost/overdue male snowboarder in the Loveland Pass area",
+  "location": "Loveland Pass",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2023/01/2022-Missions-Website.pdf",
+  "notes": "Final outcome not stated in log; ART mission 2022-014.",
+  "peak": "Loveland Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1054
+}

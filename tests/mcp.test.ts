@@ -9,7 +9,7 @@ import { StdioClientTransport } from '@modelcontextprotocol/sdk/client/stdio.js'
 test('MCP stdio handshake, search, pagination, details, groups and invalid inputs', async () => {
   const dir = await mkdtemp(resolve(tmpdir(), 'sar-mcp-'));
   const records = [1, 2, 3].map((i) => ({
-    id: `legacy-00000${i}`,
+    id: i === 1 ? '11111111-1111-4111-8111-111111111111' : `legacy-00000${i}`,
     date: `2025-01-0${i}`,
     merged_ids: i === 1 ? ['legacy-000099'] : [],
     summary: 'Injured hiker on Longs Peak',
@@ -64,8 +64,8 @@ test('MCP stdio handshake, search, pagination, details, groups and invalid input
     ).structuredContent as any;
     assert.equal(detail.incident.notes, 'Source uncertainty preserved');
     const merged = (await client.callTool({ name: 'get_incident', arguments: { id: 'legacy-000099' } })).structuredContent as any;
-    assert.equal(merged.incident.id, 'legacy-000001');
-    assert.ok(merged.url.endsWith('?incident=legacy-000001'));
+    assert.equal(merged.incident.id, '11111111-1111-4111-8111-111111111111');
+    assert.ok(merged.url.endsWith('?incident=11111111-1111-4111-8111-111111111111'));
 
     const filtered = (
       await client.callTool({

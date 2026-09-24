@@ -1,0 +1,19 @@
+{
+  "id": "3dac37e6-ab73-4acd-90d8-6beec7338208",
+  "date": "2016-02-13",
+  "summary": "Skier-triggered large wet-slab avalanche on a southern aspect above treeline at ~12,200 ft on Red Mountain Pass buried US 550 under 12-15 ft of debris; two caught skiers sustained minor injuries, no deaths; CAIC rated it R3/D3; unusually warm weather cited as the trigger factor",
+  "location": "Red Mountain Pass / US 550 near Silverton",
+  "county": "San Juan",
+  "incident_type": "avalanche",
+  "outcome": "injury",
+  "victims": 2,
+  "responding_agency": "",
+  "source_urls": "https://snowbrains.com/2-injured-from-avalanche-1-highway-closure/|https://www.kvnf.org/news/2016-02-16/kvnf-regional-newscast-tuesday-feb-16-2015",
+  "notes": "DATE APPROXIMATE — the SnowBrains account is internally inconsistent (gives February 13 in the lead, 'mid-day February 16' later); the KVNF regional newscast at 8:01 AM on Feb 16 already reported it, so Feb 13 (Saturday) is the best pin. SAR agencies unnamed in source; CDOT cleared the highway with heavy machinery.",
+  "peak": "Red Mountain Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2903
+}

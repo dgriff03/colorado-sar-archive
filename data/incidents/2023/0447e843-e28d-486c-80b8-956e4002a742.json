@@ -1,0 +1,19 @@
+{
+  "id": "0447e843-e28d-486c-80b8-956e4002a742",
+  "date": "2023-09-11",
+  "summary": "Climber fell from the Great White Wall in Black Canyon of the Gunnison and was knocked unconscious with major traumatic injuries; NPS teams descended 1,800 ft and a Guard helicopter flew the patient out.",
+  "location": "Great White Wall, North Rim, Black Canyon of the Gunnison National Park",
+  "county": "Montrose",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "National Park Service; Colorado Army National Guard helicopter; medical air ambulance (to St. Mary's Hospital, Grand Junction)",
+  "source_urls": "https://www.ems1.com/rescue/articles/rescue-teams-hike-climb-2100-feet-into-colo-canyon-for-injured-climber-uaq9pFUTmavd5zWP/|https://publications.americanalpineclub.org/articles/13201216997|https://www.nps.gov/blca/learn/news/injured-climber-rescued-off-great-white-wall-route-at-black-canyon.htm|http://npshistory.com/morningreport/incidents/blca.htm|https://www.climbing.com/news/major-climbing-accident-rescue-black-canyon/?scope=anon|https://www.npshistory.com/morningreport/incidents/blca.htm",
+  "notes": "Fall ~10:30am Monday; rescue teams hiked to North Rim, dropped 1,800 ft in, scaled 300 ft to climber, lowered to canyon bottom; helicopter evacuation ~7:30pm. Subject identified via the AAC Accidents narrative: Becca Steinbrecher, 30; her partner Skyeler Congdon, 40, rappelled the route and drove to the North Rim ranger station for help after securing her to an anchor (concerned about a spinal injury). 28-person SAR team (Black Canyon NPS + Western Colorado University SAR), CO Army National Guard HAATS Black Hawk flew her out ~7:25 p.m., transferred to medical air ambulance in Montrose, then to St. Mary's in Grand Junction with major trauma injuries. Run-493 merge: Climbing magazine feature (opened; published 2023-09-19) identifies the fallen climber as Becca, 30, of Grand Junction, with partner Skyeler Congdon; fall ~7:30 a.m. Monday from ~30 ft up the fourth pitch of The Great White Wall (IV 5.10d, 1,300 ft) after a foothold broke and a yellow TCU ripped; multiple broken bones, punctured lung, severe head injury, unconscious ~11 hours; HAATS Black Hawk hoist ~7 p.m.; coma/critical condition at St. Mary's, slow recovery. | blca.htm NPS morning-report entry confirms date/location: Sept-11-2023 technical rope rescue on the Great White Wall route, North Rim (Long Draw approach, ~300-ft climb, lower to canyon floor), Army National Guard helicopter to Montrose then medical air ambulance to St. Mary's, Grand Junction.",
+  "peak": "Black Canyon of the Gunnison",
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1284
+}

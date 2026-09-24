@@ -1,0 +1,19 @@
+{
+  "id": "663e6c9c-3e3c-4e2e-a162-eed2af8cc921",
+  "date": "2019-07-27",
+  "summary": "Lowering error caused approximately 40-foot fall on Sushi Slab/Dragon Roll; lower-leg fracture; Alpine Rescue Team technical evacuation.",
+  "location": "Sushi Slab/Dragon Roll",
+  "county": "Jefferson",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201215601",
+  "notes": "Exact Colorado location/county unresolved; listed as Jefferson.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Sushi Slab / Dragon Roll",
+  "place_type": "climbing_area",
+  "legacy_id": 691
+}

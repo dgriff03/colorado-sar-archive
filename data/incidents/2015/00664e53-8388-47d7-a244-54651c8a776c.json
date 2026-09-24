@@ -1,0 +1,19 @@
+{
+  "id": "00664e53-8388-47d7-a244-54651c8a776c",
+  "date": "2015-08-29",
+  "summary": "Spot-locator SOS activation near Maroon Pass activated Crested Butte Search and Rescue; a St. Mary's helicopter located the party and flew one individual to an Aspen-area hospital for unknown injuries.",
+  "location": "near Maroon Pass",
+  "county": "Gunnison",
+  "incident_type": "other",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Crested Butte Search and Rescue; Mt. Crested Butte Police Department; St. Mary's helicopter",
+  "source_urls": "http://crestedbuttenews.com/2015/09/spot-locator-activated-close-to-maroon-pass-initiates-rescue/",
+  "notes": "CBSAR stood down after helicopter extraction; injuries and circumstances unknown (only communication was the spot-locator emergency notification). Date stated in-story as Saturday, August 29 (2015-08-29 = Saturday, verified).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Maroon Pass",
+  "place_type": "pass",
+  "legacy_id": 3340
+}

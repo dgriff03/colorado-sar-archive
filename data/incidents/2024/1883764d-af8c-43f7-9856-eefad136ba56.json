@@ -1,0 +1,19 @@
+{
+  "id": "1883764d-af8c-43f7-9856-eefad136ba56",
+  "date": "2024-06-30",
+  "summary": "Two unidentified hikers attempting the Four Pass Loop lost their gear and were stranded near Snowmass Lake in the Maroon Bells-Snowmass Wilderness, exposed to harsh winter-storm weather without shelter; SOS via Garmin inReach at 9:27 p.m. Sunday; four Mountain Rescue Aspen rescuers hiked in at 11:20 p.m. (helicopter rescue precluded by weather), located them at 5:04 a.m. Monday and escorted them down the Snowmass Creek Trail to the trailhead by 10:17 a.m.",
+  "location": "Snowmass Lake / Four Pass Loop, Maroon Bells-Snowmass Wilderness",
+  "county": "Pitkin",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Mountain Rescue Aspen; Pitkin County Sheriff's Office",
+  "source_urls": "https://snowbrains.com/winter-storm-traps-unprepared-hikers-on-four-pass-loop-maroon-bells-snowmass-wilderness-area-co/",
+  "notes": "Incident date = Sunday 2024-06-30 SOS; rescue completed Monday 2024-07-01 (weekday-verified). Pitkin County Sheriff's Office issued a news release on the rescue (cited by SnowBrains). Both hikers uninjured but cold and wet.",
+  "peak": "Snowmass Mountain",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2574
+}

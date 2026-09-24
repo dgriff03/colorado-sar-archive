@@ -1,0 +1,19 @@
+{
+  "id": "93955981-f609-4bbd-8559-d829ca61e7be",
+  "date": "2023-01-08",
+  "summary": "Five backcountry snowmobilers ran out of fuel near the Lost Creek Ranger Station, Routt County; group took shelter at the ranger station and was contacted by Classic Air; Moffat County SAR hauled fuel to their location early Sunday morning and all five riders were brought safely back to the trailhead where family were waiting",
+  "location": "Lost Creek Ranger Station area",
+  "county": "Routt",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 5,
+  "responding_agency": "Moffat County Search and Rescue; Classic Air Medical",
+  "source_urls": "https://www.basinnow.com/search-and-rescue-working-overtime-in-western-colorado/",
+  "notes": "Date approximate: Basin Now article archive-dated 2023-01-10 describes a \"busy weekend\" with the fuel haul early Sunday morning -> 2023-01-08; Moffat County SAR mutual-aid assist in Routt County",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Lost Creek",
+  "place_type": "creek",
+  "legacy_id": 2289
+}

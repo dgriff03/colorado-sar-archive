@@ -1,0 +1,19 @@
+{
+  "id": "a414ab30-ac5c-4403-bc78-f2a9a7dee7ab",
+  "date": "2023-07-15",
+  "summary": "Small ski boat carrying three people began taking on water and sank Saturday evening shortly after launching at Lake Pueblo State Park; witnesses on shore and CPW park rangers attempted a rescue; the two passengers wearing life jackets resurfaced; the third passenger's body was recovered by Pueblo County Sheriff's Office divers",
+  "location": "Lake Pueblo State Park",
+  "county": "Pueblo",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "CPW rangers; Pueblo County Sheriff's Office dive team",
+  "source_urls": "https://theprowersjournal.com/2023/07/17/",
+  "notes": "Story 'Two Survive Sinking Boat in Lake Pueblo; Pueblo County Divers Recover Body of Third Passenger' (carries the CPW release) on the Prowers Journal 2023-07-17 archive page, parent-opened this run; direct article URL not recoverable (browser-tool fetch failed)",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Lake Pueblo State Park",
+  "place_type": "lake",
+  "legacy_id": 2952
+}

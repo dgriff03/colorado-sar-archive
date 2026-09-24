@@ -1,0 +1,19 @@
+{
+  "id": "639aab67-77ac-484a-a728-4589d5941b8c",
+  "date": "2010-05-04",
+  "summary": "45-year-old Denver man reported as a possible lost hiker on Bright Trail near Allenspark at 9:30 p.m.; an immediate evening search of nearby trails and roads found nothing; the search resumed May 5 at 7:45 a.m. and the hiker was found on the trail, uninjured and needing no medical assistance.",
+  "location": "Bright Trail, near Allenspark",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office",
+  "source_urls": "https://archives.boulderweekly.com/news/police-blotter-biker-hit-by-car/",
+  "notes": "Found May 5; BW police-blotter item \"Hiker found after two-day search\"; run 712.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Bright Trail",
+  "place_type": "trail",
+  "legacy_id": 3232
+}

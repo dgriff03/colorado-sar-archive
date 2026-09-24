@@ -1,0 +1,19 @@
+{
+  "id": "20924b30-bd31-4f47-b110-675db85659aa",
+  "date": "2019-01-21",
+  "summary": "Backcountry tourer buried and killed in an avalanche on Green Mountain above Express Creek; the group, staying at the Markley Hut near Ashcroft, located and extricated the buried skier and attempted CPR without success.",
+  "location": "Green Mountain, Express Creek",
+  "county": "Pitkin",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Pitkin County Sheriff's Office",
+  "source_urls": "https://unofficialnetworks.com/2019/01/21/colorado-backcountry-skier-reported-dead-in-avalanche-near-aspen/|https://classic.avalanche.state.co.us/caic/acc/acc_co.php\nhttps://snowbrains.com/local-man-killed-backcountry-aspen-avalanche/|https://kvnutalk.com/1-dead-in-avalanche-outside-aspen-sheriff/",
+  "notes": "CAIC preliminary report: group of six backcountry tourers staying at the Markley Hut involved in the slide ~10:20 a.m. Monday; only one was buried and killed. Victim identity not published in sources read. merged KVNU/ABC Radio 2019 story (\"1 dead in avalanche outside Aspen\", sheriff said Monday; Green Mountain ~11,200 ft north-northeast slope, Markley Hut group, CAIC preliminary report) run 802.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Green Mountain",
+  "place_type": "peak",
+  "legacy_id": 2501
+}

@@ -1,0 +1,19 @@
+{
+  "id": "1ee3b953-7f2a-45a2-8975-eaf30d44d364",
+  "date": "2021-06-09",
+  "summary": "An unassociated male hiker fell several hundred feet down the same snow-filled avalanche chute near Platoro while Flight for Life was inbound for the injured husband-and-wife team; the flight nurses reached him and rendered aid, and a second Flight for Life helicopter from Pueblo was dispatched. He was carried off the mountain and flown to the Pagosa Springs hospital with severe injuries including broken bones and deep lacerations.",
+  "location": "Snow-filled avalanche chute near Platoro, Continental Divide Trail",
+  "county": "Conejos",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Conejos County Sheriff's Office; Conejos County Search and Rescue; Flight for Life (Durango, Pueblo)",
+  "source_urls": "https://conejoscounty.colorado.gov/sites/conejoscounty/files/documents/july-1-2021-newsletter-1-5.pdf",
+  "notes": "Discovered mid-operation during the June 9, 2021 response to a separate rockfall injury (separate row); both subjects extracted in one SAR operation.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Continental Divide Trail",
+  "place_type": "trail",
+  "legacy_id": 2385
+}

@@ -1,0 +1,19 @@
+{
+  "id": "9de83c8e-496b-4ba7-93ad-733c64f6f2b6",
+  "date": "2023-11-25",
+  "summary": "Four backcountry tourers caught in an avalanche on Marble Peak; three partially buried, all survived.",
+  "location": "Marble Peak",
+  "county": "Gunnison",
+  "incident_type": "avalanche",
+  "outcome": "rescued-uninjured",
+  "victims": 4,
+  "responding_agency": "",
+  "source_urls": "https://classic.avalanche.state.co.us/caic/acc/acc_co.php",
+  "notes": "CAIC classic-table summary only; no SAR agency or victim identity published in sources found. Date weekday-verified Saturday 2023-11-25 (run 428).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Marble Peak",
+  "place_type": "peak",
+  "legacy_id": 2703
+}

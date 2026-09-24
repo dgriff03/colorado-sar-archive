@@ -1,0 +1,19 @@
+{
+  "id": "959b923b-51a0-4cbc-aecf-e3c7ed600d2d",
+  "date": "2026-08-08",
+  "summary": "Climber suffered a significant fall (~15-ft tumbling fall while wearing helmet) at ~13,550 ft on the standard route of Maroon Peak, significant ankle injury, unable to walk; mutual-aid response for Gunnison County; 4 MRA members inserted by helicopter ~1 mi from subject and remained overnight; HAATS helicopter hoist evacuation at first light; subject transported to AVH by Aspen Ambulance; all out ~8:18 AM.",
+  "location": "Maroon Peak standard route, ~13,550 ft",
+  "county": "Pitkin",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Mountain Rescue Aspen; CareFlight of the Rockies; HAATS",
+  "source_urls": "https://www.facebook.com/mountainrescueaspen/posts/pfbid0mQFMXb3zwkXVtqyhSMVAwFJFF3mSe6ZcR7JTTGs9YEJzf7AeD5iS9G8Z3XozA3NMl",
+  "notes": "Date approximate: inferred Aug 8 from Aug 9 post describing overnight mission after 5:41 PM request.",
+  "peak": "Maroon Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3366
+}

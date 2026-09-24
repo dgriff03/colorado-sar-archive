@@ -1,0 +1,19 @@
+{
+  "id": "5510c3a4-2304-4171-9e31-ee320d7aeddd",
+  "date": "2014-01-02",
+  "summary": "Snowmobiler separated from a group of four friends on a day trip from Bonham Reservoir toward Alexander Lodge, Grand Mesa; ran out of gas and made his way to Electric Mountain Lodge near Paonia, found alive with no medical issues.",
+  "location": "Bonham Reservoir area, Grand Mesa",
+  "county": "Mesa",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Mesa County SO; Mesa County SAR; Century Link helicopter; Army National Guard HAATS",
+  "source_urls": "https://kool1079.com/search-and-rescue-efforts-continue-for-lost-snowmobiler-on-grand-mesa/",
+  "notes": "Dispatched ~7 PM Jan 2; 20+ SAR volunteers plus helo support; run 78 (Mesa CrimeWatch re-check).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Bonham Reservoir",
+  "place_type": "reservoir",
+  "legacy_id": 2315
+}

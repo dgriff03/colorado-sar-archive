@@ -1,0 +1,19 @@
+{
+  "id": "bfa522b4-3143-4bdf-b7ce-2b8e20bccaa6",
+  "date": "2019-05-27",
+  "summary": "Rappel pendulum and ground fall on Bacon Is a Food Group, Waffle House, Devils Head; skull fracture and brain injury; multi-agency evacuation and Flight For Life.",
+  "location": "Devils Head, Waffle House",
+  "county": "Douglas",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Multi-agency ground evacuation, Flight For Life",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201215606",
+  "notes": "Location confirmed via Mountain Project.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Devils Head",
+  "place_type": "other",
+  "legacy_id": 648
+}

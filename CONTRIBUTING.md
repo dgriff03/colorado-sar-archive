@@ -175,13 +175,13 @@ test and build checks; update the location report when counts change.
 
 ### Merge example
 
-After combining complementary facts and sources in `legacy-000537`, the actual
+After combining complementary facts and sources in `7f168d92-8b4b-4853-816f-df6cdb676c0c`, the actual
 Lone Eagle duplicate registry entry has this shape:
 
 ```json
 {
-  "legacy-003648": {
-    "into": "legacy-000537",
+  "5c1bf6f8-ff66-41f9-b6b4-45c93052bd39": {
+    "into": "7f168d92-8b4b-4853-816f-df6cdb676c0c",
     "reason": "Confirmed same rescue; date disagreement documented in survivor notes."
   }
 }
@@ -274,3 +274,19 @@ fail validation. The exclusion report contains IDs and reasons, not summaries
 or source text. An exclusion alone does not rewrite Git history or recall old
 downloads, forks, CI artifacts or deployed snapshots. Review those separately
 when handling a removal; changes reach the live services only after deployment.
+
+## UUIDs and original import links
+
+All incident files use UUID v4 IDs, including the original SQLite import.
+`config/id-aliases.json` records the one-time migration from `legacy-*` IDs.
+Keep UUIDs stable after creation. Do not regenerate the mapping or use
+`legacy_id` on a new submission; that numeric field is import provenance only.
+Old website and MCP links resolve directly to the active UUID, including for
+merged records. SQLite `incident_aliases` includes both migration and merge
+aliases; generated `merged_ids` contains all compatibility IDs.
+
+Use UUIDs for new merge and exclusion entries. Existing old-ID exclusions are
+also recognized and suppress the corresponding UUID and its duplicate family.
+When removing files, keep migration aliases reserved so IDs cannot be reused;
+the build emits no alias for a removed or excluded target. Remove obsolete
+merge entries as described above, not the original-ID lookup.

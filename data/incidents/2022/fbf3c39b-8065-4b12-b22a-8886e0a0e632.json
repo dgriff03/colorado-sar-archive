@@ -1,0 +1,19 @@
+{
+  "id": "fbf3c39b-8065-4b12-b22a-8886e0a0e632",
+  "date": "2022-09-13",
+  "summary": "22-year-old climber fell ~30 m from the Black Wall on Mt. Spalding after stepping onto a ledge unanchored; died of injuries.",
+  "location": "Black Wall, Mt. Spalding",
+  "county": "Clear Creek",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Clear Creek County Sheriff's Office; Alpine Rescue Team",
+  "source_urls": "https://gripped.com/news/climber-dies-at-22-in-colorado-rappel-accident/|https://publications.americanalpineclub.org/articles/13201216624",
+  "notes": "Fall on Tuesday 2022-09-13; victim Maya Humeau, 22, CU Boulder senior; partner called 911; pronounced dead at scene.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Mount Spalding",
+  "place_type": "peak",
+  "legacy_id": 1151
+}

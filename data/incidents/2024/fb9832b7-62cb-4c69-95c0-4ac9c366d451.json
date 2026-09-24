@@ -1,0 +1,19 @@
+{
+  "id": "fb9832b7-62cb-4c69-95c0-4ac9c366d451",
+  "date": "2024-01-28",
+  "summary": "A 50-year-old man from Texas was fatally injured in a snowmobile accident about 2.5 miles up Quartz Creek; reported at 3:04 p.m. via the Alamosa Regional Communication Center, he succumbed to his injuries while friends and family were transporting him out of the backcountry.",
+  "location": "Quartz Creek, ~2.5 miles up the drainage (Creede area)",
+  "county": "Mineral",
+  "incident_type": "vehicle",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Mineral County Sheriff's Office",
+  "source_urls": "https://cdn2.creativecirclemedia.com/pagosa/files/20241231-150007-9b1-sun%20010225.pdf",
+  "notes": "Sourced from the Pagosa Springs SUN's '2024 year in review' retrospective (Jan 2, 2025 issue); MCSO issued the statement. Friends/family were transporting him out when he succumbed.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Quartz Creek",
+  "place_type": "creek",
+  "legacy_id": 2941
+}

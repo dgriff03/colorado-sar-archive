@@ -1,0 +1,19 @@
+{
+  "id": "677f90ae-bbde-4368-b5a1-dfd90b6e91d3",
+  "date": "2025-08-10",
+  "summary": "Injured hiker on Newlin Creek Trail packaged by Florence Fire and evacuated by litter; Fremont SAR joined to carry the patient down the trail",
+  "location": "Newlin Creek Trail",
+  "county": "Fremont",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Fremont SAR + Florence Fire",
+  "source_urls": "https://www.fremontsar.com/newlin-creek-trail-injured-hiker/",
+  "notes": "approx; dispatched yesterday afternoon per Aug 11 2025 post; cause of injury not stated",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Newlin Creek Trail",
+  "place_type": "trail",
+  "legacy_id": 1632
+}

@@ -1,0 +1,19 @@
+{
+  "id": "530e4c91-12c7-4c0f-89be-3581bdf0fa64",
+  "date": "2023-05-22",
+  "summary": "Hiker lost phone and went off route on South Zapata Lake Trail; spent night unprepared; spotted and extracted by helicopter",
+  "location": "South Zapata Lake Trail",
+  "county": "Alamosa",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alamosa Volunteer Search and Rescue",
+  "source_urls": "https://www.alamosacitizen.com/avsar-helps-off-trail-hiker-on-south-zapata-lake-trail/|https://www.avsar.us/off-trail-hiker-on-south-zapata-trail-may-22-2023/",
+  "notes": " Run-630 merge: AVSAR primary mission-log URL appended (confirms REACH71/Guardian1 helo spot + air insert ~200 yd away, lost-phone/unprepared-overnight narrative; same incident).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "South Zapata Lake Trail",
+  "place_type": "trail",
+  "legacy_id": 1210
+}

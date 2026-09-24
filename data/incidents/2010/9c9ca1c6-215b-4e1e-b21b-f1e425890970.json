@@ -1,0 +1,19 @@
+{
+  "id": "9c9ca1c6-215b-4e1e-b21b-f1e425890970",
+  "date": "2010-01-27",
+  "summary": "SPOT activation in Jones Pass area (10-03)",
+  "location": "Jones Pass area",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-03. SPOT activation; outcome not stated, presumed rescued-uninjured.",
+  "peak": "Jones Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 4
+}

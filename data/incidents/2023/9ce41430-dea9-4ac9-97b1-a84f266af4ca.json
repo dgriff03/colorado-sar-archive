@@ -1,0 +1,19 @@
+{
+  "id": "9ce41430-dea9-4ac9-97b1-a84f266af4ca",
+  "date": "2023-07-22",
+  "summary": "Injured 38-year-old female hiker at 13200 feet on Mt Bierstadt",
+  "location": "Mt Bierstadt",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2024/01/2023-Missions-Website.pdf",
+  "notes": "Injury mechanism not stated in log; ART mission 2023-061.",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1246
+}

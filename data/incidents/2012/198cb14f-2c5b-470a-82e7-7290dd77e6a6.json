@@ -1,0 +1,19 @@
+{
+  "id": "198cb14f-2c5b-470a-82e7-7290dd77e6a6",
+  "date": "2012-11-19",
+  "summary": "Dylan Redwine, 13, of Colorado Springs, disappeared during a court-ordered Thanksgiving visit with his father at the father's home near Vallecito Lake; mother Elaine Redwine reported him missing to the La Plata County Sheriff's Office on Nov 19. Massive multi-agency search of the Vallecito/Middle Mountain area (~45 personnel, 1,600+ man-hours over a 5-day June-2013 Middle Mountain Road search, 8,000-11,000 ft) incl. La Plata County SAR, AZSTAR K-9 teams, NecroSearch, and divers in Vallecito Lake; remains identified June 2013; father convicted of second-degree murder + child abuse in 2021 (48-year sentence).",
+  "location": "Vallecito Lake / Middle Mountain Road, north of Vallecito Lake",
+  "county": "La Plata",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "La Plata County Sheriff's Office / La Plata County SAR",
+  "source_urls": "https://www.ksut.org/news-public-affairs/2013-06-27/remains-of-dylan-redwine-found|http://archives.durangotelegraph.com/archives/2012/november-29-2012/news/quick-and-dirty/|https://www.cpr.org/2013/06/27/searchers-find-remains-of-missing-dylan-redwine/",
+  "notes": "SNIPPET-SOURCED: Telegraph Nov-29-2012 Quick-and-Dirty item via search index (archives.durangotelegraph.com ColdFusion-errors on direct open, 7th failed check run 866); incident date pinned Mon 2012-11-19 by Telegraph text + KSUT corroboration (parent-opened); homicide-resolution details corroborated from multiple sources by the mining worker.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Vallecito Lake",
+  "place_type": "lake",
+  "legacy_id": 3387
+}

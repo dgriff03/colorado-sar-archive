@@ -1,0 +1,19 @@
+{
+  "id": "9626a721-dcd2-4605-a99f-7ad018f40870",
+  "date": "2013-11-25",
+  "summary": "Search for a missing party in the Richmond Hill area off Hwy 285 (13-95); county unstated in log.",
+  "location": "Richmond Hill area, off Hwy 285",
+  "county": "",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/category/recent-missions/jefferson-county/page/35/",
+  "notes": "Alpine Rescue Team mission 13-95; paged 11/25/13 20:01. County unstated; left blank per Alpine convention. Outcome unreported; recorded as rescued-uninjured per convention.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Hwy 285",
+  "place_type": "road",
+  "legacy_id": 2228
+}

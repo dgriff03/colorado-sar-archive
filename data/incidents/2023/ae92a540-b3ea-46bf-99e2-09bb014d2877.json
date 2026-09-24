@@ -1,0 +1,19 @@
+{
+  "id": "ae92a540-b3ea-46bf-99e2-09bb014d2877",
+  "date": "2023-09-02",
+  "summary": "Injured female party in the Geneva Glen Camp area",
+  "location": "Geneva Glen Camp",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2024/01/2023-Missions-Website.pdf",
+  "notes": "County unverified; injury mechanism not stated in log; ART mission 2023-085.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Geneva Glen Camp",
+  "place_type": "other",
+  "legacy_id": 1278
+}

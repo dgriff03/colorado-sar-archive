@@ -1,0 +1,19 @@
+{
+  "id": "abf0d5e7-0a25-48f3-84e1-94c566200790",
+  "date": "2022-08-06",
+  "summary": "Two lost mushroom hunters in the Squaw Pass area off Hwy 103",
+  "location": "Squaw Pass",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2023/01/2022-Missions-Website.pdf",
+  "notes": "Final outcome not stated in log; ART mission 2022-065.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Squaw Pass",
+  "place_type": "pass",
+  "legacy_id": 1117
+}

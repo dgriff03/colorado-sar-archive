@@ -1,0 +1,19 @@
+{
+  "id": "28c3fdce-3204-4267-89cf-7d3354f45e0e",
+  "date": "2023-02-04",
+  "summary": "Two lost skiers near the Mount Werner ridgeline",
+  "location": "Mount Werner ridgeline",
+  "county": "Routt",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Routt County Search and Rescue",
+  "source_urls": "https://myemail-api.constantcontact.com/Far-Routt-Newsletter.html?soid=1139552188087&aid=6c-JSsZsGRU",
+  "notes": "Q1 2023 newsletter",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": "Mount Werner",
+  "place_type": "peak",
+  "legacy_id": 1181
+}

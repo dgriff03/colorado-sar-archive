@@ -1,0 +1,19 @@
+{
+  "id": "25a63cf8-b599-44b4-926c-8023055405f5",
+  "date": "2018-07-02",
+  "summary": "Sick hiker in Deer Creek Canyon Park, Jeffco (2018-60)",
+  "location": "Deer Creek Canyon Park",
+  "county": "Jefferson",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2019/01/2018-Missions-Website.pdf",
+  "notes": "ART mission 2018-60.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "ONE_LINER",
+  "place": "Deer Creek Canyon Park",
+  "place_type": "park",
+  "legacy_id": 536
+}

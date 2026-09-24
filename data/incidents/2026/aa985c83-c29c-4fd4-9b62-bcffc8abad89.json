@@ -1,0 +1,19 @@
+{
+  "id": "aa985c83-c29c-4fd4-9b62-bcffc8abad89",
+  "date": "2026-08-24",
+  "summary": "Lost 5-year-old girl in the Georgetown area",
+  "location": "Georgetown area",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/category/mesa-county/clear-creek-county/page/2/",
+  "notes": "ART mission 2026-121; paged 08/24/26 17:18; terse one-liner, outcome not published.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Georgetown",
+  "place_type": "town",
+  "legacy_id": 2732
+}

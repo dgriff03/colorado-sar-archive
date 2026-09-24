@@ -1,0 +1,19 @@
+{
+  "id": "6f9df6bc-c0fe-477b-889c-c92085909eb1",
+  "date": "2014-07-25",
+  "summary": "58-year-old man (hometown unknown) drove off Trail Ridge Road near Gore Range Overlook ~8:30 p.m. Friday; vehicle rolled numerous times ~500 ft downslope. The driver crawled out and sat beside the car all night; a visitor spotted the vehicle below the road ~7:30 a.m. Saturday and notified the park. The driver had multiple injuries and was flown by Lifeguard 72 (Firestone) to Medical Center of the Rockies.",
+  "location": "Trail Ridge Road near Gore Range Overlook, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "vehicle",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park; Lifeguard 72",
+  "source_urls": "https://www.estesparknews.com/rmnp_news/article_7a3fe120-50c5-5c04-ad00-3fa03e2e4b4e.html",
+  "notes": "Parent-opened Estes Park News article ('last Friday evening'; next morning = Saturday July 26, 2014, so incident Friday 2014-07-25, Friday-verified). Run 821 RMNP chunk.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Ridge Road",
+  "place_type": "road",
+  "legacy_id": 3347
+}

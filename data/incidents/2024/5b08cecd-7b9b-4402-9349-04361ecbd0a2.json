@@ -1,0 +1,19 @@
+{
+  "id": "5b08cecd-7b9b-4402-9349-04361ecbd0a2",
+  "date": "2024-09-06",
+  "summary": "Injured hiker found in difficult-to-access terrain near Old Stage Road; ground team reached them on foot, then the Colorado Army National Guard hoisted them to additional medical care.",
+  "location": "Vicinity of Old Stage Road, southwest of Colorado Springs",
+  "county": "El Paso",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "El Paso County Search and Rescue",
+  "source_urls": "https://www.facebook.com/epcsar/posts/pfbid02UoZVWKShcck7RUXEfpKTNyZ376o6evCK9VNshBLQAKLVnosjYJSH3UBUExZEC725l",
+  "notes": "Post dated 9/8 says 'Friday evening' (2024-09-06). Assisted by Colorado Army National Guard, Canon Helitack, Colorado SAR Association.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Old Stage Road",
+  "place_type": "road",
+  "legacy_id": 3460
+}

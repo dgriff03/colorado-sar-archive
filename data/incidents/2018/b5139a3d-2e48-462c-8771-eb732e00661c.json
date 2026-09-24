@@ -1,0 +1,19 @@
+{
+  "id": "b5139a3d-2e48-462c-8771-eb732e00661c",
+  "date": "2018-07-14",
+  "summary": "Female hiker separated from party in thunderstorm on Culebra Peak, descended wrong drainage (False summit-Red Mountain), spent night unprepared; found next day with minor injuries, treated and released",
+  "location": "Culebra Peak",
+  "county": "Costilla",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alamosa Volunteer SAR (+ Flight for Life / REACH Air Medical)",
+  "source_urls": "https://www.avsar.us/missions-from-2018/",
+  "notes": "Saturday-verified; group of 4 split during storm; located by ground-team voice contact + REACH helo ~2030h; run 804",
+  "peak": "Culebra Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3324
+}

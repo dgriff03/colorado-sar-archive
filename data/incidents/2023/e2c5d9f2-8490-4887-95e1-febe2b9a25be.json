@@ -1,0 +1,19 @@
+{
+  "id": "e2c5d9f2-8490-4887-95e1-febe2b9a25be",
+  "date": "2023-07-17",
+  "summary": "60-year-old man from Pennsylvania died in Gothic after suffering an apparent heart attack while hiking in Rustler Gulch with his family; he complained of shortness of breath and collapsed; family began CPR, he was taken by flatbed truck to the Rocky Mountain Biological Laboratory Coffee Lab in Gothic where bystanders continued CPR and an AED defibrillated him once; a helicopter was launched from Montrose and Crested Butte Search and Rescue responded, but the team made a field termination of resuscitation and the helicopter was cancelled",
+  "location": "Rustler Gulch, near Gothic",
+  "county": "Gunnison",
+  "incident_type": "medical",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Crested Butte Fire Protection District; Crested Butte Search and Rescue; Gunnison paramedics",
+  "source_urls": "https://crestedbuttenews.com/2023/07/heart-attack-claims-victim-near-gothic/",
+  "notes": "Identity withheld pending notification of next of kin at publication",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Rustler Gulch",
+  "place_type": "gulch",
+  "legacy_id": 2407
+}

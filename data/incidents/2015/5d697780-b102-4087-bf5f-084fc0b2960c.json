@@ -1,0 +1,19 @@
+{
+  "id": "5d697780-b102-4087-bf5f-084fc0b2960c",
+  "date": "2015-06-30",
+  "summary": "Sick 57-year-old female in the Deer Creek Canyon area (Code 3 page)",
+  "location": "Deer Creek Canyon",
+  "county": "Jefferson",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-38.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Deer Creek Canyon",
+  "place_type": "canyon",
+  "legacy_id": 1984
+}

@@ -1,0 +1,19 @@
+{
+  "id": "4d72fbdf-b235-40ed-b7b1-1f4a7dcf30b6",
+  "date": "2017-09-09",
+  "summary": "Missing hikers on Grays Pk that separated from their group (2017-110)",
+  "location": "Grays Pk",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2018/01/2017-Missions-Website.pdf",
+  "notes": "ART mission 2017-110. Victim count estimated from plural; outcome not stated, presumed rescued-uninjured.",
+  "peak": "Grays Peak",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 459
+}

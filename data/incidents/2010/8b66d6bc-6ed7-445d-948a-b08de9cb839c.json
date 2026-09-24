@@ -1,0 +1,19 @@
+{
+  "id": "8b66d6bc-6ed7-445d-948a-b08de9cb839c",
+  "date": "2010-07-19",
+  "summary": "Assist Park County SAR for search for missing female party (10-53)",
+  "location": "Park County",
+  "county": "Park",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team; Park County SAR",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-53. Exact location not stated.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 56
+}

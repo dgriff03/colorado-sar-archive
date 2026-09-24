@@ -1,0 +1,19 @@
+{
+  "id": "5061f149-90d7-41ff-b63d-bb5df1989158",
+  "date": "2023-04-18",
+  "summary": "Body of missing Pagosa Springs man Jeremiah Villarreal located in Lake Pagosa by the Colorado Parks and Wildlife Marine Evidence Recovery Team during an Archuleta County Sheriff's Office / CBI missing-person investigation; cause of death not publicly released",
+  "location": "Lake Pagosa",
+  "county": "Archuleta",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Archuleta County Sheriff's Office; Colorado Parks and Wildlife Marine Evidence Recovery Team; Colorado Bureau of Investigation",
+  "source_urls": "https://cbi.colorado.gov/news-article/body-of-missing-archuleta-county-man-found",
+  "notes": "Missing-person investigation opened 2023-04-17 (sheriff requested CBI assistance); body located ~11:55 a.m. 2023-04-18 in Lake Pagosa; discovery date used as incident date; autopsy/cause not publicly released, investigation ongoing; no SAR team mission reported.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Lake Pagosa",
+  "place_type": "lake",
+  "legacy_id": 2363
+}

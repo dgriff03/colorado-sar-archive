@@ -1,0 +1,19 @@
+{
+  "id": "8759b1d8-3b42-43eb-9a80-cc62b5ff4b8a",
+  "date": "2015-07-25",
+  "summary": "Sick hiker along the Resthouse Trail on Mount Evans (Code 3 page)",
+  "location": "Resthouse Trail, Mount Evans",
+  "county": "Clear Creek",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-59.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1993
+}

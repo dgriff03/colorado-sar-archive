@@ -1,0 +1,19 @@
+{
+  "id": "e4141bcd-58e1-4c87-aba4-b0492e61bf2d",
+  "date": "2024-11-23",
+  "summary": "Civil Air Patrol Thompson Valley Composite Squadron training flight (aerial photography mission) crashed in the remote Storm Mountain area of Larimer County; three aboard — two passengers confirmed deceased, one transported to hospital with serious injuries. Recovery of the two deceased took multiple days due to extreme rugged terrain; LCSO led the investigation with FAA/NTSB support.",
+  "location": "Storm Mountain area, Larimer County",
+  "county": "Larimer",
+  "incident_type": "vehicle",
+  "outcome": "fatality",
+  "victims": 3,
+  "responding_agency": "Larimer County Sheriff's Office; Larimer County Search and Rescue; Civil Air Patrol (Thompson Valley Composite Squadron); Loveland Fire Rescue Authority",
+  "source_urls": "https://alpinerescueteam.org/2024-160-assist-to-larimer-county-with-two-state-sar-coordinators-and-two-rescue-techs-for-an-injured-party-involved-in-a-plane-crash/|https://larimer.gov/spotlights/2024/11/23/plane-crash-remote-larimer-county-results-1-serious-injuries-2-fatalities|https://northfortynews.com/category/news/successful-recovery-efforts-following-plane-crash-in-remote-larimer-county/",
+  "notes": "Alpine mission 2024-160 assist folded in: Alpine Rescue Team sent two State SAR coordinators and two rescue technicians to assist Larimer County SAR. Larimer County Spotlight (2024-11-23) gives the full crash account: CAP Thompson Valley Composite Squadron plane on a routine aerial-photography training mission; 3 aboard; 2 fatalities + 1 serious injury. run 791 merge: NFN recovery-day report on the 2024-11-23 (Saturday) Thompson Valley CAP Storm Mountain crash (2 fatalities + 1 serious injury; article's 'Saturday, November 24' is a day-name typo — Nov 23 was the Saturday).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Storm Mountain",
+  "place_type": "peak",
+  "legacy_id": 2332
+}

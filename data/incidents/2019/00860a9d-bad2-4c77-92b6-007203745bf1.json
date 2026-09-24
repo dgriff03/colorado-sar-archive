@@ -1,0 +1,19 @@
+{
+  "id": "00860a9d-bad2-4c77-92b6-007203745bf1",
+  "date": "2019-08-15",
+  "summary": "Missing vehicle off Highway 550 (mile 82.5) near the Idarado complex; 22-year-old driver from Grand Junction found deceased, body recovered. Intense secondary search confirmed he was the sole occupant.",
+  "location": "Highway 550 mm 82.5, near Idarado complex",
+  "county": "Ouray",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Ouray Mountain Rescue Team",
+  "source_urls": "https://www.ouraymountainrescue.com/new-page-1-1",
+  "notes": "Vehicle off the 'Million Dollar Highway'; 11 members up Red Mountain Pass shortly after 9 a.m., back in Ouray by 2 p.m.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Highway 550",
+  "place_type": "road",
+  "legacy_id": 2190
+}

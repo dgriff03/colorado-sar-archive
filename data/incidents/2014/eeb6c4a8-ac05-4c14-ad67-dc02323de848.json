@@ -1,0 +1,19 @@
+{
+  "id": "eeb6c4a8-ac05-4c14-ad67-dc02323de848",
+  "date": "2014-07-26",
+  "summary": "Climber took a life-threatening fall on Pyramid Peak on the same day as the Margy's Hut rescue; rescue in progress simultaneously",
+  "location": "Pyramid Peak",
+  "county": "Pitkin",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Mountain Rescue Aspen",
+  "source_urls": "https://aspenjournalism.org/anatomy-of-a-rescue-in-the-hunter-fryingpan-wilderness/",
+  "notes": "Only a passing mention in the Margy's Hut rescue account; detail limited; exact fall location on the peak not stated.",
+  "peak": "Pyramid Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2201
+}

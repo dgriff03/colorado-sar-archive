@@ -1,0 +1,19 @@
+{
+  "id": "59930a76-fef2-45d5-991b-3d3079f7f0f2",
+  "date": "2014-07-12",
+  "summary": "Eric W. Summers, 43, of Brighton, drowned while kayaking the Arkansas River; witnesses found him floating face-down behind an unoccupied kayak between Fisherman's Bridge and Browns Canyon (~8 mi south of Buena Vista); autopsy determined drowning",
+  "location": "Arkansas River between Fisherman's Bridge and Browns Canyon (~8 mi south of Buena Vista)",
+  "county": "Chaffee",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Chaffee County Coroner",
+  "source_urls": "https://www.themountainmail.com/news/article_0c1a6d40-0e8d-11e4-8d9c-0017a43b2370.html",
+  "notes": "Mountain Mail 2014 season roundup parent-opened this run; sixth accident, 'July 12'.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Arkansas River",
+  "place_type": "river",
+  "legacy_id": 2990
+}

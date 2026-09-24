@@ -1,0 +1,19 @@
+{
+  "id": "d0cfa252-3c14-4d20-a33d-7462cddfec73",
+  "date": "2023-06-10",
+  "summary": "A 24-year-old Durango woman, a Mild to Wild raft guide, drowned in a rafting accident on the Upper Animas River near Tenmile Creek south of Silverton; two rafts of four were running the Silverton-to-Rockwood reach and she fell into the water. Resuscitation efforts by the rafting group were unsuccessful. Silverton Medical Rescue responded to a ~1 p.m. satellite emergency notification device alert, two rescuers were inserted via the Durango & Silverton Narrow Gauge Railroad, and the body was transported out by train.",
+  "location": "Upper Animas River near Tenmile Creek, south of Silverton",
+  "county": "San Juan",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Silverton Medical Rescue; San Juan County Sheriff Office; San Juan County Office of Emergency Management",
+  "source_urls": "https://beta.americanwhitewater.org/content/Accident/detail/accidentid/117235; https://www.ksut.org/outdoor-recreation/2023-08-10/water-related-deaths-are-on-the-rise-in-colorado-but-one-recent-rescue-has-a-happy-ending",
+  "notes": "Date is occurrence Saturday 2023-06-10 (article dated Tue Jun 13, 2023); victim name not published in sourced snippets.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Upper Animas River",
+  "place_type": "river",
+  "legacy_id": 2592
+}

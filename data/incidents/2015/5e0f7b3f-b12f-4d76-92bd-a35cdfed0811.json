@@ -1,0 +1,19 @@
+{
+  "id": "5e0f7b3f-b12f-4d76-92bd-a35cdfed0811",
+  "date": "2015-12-05",
+  "summary": "Missing female hiker on Mount Sniktau",
+  "location": "Mount Sniktau",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-116.",
+  "peak": "Mount Sniktau",
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2039
+}

@@ -1,0 +1,19 @@
+{
+  "id": "c9db1e78-ecce-4a07-bdc4-2111c2691a2c",
+  "date": "2019-07-15",
+  "summary": "Jeffrey Ashby fell about 500 feet while descending La Plata Peak after summiting; he broke both legs and one arm; a local SAR member stayed with him overnight; a HAATS Black Hawk hoisted him on July 16",
+  "location": "La Plata Peak",
+  "county": "Lake",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Colorado Army National Guard HAATS, local search and rescue team",
+  "source_urls": "https://www.army.mil/article/227866/for_injured_hikers_army_aircrews_are_welcome_sight_from_above|https://heartoftherockiesradio.com/man-rescued-from-la-plata/",
+  "notes": "Peak is in Chaffee County (county not named in article); hoist occurred July 16 [merge 2026-09-15 run616: HotRR Jul-17-2019 post corroborates — 65-yo Twin Lakes man rescued \"yesterday\" (Jul 16) at 13,000 ft after hikers heard yelling; REACH helicopter to St. Anthony Summit Medical Center, Frisco. Row date (2019-07-15 fall date) stands; rescue-day vs incident-day reading.]",
+  "peak": "La Plata Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 681
+}

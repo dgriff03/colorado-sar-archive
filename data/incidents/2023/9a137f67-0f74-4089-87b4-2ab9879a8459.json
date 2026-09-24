@@ -1,0 +1,19 @@
+{
+  "id": "9a137f67-0f74-4089-87b4-2ab9879a8459",
+  "date": "2023-08-12",
+  "summary": "Assist to Rocky Mountain National Park with one rescue tech for a hoist of an injured 24-year-old male climber in the Longs Peak area",
+  "location": "Longs Peak",
+  "county": "Boulder",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Rocky Mountain National Park",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2024/01/2023-Missions-Website.pdf|https://www.nps.gov/romo/learn/news/two-separate-incidents-occurred-in-rocky-mountain-national-park-this-weekend.htm",
+  "notes": "County unverified; injury mechanism not stated in log; ART mission 2023-078. Run-927 merge: NPS Aug-13-2023 release (parent-opened) — confirms 2023-08-12 Sat, CANG helicopter hoist from Buckley Space Force Base with RMRG assist, Flight for Life to Medical Center of the Rockies; NPS release says 25-YO male vs Alpine log 24-YO (age discrepancy noted). Release also confirms ids 1267/1268 are two separate incidents, not duplicates.",
+  "peak": "Longs Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1268
+}

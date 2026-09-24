@@ -1,0 +1,19 @@
+{
+  "id": "818e8165-4c88-407f-8412-649beedb14b8",
+  "date": "2014-05-31",
+  "summary": "a bear crossing Boulder Canyon (SH 119) into heavy Saturday-afternoon traffic caused the car ahead of a pickup truck to stop suddenly; the truck rear-ended it and flipped over the embankment into Boulder Creek running ~4x average flow on peak spring runoff; the father and his twin daughter climbed out and reached shore but 13-year-old Sophia DuBose was swept downstream; dive teams and personnel from 12+ agencies ran downstream rescue operations for ~90 minutes until she was pulled from the creek behind Boulder High School ~6 p.m., not breathing, and she later died at the hospital; Boulder Canyon closed ~3 hours during the rescue",
+  "location": "Boulder Canyon (SH 119), Boulder Creek (recovered behind Boulder High School)",
+  "county": "Boulder",
+  "incident_type": "vehicle",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office; dive teams and personnel from 12+ agencies",
+  "source_urls": "https://www.themtnear.com/stories/sophia-dubose,1766",
+  "notes": "Mountain-Ear story 1766 (parent-opened); date pinned by Saturday-afternoon crash + Sunday school memorial + Thursday June 5 memorial service (weekday-verified); twin sister and father escaped uninjured; memorial fund via Wild Bear",
+  "peak": "Boulder Canyon",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3288
+}

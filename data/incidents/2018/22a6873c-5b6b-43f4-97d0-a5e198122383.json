@@ -1,0 +1,19 @@
+{
+  "id": "22a6873c-5b6b-43f4-97d0-a5e198122383",
+  "date": "2018-10-15",
+  "summary": "Hunter reported missing in the Silver Jack area; located safe and sound later that night.",
+  "location": "Silver Jack area",
+  "county": "Gunnison",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Gunnison County Sheriff's Office",
+  "source_urls": "https://gunnisoncounty.org/Archive/ViewFile/Item/3038",
+  "notes": "GCSO weekly press release, parent-opened 2026-09-19.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Silver Jack",
+  "place_type": "other",
+  "legacy_id": 3484
+}

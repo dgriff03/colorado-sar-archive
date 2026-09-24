@@ -1,0 +1,19 @@
+{
+  "id": "2a274cb3-dd9d-4a7f-a52f-a2779799d778",
+  "date": "2022-08-22",
+  "summary": "Cold, exhausted hiker near the summit of Broken Hand Pass activated around 2340; a technical rope team fielded at 0245, located the subject at 0605, set a rappel station, and descended safely; all out by 1042.",
+  "location": "Broken Hand Pass summit area",
+  "county": "Custer",
+  "incident_type": "lost/stranded",
+  "outcome": "located uninjured",
+  "victims": 1,
+  "responding_agency": "Custer County SAR",
+  "source_urls": "https://www.facebook.com/CusterSAR/posts/pfbid025YbmiNo7S1fjVcNk2512kp9BTyTF7u9JxcH1atEiTBgNhc4KD8uSzKuouZdDDmdcl",
+  "notes": "Source: Custer County SAR Facebook page.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Broken Hand Pass",
+  "place_type": "pass",
+  "legacy_id": 3726
+}

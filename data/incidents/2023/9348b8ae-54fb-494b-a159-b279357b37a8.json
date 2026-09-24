@@ -1,0 +1,19 @@
+{
+  "id": "9348b8ae-54fb-494b-a159-b279357b37a8",
+  "date": "2023-04-22",
+  "summary": "Injured mountain biker on the Grouse trail",
+  "location": "Grouse trail, Steamboat Springs",
+  "county": "Routt",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Routt County Search and Rescue",
+  "source_urls": "https://myemail.constantcontact.com/Far-Routt-Newsletter.html?soid=1139552188087&aid=EHViCibaO8M",
+  "notes": "Q2 2023 newsletter",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "ONE_LINER",
+  "place": "Grouse Trail",
+  "place_type": "trail",
+  "legacy_id": 1200
+}

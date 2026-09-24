@@ -1,0 +1,19 @@
+{
+  "id": "ebffc1a8-4110-4581-a5c3-309e5d3253ee",
+  "date": "2014-10-24",
+  "summary": "Jason Berglund, 18, of Alliance, Nebraska — went missing Oct 22, 2014; his car was found two days later at the Colorado Trail/Rolling Creek trailhead off County Road 68 near Bailey. A multi-day four-mile-radius search by the Park County Sheriff's Office, Park County SAR, 35+ volunteers and 7 dog teams found nothing. On 2015-07-09 a hiker found his decaying body ~3 miles up the trail in the Lost Creek Wilderness; PCSAR and the coroner extracted it that afternoon. A rope ligature around his neck was reported as the likely cause of death.",
+  "location": "Colorado Trail / Rolling Creek trailhead (~3 mi up trail), Lost Creek Wilderness, near Bailey",
+  "county": "Park",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Park County Sheriff's Office + Park County Search and Rescue",
+  "source_urls": "https://www.theflume.com/free_content/article_a240e496-2cca-11e5-a8dc-5fa785921fd9.html | http://sardoc.org/cms/wp-content/uploads/2011/01/121315SARDOCPublicMissionRptSummaries.pdf|https://sardoc.org/cms/wp-content/uploads/2011/01/2014LastQuarterSARDOCPublicSummaries.pdf",
+  "notes": "DATE APPROXIMATE: row recorded at the Oct-2014 missing/search date (car seen at the Bailey trailhead 2014-10-24; exact search days in late Oct 2014 unreported), following the Stehling-row convention; body found and extracted 2015-07-09. Missing since 2014-10-22 (left University of Nebraska–Kearney in a 2000 Dodge Intrepid); ATM sighting in downtown Denver 2014-10-23. Identified via dental records; wake July 17, 2015 in Alliance, NE. Dedupe: no Berglund/Rolling Creek tokens in DB; Park 2014-09–12 window rows (id 220 Elevenmile Canyon, id 1951 Wellington Lake) are distinct incidents. SARDOC June 2-4 2015 mission report: human remains (a scapula, complete arm and hand) found by nearby school personnel near Rolling Creek/CR 68 and the Colorado Trail, Park County; a SARDOC dog found a glove ~150 ft away plus a clear drag mark below and above the remains; searched the area for further remains, found nothing. The report notes the remains are believed tied to the October 2014 search for a missing 19-year-old from Nebraska in the same area — consistent with Berglund (whose dental-ID'd body was found July 9, 2015 ~3 mi up the trail). Logged as probable-same; kept as one row, no separate insert. SARDOC Q4-2014 public mission summaries: SARDOC dog-team assists on 2014-10-30, 10/31, 11/1, 11/2, 11/5 and 11/10 in the multi-agency search; search to continue in spring.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Colorado Trail",
+  "place_type": "trail",
+  "legacy_id": 2372
+}

@@ -1,0 +1,19 @@
+{
+  "id": "db9d181c-4580-4d98-8993-06065cf4f240",
+  "date": "2012-03-10",
+  "summary": "Kevin Lawrence, 52, mine owner/operator of Alma/Leadville, found dead deep inside the Ajax Mine (Buckskin Gulch, northwest of Alma) after a partial mine collapse; his brother found the body after ~a week without contact; recovery postponed due to mine instability; body recovered March 17 by multi-agency crews",
+  "location": "Ajax Mine, Buckskin Gulch, northwest of Alma",
+  "county": "Park",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Park County Sheriff's Office / Park County Coroner's Office, U.S. Mine Safety and Health Administration, Front Range Mine Rescue Team",
+  "source_urls": "https://www.theflume.com/news/article_ab9d30ec-6c95-11e1-bebd-0019bb30f31a.html|https://www.coloradocentralmagazine.com/regional-news-roundup-11/",
+  "notes": "Index date = body discovery (Saturday 2012-03-10, weekday-verified; Flume: body found Saturday, recovery attempt Sunday; CCM: rescuers worked March 11). Age discrepancy: Flume says 52, Colorado Central Magazine says 51. Recovery completed 2012-03-17.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Ajax Mine",
+  "place_type": "mine",
+  "legacy_id": 3620
+}

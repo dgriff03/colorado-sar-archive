@@ -1,0 +1,19 @@
+{
+  "id": "bed62c26-f9e3-4c6c-91d4-be4f6bd1edf0",
+  "date": "2012-08-23",
+  "summary": "Search for a missing party in Mt Falcon Park; paged just after midnight (12-75).",
+  "location": "Mt Falcon Park",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/category/recent-missions/jefferson-county/page/38/|https://sardoc.org/cms/wp-content/uploads/2011/01/2012SARDOCSUMMARIESPUBLIC.pdf",
+  "notes": "Alpine Rescue Team mission 12-75; paged 08/23/12 00:08. Outcome unreported; recorded as rescued-uninjured per Alpine convention. SARDOC 2012 public summaries describe this mission as a 39-year-old male at Mt. Falcon found deceased by the Front Range Rescue Dogs team - outcome discrepancy vs the Alpine one-liner flagged for future verification.",
+  "peak": "Mount Falcon",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2207
+}

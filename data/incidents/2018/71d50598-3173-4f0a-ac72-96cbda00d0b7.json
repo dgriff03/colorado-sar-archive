@@ -1,0 +1,19 @@
+{
+  "id": "71d50598-3173-4f0a-ac72-96cbda00d0b7",
+  "date": "2018-08-18",
+  "summary": "Stranded climbers on Creekside wall, Clear Creek Canyon; Alpine Rescue Team assisted.",
+  "location": "Clear Creek Canyon, Creekside Wall",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201215173",
+  "notes": "Two separate incidents in one article.",
+  "peak": "Clear Creek Canyon",
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 570
+}

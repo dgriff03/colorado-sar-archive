@@ -1,0 +1,19 @@
+{
+  "id": "62d1fc77-7433-4395-802a-2359b4b1d8b2",
+  "date": "2025-02-10",
+  "summary": "PLB activation in the Echo Lake area",
+  "location": "Echo Lake",
+  "county": "Clear Creek",
+  "incident_type": "other",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf",
+  "notes": "Beacon activation; subject details not stated; ART mission 2025-013.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1544
+}

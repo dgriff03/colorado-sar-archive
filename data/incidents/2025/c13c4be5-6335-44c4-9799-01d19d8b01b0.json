@@ -1,0 +1,19 @@
+{
+  "id": "c13c4be5-6335-44c4-9799-01d19d8b01b0",
+  "date": "2025-02-28",
+  "summary": "Missing 40-year-old man in the area of Highway 73 and North Turkey Creek Road",
+  "location": "Hwy 73 / North Turkey Creek Road",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf",
+  "notes": "County unverified; ART mission 2025-023.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Hwy 73",
+  "place_type": "road",
+  "legacy_id": 1558
+}

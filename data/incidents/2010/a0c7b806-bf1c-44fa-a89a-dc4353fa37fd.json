@@ -1,0 +1,19 @@
+{
+  "id": "a0c7b806-bf1c-44fa-a89a-dc4353fa37fd",
+  "date": "2010-07-14",
+  "summary": "27-year-old man suffered a broken leg after sliding 30 yards down a snowfield above Lost Lake; two rangers (one a medic) flew in by Grand Teton NP helicopter after a SPOT device activation, flew him out to an ambulance for Estes Park Medical Center",
+  "location": "Lost Lake area",
+  "county": "Larimer",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "RMNP rangers",
+  "source_urls": "https://npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "NPS morning report (reported 2010-07-15): northeast section of park; alert came via International Emergency Response Coordination Center",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Lost Lake",
+  "place_type": "lake",
+  "legacy_id": 2621
+}

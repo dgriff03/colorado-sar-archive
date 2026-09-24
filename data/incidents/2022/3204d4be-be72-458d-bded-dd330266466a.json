@@ -1,0 +1,19 @@
+{
+  "id": "3204d4be-be72-458d-bded-dd330266466a",
+  "date": "2022-08-02",
+  "summary": "Hiker near the Chief Ouray Mine above Ouray became off-trail and disoriented in the Cascade Falls drainage. OMRT gave remote guidance by phone, then a three-person hasty team reached the man after an hour.",
+  "location": "Cascade Falls drainage, above Ouray",
+  "county": "Ouray",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Ouray Mountain Rescue Team",
+  "source_urls": "https://www.ouraymountainrescue.com/new-page-1",
+  "notes": "Phone-guided attempt failed; hasty team deployed.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Cascade Falls",
+  "place_type": "waterfall",
+  "legacy_id": 2164
+}

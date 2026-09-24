@@ -1,0 +1,19 @@
+{
+  "id": "91bc6b60-8dc1-454d-8245-c416da284f31",
+  "date": "2025-09-08",
+  "summary": "Assist to Boulder County with 2 rescue techs for an injured snowboarder in the Bob Lake area",
+  "location": "Bob Lake",
+  "county": "Boulder",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Boulder County SAR",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf",
+  "notes": "County unverified; injury mechanism not stated; ART mission 2025-111.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Bob Lake",
+  "place_type": "lake",
+  "legacy_id": 1654
+}

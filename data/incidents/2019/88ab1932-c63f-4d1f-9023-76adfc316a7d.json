@@ -1,0 +1,19 @@
+{
+  "id": "88ab1932-c63f-4d1f-9023-76adfc316a7d",
+  "date": "2019-01-16",
+  "summary": "Three skiers rescued from the Difficult Creek drainage sidecountry off Aspen Mountain; one (40-year-old male) had a broken leg after the group stopped ~1,300 ft above the valley floor and lit a fire; Mountain Rescue Aspen 8-person team (incl. paramedic) plus 2-person evac team contacted them ~7:32 p.m.; patient stabilized and transported to Aspen Valley Hospital by ambulance.",
+  "location": "Difficult Creek drainage, sidecountry off Aspen Mountain",
+  "county": "Pitkin",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 3,
+  "responding_agency": "Mountain Rescue Aspen; Pitkin County Sheriff's Office",
+  "source_urls": "https://snowbrains.com/skiers-rescue-aspen-sidecountry/",
+  "notes": "Date approximate: article states 'Wednesday afternoon' (2019-01-16 Wednesday-verified) + reverse-chron archive order; exact publish stamp not visible. PCSO press release via Aspen Daily News reprint. Call received ~4:55 p.m.; group skied sidecountry route off Aspen Mountain toward McFarland Lane, east of Aspen.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Difficult Creek",
+  "place_type": "creek",
+  "legacy_id": 3191
+}

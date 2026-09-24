@@ -1,0 +1,19 @@
+{
+  "id": "88e3597c-862c-4c71-b9d3-3d1a7e920bf3",
+  "date": "2024-06-05",
+  "summary": "Climber fell several hundred feet near the summit of Mt. Lindsey after a boulder gave way on the northwest ridge approach; extracted by REACH 71 helicopter and transferred by ambulance to the hospital in Alamosa.",
+  "location": "Mt. Lindsey, northwest ridge approach",
+  "county": "Costilla",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alamosa Volunteer Search and Rescue; Costilla County Sheriff's Office; REACH 71",
+  "source_urls": "https://www.montevistajournal.com/stories/avsar-rescues-climber-on-mount-lindsey,89740",
+  "notes": "AVSAR paged on the morning of June 5; REACH 71 met an AVSAR team member at the Mt. Blanca helipad at noon, made contact with the climber ~1:20 p.m. and returned to the helipad ~1:40 p.m.; mission concluded at 3 p.m.; climber's medical status not released at publication.",
+  "peak": "Mount Lindsey",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3015
+}

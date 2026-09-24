@@ -1,0 +1,19 @@
+{
+  "id": "d639e342-aa0d-433b-ac4f-8ea6abb59f4a",
+  "date": "2021-08-17",
+  "summary": "Missing 70-year-old man mushroom hunting near Echo Lake",
+  "location": "Echo Lake",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2022/02/2021-Missions-Website.pdf",
+  "notes": "ART mission 2021-090. Outcome re-coded from rescued-uninjured to assist: log does not state the subject's final outcome.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1002
+}

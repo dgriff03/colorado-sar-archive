@@ -1,0 +1,19 @@
+{
+  "id": "6d6cd2cb-b868-4ea5-9c56-d271c2ecaa30",
+  "date": "2025-07-09",
+  "summary": "Sick hiker in the Golden Watershed area off Highway 103",
+  "location": "Golden Watershed (Hwy 103)",
+  "county": "Jefferson",
+  "incident_type": "medical",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf",
+  "notes": "County unverified; ART mission 2025-066.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Golden Watershed",
+  "place_type": "open_space",
+  "legacy_id": 1608
+}

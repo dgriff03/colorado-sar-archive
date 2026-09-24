@@ -1,0 +1,19 @@
+{
+  "id": "c73c933a-f30c-4232-b183-af3bee910856",
+  "date": "2013-08-18",
+  "summary": "Assist to Indian Hills Fire with carryout of an ill party in the Pence Park area (13-68).",
+  "location": "Pence Park",
+  "county": "Jefferson",
+  "incident_type": "medical",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team (assisted Indian Hills Fire)",
+  "source_urls": "https://www.alpinerescueteam.org/category/recent-missions/jefferson-county/page/35/",
+  "notes": "Alpine Rescue Team mission 13-68; paged 08/18/13 11:45. Agency assist.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Pence Park",
+  "place_type": "park",
+  "legacy_id": 2224
+}

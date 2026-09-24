@@ -1,0 +1,19 @@
+{
+  "id": "464bc2d1-bbcf-475c-acb4-d9a55f8defb0",
+  "date": "2018-02-04",
+  "summary": "Injured backcountry skier off Rollins Pass in Gilpin County (2018-03)",
+  "location": "Rollins Pass",
+  "county": "Gilpin",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2019/01/2018-Missions-Website.pdf|https://www.themtnear.com/stories/risky-rescue-ends-well,4334",
+  "notes": "ART mission 2018-03. Cause of injury not stated. | Run-595 merge: Mountain-Ear 'Risky rescue ends well' (parent-opened) confirms the 11:40 Sunday call, Forest Lakes backcountry, 70-mph gusts grounding the helicopter, snowcat turned back at Yankee Doodle Lake, and sled evacuation to St. Anthony's ~9:30 p.m.; Alpine led the operation.",
+  "peak": "Rollins Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 484
+}

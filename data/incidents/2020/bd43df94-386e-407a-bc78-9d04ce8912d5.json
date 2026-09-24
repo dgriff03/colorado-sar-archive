@@ -1,0 +1,19 @@
+{
+  "id": "bd43df94-386e-407a-bc78-9d04ce8912d5",
+  "date": "2020-09-27",
+  "summary": "Assist Lake County SAR with rescue of injured 36 YOM hiker on Mt Dyer (2020-112)",
+  "location": "Mt Dyer",
+  "county": "Lake",
+  "incident_type": "injury",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team; Lake County SAR",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2021/01/2020-Missions-Website.pdf",
+  "notes": "ART mission 2020-112.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Mount Dyer",
+  "place_type": "peak",
+  "legacy_id": 878
+}

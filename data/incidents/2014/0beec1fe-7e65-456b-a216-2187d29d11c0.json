@@ -1,0 +1,19 @@
+{
+  "id": "0beec1fe-7e65-456b-a216-2187d29d11c0",
+  "date": "2014-07-27",
+  "summary": "Jay Yambert, 56, of Champaign, Illinois, got lost while descending from Longs Peak on Sunday and spent an unexpected night on the mountain in severe weather; family contacted the park Monday morning; the NPS SAR team deployed at 8:45 a.m. Monday and aerial searchers located him below Peacock Pool in the Roaring Fork drainage around 4 p.m.; rangers reached him on foot, gave food and water; he declined a helicopter ride and medical evaluation and hiked out with ranger assistance",
+  "location": "Longs Peak (Peacock Pool / Roaring Fork drainage)",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park SAR team",
+  "source_urls": "https://www.nationalparkstraveler.org/2014/07/updated-searches-under-way-missing-hikers-rocky-mountain-kings-canyon-national-parks25437|https://www.npshistory.com/morningreport/incidents/romo.htm|https://www.nps.gov/romo/learn/news/pr_search_in_longs_peak_and_mount_meeker_area.htm",
+  "notes": "Incident date 2014-07-27 = Sunday (weekday-verified), found Monday 2014-07-28 (weekday-verified); corroborated by the Gazette 2014-07-29 \"Body on Longs Peak ID'd; hiker found\" account. Surfaced via the Four Corners Free Press rotation search-index crawl; NPT 2012 morning-report window stays parked for the next NPT chunk. NPS ROMO morning-report compendium entry; compendium dates the case to 2014-07-28 (body found), existing date 2014-07-27 (last seen Sunday) kept.",
+  "peak": "Longs Peak",
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2683
+}

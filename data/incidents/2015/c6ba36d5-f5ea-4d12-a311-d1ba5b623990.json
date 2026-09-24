@@ -1,0 +1,19 @@
+{
+  "id": "c6ba36d5-f5ea-4d12-a311-d1ba5b623990",
+  "date": "2015-07-17",
+  "summary": "Overdue hiker last seen at Vail Pass; 10 rescuers searched Shrine Pass; located in Red Cliff exhausted but unharmed and transported to family at VMRG HQ; out ~10:30 p.m.",
+  "location": "Vail Pass / Shrine Pass / Red Cliff",
+  "county": "Eagle",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Vail Mountain Rescue Group",
+  "source_urls": "https://www.vaildaily.com/news/julyaugust-vail-mountain-rescue-missions/",
+  "notes": "Jul-Aug-2015 VMRG mission digest.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Vail Pass",
+  "place_type": "pass",
+  "legacy_id": 3116
+}

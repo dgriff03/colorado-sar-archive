@@ -1,0 +1,19 @@
+{
+  "id": "0c9968d2-de6b-4674-b1df-32b0589eb329",
+  "date": "2016-04-27",
+  "summary": "Injured male hiker on the Hankins Pass Trail in south Jefferson County",
+  "location": "Hankins Pass Trail",
+  "county": "Jefferson",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-32.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Hankins Pass Trail",
+  "place_type": "trail",
+  "legacy_id": 2063
+}

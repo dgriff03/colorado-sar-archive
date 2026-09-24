@@ -1,0 +1,19 @@
+{
+  "id": "d10e48a9-1d4a-41c0-a5f5-14de78482077",
+  "date": "2013-08-19",
+  "summary": "Search for overdue 26-year-old male on Grays and Torreys (Alpine mission 13-70)",
+  "location": "Grays Peak and Torreys Peak",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/category/recent-missions/clear-creek-county/page/148/",
+  "notes": "Alpine Rescue Team Clear Creek County category mission-log archive (Alpine mission 13-70); one-line page alert, outcome detail unstated in post.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Grays and Torreys",
+  "place_type": "other",
+  "legacy_id": 1845
+}

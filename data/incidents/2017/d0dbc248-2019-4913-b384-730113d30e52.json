@@ -1,0 +1,19 @@
+{
+  "id": "d0dbc248-2019-4913-b384-730113d30e52",
+  "date": "2017-07-21",
+  "summary": "Three overdue hikers in Summit Lake area on Mt Evans (2017-69)",
+  "location": "Summit Lake area on Mt Evans",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 3,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2018/01/2017-Missions-Website.pdf",
+  "notes": "ART mission 2017-69. Outcome not stated in PDF; presumed rescued-uninjured.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 408
+}

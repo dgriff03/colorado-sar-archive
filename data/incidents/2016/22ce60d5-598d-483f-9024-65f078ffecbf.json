@@ -1,0 +1,19 @@
+{
+  "id": "22ce60d5-598d-483f-9024-65f078ffecbf",
+  "date": "2016-08-01",
+  "summary": "Hiker with a history of severe bee-sting reactions stung on the Colorado Trail near the North Fork Trailhead without an EpiPen; located by Flight for Life via light-flash signals and walked out with assistance",
+  "location": "Colorado Trail near North Fork Trailhead",
+  "county": "Park",
+  "incident_type": "medical",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Park County SAR + Flight for Life + Jefferson/Como Fire Protection District + South Park Ambulance",
+  "source_urls": "https://www.theflume.com/news/article_d540cf68-6bd1-11e6-a6a4-8b8247bc52c4.html",
+  "notes": "Date approximate: early August 2016; listed as first of month. Darkness and a vague destination description hampered the search; a litter team followed but proved unnecessary.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Colorado Trail",
+  "place_type": "trail",
+  "legacy_id": 2265
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ca6c8628-1732-465b-b5a5-1a4feb9dd1bc",
+  "date": "2011-07-09",
+  "summary": "Body of Jamie Garrett, a Vail resident missing since July 5, found by VMRG near Piney Lake / Piney River Basin north of Vail after a multi-area search (Muddy Pass, Red and White, Shrine Mountain, Eisman Hut areas)",
+  "location": "Piney Lake / Piney River Basin, north of Vail",
+  "county": "Eagle",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Vail Mountain Rescue Group + Eagle County Sheriff + Vail Police",
+  "source_urls": "https://www.vaildaily.com/news/body-found-north-of-vail/",
+  "notes": "Vail Daily 2011-07-09 (Lauren Glendenning); fills thin Eagle year 2011.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Piney Lake",
+  "place_type": "lake",
+  "legacy_id": 3121
+}

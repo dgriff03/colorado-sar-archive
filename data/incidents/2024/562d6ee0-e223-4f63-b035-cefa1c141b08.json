@@ -1,0 +1,19 @@
+{
+  "id": "562d6ee0-e223-4f63-b035-cefa1c141b08",
+  "date": "2024-09-01",
+  "summary": "Injured party behind Nederland High School was treated on scene; NFPD crews helped hike the patient out.",
+  "location": "Nederland High School area",
+  "county": "Boulder",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Nederland Fire Protection District",
+  "source_urls": "https://www.nfpd.org/files/1b9aa5907/Chief+Board+Packet+10162024.pdf",
+  "notes": "Date approximate per the NFPD month-pin convention: the October 2024 chief's board report (dated 10/16/2024, covering ~Sept 17-Oct 16 calls) lists this only in 'Calls of significance'; month-pinned to the start of the window month, per the id-3354 precedent. Same source document as id 3354 (Ridge Road ankle, different incident).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Nederland High School",
+  "place_type": "other",
+  "legacy_id": 3371
+}

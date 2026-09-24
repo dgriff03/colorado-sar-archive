@@ -1,0 +1,19 @@
+{
+  "id": "f453377a-4286-42e1-b3f1-b12e2b299d6f",
+  "date": "2024-10-10",
+  "summary": "Lost 45-year-old man in the Hermans Lake area",
+  "location": "Hermans Lake",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "ART mission 2024-148.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": "Hermans Lake",
+  "place_type": "lake",
+  "legacy_id": 1498
+}

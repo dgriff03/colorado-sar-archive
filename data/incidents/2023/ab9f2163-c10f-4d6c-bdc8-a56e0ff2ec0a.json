@@ -1,0 +1,19 @@
+{
+  "id": "ab9f2163-c10f-4d6c-bdc8-a56e0ff2ec0a",
+  "date": "2023-08-22",
+  "summary": "Assist to Archuleta County SAR with two Alpine RT teams for a search for a missing ~70-year-old man in the Blackhead Peak area (2023-082).",
+  "location": "Blackhead Peak area, San Juan Mountains",
+  "county": "Archuleta",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team (assist to Archuleta County SAR)",
+  "source_urls": "https://alpinerescueteam.org/2023-082-assist-to-archuleta-county-with-two-rts-for-a-search-for-a-missing-70-yom-in-the-blackhead-peak-area/",
+  "notes": "Mission page is a one-liner (06:30 page time). Likely the multi-day search for Rich Moore, 71, of Pagosa Springs, missing since Aug 19, 2023 on a Blackhead Peak hike (body found Oct 30, 2023 — recorded as id 1308); this Alpine assist is recorded separately at its mission date.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Blackhead Peak",
+  "place_type": "peak",
+  "legacy_id": 2281
+}

@@ -1,0 +1,19 @@
+{
+  "id": "1dec71c8-5747-45a8-af9a-14df1d7c1a37",
+  "date": "2010-05-31",
+  "summary": "Injured hiker near St Marys Glacier (10-31)",
+  "location": "St Marys Glacier area",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-31. Cause of injury not stated.",
+  "peak": "James Peak",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 31
+}

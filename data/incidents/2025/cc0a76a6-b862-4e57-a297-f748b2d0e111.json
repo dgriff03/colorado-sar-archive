@@ -1,0 +1,19 @@
+{
+  "id": "cc0a76a6-b862-4e57-a297-f748b2d0e111",
+  "date": "2025-08-19",
+  "summary": "Stranded motorist near Dakota Mountain in Gilpin County",
+  "location": "Dakota Mountain",
+  "county": "Gilpin",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf",
+  "notes": "County per log; ART mission 2025-094.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Dakota Mountain",
+  "place_type": "peak",
+  "legacy_id": 1639
+}

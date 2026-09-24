@@ -1,0 +1,19 @@
+{
+  "id": "fe53a02d-0a3a-4c1f-9f0a-b465ab9fddd8",
+  "date": "2016-07-04",
+  "summary": "30-year-old Fruita man killed in an ATV crash on a switchback of County Road 243 north of New Castle; lost control, was thrown from the vehicle, and the ATV landed on him. He had left camp and was headed home when the crash occurred; his name had not been released at publication.",
+  "location": "County Road 243, north of New Castle",
+  "county": "Garfield",
+  "incident_type": "vehicle",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Garfield County Sheriff's Office",
+  "source_urls": "https://www.kmts.com/news/news-212",
+  "notes": "Date pinned: the KMTS news roundup places the crash on Monday morning of the July 4, 2016 news week (2016-07-04 was a Monday). Sheriff's report via KMTS Glenwood Springs; no SAR team deployment reported in the item.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "County Road 243",
+  "place_type": "road",
+  "legacy_id": 2393
+}

@@ -1,0 +1,19 @@
+{
+  "id": "a89bb006-a8e5-426e-95d0-3847ed1f91d5",
+  "date": "2019-04-20",
+  "summary": "Hiker stuck in deep snow near Guanella Pass winter gate closure (2019-32)",
+  "location": "Guanella Pass winter gate",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2020/01/2019-Missions-Website.pdf",
+  "notes": "ART mission 2019-32. Outcome not stated in PDF; presumed rescued-uninjured.",
+  "peak": "Guanella Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 641
+}

@@ -13,7 +13,8 @@ The search index is `/data/incidents.json`. For full notes and fields, retrieve
 links use `https://rescue.typetwo.dev/?incident={id}`. The same accepted data
 is available in `/data/colorado-sar.db` in the `incidents` table.
 
-Imported IDs look like `legacy-000001`; new records use UUID v4 IDs. IDs remain
+All current records use UUID v4 IDs, including the backfilled import. Original
+`legacy-000001`-style links resolve through an old-ID lookup. UUIDs remain
 stable when records are corrected. `legacy_id` preserves the original numeric
 ID where available. Do not substitute array positions for IDs.
 

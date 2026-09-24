@@ -1,0 +1,19 @@
+{
+  "id": "6d15c27e-99cc-4bbd-9abd-237069b8f1c0",
+  "date": "2025-05-24",
+  "summary": "A woman (~75) fell off a ledge near Little Dolores Falls (\"the Potholes\"), Glade Park; bystanders started CPR; deputies and park rangers continued CPR but she was pronounced deceased; Mesa County SAR recovered her body.",
+  "location": "Little Dolores Falls (\"the Potholes\"), Glade Park, Mesa County",
+  "county": "Mesa",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Mesa County Sheriff's Office, National Park Rangers, Grand Junction Fire Dept, Glade Park Fire Dept, Mesa County SAR, CareFlight",
+  "source_urls": "https://crimewatch.net/us/co/mesa/sheriff/134177/post/female-dies-after-fall-ledge-little-dolores-falls",
+  "notes": "Reported 2:40pm May 24, 2025; identity/cause to Mesa County Coroner's Office.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Little Dolores Falls",
+  "place_type": "waterfall",
+  "legacy_id": 1577
+}

@@ -1,0 +1,19 @@
+{
+  "id": "13be5816-422d-4a53-b04a-fab61ac1b6ef",
+  "date": "2021-05-31",
+  "summary": "Lawrence \"Lars\" Bickford, 58, of Gunnison died while on a mountain bike ride on Signal Peak; his wife reported him missing ~5:27 p.m. Monday after a morning ride and a ~9 a.m. text saying he would be home by noon; the sheriff found his truck at the Signal Peak trails at Escalante; an initial phone ping was inaccurate; Western Mountain Rescue Team was called ~5:52 p.m.; an alternative phone locator led searchers to BLM Road 3211D, where team members found Bickford and his bike near the road ~1 a.m. Tuesday; no sign of violence, autopsy pending at publication.",
+  "location": "Signal Peak, BLM Road 3211D near Escalante",
+  "county": "Gunnison",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Western Mountain Rescue Team + Gunnison County Sheriff",
+  "source_urls": "https://crestedbuttenews.com/2021/06/local-mountain-bike-rider-dies-on-signal-peak-ride-last-monday/",
+  "notes": "Cause of death not determined in the published account; row dated at the missing/search date per convention.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Signal Peak",
+  "place_type": "peak",
+  "legacy_id": 2436
+}

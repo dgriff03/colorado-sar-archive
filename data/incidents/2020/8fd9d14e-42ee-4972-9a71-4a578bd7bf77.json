@@ -1,0 +1,19 @@
+{
+  "id": "8fd9d14e-42ee-4972-9a71-4a578bd7bf77",
+  "date": "2020-07-03",
+  "summary": "Assist Saguache County SAR with two Tier 3 Hoist Techs for injured climber on Crestone Peak (2020-43)",
+  "location": "Crestone Peak",
+  "county": "Saguache",
+  "incident_type": "injury",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team; Saguache County SAR",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2021/01/2020-Missions-Website.pdf",
+  "notes": "ART mission 2020-43.",
+  "peak": "Crestone Peak",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 803
+}

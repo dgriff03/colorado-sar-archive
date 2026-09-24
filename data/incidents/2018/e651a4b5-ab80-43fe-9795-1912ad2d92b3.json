@@ -1,0 +1,19 @@
+{
+  "id": "e651a4b5-ab80-43fe-9795-1912ad2d92b3",
+  "date": "2018-05-22",
+  "summary": "Cardiac event on the Seven Bridges Trail.",
+  "location": "Seven Bridges Trail",
+  "county": "El Paso",
+  "incident_type": "medical",
+  "outcome": "assisted",
+  "victims": 1,
+  "responding_agency": "El Paso County SAR",
+  "source_urls": "https://www.facebook.com/epcsar/posts/pfbid027GJtDQsM2zRWLSYXpbDo4fvN4ZHZXQSYeX9GMs8atHnnGbXahZ9o6R61yrmjTT5Al",
+  "notes": "Source: El Paso County SAR Facebook page.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "ONE_LINER",
+  "place": "Seven Bridges Trail",
+  "place_type": "trail",
+  "legacy_id": 3660
+}

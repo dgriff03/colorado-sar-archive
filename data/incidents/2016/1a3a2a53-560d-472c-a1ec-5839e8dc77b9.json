@@ -1,0 +1,19 @@
+{
+  "id": "1a3a2a53-560d-472c-a1ec-5839e8dc77b9",
+  "date": "2016-07-17",
+  "summary": "Two climbers stranded off-route on Crestone Needle; lowered to safety and walked out",
+  "location": "Crestone Needle",
+  "county": "Custer",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Custer County SAR",
+  "source_urls": "https://custersar.org/2-weeks-in-july/",
+  "notes": "Technical lower rescue",
+  "peak": "Crestone Needle",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 313
+}

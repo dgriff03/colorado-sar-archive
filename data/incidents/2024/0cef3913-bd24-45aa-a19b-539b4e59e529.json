@@ -1,0 +1,19 @@
+{
+  "id": "0cef3913-bd24-45aa-a19b-539b4e59e529",
+  "date": "2024-03-14",
+  "summary": "Stranded motorists due to snowstorm around mile marker 22 on Highway 103",
+  "location": "Highway 103 (MM22)",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "Number of motorists not stated; recorded as 1; ART mission 2024-019.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Highway 103",
+  "place_type": "road",
+  "legacy_id": 1344
+}

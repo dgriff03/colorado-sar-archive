@@ -1,0 +1,19 @@
+{
+  "id": "5b47031b-f934-453e-ada7-a09fcc47e107",
+  "date": "2024-08-26",
+  "summary": "Woman in her mid-to-late 50s drove a U-Haul truck off Highway 145 near Norwood Hill (mile marker 92.5, ~3 mi south of the bottom of Norwood Hill, 1 mi south of Beaver Creek Park, San Miguel Canyon) around 9 p.m.; the truck rolled multiple times and came to rest on the bank of the San Miguel River. Spotted ~7 a.m. the next morning by a passing truck driver; she was trapped in the cab with multiple internal injuries. ~1.5-hour technical rope rescue and extrication by Norwood Fire, Telluride Fire and Search and Rescue, sheriff's deputies, state patrol, and CDOT; flown to St. Mary's by CareFlight with serious but non-life-threatening injuries.",
+  "location": "Highway 145 near Norwood Hill, San Miguel Canyon",
+  "county": "San Miguel",
+  "incident_type": "vehicle",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Norwood Fire Protection District; Telluride Fire and Search and Rescue; San Miguel County Sheriff's Office; Colorado State Patrol; CDOT",
+  "source_urls": "https://sanmiguelbasinforum.com/stories/first-responders-save-woman-in-rolled-u-haul-on-norwood-hill,38233",
+  "notes": "Date pinned via article's Monday, Aug. 26, 2024 (Monday-verified); discovered and rescued Aug. 27. Two cats traveling with her unaccounted for as of press time. Run 702 insert (San Miguel County SO news alerts chunk), parent-opened and verified.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Highway 145",
+  "place_type": "road",
+  "legacy_id": 3223
+}

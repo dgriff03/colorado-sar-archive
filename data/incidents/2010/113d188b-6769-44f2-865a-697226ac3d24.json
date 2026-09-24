@@ -1,0 +1,19 @@
+{
+  "id": "113d188b-6769-44f2-865a-697226ac3d24",
+  "date": "2010-09-27",
+  "summary": "Recovery in Lookout Mountain area (10-90)",
+  "location": "Lookout Mountain area",
+  "county": "Jefferson",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-90. Cause not stated.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": "Lookout Mountain",
+  "place_type": "peak",
+  "legacy_id": 100
+}

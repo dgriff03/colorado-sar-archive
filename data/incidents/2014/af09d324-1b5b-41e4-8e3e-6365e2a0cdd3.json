@@ -1,0 +1,19 @@
+{
+  "id": "af09d324-1b5b-41e4-8e3e-6365e2a0cdd3",
+  "date": "2014-08-12",
+  "summary": "An 18-year-old male with altitude sickness in the Grays and Torrey’s area (Alpine mission 14-76)",
+  "location": "Grays and Torrey’s",
+  "county": "Clear Creek",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2015/01/2014-Missions-Website.pdf",
+  "notes": "Alpine Rescue Team 2014 annual mission summary PDF (one-line mission log; page date used as mission date).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Grays and Torreys",
+  "place_type": "other",
+  "legacy_id": 1921
+}

@@ -1,0 +1,19 @@
+{
+  "id": "8f8bd776-e383-4d0c-9753-e699e2b1cf6f",
+  "date": "2020-08-29",
+  "summary": "Steven Grunwald, 24, of Greenville, NY, last contacted family August 28 and was believed to have attempted the Glacier Gorge Traverse on August 29; reported missing September 10 after his vehicle was found at the Glacier Gorge Trailhead; body found September 14 in the Notch below McHenrys and Powell Peaks.",
+  "location": "The Notch below McHenrys and Powell Peaks, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park SAR, Northern Colorado Interagency Helitak, Front Range Rescue Dogs",
+  "source_urls": "https://www.nps.gov/romo/learn/news/recovery-efforts-for-missing-man-in-rocky-mountain-national-park.htm|https://www.wamc.org/new-york-news/2020-09-15/body-believed-that-of-ny-man-found-in-colorado|https://www.npshistory.com/morningreport/incidents/romo.htm|https://www.nationalparkstraveler.org/2020/09/body-believed-be-missing-man-recovered-rocky-mountain-national-park|https://www.nationalparkstraveler.org/2020/09/search-continues-man-missing-rocky-mountain-national-park|https://www.nationalparkstraveler.org/2020/09/new-york-man-missing-rocky-mountain-national-park",
+  "notes": "Date is the believed start of the traverse (last contact Aug 28); body recovered by helicopter Sept 14. Cause under investigation at time of NPS release; no fall established in opened sources, classified lost/stranded. Name widely published (NPS release). NPS ROMO morning-report compendium entry appended. | run-831 NPT corroboration URL appended (parent-opened). | Run 874: merged 2 NPT Grunwald search-phase articles (parent-opened, incident-matched; absence full-string + scheme-normalized verified).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Glacier Gorge Trailhead",
+  "place_type": "trailhead",
+  "legacy_id": 859
+}

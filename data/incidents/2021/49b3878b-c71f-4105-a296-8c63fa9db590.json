@@ -1,0 +1,19 @@
+{
+  "id": "49b3878b-c71f-4105-a296-8c63fa9db590",
+  "date": "2021-11-01",
+  "summary": "Overdue hunter north of Kremmling; page issued late the night of 2021-10-31. Subject walked out shortly after daylight on 2021-11-01.",
+  "location": "North of Kremmling",
+  "county": "Grand",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Grand County Search and Rescue",
+  "source_urls": "https://www.facebook.com/GCSAR/posts/pfbid0SzB61CfT1Y1785VVJoNa4HfBw7GkVxdSPbNbMinAqUNHmfk68cCdKjk9CVWa1FDJl",
+  "notes": "One of two overdue-hunter incidents handled in a single GCSAR response; kept as separate incidents.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Kremmling",
+  "place_type": "town",
+  "legacy_id": 3511
+}

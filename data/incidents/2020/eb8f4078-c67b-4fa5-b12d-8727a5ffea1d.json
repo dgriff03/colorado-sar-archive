@@ -1,0 +1,19 @@
+{
+  "id": "eb8f4078-c67b-4fa5-b12d-8727a5ffea1d",
+  "date": "2020-04-28",
+  "summary": "24-year-old man fell ~30 ft while rock climbing near Longmont Dam Road, Button Rock Preserve ~3:56 p.m.; partner notified a Button Rock ranger; stabilized, carried ~100 ft to an air ambulance and transported to a hospital; ~70-min rescue (BCSO press release via 95 Rock FM).",
+  "location": "Button Rock Preserve, near Longmont Dam Road",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office; Button Rock ranger; air ambulance",
+  "source_urls": "https://95rockfm.com/man-falls-30-feet-from-longmont-rock-preserve-air-ambulance-used/",
+  "notes": "INSERTED run 935 (BCSO press release carried by 95 Rock FM, parent-opened live 2026-09-20; BCSO bouldercounty.gov/news original not locatable — archive only reaches 2021). Weekday-verified Tuesday. Central dedupe clean: no Boulder row 2020-04-25..2020-05-02 except id 2948 (2020-04-27 Red Garden Wall, distinct location/incident).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Button Rock Preserve",
+  "place_type": "other",
+  "legacy_id": 3561
+}

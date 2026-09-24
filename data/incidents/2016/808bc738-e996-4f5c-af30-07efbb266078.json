@@ -1,0 +1,19 @@
+{
+  "id": "808bc738-e996-4f5c-af30-07efbb266078",
+  "date": "2016-08-03",
+  "summary": "70-year-old Boulder resident Brian Eblovi slipped on rocks on the Blue Lake Trail near Mitchell Lake (Brainard Lake Recreation Area) and injured his left leg; he was ~3 miles up the trail with three companions; evacuated by Flight for Life helicopter to University Hospital; mission terminated ~6:07 p.m.",
+  "location": "Blue Lake Trail near Mitchell Lake, Brainard Lake Recreation Area",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office; Rocky Mountain Rescue Group; Indian Peaks Fire; Flight for Life",
+  "source_urls": "https://content.govdelivery.com/accounts/COBOULDER/bulletins/15ac7f9",
+  "notes": "BCSO case 16-4651 (official govdelivery mirror of the BCSO release, parent-opened); dispatched 2:00 p.m.; run 646 BCSO chunk (this attempt)",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Blue Lake Trail",
+  "place_type": "trail",
+  "legacy_id": 3126
+}

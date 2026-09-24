@@ -1,0 +1,19 @@
+{
+  "id": "061245c1-8572-45c6-8d48-971b4f18fd27",
+  "date": "2010-12-23",
+  "summary": "Two overdue parties in Loveland Pass area (10-112)",
+  "location": "Loveland Pass area",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-112. Victim count estimated; outcome not stated, presumed rescued-uninjured.",
+  "peak": "Loveland Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 122
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ff23d9f7-9443-4106-ae43-c134e5da554d",
+  "date": "2015-10-03",
+  "summary": "17-year-old asthmatic male from California jumped from a four-wheeler in Slaughterhouse Gulch near Bailey and disappeared; a SARDOC dog searched two hours through thick woods in heavy fog, trailing and air-scenting to the subject and making the find from long distance.",
+  "location": "Slaughterhouse Gulch, Bailey",
+  "county": "Park",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "SARDOC",
+  "source_urls": "http://sardoc.org/cms/wp-content/uploads/2011/01/121315SARDOCPublicMissionRptSummaries.pdf",
+  "notes": "Date Saturday-verified. Subject reportedly saw a 'chicken' and jumped out of the truck with his pellet gun; dog made weak voice contact then the find.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Slaughterhouse Gulch",
+  "place_type": "gulch",
+  "legacy_id": 2881
+}

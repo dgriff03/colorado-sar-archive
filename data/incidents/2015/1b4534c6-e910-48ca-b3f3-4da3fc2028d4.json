@@ -1,0 +1,19 @@
+{
+  "id": "1b4534c6-e910-48ca-b3f3-4da3fc2028d4",
+  "date": "2015-04-16",
+  "summary": "Injured hiker at the base of the 2nd Flatiron, Boulder; Rocky Mountain Rescue Group performed a wheeled-litter evacuation down the lower trail through flood-eroded terrain below the east face, and the subject was transferred to AMR Ambulance.",
+  "location": "2nd Flatiron base / lower trail, Boulder",
+  "county": "Boulder",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain Rescue Group; Boulder City Fire Department; AMR Ambulance",
+  "source_urls": "http://www.rockymountainrescue.org/whats-new/2015/4/16/2nd-flatiron-injured-hiker-evacuation",
+  "notes": "CROSS-LINE: verified at the Boulder Weekly chunk run 534 (Robert O'Dea RMRG whats-new entry, April 16 2015, Thursday-verified). The RMRG rotation line is closed, so the verified incident is inserted here rather than parked. Dedupe: zero 2015-04-16 Boulder rows; no DB rows mention O'Dea. Date Thursday-verified.",
+  "peak": "The Flatirons",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2888
+}

@@ -1,0 +1,19 @@
+{
+  "id": "e388e115-92e1-49e6-817c-6385d08f4f56",
+  "date": "2018-08-29",
+  "summary": "A possibly missing bow hunter in Game Management Unit 55 was searched; the search proved fruitless, and the missing person called in the following day.",
+  "location": "Game Management Unit 55",
+  "county": "Gunnison",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Gunnison County Sheriff's Office",
+  "source_urls": "https://gunnisoncounty.org/ArchiveCenter/ViewFile/Item/2944",
+  "notes": "Per-incident one-liner from the Gunnison County Sheriff's Office weekly press release (September 4, 2018 edition). Mined run 463.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2749
+}

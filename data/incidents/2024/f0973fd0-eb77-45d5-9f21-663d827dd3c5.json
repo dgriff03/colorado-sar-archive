@@ -1,0 +1,19 @@
+{
+  "id": "f0973fd0-eb77-45d5-9f21-663d827dd3c5",
+  "date": "2024-10-01",
+  "summary": "Two climbers stranded ~160 ft up the First Flatiron near Boulder, unable to descend safely after their climb; a passing climber called 911 and stayed with them; Rocky Mountain Rescue Group ascended above the pair with harnesses, helmets and headlamps and lowered both to the ground; uninjured but shaken",
+  "location": "First Flatiron",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Rocky Mountain Rescue Group",
+  "source_urls": "https://thenextsummit.org/climbers-rescued-from-first-flatiron-by-rocky-mountain-rescue-group-after-911-call/",
+  "notes": "Incident date given in the story ('on October 1, 2024'). Distinct from the spring-2024 Austin Wolff/Susan Katz + cat Link First Flatiron rescue (RMRG, 'Saturday night', ~March/April 2024, date unpinned -- stays a pending lead on the advnture.com roster line). Dedupe: no Boulder 2024-09-28-10-04 rows; no First Flatiron token collisions in 2024.",
+  "peak": "The Flatirons",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2489
+}

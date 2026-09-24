@@ -1,0 +1,19 @@
+{
+  "id": "36b7df66-4c96-4296-8217-95912722735c",
+  "date": "2019-06-21",
+  "summary": "Two climbers stranded by storm and ice on Ellingwood Arete, Crestone Needle; rescued by helicopter June 23; multi-agency SAR.",
+  "location": "Crestone Needle, Ellingwood Arete",
+  "county": "Saguache",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Custer County SAR, Alpine Rescue Team, Colorado Hoist Rescue Team, Colorado Army National Guard",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201215589",
+  "notes": "Incident began June 21; rescue June 23.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Crestone Needle",
+  "place_type": "peak",
+  "legacy_id": 659
+}

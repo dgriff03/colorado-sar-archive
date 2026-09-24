@@ -1,0 +1,19 @@
+{
+  "id": "4e1080cd-33e5-4332-bceb-1da403da0155",
+  "date": "2010-11-21",
+  "summary": "Lost hikers in James Peak area (10-107)",
+  "location": "James Peak area",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-107. Victim count estimated from plural; outcome not stated, presumed rescued-uninjured.",
+  "peak": "James Peak",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 117
+}

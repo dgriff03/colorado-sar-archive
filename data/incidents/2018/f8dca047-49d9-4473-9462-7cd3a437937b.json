@@ -1,0 +1,19 @@
+{
+  "id": "f8dca047-49d9-4473-9462-7cd3a437937b",
+  "date": "2018-09-05",
+  "summary": "EPCSAR renewed the search for missing person Kevin Rudnicki in the Mt. Herman area; 90+ civilian searchers on 9/5; family-coordinated targeted search 9/6. No resolution in this batch.",
+  "location": "Mt. Herman area",
+  "county": "El Paso",
+  "incident_type": "lost/stranded",
+  "outcome": "search ongoing",
+  "victims": 1,
+  "responding_agency": "El Paso County SAR",
+  "source_urls": "https://www.facebook.com/epcsar/posts/pfbid0sjxkurMyUtqiKkQFC5yCcwcxXy8JHzD7vprkewYWoarDHy94UPTg3QFGib8QgTtpl|https://www.facebook.com/epcsar/posts/pfbid05KphxekYQS91xj43HQHzzhahjMVXVAicLL6eM82yrbwCG2Fc8PtGxiycc8MvKRDBl|https://www.facebook.com/epcsar/posts/pfbid028QVNkzbfnWseoeSMcQNu1EcefN4ZjfGfHuRaodtcwtWnuNKrh5TweUfMizYnqyxtl",
+  "notes": "Source: El Paso County SAR Facebook page. Three posts document the search; no resolution reported.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Mount Herman",
+  "place_type": "peak",
+  "legacy_id": 3678
+}

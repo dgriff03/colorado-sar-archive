@@ -1,0 +1,19 @@
+{
+  "id": "3fa20ee1-46cf-4542-a4dc-9e98a148c984",
+  "date": "2018-03-06",
+  "summary": "Injured hiker in Mt Falcon Park, Jeffco (2018-11)",
+  "location": "Mt Falcon Park",
+  "county": "Jefferson",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2019/01/2018-Missions-Website.pdf",
+  "notes": "ART mission 2018-11. Cause of injury not stated.",
+  "peak": "Mount Falcon",
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 488
+}

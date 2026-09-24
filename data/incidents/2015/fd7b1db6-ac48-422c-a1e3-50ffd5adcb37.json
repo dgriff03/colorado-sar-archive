@@ -1,0 +1,19 @@
+{
+  "id": "fd7b1db6-ac48-422c-a1e3-50ffd5adcb37",
+  "date": "2015-08-15",
+  "summary": "Assist to RMRG with an injured party in the Shadow Canyon Trail area",
+  "location": "Shadow Canyon Trail area",
+  "county": "Boulder",
+  "incident_type": "injury",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team (assist to RMRG)",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-83.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Shadow Canyon Trail",
+  "place_type": "trail",
+  "legacy_id": 2013
+}

@@ -1,0 +1,19 @@
+{
+  "id": "1859f754-8a3d-4c81-9e8d-48ac1c5ed8f5",
+  "date": "2018-09-04",
+  "summary": "Missing hiker Kevin Rudnicki, last seen Sunday 2018-09-02 ~8:45 a.m. on the Mt. Herman Trail near Monument; ~60 rescue team members and civilian volunteers searched Tuesday 2018-09-04; Alpine Rescue Team paged 19:41 to assist El Paso County SAR.",
+  "location": "Mt. Herman Trail near Monument",
+  "county": "El Paso",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team (assist to El Paso County SAR); El Paso County SAR (lead); Douglas County SAR; Fremont County SAR",
+  "source_urls": "https://alpinerescueteam.org/2018-101-assist-to-el-paso-county-sar-requested-for-search-of-missing-hiker-near-monument/|https://www.alamy.com/a-missing-flyer-is-posted-on-a-tree-on-mt-herman-trail-near-monument-colo-for-missing-hiker-kevin-rudnicki-rudnicki-hasnt-been-seen-since-sunday-morning-at-845-am-in-total-about-60-rescue-team-members-and-civilian-volunteers-are-combing-the-were-combing-the-area-on-tuesday-sept-4-2018-el-paso-county-search-rescue-are-being-assisted-by-douglas-county-search-rescue-and-fremont-county-search-rescue-jerilee-bennettthe-gazette-via-ap-image532164155.html|http://sardoc.org/cms/wp-content/uploads/2011/01/2018SARDOCPublicSearchSummaries123118.pdf",
+  "notes": "Alpine mission 2018-101; date = Alpine mission/paged date and Gazette/AP search-operation date (2018-09-04, Tuesday-verified); hiker last seen Sunday 2018-09-02; outcome unreported (no resolution coverage found); fills thin year 2018 for El Paso. SARDOC 2018 public mission summaries entry dated 2018-09-05 (Monument, CO): search for a missing 20-y/o male, subject later found deceased — consistent same-incident reading with this search (multi-agency op 9/4 led by El Paso County SAR in the Monument area; SARDOC entry carries no name/agency attribution, so treated as corroboration only, not an outcome flip).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Herman Trail",
+  "place_type": "trail",
+  "legacy_id": 3013
+}

@@ -1,0 +1,19 @@
+{
+  "id": "be30bca1-999f-461e-9350-f25d68d1989f",
+  "date": "2023-10-29",
+  "summary": "Hypothermic hunter triggered SOS via Garmin inReach near Buck Basin after a blizzard dumped 3+ feet; three-person SAR team skied 7 miles in overnight and Army National Guard Blackhawk flew everyone out",
+  "location": "Buck Basin, Horse Ranch Park area",
+  "county": "Gunnison",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Crested Butte Mountain Rescue + Army National Guard Blackhawk",
+  "source_urls": "https://crestedbuttenews.com/2023/11/cb-mountain-rescue-team-saves-a-hunters-life-near-horse-ranch-park/",
+  "notes": "approx; subject: Justin Finch, 32, of Utah — mule-deer hunter; blizzard buried his tent under ~3 ft of snow, inReach SOS ~3 p.m. Oct 28 from an avalanche path after a failed hike-out in wet clothes; 3-person CBSAR team skied 7 mi in overnight, reached him ~4:30 a.m., Blackhawk evac ~1:30 p.m. Oct 29; his two llamas (pack animals) rescued the next day; he recounted it on the Epic Outdoors podcast. NOTE: the CSAR WMRT hunter-rescue story (Beaver Creek/Little Mill Creek leg injury, 13-member uphaul, MC McKenzie McConnell) is a DIFFERENT incident — still pending, no date.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Buck Basin",
+  "place_type": "other",
+  "legacy_id": 1307
+}

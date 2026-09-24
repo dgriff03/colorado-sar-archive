@@ -1,0 +1,19 @@
+{
+  "id": "195ab269-811e-4003-8bf1-27f0cabccd3e",
+  "date": "2021-07-23",
+  "summary": "Hiking party possibly near Pawnee Lake with one individual showing possible altitude sickness; poor cell service left details unclear. Flight For Life flew night-vision recon, located light signals, and landed near the subject at first light Saturday; the flight crew assessed HAPE with the subject deteriorating, and he was flown to St. Anthony's Hospital in Denver by 07:00. GCSAR never entered the field.",
+  "location": "Pawnee Lake area, Indian Peaks Wilderness (~7.5 mi from Monarch Lake)",
+  "county": "Grand",
+  "incident_type": "medical",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Grand County Search and Rescue",
+  "source_urls": "https://www.facebook.com/GCSAR/posts/pfbid0QtQUBE8jsw1xAeoecTfewrVn6MwPCKRRUaQ6hvsnPPuVPvUXsLVQCJeS1yCLcWvVl",
+  "notes": "Date approximate: Notified Friday night 2021-07-23; evac completed morning of 2021-07-24. Team counts it as a life saved.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Pawnee Lake",
+  "place_type": "lake",
+  "legacy_id": 3509
+}

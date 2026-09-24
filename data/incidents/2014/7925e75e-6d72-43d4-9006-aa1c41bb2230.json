@@ -1,0 +1,19 @@
+{
+  "id": "7925e75e-6d72-43d4-9006-aa1c41bb2230",
+  "date": "2014-05-20",
+  "summary": "16-year-old Grand Junction boy killed in a ~100-ft fall at the Independence Monument Overlook; he was outside the enclosed viewpoint and lost his footing at the cliff edge; conscious when first responders reached him, he succumbed to traumatic injuries before medical help could arrive.",
+  "location": "Independence Monument Overlook",
+  "county": "Mesa",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "NPS rangers",
+  "source_urls": "http://npshistory.com/morningreport/incidents/colm.htm",
+  "notes": "",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Independence Monument",
+  "place_type": "other",
+  "legacy_id": 2786
+}

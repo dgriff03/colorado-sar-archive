@@ -1,0 +1,19 @@
+{
+  "id": "e39d7dce-bf51-4cae-aefe-d7f363aaf336",
+  "date": "2023-04-17",
+  "summary": "Lost hunter near Hahns Peak",
+  "location": "Hahns Peak",
+  "county": "Jackson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Routt County Search and Rescue (mutual aid); Jackson County SAR",
+  "source_urls": "https://myemail.constantcontact.com/Far-Routt-Newsletter.html?soid=1139552188087&aid=EHViCibaO8M",
+  "notes": "Q2 2023 newsletter",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": "Hahn's Peak",
+  "place_type": "peak",
+  "legacy_id": 1198
+}

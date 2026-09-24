@@ -1,0 +1,19 @@
+{
+  "id": "4ec90849-060c-406a-ae8b-9a2b786db6d3",
+  "date": "2022-09-05",
+  "summary": "A 34-year-old hiker was airlifted from an elevation of 11,200 feet north of Capitol Lake after injuring his ankle.",
+  "location": "North of Capitol Lake, 11,200 ft, Capitol Creek drainage",
+  "county": "Pitkin",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Mountain Rescue Aspen",
+  "source_urls": "https://www.climbing.com/news/climber-killed-others-rescued-capitol-peak/?scope=anon",
+  "notes": "One of four MRA callouts in the Capitol valley Sept 3-5, 2022; date pinned to Sept 5 (Monday) per the article.",
+  "peak": "Capitol Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2797
+}

@@ -1,0 +1,19 @@
+{
+  "id": "b831da76-2db9-45b6-8449-72c78ec7a7cc",
+  "date": "2013-08-22",
+  "summary": "Leader killed in fall on Batman Pinnacle, Lumpy Ridge; belayer also pulled off ledge, outcome unclear.",
+  "location": "Lumpy Ridge, Batman Pinnacle",
+  "county": "Larimer",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 2,
+  "responding_agency": "",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201213014|https://100summits.com/articles/colorado-mountaineering-deaths/item/256-2013-colorado-mountaineering-deaths|http://npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "Belayer outcome unclear; counted as 2 victims.; Merged 2 reports (parts: aac, news-2010-2019); date per both sources. | NPS ROMO morning-report compendium URL merged (run 487).",
+  "peak": "Lumpy Ridge",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 190
+}

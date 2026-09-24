@@ -1,0 +1,19 @@
+{
+  "id": "e10e5556-335a-4354-a40c-c1793472bb31",
+  "date": "2023-07-17",
+  "summary": "Alpine Rescue Team paged at 21:24 to assist Chaffee County SAR, with a State SAR Coordinator, for a search for an overdue 65-year-old female near Cottonwood Pass.",
+  "location": "Cottonwood Pass",
+  "county": "Chaffee",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team assisting Chaffee County SAR",
+  "source_urls": "https://alpinerescueteam.org/2023-055-assist-to-chafee-county-sar-with-a-state-sar-coordinator-for-a-search-for-an-overdue-65-yof-near-cottonwood-pass/",
+  "notes": "Alpine mission 2023-055; one-liner post only — subject details and outcome unreported (victims=1 per convention).",
+  "peak": "Cottonwood Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2628
+}

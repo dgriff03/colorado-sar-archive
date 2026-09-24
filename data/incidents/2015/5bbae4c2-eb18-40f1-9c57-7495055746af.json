@@ -1,0 +1,19 @@
+{
+  "id": "5bbae4c2-eb18-40f1-9c57-7495055746af",
+  "date": "2015-08-28",
+  "summary": "Missing 22-year-old male in the West Chicago Creek Campground",
+  "location": "West Chicago Creek Campground",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-93.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "West Chicago Creek Campground",
+  "place_type": "campground",
+  "legacy_id": 2021
+}

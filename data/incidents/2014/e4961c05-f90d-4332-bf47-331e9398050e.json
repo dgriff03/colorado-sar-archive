@@ -1,0 +1,19 @@
+{
+  "id": "e4961c05-f90d-4332-bf47-331e9398050e",
+  "date": "2014-12-17",
+  "summary": "3-year-old girl disappeared ~11:40 a.m. from home on Blue Spruce Rd off Ridge Rd, Nederland, in pajamas on a 33 deg F December morning; multi-agency search with command post, reverse-911 Everbridge alert, and SAR dogs staged; found ~1.5 hrs later calm and unharmed in a neighbor's home ~1 mi away after the alerted neighbor found her inside",
+  "location": "Blue Spruce Rd South / Ridge Road, Nederland",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Nederland Fire Protection District; Nederland Police Department; Boulder County Sheriff's Office; Rocky Mountain Rescue Group; Front Range Rescue Dogs; AMR",
+  "source_urls": "https://www.themtnear.com/stories/missing-child-found-in-neighbors-home,2090",
+  "notes": "Mountain-Ear story 2090 parent-opened run 688; 'last Wednesday morning, December 17' = 2014-12-17 Wednesday-verified; story ID 2090 sits between Sept-2014 and May-2015 stories; Front Range Rescue dogs + BCS Bloodhound staged; reverse-911 credited with the find",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Ridge Road",
+  "place_type": "road",
+  "legacy_id": 3211
+}

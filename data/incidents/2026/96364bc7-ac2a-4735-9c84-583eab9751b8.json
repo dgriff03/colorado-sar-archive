@@ -1,0 +1,19 @@
+{
+  "id": "96364bc7-ac2a-4735-9c84-583eab9751b8",
+  "date": "2026-08-27",
+  "summary": "Injured 63-year-old male hiker on Mt Bierstadt",
+  "location": "Mt Bierstadt",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/category/mesa-county/clear-creek-county/page/2/",
+  "notes": "ART mission 2026-123; paged code 3 08/27/26 15:44; terse one-liner, outcome not published.",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2733
+}

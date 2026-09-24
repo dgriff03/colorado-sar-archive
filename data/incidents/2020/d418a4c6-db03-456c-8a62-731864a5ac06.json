@@ -1,0 +1,19 @@
+{
+  "id": "d418a4c6-db03-456c-8a62-731864a5ac06",
+  "date": "2020-07-13",
+  "summary": "Two hikers in their 20s excessively overdue arriving in Aspen on a day hike from Crested Butte via West Maroon Pass; reported 7pm July 13 amid deteriorating weather. MRA deployed drone + foot teams from the West Maroon Portal to the pass summit; Gunnison County SAR continued the search on 7/14. A citizen near Snowmass Lake contacted the hikers via satellite transmitter; MRA intercepted them on Buckskin Pass at ~3:07pm, tired but unhurt, and escorted them to the West Maroon Portal.",
+  "location": "West Maroon Pass / Snowmass Lake / Buckskin Pass",
+  "county": "Pitkin",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Mountain Rescue Aspen",
+  "source_urls": "https://www.facebook.com/mountainrescueaspen/posts/pfbid0216yKwLpN3oVFvEjQfjQvaL6J3AFLvTNgWqZtvpApHamFUTKHFYCbBCVXXu4ks7xBl",
+  "notes": "Multi-operational-period mission spanning 7/13-7/14; filed on report date 7/13.",
+  "peak": "Snowmass Mountain",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3516
+}

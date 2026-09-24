@@ -1,0 +1,19 @@
+{
+  "id": "6bda8693-a1a1-423b-a603-dd1d39ae3d66",
+  "date": "2017-10-08",
+  "summary": "86-year-old man with dementia walked away from home at ~0400 in Loveland near 57th Ave and Hwy 287; LCSAR staged with dogs/trackers but subject was recognized at a nearby Walmart before search began; family picked him up.",
+  "location": "Loveland, near 57th Ave and Hwy 287",
+  "county": "Larimer",
+  "incident_type": "lost/stranded",
+  "outcome": "located uninjured",
+  "victims": 1,
+  "responding_agency": "Larimer County SAR",
+  "source_urls": "https://www.facebook.com/lcsarinc/posts/pfbid0mdFKZayz95M1NGLdCz9GDYGyxDyK9ab2ftQoMv15ErQYStZqdZYeTAEa3oG4P4NAl",
+  "notes": "Source: Larimer County SAR Facebook page.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Hwy 287",
+  "place_type": "road",
+  "legacy_id": 3681
+}

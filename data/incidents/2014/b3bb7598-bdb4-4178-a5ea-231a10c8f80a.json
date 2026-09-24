@@ -1,0 +1,19 @@
+{
+  "id": "b3bb7598-bdb4-4178-a5ea-231a10c8f80a",
+  "date": "2014-06-04",
+  "summary": "Rebecca Knight, 26, drowned when a 4-person privately owned raft overturned on the Cache la Poudre River near Mishawaka; the other three occupants got out unharmed, Knight was retrieved downstream in Poudre Park and flown by Air Link to a hospital, where she was pronounced dead.",
+  "location": "Cache la Poudre River near Mishawaka / Poudre Park",
+  "county": "Larimer",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Larimer County (Air Link); Poudre Park firefighter assisted",
+  "source_urls": "https://northfortynews.com/category/news/poudre-river-levels-recede-after-historic-peak-contributes-to-three-deaths/|https://northfortynews.com/category/news/rafter-dies-in-poudre-river-rafting-accident/",
+  "notes": "Distinct from id 2454 (2014-06-14 Mishawaka raft, 7 occupants, 29-yo victim); different date, party size, and location. Run 651. run 791 merge: NFN breaking-news version of the 2014-06-04 Knight private-raft fatality (13000-block Poudre Canyon, 4 occupants; initial-report age 25 vs coroner-confirmed 26).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Cache la Poudre River",
+  "place_type": "river",
+  "legacy_id": 3132
+}

@@ -1,0 +1,19 @@
+{
+  "id": "8c5fdca1-accb-4895-8604-8465de3031dc",
+  "date": "2016-09-10",
+  "summary": "Missing hiker in the Grays and Torreys Peaks area",
+  "location": "Grays and Torreys Peaks",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-112.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Grays and Torreys",
+  "place_type": "other",
+  "legacy_id": 2122
+}

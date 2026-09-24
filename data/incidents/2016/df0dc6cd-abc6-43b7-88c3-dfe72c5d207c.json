@@ -1,0 +1,19 @@
+{
+  "id": "df0dc6cd-abc6-43b7-88c3-dfe72c5d207c",
+  "date": "2016-01-18",
+  "summary": "Five skiers/snowboarders missing after leaving Blue Sky Basin; ski patrol found 3, VMRG snowmobile teams took the other 2 (unfamiliar with area, no survival gear) to Vail Pass; out ~2:30 a.m. Jan 19",
+  "location": "Blue Sky Basin / Lime Creek drainage",
+  "county": "Eagle",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Vail Mountain Rescue Group + Vail Ski Patrol",
+  "source_urls": "https://www.vaildaily.com/news/vail-mountain-rescue-group-february-january-missions-digest/",
+  "notes": "Jan-Feb-2016 VMRG mission digest; victims = the 2 VMRG-evacuated subjects.",
+  "peak": "Vail Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3110
+}

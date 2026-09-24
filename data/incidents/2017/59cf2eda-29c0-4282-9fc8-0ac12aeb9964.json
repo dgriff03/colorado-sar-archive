@@ -1,0 +1,19 @@
+{
+  "id": "59cf2eda-29c0-4282-9fc8-0ac12aeb9964",
+  "date": "2017-10-07",
+  "summary": "Driver drove over the edge just above the Zero Creek switchback on Berthoud Pass; GCSAR, EMS, and East Grand Fire responded.",
+  "location": "Berthoud Pass, above Zero Creek switchback",
+  "county": "Grand",
+  "incident_type": "vehicle",
+  "outcome": "responded",
+  "victims": 1,
+  "responding_agency": "Grand County SAR",
+  "source_urls": "https://www.facebook.com/GCSAR/posts/pfbid0c7r1nKKtoSQDr61Q6qvmijodkBSvsGadeZZXSHiscHYg3RQwwhC6CJk8ftCynAhYl",
+  "notes": "Source: Grand County SAR Facebook page.",
+  "peak": "Berthoud Pass",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3650
+}

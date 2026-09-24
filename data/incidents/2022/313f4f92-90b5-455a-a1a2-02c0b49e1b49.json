@@ -1,0 +1,19 @@
+{
+  "id": "313f4f92-90b5-455a-a1a2-02c0b49e1b49",
+  "date": "2022-06-21",
+  "summary": "Canoe capsized at night with a couple and their dog aboard; the female and dog swam to shore and spent the night stranded on cliffs north of the lake; the male was unable to reach shore and drowned, his body found the next morning by good samaritans; the female was treated at Valley View Hospital and released.",
+  "location": "Sweetwater Lake, north of Dotsero",
+  "county": "Garfield",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 2,
+  "responding_agency": "Garfield County Sheriff's Office, Garfield County SAR, Gypsum Fire Department, USFS",
+  "source_urls": "https://www.garcosheriff.com/wp-content/uploads/2023/01/2022_06_24-Canoeing-Tragedy-at-Sweetwater.pdf",
+  "notes": "Deputies notified 2022-06-22 of the stranded female; incident occurred the night before (2022-06-21); fills a 2022 thin year for Garfield",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Sweetwater Lake",
+  "place_type": "lake",
+  "legacy_id": 2949
+}

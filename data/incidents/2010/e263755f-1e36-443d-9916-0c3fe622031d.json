@@ -1,0 +1,19 @@
+{
+  "id": "e263755f-1e36-443d-9916-0c3fe622031d",
+  "date": "2010-07-17",
+  "summary": "SPOT activation on Mt Bierstadt (10-52)",
+  "location": "Mt Bierstadt",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-52. SPOT activation; outcome not stated, presumed rescued-uninjured.",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 54
+}

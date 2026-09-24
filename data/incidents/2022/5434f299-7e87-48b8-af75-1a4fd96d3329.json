@@ -1,0 +1,19 @@
+{
+  "id": "5434f299-7e87-48b8-af75-1a4fd96d3329",
+  "date": "2022-05-19",
+  "summary": "21-year-old fell into Adams Falls in Rocky Mountain National Park and was found deceased; body recovered that evening; helitack to Upper Beaver Meadows; transferred to the Larimer County Coroner per report.",
+  "location": "Adams Falls, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "National Park Service",
+  "source_urls": "https://www.npshistory.com/morningreport/incidents/romo.htm|https://rockymountaindayhikes.com/rmnp-updates/fatality-at-adams-falls-in-rocky-mountain-national-park",
+  "notes": "NPS ROMO morning-report compendium entry. Adams Falls is west-side/Grand Lake area; compendium reports Larimer County Coroner — discrepancy flagged, county kept per source. Merged run 720: RMNP-day-hikes writeup confirms 2022-05-19 Adams Falls fatality (21yo female, East Inlet Trail west side; Grand County SO/EMS/SAR + Grand Lake Fire assisted).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Adams Falls",
+  "place_type": "waterfall",
+  "legacy_id": 2867
+}

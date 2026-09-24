@@ -1,0 +1,19 @@
+{
+  "id": "6c7fc21c-5f73-4e33-a800-da5952e268df",
+  "date": "2015-06-15",
+  "summary": "21-year-old woman volunteering with the Nature Conservancy marking plants fell ~50 ft down a cliff near Andrews Park Road, ~1.25 mi north of mile marker 5.5 on West County Road 80C; she landed on a ledge, likely preventing a further ~400-ft fall into the North Fork of the Poudre River. LCSO Emergency Services and Larimer County SAR assisted Livermore Fire Protection District, Poudre Valley Ambulance and Air Link; rescuers roped down to her, secured her, and rigged a vertical rope system to lift her up the cliff; she was carried to an ambulance ~4:50 p.m. with serious but non-life-threatening injuries and transported to a local hospital.",
+  "location": "Andrews Park Road, ~1.25 mi N of MM 5.5 on West County Road 80C, north of Livermore",
+  "county": "Larimer",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Larimer County Sheriff's Office Emergency Services; Larimer County Search and Rescue; Livermore Fire Protection District; Poudre Valley Ambulance; Air Link",
+  "source_urls": "https://northfortynews.com/category/news/woman-rescued-after-fall-from-cliff-north-of-80c/",
+  "notes": "Year 2015 pinned via search-index last-updated metadata (~4105 days before 2026-09-13); article gives June 15 with no year.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Andrews Park Road",
+  "place_type": "road",
+  "legacy_id": 2594
+}

@@ -1,0 +1,19 @@
+{
+  "id": "09d7e4aa-592c-416e-9d4d-89780a95f727",
+  "date": "2018-11-27",
+  "summary": "Assist RMNP with search for missing 20 YOM hiker in Longs Peak area, days 1-5 (2018-124 to 2018-127)",
+  "location": "Longs Peak area",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team; Rocky Mountain National Park",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2019/01/2018-Missions-Website.pdf",
+  "notes": "ART missions 2018-124 (11/27, asterisk), 2018-125 (11/28), 2018-126 (11/30), 2018-127 (12/1). Outcome not stated.",
+  "peak": "Longs Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 604
+}

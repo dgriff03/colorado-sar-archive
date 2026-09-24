@@ -1,0 +1,19 @@
+{
+  "id": "98fc8ea3-0ec4-4b3c-af60-d9e4bd3dfb46",
+  "date": "2024-03-17",
+  "summary": "Avalanche near Red Mountain in the Jones Pass area",
+  "location": "Red Mountain (Jones Pass)",
+  "county": "Clear Creek",
+  "incident_type": "avalanche",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "Burial/subject not confirmed in log; ART mission 2024-021.",
+  "peak": "Jones Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1346
+}

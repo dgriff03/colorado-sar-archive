@@ -1,0 +1,19 @@
+{
+  "id": "14ce0ff7-2566-4d59-a05c-7245cbeb583f",
+  "date": "2022-10-17",
+  "summary": "Jiji Oh, 50, of Houston TX, solo hiking at Devil's Causeway in the Flat Tops Wilderness descended the wrong trail and became disoriented with no cell service; lost 4 days in temps dropping into the 30s until found about 1 p.m. on day 4 by two fly fishermen (Ned Skinner, Richard Grant), who hiked her to her hotel; recovering from frostbite",
+  "location": "Devil's Causeway, Flat Tops Wilderness",
+  "county": "Garfield",
+  "incident_type": "lost/stranded",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "none deployed — found and walked out by two fly fishermen",
+  "source_urls": "https://www.cpr.org/2022/10/22/this-hiker-was-lost-in-the-wilderness-near-steamboat-alone-for-four-days-before-she-was-rescued-by-two-fishermen/|https://www.advnture.com/news/lone-hiker-lost-for-four-days-in-colorado-wilderness-rescued-by-fishermen",
+  "notes": "DATE APPROXIMATE — 4-day ordeal; story published 2022-10-22, Oh already back in Texas by publication; found ~1 p.m. on day 4; no SAR deployment — injury + documented bystander rescue fit scope",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Flat Tops Wilderness",
+  "place_type": "wilderness",
+  "legacy_id": 3300
+}

@@ -1,0 +1,19 @@
+{
+  "id": "38b69cd2-39e8-4b76-b485-d2b9dcfad3ae",
+  "date": "2024-08-16",
+  "summary": "Two stranded hikers on Kelso Ridge of Torreys Peak",
+  "location": "Kelso Ridge (Torreys Peak)",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "ART mission 2024-101.",
+  "peak": "Torreys Peak",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1441
+}

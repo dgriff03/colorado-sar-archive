@@ -1,0 +1,19 @@
+{
+  "id": "91e5ce2d-7184-429b-94ba-487e1ca5c360",
+  "date": "2018-06-06",
+  "summary": "Young hiker with leg injury on the Manitou Incline.",
+  "location": "Manitou Incline",
+  "county": "El Paso",
+  "incident_type": "injury",
+  "outcome": "assisted",
+  "victims": 1,
+  "responding_agency": "El Paso County SAR",
+  "source_urls": "https://www.facebook.com/epcsar/posts/pfbid0U5r3MXsZSrmtA6DoPhofz6tidf9rQVGhuFGfdYfWtR2cpWobapzuYVgDgWDoGsEpl",
+  "notes": "Source: El Paso County SAR Facebook page.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Manitou Incline",
+  "place_type": "trail",
+  "legacy_id": 3665
+}

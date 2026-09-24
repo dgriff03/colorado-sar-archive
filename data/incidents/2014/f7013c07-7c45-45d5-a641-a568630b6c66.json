@@ -1,0 +1,19 @@
+{
+  "id": "f7013c07-7c45-45d5-a641-a568630b6c66",
+  "date": "2014-02-05",
+  "summary": "Two cross-country skiers overdue on a Snowmass Village to West Buttermilk trip on the Government Trail; found uninjured by Mountain Rescue Aspen the same night after their pickup ride called dispatch over the cold.",
+  "location": "Government Trail, Snowmass Village to West Buttermilk parking lot",
+  "county": "Pitkin",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Pitkin County Sheriff's Office; Mountain Rescue Aspen",
+  "source_urls": "https://www.kmts.com/news/mountain-rescue-aspen-deployed-to-search-for-overdue-skiers",
+  "notes": "7 MRA members responded; 3-person foot team + 2-person snowmobile team; skiers assisted safely to parking lot ~11:42 PM.",
+  "peak": "Snowmass Mountain",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3243
+}

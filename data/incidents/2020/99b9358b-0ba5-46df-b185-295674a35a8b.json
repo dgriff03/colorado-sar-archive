@@ -1,0 +1,19 @@
+{
+  "id": "99b9358b-0ba5-46df-b185-295674a35a8b",
+  "date": "2020-09-27",
+  "summary": "Climber fell to the ground leading Funeral March, West Ridge, Eldorado Canyon, when protection pulled; concussion and other injuries.",
+  "location": "Eldorado Canyon, West Ridge/Funeral March",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain Rescue Group",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201215890",
+  "notes": "",
+  "peak": "Eldorado Canyon",
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 877
+}

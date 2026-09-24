@@ -1,0 +1,19 @@
+{
+  "id": "9a54abcc-fd55-4ad8-a199-9b3f99737400",
+  "date": "2015-12-29",
+  "summary": "Three snowboarders lost after dark in south Game Creek Bowl above Minturn Mile; located by GPS, directed to Minturn Mile Trail with Vail Ski Patrol access support, assisted to trailhead; out ~2 a.m. Dec 30",
+  "location": "Game Creek Bowl / Minturn Mile",
+  "county": "Eagle",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 3,
+  "responding_agency": "Vail Mountain Rescue Group + Vail Ski Patrol",
+  "source_urls": "https://www.vaildaily.com/news/december-tallies-11-rescue-missions-in-vail-valley/",
+  "notes": "Dec-2015 VMRG mission digest.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Game Creek",
+  "place_type": "creek",
+  "legacy_id": 3109
+}

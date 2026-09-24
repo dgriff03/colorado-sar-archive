@@ -1,0 +1,19 @@
+{
+  "id": "1c70733c-0382-4131-9884-916b0abebb2a",
+  "date": "2018-10-20",
+  "summary": "Off-route leader fall on Yellow Spur, Eldorado Canyon; head injury; RMRG response.",
+  "location": "Eldorado Canyon, Yellow Spur",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain Rescue Group",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201215175|https://alpinerescueteam.org/category/recent-missions/boulder-county/page/4/",
+  "notes": "Run-349 merge: Alpine Boulder County archive (2018-117) records Alpine assist to RMRG for rescue of two climbers in Eldorado Canyon, 2018-10-20 18:45 — same evening/mission as the Yellow Spur fall.",
+  "peak": "Eldorado Canyon",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 596
+}

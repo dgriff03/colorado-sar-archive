@@ -1,0 +1,19 @@
+{
+  "id": "6012bd35-2aad-4fc2-a91a-4376a0b0036b",
+  "date": "2013-09-27",
+  "summary": "Miriam Dani lost in a whiteout on the Aspen-to-Crested Butte trek near the West Maroon Pass summit; sheltered overnight under a tree with a poncho, then hiked back to the Aspen trailhead Saturday morning",
+  "location": "West Maroon Pass summit / Frigid Air Pass",
+  "county": "Gunnison",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Crested Butte SAR; Western State Colorado University SAR; Civil Air Patrol; Air National Guard",
+  "source_urls": "https://crestedbuttenews.com/2013/10/west-maroon-pass-scene-of-huge-search-and-rescue-operation/",
+  "notes": "Last seen ~4 p.m. Friday at the pass; 9 Crested Butte SAR + 4 WSCU SAR members searched from ~8:30 a.m. Saturday with CAP fixed-wing and ANG helicopter. Dani self-rescued, reached Aspen trailhead Sat afternoon, checked at Aspen hospital and released. Pass summit straddles the Gunnison/Pitkin line; recorded Gunnison per Crested Butte SAR response.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "West Maroon Pass",
+  "place_type": "pass",
+  "legacy_id": 2230
+}

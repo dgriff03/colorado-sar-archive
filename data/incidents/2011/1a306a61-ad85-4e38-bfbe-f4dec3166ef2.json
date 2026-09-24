@@ -1,0 +1,19 @@
+{
+  "id": "1a306a61-ad85-4e38-bfbe-f4dec3166ef2",
+  "date": "2011-07-24",
+  "summary": "15-year-old boy on a group camping trip to the North Inlet group site (~9,290 ft, ~6.5 mi from the trailhead) became ill the previous night and was not improving; a nearby backcountry ranger plus three others treated him; he was ridden out on horseback to the trailhead ~midnight and ambulanced to Granby Medical Clinic",
+  "location": "North Inlet group site, Rocky Mountain National Park",
+  "county": "Grand",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "RMNP rangers",
+  "source_urls": "http://npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "Incident date pinned to Sun 2011-07-24: report filed Wed Jul 27 says rangers learned of the illness \"on Sunday afternoon\"; weekday-verified.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Rocky Mountain National Park",
+  "place_type": "park",
+  "legacy_id": 2677
+}

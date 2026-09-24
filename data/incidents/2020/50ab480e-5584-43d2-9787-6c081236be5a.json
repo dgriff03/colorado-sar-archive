@@ -1,0 +1,19 @@
+{
+  "id": "50ab480e-5584-43d2-9787-6c081236be5a",
+  "date": "2020-01-24",
+  "summary": "Backcountry skier caught, carried, and seriously injured in an avalanche on the east face of Point 12118 at Jones Pass.",
+  "location": "East face of Point 12118, Jones Pass",
+  "county": "Clear Creek",
+  "incident_type": "avalanche",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "http://classic.avalanche.state.co.us/caic/acc/acc_co.php",
+  "notes": "CAIC classic 2019-20 season table row: \"East face of Point 12118, Jones Pass,\" 1 backcountry skier caught, carried, and seriously injured. Distinct from the Alpine Rescue Team 2020-05 one-liner \"avalanche off Jones Pass with known burial\" (id 758) - CAIC reports no burial here, only a caught-carried serious injury.",
+  "peak": "Jones Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2542
+}

@@ -1,0 +1,19 @@
+{
+  "id": "0227e1dc-0b20-409c-bd90-248da3fced87",
+  "date": "2025-05-23",
+  "summary": "An unconscious but breathing male found along the Tabeguache Trail by a hiker; a passing biker provided coordinates; responders transported the patient to the hospital via CareFlight.",
+  "location": "Tabeguache Trail, Mesa County",
+  "county": "Mesa",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Mesa County Sheriff's Office, Mesa County Search and Rescue, Grand Junction Fire Dept, CareFlight",
+  "source_urls": "https://crimewatch.net/us/co/mesa/sheriff/134177/post/mesa-county-sheriffs-office-responds-seven-search-and-rescue-calls-over-memorial-day",
+  "notes": "Reported ~10:40am May 23, 2025.",
+  "peak": "Tabeguache Peak",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1576
+}

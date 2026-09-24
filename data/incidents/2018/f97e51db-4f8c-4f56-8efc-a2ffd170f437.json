@@ -1,0 +1,19 @@
+{
+  "id": "f97e51db-4f8c-4f56-8efc-a2ffd170f437",
+  "date": "2018-06-23",
+  "summary": "Female fell while climbing rocks alone on Mt. Pisgah (~1 mi east of Hwy 36 MM3 staging); technical carryout by LCSAR + Estes Valley Fire. (Mission-report header typo said 6/23/17; real-time carry-out post pins 2018.)",
+  "location": "Mt. Pisgah near 'Welcome to Estes Park' sign",
+  "county": "Larimer County",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Larimer County Search and Rescue",
+  "source_urls": "https://www.facebook.com/lcsarinc/posts/pfbid0veah6JPoCzy9hPPNn8zCndBfzbjtuc9Tv6gcq2QhNF7T5g1K6t5QYnCKNXiMUqx2l|https://www.facebook.com/lcsarinc/posts/pfbid02zeekeWfcimC3ezMqkTmsVo7YhgsTWihrwjmVsQ4P4XTtFk754SxqBtgmXwtFkF9rl|https://www.facebook.com/lcsarinc/posts/pfbid02zUVkMNPsuKNDSHtFx1FVcdjU3aPvLqTZ1KKiUh4pLYrmSNpETtvMJBcTUUA8S5Sol",
+  "notes": "",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Mount Pisgah",
+  "place_type": "peak",
+  "legacy_id": 3603
+}

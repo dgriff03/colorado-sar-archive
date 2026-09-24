@@ -1,0 +1,19 @@
+{
+  "id": "b5246d13-c976-494c-a58f-acf616f0fa0d",
+  "date": "2020-05-02",
+  "summary": "Solo hiker fell off a cliff at the Little Park Trailhead; found by other hikers on the Ribbon Trail off Andy's Loop; Grand Junction Fire Rescue 1 crew hiked in with a Stokes basket and packaged the patient; Mesa County SAR ground team + supervisor assisted moving the patient to a landing zone; St. Mary's CareFlight 4 evacuated the patient; incident took just under two hours.",
+  "location": "Little Park Trailhead / Ribbon Trail off Andy's Loop",
+  "county": "Mesa",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Grand Junction Fire Department; Mesa County Search and Rescue; Mesa County Sheriff's Office",
+  "source_urls": "https://5280fire.com/2020-incidents/grand-junction-fallen-hiker-rescue/",
+  "notes": "Dispatch 12:09 p.m. May 2, 2020; patient hiking alone; patient condition at press time unreported beyond helo evac. Dedupe: 2020-05-01/02/03 date+location window and Wernke/Little Park token scans — no collisions.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Little Park Trailhead",
+  "place_type": "trailhead",
+  "legacy_id": 2357
+}

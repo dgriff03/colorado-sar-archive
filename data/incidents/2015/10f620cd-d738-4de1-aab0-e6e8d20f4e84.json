@@ -1,0 +1,19 @@
+{
+  "id": "10f620cd-d738-4de1-aab0-e6e8d20f4e84",
+  "date": "2015-08-04",
+  "summary": "83-year-old hiker separated from his party on the Lonesome Lake trail near Homestake Reservoir; located at 2 a.m. cold but uninjured and escorted to the trailhead; out ~5:45 a.m. Aug 5",
+  "location": "Lonesome Lake trail, Homestake Reservoir",
+  "county": "Eagle",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Vail Mountain Rescue Group",
+  "source_urls": "https://www.vaildaily.com/news/julyaugust-vail-mountain-rescue-missions/",
+  "notes": "Jul-Aug-2015 VMRG mission digest.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Lonesome Lake Trail",
+  "place_type": "trail",
+  "legacy_id": 3119
+}

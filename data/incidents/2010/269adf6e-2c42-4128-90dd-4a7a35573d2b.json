@@ -1,0 +1,19 @@
+{
+  "id": "269adf6e-2c42-4128-90dd-4a7a35573d2b",
+  "date": "2010-03-30",
+  "summary": "Heidi Kloos killed in avalanche near Baldy Peak east of Ridgway; Ouray Mountain Rescue searched and recovered her body",
+  "location": "Baldy Peak, Cimarron Mountains",
+  "county": "Ouray",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Ouray County SAR, avalanche dogs; Ouray Mountain Rescue",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201104401/Avalanche-Climbing-Alone-Colorado-Cimmaron-Mountains-Baldy-Peak|https://www.100summits.com/articles/colorado-mountaineering-deaths/2010/itemlist/tag/review",
+  "notes": "Merged 2 reports (parts: aac, news-2010-2019); date per both sources.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Baldy Peak",
+  "place_type": "peak",
+  "legacy_id": 17
+}

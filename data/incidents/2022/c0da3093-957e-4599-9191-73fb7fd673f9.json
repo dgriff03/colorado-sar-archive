@@ -1,0 +1,19 @@
+{
+  "id": "c0da3093-957e-4599-9191-73fb7fd673f9",
+  "date": "2022-06-10",
+  "summary": "30-year-old male climber injured in a fall ~200 yards off the road up a steep slope; litter carry to Boulder Canyon Drive; transported with serious injuries.",
+  "location": "Happy Hour Crag, Boulder Canyon",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "BCSO, Rocky Mountain Rescue Group, Sugarloaf Fire Protection District, AMR",
+  "source_urls": "https://bouldercounty.gov/news/climber-rescued-after-fall-in-boulder-canyon/",
+  "notes": "BCSO case 22-02698",
+  "peak": "Boulder Canyon",
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2947
+}

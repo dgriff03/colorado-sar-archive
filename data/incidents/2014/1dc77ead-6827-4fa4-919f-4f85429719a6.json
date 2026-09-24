@@ -1,0 +1,19 @@
+{
+  "id": "1dc77ead-6827-4fa4-919f-4f85429719a6",
+  "date": "2014-01-08",
+  "summary": "Jeremy Kipp, 25, stuck snowmobile near the Dyke Trail; spent a night out in a snowstorm and walked to Kebler Pass Road in the morning",
+  "location": "Dyke Trail area, Kebler Pass",
+  "county": "Gunnison",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Crested Butte SAR + private volunteers",
+  "source_urls": "https://crestedbuttenews.com/2014/01/snowmobiler-survives-unplanned-night-out-in-kebler-backcountry/",
+  "notes": "Snowmobile stuck; dug in overnight, self-extracted at daylight",
+  "peak": "Kebler Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 195
+}

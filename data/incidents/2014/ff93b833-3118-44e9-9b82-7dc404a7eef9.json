@@ -1,0 +1,19 @@
+{
+  "id": "ff93b833-3118-44e9-9b82-7dc404a7eef9",
+  "date": "2014-05-28",
+  "summary": "Samuel Frappier stranded overnight on Broadway Ledge, Longs Peak; major multi-helicopter, 28-person rescue ended with evacuation to hospital",
+  "location": "Longs Peak, Broadway Ledge",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park; Flight for Life",
+  "source_urls": "https://www.beaconjournal.com/story/news/local/2014/06/25/deadly-allure-longs-peak/11379673/|https://www.nps.gov/romo/learn/news/pr_further_information_released_regarding_frappier_incident_on_longs_peak_in_rocky_mountain_national_park.htm|https://www.npshistory.com/morningreport/incidents/romo.htm|https://www.nps.gov/romo/learn/news/pr_major_rescue_underway_on_east_face_of_longs_peak.htm|https://gripped.com/news/quebec-climber-rescued-colorado/|http://npshistory.com/morningreport/2014/05-30.htm|https://www.nationalparkstraveler.org/2014/06/cost-rescue-canadian-teen-released-rocky-mountain-national-park25218?page=1|https://www.nationalparkstraveler.org/2014/05/climber-stranded-longs-peak-rocky-mountain-national-park25145",
+  "notes": "Stranded overnight May 27-28; injury status not stated in opened source Run 491: NPS Frappier follow-up release URL appended (search-index verified; the run-469 follow-up lead; release adds 46 people + 2 helicopters, ~$41,000 cost, Frappier's self-move toward Chasm Meadows rescuers, and Teton Interagency short-haul helicopter detail). NPS ROMO morning-report compendium entry; compendium date 2014-05-27, existing date 2014-05-28 per NPS news release kept. Merge run 529: NPS May-28-2014 news release (rescue-underway) appended — corroborates the Broadway Ledge stranding/extraction detail. Run 570: daily-page URL appended (subagent-opened this run); corroborates the unprepared-overnight stranding, ~30-person response, and Teton Interagency helicopter short-haul detail. NPS follow-up release (2014-06-10): 46 people and 2 helicopters involved; final cost estimated ~$41,000. Run 713: NPT cost-of-rescue piece (46 people, 2 helicopters, $41,000; parent-verified matches Frappier 2014-05-28 Broadway Ledge rescue).",
+  "peak": "Longs Peak",
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 201
+}

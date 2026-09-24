@@ -1,0 +1,19 @@
+{
+  "id": "1b271cec-2e41-4058-8060-71a1c2f27d22",
+  "date": "2013-08-06",
+  "summary": "Search for missing 58-year-old female at Columbine Campground (Alpine mission 13-62)",
+  "location": "Columbine Campground area",
+  "county": "Gilpin",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/2013-62-team-paged-for-a-missing-58-yof-in-the-columbine-campground-area/",
+  "notes": "ART mission 13-62; paged 08/06/13 07:13. One-line log, outcome unstated; presumed rescued-uninjured per convention.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Columbine Campground",
+  "place_type": "campground",
+  "legacy_id": 2202
+}

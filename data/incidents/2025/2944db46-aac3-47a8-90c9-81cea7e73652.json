@@ -1,0 +1,19 @@
+{
+  "id": "2944db46-aac3-47a8-90c9-81cea7e73652",
+  "date": "2025-05-30",
+  "summary": "Injured female skier on the north face of Torreys Peak",
+  "location": "Torreys Peak (north face)",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf",
+  "notes": "Injury mechanism not stated in log; ART mission 2025-044.",
+  "peak": "Torreys Peak",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1581
+}

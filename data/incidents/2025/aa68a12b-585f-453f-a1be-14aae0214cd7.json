@@ -1,0 +1,19 @@
+{
+  "id": "aa68a12b-585f-453f-a1be-14aae0214cd7",
+  "date": "2025-04-11",
+  "summary": "Man in shorts and tennis shoes lost off-trail in deep snow on Quandary Peak, feeling cold; called for help; assisted to safety",
+  "location": "Quandary Peak",
+  "county": "Summit",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Summit County Sheriff; Summit County Rescue Group",
+  "source_urls": "https://unofficialnetworks.com/2025/04/17/search-and-rescue-quandary-peak/",
+  "notes": "One of four Quandary Peak missions Apr 7-13, 2025 (ids 3098-3101); source: Summit County Sheriff Office.",
+  "peak": "Quandary Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3100
+}

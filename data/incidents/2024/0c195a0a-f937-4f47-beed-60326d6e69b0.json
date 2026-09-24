@@ -1,0 +1,19 @@
+{
+  "id": "0c195a0a-f937-4f47-beed-60326d6e69b0",
+  "date": "2024-08-23",
+  "summary": "Injured party in the Abyss Lake area near Mt Bierstadt",
+  "location": "Abyss Lake",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "Injury mechanism not stated in log; county unverified; ART mission 2024-110.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Abyss Lake",
+  "place_type": "lake",
+  "legacy_id": 1450
+}

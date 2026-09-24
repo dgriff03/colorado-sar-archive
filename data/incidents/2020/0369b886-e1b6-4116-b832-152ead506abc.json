@@ -1,0 +1,19 @@
+{
+  "id": "0369b886-e1b6-4116-b832-152ead506abc",
+  "date": "2020-07-16",
+  "summary": "Two lost hikers in Golden Watershed area, Jeffco (2020-55)",
+  "location": "Golden Watershed area",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2021/01/2020-Missions-Website.pdf",
+  "notes": "ART mission 2020-55. Outcome not stated in PDF; presumed rescued-uninjured.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Golden Watershed",
+  "place_type": "open_space",
+  "legacy_id": 816
+}

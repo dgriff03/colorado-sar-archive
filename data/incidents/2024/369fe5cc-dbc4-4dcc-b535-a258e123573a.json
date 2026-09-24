@@ -1,0 +1,19 @@
+{
+  "id": "369fe5cc-dbc4-4dcc-b535-a258e123573a",
+  "date": "2024-06-04",
+  "summary": "Stranded parties in the Moffat Tunnel area of Gilpin County",
+  "location": "Moffat Tunnel",
+  "county": "Gilpin",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "Number of parties not stated; recorded as 1; county per log; ART mission 2024-040.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Moffat Tunnel",
+  "place_type": "tunnel",
+  "legacy_id": 1366
+}

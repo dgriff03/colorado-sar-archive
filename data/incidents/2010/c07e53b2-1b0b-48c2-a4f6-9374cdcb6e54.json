@@ -1,0 +1,19 @@
+{
+  "id": "c07e53b2-1b0b-48c2-a4f6-9374cdcb6e54",
+  "date": "2010-07-01",
+  "summary": "28-year-old Colorado man fell 150 feet down a slope south and west of The Narrows on Longs Peak; ranger flown to summit hiked down to him; short-haul helicopter and Grand Teton NP fire crew evacuated him to the Boulderfield, then Flight for Life to St. Anthony's Hospital; ~30 rescuers, Rocky Mountain Rescue on standby",
+  "location": "Longs Peak, The Narrows",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "RMNP rangers, Rocky Mountain Rescue (standby)",
+  "source_urls": "https://npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "NPS morning report (reported 2010-07-02): fall occurred Thursday afternoon; victim conscious and stable with numerous injuries",
+  "peak": "Longs Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2619
+}

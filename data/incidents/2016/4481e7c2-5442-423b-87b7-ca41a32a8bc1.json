@@ -1,0 +1,19 @@
+{
+  "id": "4481e7c2-5442-423b-87b7-ca41a32a8bc1",
+  "date": "2016-04-21",
+  "summary": "Two parties lost and stranded along the Hidden Wilderness Road",
+  "location": "Hidden Wilderness Road",
+  "county": "",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-29. 2 parties; individual subject count unstated",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Hidden Wilderness Road",
+  "place_type": "road",
+  "legacy_id": 2061
+}

@@ -1,0 +1,19 @@
+{
+  "id": "c9001d89-ff6b-41b5-9327-7be9aa9a9a4d",
+  "date": "2022-08-27",
+  "summary": "Assist to Arapahoe Rescue Patrol for one of their members injured at St Mary's Glacier",
+  "location": "St Mary's Glacier",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Arapahoe Rescue Patrol",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2023/01/2022-Missions-Website.pdf",
+  "notes": "Injury mechanism not stated in log; ART mission 2022-089.",
+  "peak": "James Peak",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1142
+}

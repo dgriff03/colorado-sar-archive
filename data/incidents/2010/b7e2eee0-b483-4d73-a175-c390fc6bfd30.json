@@ -1,0 +1,19 @@
+{
+  "id": "b7e2eee0-b483-4d73-a175-c390fc6bfd30",
+  "date": "2010-07-16",
+  "summary": "23-year-old woman drowned in the Arkansas River after falling out as an off-duty guide; SARDOC dog teams indicated locations along the river and her body was recovered October 27 where the dogs had indicated.",
+  "location": "Arkansas River",
+  "county": "Chaffee",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": null,
+  "source_urls": "http://sardoc.org/cms/wp-content/uploads/2011/01/PublicSummaryFinal.pdf",
+  "notes": "Run-658 SARDOC chunk.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Arkansas River",
+  "place_type": "river",
+  "legacy_id": 3172
+}

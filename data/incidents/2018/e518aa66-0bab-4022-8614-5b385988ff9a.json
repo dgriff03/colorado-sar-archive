@@ -1,0 +1,19 @@
+{
+  "id": "e518aa66-0bab-4022-8614-5b385988ff9a",
+  "date": "2018-09-25",
+  "summary": "Assist Douglas County SAR for search in Roxborough State Park (2018-108)",
+  "location": "Roxborough State Park",
+  "county": "Douglas",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team; Douglas County SAR",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2019/01/2018-Missions-Website.pdf",
+  "notes": "ART mission 2018-108. Subject details not stated; asterisk in source; victim count estimated.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Roxborough State Park",
+  "place_type": "park",
+  "legacy_id": 586
+}

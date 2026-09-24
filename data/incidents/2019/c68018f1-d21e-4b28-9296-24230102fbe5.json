@@ -1,0 +1,19 @@
+{
+  "id": "c68018f1-d21e-4b28-9296-24230102fbe5",
+  "date": "2019-03-07",
+  "summary": "Mechanized backcountry guide Hans Berg (Powder Addiction employee) buried and killed in a large cornice-triggered avalanche on Point 12118 east of Jones Pass during the historic March-2019 loading cycle; a second person (a guide client) was also caught.",
+  "location": "Point 12118, east of Jones Pass",
+  "county": "Clear Creek",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team; Clear Creek County Sheriff's Office",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2020/01/2019-Missions-Website.pdf|http://unofficialnetworks.com/2019/03/08/skier-dead-front-range-avalanche/|https://classic.avalanche.state.co.us/caic/acc/acc_co.php",
+  "notes": "ART mission 2019-17. Asterisk in source; outcome not stated, assumed injury; victim count estimated. CORRECTION 2026-09-12 (run 238): CAIC classic table + Unofficial Networks CAIC prelim confirm the buried subject (Hans Berg, Powder Addiction mechanized guide) died at the hospital after Clear Creek EMS transport; Alpine's assumed injury corrected to fatality; second caught person (guide client) counted.",
+  "peak": "Jones Pass",
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 628
+}

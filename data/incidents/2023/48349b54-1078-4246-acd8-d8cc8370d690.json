@@ -1,0 +1,19 @@
+{
+  "id": "48349b54-1078-4246-acd8-d8cc8370d690",
+  "date": "2023-05-11",
+  "summary": "Three adult males stranded in their vehicle in deep snow on Rampart Range Road / Fern Creek Road in Pike National Forest; a deputy reached them but could not free the car. Douglas County SAR and El Paso County SAR attempted an overnight ground reach but fallen trees blocked the road; early the next morning an Air National Guard helicopter picked up the two remaining motorists (the third had been ferried out by the deputy) and flew them to Centennial Airport for hospital checkups.",
+  "location": "Rampart Range Road / Fern Creek Road, Pike National Forest",
+  "county": "Douglas",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 3,
+  "responding_agency": "Douglas County Sheriff's Office; Douglas County SAR; El Paso County SAR; Air National Guard; Douglas County Office of Emergency Management",
+  "source_urls": "https://dcsheriff.net/multi-agency-response-rescues-three-stranded-motorists-in-pike-national-forest/?swpmtx=f823b6c95ff562067a7c4b62e77ca5c9&swpmtxnonce=743c28162b",
+  "notes": "911 call 2023-05-11 ~3:00 p.m.; deputy located the vehicle after a 2-hr search and ferried one occupant to Woodland Park; the other two were flown out shortly before noon 2023-05-12 (~21-hour ordeal). Possible relation to id 1207 (Alpine 2023-025, 2023-05-12 \"hoist of two stranded parties on Rampart Range\") — recorded as a separate incident: the DCSO release describes one party of three motorists, while Alpine describes a hoist of two stranded parties; same storm system and adjacent dates, overlap possible.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Rampart Range Road",
+  "place_type": "road",
+  "legacy_id": 2369
+}

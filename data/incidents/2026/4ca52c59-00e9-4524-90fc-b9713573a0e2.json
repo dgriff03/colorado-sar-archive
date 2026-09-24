@@ -1,0 +1,19 @@
+{
+  "id": "4ca52c59-00e9-4524-90fc-b9713573a0e2",
+  "date": "2026-08-29",
+  "summary": "Man fell ~40 ft from a rock face at Dixon Cove, Horsetooth Reservoir; Larimer County rangers and Poudre Fire stabilized him, moved him down the hillside to a boat; airlifted to a hospital with significant injuries; expected to recover",
+  "location": "Dixon Cove, Horsetooth Reservoir",
+  "county": "Larimer",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Larimer County DNR rangers + Poudre Fire Authority, UCHealth medical helicopter",
+  "source_urls": "https://northfortynews.com/category/news/horsetooth-rescue-crews-airlift-injured-patient/|https://www.police1.com/search-and-rescue/photo-of-the-week-from-rock-face-to-rescue-boat",
+  "notes": "two accounts of the same Saturday afternoon incident: technical rope lowering from Dixon Cove to shoreline (~5:45pm) and ranger photo account of 40-ft fall with boat transport",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Horsetooth Reservoir",
+  "place_type": "reservoir",
+  "legacy_id": 1731
+}

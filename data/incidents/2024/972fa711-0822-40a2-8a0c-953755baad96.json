@@ -1,0 +1,19 @@
+{
+  "id": "972fa711-0822-40a2-8a0c-953755baad96",
+  "date": "2024-07-15",
+  "summary": "Injured party on the Sawtooth off of Mt Bierstadt",
+  "location": "Sawtooth (Mt Bierstadt)",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf|https://www.advnture.com/news/mountain-rescue-begs-hikers-to-wear-bright-colors",
+  "notes": "Injury mechanism not stated in log; ART mission 2024-069. | Advnture narrative (opened): call reported a lower-leg injury with possible loss of consciousness; 19-person ART team deployed via Flight for Life helicopter and on foot; FFL air spotters could not see the patient on flyovers (bright-clothing lesson); patient located, leg splinted, hiked out.",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1402
+}

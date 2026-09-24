@@ -1,0 +1,19 @@
+{
+  "id": "1cf4d54c-06c9-4299-9177-54dcec4cb765",
+  "date": "2022-09-24",
+  "summary": "Individual activated a Garmin InReach at 12,200 feet near Broken Hand Pass; Saguache SAR requested Custer County SAR support around 1840; a hasty team of two reached the subject around 2330, provided food, headlamp, and warm clothing, and walked out toward South Colony Lakes.",
+  "location": "12,200 ft near Broken Hand Pass",
+  "county": "Custer",
+  "incident_type": "lost/stranded",
+  "outcome": "located, walked out",
+  "victims": 1,
+  "responding_agency": "Custer County SAR",
+  "source_urls": "https://www.facebook.com/CusterSAR/posts/pfbid0ppU6oK1kewUaPJLZmwQPF45nQ1K3ShRE9QuN68UrmQog9dxWHUGSUVFSRMJuquyNl",
+  "notes": "Source: Custer County SAR Facebook page.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Broken Hand Pass",
+  "place_type": "pass",
+  "legacy_id": 3725
+}

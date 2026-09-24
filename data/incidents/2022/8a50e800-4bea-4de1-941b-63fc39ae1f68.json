@@ -1,0 +1,19 @@
+{
+  "id": "8a50e800-4bea-4de1-941b-63fc39ae1f68",
+  "date": "2022-04-30",
+  "summary": "67-year-old climber died after a ~30-ft fall while leading the first pitch of Otto's Route on Independence Monument.",
+  "location": "Otto's Route (5.8+), Independence Monument, Colorado National Monument",
+  "county": "Mesa",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Colorado National Monument; Mesa County Sheriff's Office; Mesa County Search and Rescue; Lower Valley Fire District; Mesa County Coroner",
+  "source_urls": "https://www.climbing.com/news/climber-dies-independence-monument-colorado/?scope=anon|https://publications.americanalpineclub.org/articles/13201216622|http://npshistory.com/morningreport/incidents/colm.htm|https://kekbfm.com/fatal-fall-colorado-national-monument-2022/|https://www.nps.gov/colm/learn/news/additional-details-released-following-investigation-of-climber-death-on-independence-monument.htm|https://www.nps.gov/colm/learn/news/climber-death-at-independence-monument.htm",
+  "notes": "Andrew Whiteside, 67, of Maryland; fell out of sight of his two partners, landed on a ledge; deceased when rescuers arrived; cause: multiple blunt force injuries; wearing a helmet; gear intact. NPS morning-report compendium corroborates the 2022-04-30 Independence Monument climber fatality (67-year-old, NPS + MCSO + Mesa County SAR + Lower Valley Fire response). Run 622: kekbfm report merged (Andrew Whiteside, 67, Saturday fatal fall at Independence Monument, MCSO + Mesa County SAR + Lower Valley Fire response). | Merged run 771: NPS COLM May-2022 releases (initial + investigation details, Andrew Whiteside, Otto's Route).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Independence Monument",
+  "place_type": "climbing_area",
+  "legacy_id": 1068
+}

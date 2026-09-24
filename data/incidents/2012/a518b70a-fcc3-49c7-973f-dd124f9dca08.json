@@ -1,0 +1,19 @@
+{
+  "id": "a518b70a-fcc3-49c7-973f-dd124f9dca08",
+  "date": "2012-07-23",
+  "summary": "Dirt biker in a group of five (including Lance Armstrong) crashed and broke a leg near Star Pass; CBSAR responded with a team member on a motorcycle and a 4WD Excursion in a ~4-hour mission, packaged the patient and transferred him to a waiting ambulance at the Brush Creek trailhead.",
+  "location": "Star Pass / Brush Creek trailhead",
+  "county": "Gunnison",
+  "incident_type": "vehicle",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Crested Butte SAR",
+  "source_urls": "https://crestedbuttenews.com/2012/08/search-and-rescue-having-a-light-summer/",
+  "notes": "Call came Monday, July 23, 2012, from Lance Armstrong's group per CBN 8/1/2012 article; CBSAR president Nicholas Kempin quoted.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Star Pass",
+  "place_type": "pass",
+  "legacy_id": 2408
+}

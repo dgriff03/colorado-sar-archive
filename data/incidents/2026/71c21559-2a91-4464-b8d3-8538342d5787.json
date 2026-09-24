@@ -1,0 +1,19 @@
+{
+  "id": "71c21559-2a91-4464-b8d3-8538342d5787",
+  "date": "2026-08-02",
+  "summary": "Climber on the Little Bear-Blanca traverse fell ~50 feet when a handhold failed, sustaining an open lower-leg fracture; patient and companion hoisted out by Black Hawk",
+  "location": "Little Bear-Blanca traverse",
+  "county": "Alamosa",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alamosa Volunteer SAR, CO Army National Guard, LIFELINE 5",
+  "source_urls": "https://thenextsummit.org/little-bear-peak-rescue-traverse-fall/",
+  "notes": "1 injured victim; companion also hoisted",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Little Bear-Blanca Traverse",
+  "place_type": "climbing_area",
+  "legacy_id": 1727
+}

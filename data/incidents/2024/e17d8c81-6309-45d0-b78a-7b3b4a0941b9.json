@@ -1,0 +1,19 @@
+{
+  "id": "e17d8c81-6309-45d0-b78a-7b3b4a0941b9",
+  "date": "2024-07-01",
+  "summary": "Stranded climber in the Mill Creek Road area near Dumont",
+  "location": "Mill Creek Road (near Dumont)",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "ART mission 2024-053.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": "Mill Creek Road",
+  "place_type": "road",
+  "legacy_id": 1381
+}

@@ -1,0 +1,19 @@
+{
+  "id": "5d9befff-dc4d-4e9b-9329-ab1340e95f4c",
+  "date": "2022-06-15",
+  "summary": "70-year-old male hiker fell on the trail and suffered head injuries; rescuers stabilized him and performed a litter carry; transported to a local hospital.",
+  "location": "Shadow Canyon Trail",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "BCSO, AMR, Boulder Fire-Rescue, City of Boulder OSMP, Rocky Mountain Rescue Group",
+  "source_urls": "https://bouldercounty.gov/news/hiker-rescued-after-fall-on-shadow-canyon-trail/",
+  "notes": "BCSO case 22-2796",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Shadow Canyon Trail",
+  "place_type": "trail",
+  "legacy_id": 2946
+}

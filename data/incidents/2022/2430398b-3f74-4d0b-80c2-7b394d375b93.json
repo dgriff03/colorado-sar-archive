@@ -1,0 +1,19 @@
+{
+  "id": "2430398b-3f74-4d0b-80c2-7b394d375b93",
+  "date": "2022-07-13",
+  "summary": "Two hikers lost the trail descending the Southwest Ridge of Mt. Sneffels after summiting and called 911. OMRT made phone contact, counseled them to stay put, deployed seven rescuers, and raised the pair to safe ground in a two-hour hike/rope operation.",
+  "location": "Mt. Sneffels, Southwest Ridge",
+  "county": "Ouray",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Ouray Mountain Rescue Team",
+  "source_urls": "https://www.ouraymountainrescue.com/new-page-1",
+  "notes": "Two-hiker raise to safe ground after phone contact.",
+  "peak": "Mount Sneffels",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2162
+}

@@ -1,0 +1,19 @@
+{
+  "id": "750a8e5f-ff10-4d1a-929b-51c935ee0905",
+  "date": "2016-02-02",
+  "summary": "Missing snowboarder in the Urad Mine area; search days 1-4",
+  "location": "Urad Mine area",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-10/11/54/96. Paged 02/02 (day 1), 02/11 (day 2), 06/18 (day 3), 08/14 (day 4); folded into one row",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Urad Mine",
+  "place_type": "mine",
+  "legacy_id": 2048
+}

@@ -1,0 +1,19 @@
+{
+  "id": "9b7b00bd-fe6b-4e0d-a795-5f5fdcdda592",
+  "date": "2019-07-03",
+  "summary": "51-year-old man from Baton Rouge, LA, reported overdue on a hike in the Mount Chapin/Mount Chiquita/Ypsilon area; not heard from since Monday morning 07/01. RMNP SAR ground teams searched the Chapin, Chiquita, Ypsilon, Chapin Creek and Poudre River trail areas with Northern Colorado Interagency Helitack aerial reconnaissance; found ~1:30 p.m. Wednesday at 11,400 ft on the NW side of Mount Chapin, uninjured but exhausted after two unplanned backcountry nights; flown out by Helitack ~3 p.m., ambulance to Estes Park Health.",
+  "location": "Mount Chapin (Chapin/Chiquita/Ypsilon area)",
+  "county": "Larimer",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park Search and Rescue; Northern Colorado Interagency Helitack",
+  "source_urls": "https://www.nps.gov/romo/learn/news/successful-search-efforts-today-for-man-in-mount-chapin-area-rocky-mountain-national-park.htm",
+  "notes": "Date = found/search-conclusion date 07/03 (Wednesday, NPS release date; notified 07/02, missing since 07/01). Rental car at Alpine Visitor Center lot.",
+  "peak": "Ypsilon Mountain",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2934
+}

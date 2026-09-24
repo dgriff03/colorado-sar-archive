@@ -1,0 +1,19 @@
+{
+  "id": "e8bf08f8-133f-4f55-ade3-1c582f856e1a",
+  "date": "2016-09-23",
+  "summary": "Stranded motorists in the Mill Creek area near Empire",
+  "location": "Mill Creek (near Empire)",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-125. Motorist count unstated; recorded as 1",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Mill Creek",
+  "place_type": "creek",
+  "legacy_id": 2132
+}

@@ -1,0 +1,19 @@
+{
+  "id": "a2879fe9-e6b5-48df-a0bf-37ba27d1bbd7",
+  "date": "2020-07-24",
+  "summary": "Conrad Earnest was last seen July 19 in the Glade Park area photographing the NEOWISE comet; reported missing July 23; deputies searched overnight; his car was found ~10:30am Friday at Miracle Rock campground and his body was found shortly after on the Miracle Rock hiking trail; unattended death, no foul play suspected.",
+  "location": "Miracle Rock trail, Glade Park, Mesa County",
+  "county": "Mesa",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Mesa County Sheriff's Office, Mesa County Search",
+  "source_urls": "https://mix1043fm.com/grand-junction-man-found-dead-on-hiking-trail-near-glade-park/|https://www.kvnf.org/news/2020-07-28/kvnf-regional-newscast-july-28-2020",
+  "notes": "Reported missing July 23, 2020; body found Friday morning July 24, 2020. [run 703: KVNF corroborating URL merged — newscast confirms body of missing man Conrad Earnest found deceased by SAR crew on Miracle Rock Trail]",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Miracle Rock Trail",
+  "place_type": "trail",
+  "legacy_id": 829
+}

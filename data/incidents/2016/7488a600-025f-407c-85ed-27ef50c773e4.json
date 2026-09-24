@@ -1,0 +1,19 @@
+{
+  "id": "7488a600-025f-407c-85ed-27ef50c773e4",
+  "date": "2016-06-27",
+  "summary": "Sick hiker rescued on Lost Trail Creek Trail by Hinsdale County SAR",
+  "location": "Lost Trail Creek Trail",
+  "county": "Hinsdale",
+  "incident_type": "medical",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Hinsdale County Search and Rescue",
+  "source_urls": "http://lakecitysilverworld.com/2016/07/ | http://lakecitysilverworld.com/search-rescue-leaps-into-summer-with-four-missions/",
+  "notes": "SNIPPET-SOURCED — verify on next Lake City Silver World rotation: from the Silver World July-2016 issue 'Search & Rescue Leaps into Summer with Four Missions'; the full article is lost to the lakecitysilverworld.com -> .net migration (both URLs now redirect to the current homepage); content captured from the search-indexed July-2016 monthly archive. Mission described as a sick hiker on Lost Trail Creek Trail on June 27. The article's fourth mission (another overdue hiker) is cut off in the indexed excerpt with no recoverable date — NOT inserted.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Lost Trail Creek Trail",
+  "place_type": "trail",
+  "legacy_id": 2525
+}

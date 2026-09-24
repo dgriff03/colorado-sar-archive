@@ -1,0 +1,19 @@
+{
+  "id": "af4ab53a-a49e-4427-9313-acf097449503",
+  "date": "2018-06-23",
+  "summary": "LCSAR working with Estes Valley Fire Protection District on a carry-out of an injured subject in the Estes Park area; no further details posted.",
+  "location": "Estes Park area",
+  "county": "Larimer",
+  "incident_type": "injury",
+  "outcome": "carry-out in progress",
+  "victims": 1,
+  "responding_agency": "Larimer County SAR",
+  "source_urls": "https://www.facebook.com/lcsarinc/posts/pfbid02zW2QGyKd4Q49Qd8R4fddqAPiPVtUEgPrFJXeBn6MYZXZq4cCdj4Xapo2LxA2W4xql",
+  "notes": "Source: Larimer County SAR Facebook page. Sparse details.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Estes Park",
+  "place_type": "town",
+  "legacy_id": 3679
+}

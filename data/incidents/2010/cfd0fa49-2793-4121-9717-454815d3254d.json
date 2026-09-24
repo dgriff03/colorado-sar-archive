@@ -1,0 +1,19 @@
+{
+  "id": "cfd0fa49-2793-4121-9717-454815d3254d",
+  "date": "2010-08-10",
+  "summary": "55-year-old visitor from Kentucky fell and injured her leg on the Tonahutu Trail on the park's west side (~10 miles from trailhead); rangers reached her on horseback after 5 p.m. and brought her out of the backcountry on horseback (one of three NPS rescues that day)",
+  "location": "Tonahutu Trail",
+  "county": "Grand",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "RMNP rangers",
+  "source_urls": "https://npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "NPS morning report (reported 2010-08-18): Tuesday three-rescue day; reported at noon",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Tonahutu Trail",
+  "place_type": "trail",
+  "legacy_id": 2625
+}

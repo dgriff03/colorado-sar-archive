@@ -1,0 +1,19 @@
+{
+  "id": "dd5688b7-86d0-4eb6-92cf-20bce36568a9",
+  "date": "2019-02-24",
+  "summary": "Recovery in Mayhem Gulch in Clear Creek Canyon (2019-14)",
+  "location": "Mayhem Gulch in Clear Creek Canyon",
+  "county": "Jefferson",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2020/01/2019-Missions-Website.pdf",
+  "notes": "ART mission 2019-14. Cause not stated; asterisk in source.",
+  "peak": "Clear Creek Canyon",
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 624
+}

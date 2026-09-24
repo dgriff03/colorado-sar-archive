@@ -1,0 +1,19 @@
+{
+  "id": "3aab8221-28b6-45a3-bd82-1586380cb878",
+  "date": "2016-06-22",
+  "summary": "Injured hiker in the Beavers Meadow Trail area (Code 3 page)",
+  "location": "Beavers Meadow Trail area",
+  "county": "",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-62. County ambiguous in one-liner; left blank",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Beavers Meadow Trail",
+  "place_type": "trail",
+  "legacy_id": 2086
+}

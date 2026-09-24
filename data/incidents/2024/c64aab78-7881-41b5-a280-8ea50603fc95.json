@@ -1,0 +1,19 @@
+{
+  "id": "c64aab78-7881-41b5-a280-8ea50603fc95",
+  "date": "2024-01-20",
+  "summary": "Avalanche in the Jones Pass area",
+  "location": "Jones Pass",
+  "county": "Clear Creek",
+  "incident_type": "avalanche",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "Burial/subject not confirmed in log; ART mission 2024-001.",
+  "peak": "Jones Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1325
+}

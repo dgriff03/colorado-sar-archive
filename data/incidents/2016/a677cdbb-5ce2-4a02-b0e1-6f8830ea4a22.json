@@ -1,0 +1,19 @@
+{
+  "id": "a677cdbb-5ce2-4a02-b0e1-6f8830ea4a22",
+  "date": "2016-06-28",
+  "summary": "Mark Pennington, 71, of Prescott, AZ, overdue camper reported by son June 27; expected camping in Sherman area / upper Lake Fork; initial search failed to find his vehicle; wider search planned for June 28; located in Lake City via AFRCC cell-phone trace the morning of June 28.",
+  "location": "Sherman area / upper Lake Fork",
+  "county": "Hinsdale",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Hinsdale County SAR, Hinsdale County Sheriff's Office, AFRCC",
+  "source_urls": "http://lakecitysilverworld.com/search-rescue-leaps-into-summer-with-four-missions/",
+  "notes": "Minor mission: Pennington had come into Lake City for supplies and returned to cell coverage; located by cell-phone trace, no field rescue needed. Date = located date.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Sherman",
+  "place_type": "town",
+  "legacy_id": 3069
+}

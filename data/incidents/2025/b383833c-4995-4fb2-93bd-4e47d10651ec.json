@@ -1,0 +1,19 @@
+{
+  "id": "b383833c-4995-4fb2-93bd-4e47d10651ec",
+  "date": "2025-02-12",
+  "summary": "Injured 64-year-old woman in the Apex/Elk Road area in Gilpin County",
+  "location": "Apex/Elk Road",
+  "county": "Gilpin",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf",
+  "notes": "County per log; injury mechanism not stated; ART mission 2025-014.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Elk Road",
+  "place_type": "road",
+  "legacy_id": 1545
+}

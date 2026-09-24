@@ -1,0 +1,19 @@
+{
+  "id": "8901ebe4-4f59-4aae-a328-54f24b97e783",
+  "date": "2017-04-09",
+  "summary": "59-year-old man in poor health reported missing near Snake Lake; two SARDOC dog teams searched the area before he was located deceased.",
+  "location": "Snake Lake, Red Feather Lakes",
+  "county": "Larimer",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": null,
+  "source_urls": "https://sardoc.org/cms/wp-content/uploads/2011/01/2017SARDOCPublicMissionReports.pdf",
+  "notes": "Run-658 SARDOC chunk.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": "Snake Lake",
+  "place_type": "lake",
+  "legacy_id": 3154
+}

@@ -1,0 +1,19 @@
+{
+  "id": "eab2920d-51a5-4de0-8282-a9d698425753",
+  "date": "2022-08-11",
+  "summary": "Man thrown from his ATV after it struck a rock on a trail below Vista Point at Owl Creek Pass; unhelmeted, his head hit a rock and he was briefly unconscious. OMRT was paged but stood down after the patient was brought to the trailhead to await an EMS ambulance.",
+  "location": "Owl Creek Pass, below Vista Point",
+  "county": "Ouray",
+  "incident_type": "vehicle",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Ouray Mountain Rescue Team",
+  "source_urls": "https://www.ouraymountainrescue.com/new-page-1",
+  "notes": "ATV crash; team stood down when patient reached trailhead for EMS.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Owl Creek Pass",
+  "place_type": "pass",
+  "legacy_id": 2165
+}

@@ -1,0 +1,19 @@
+{
+  "id": "837821ce-3713-4945-9be8-c6ff3e886a02",
+  "date": "2011-07-25",
+  "summary": "Frank Stanley disappeared after summiting Bison Peak; reported missing Aug 11 and later recovered from rugged off-route terrain",
+  "location": "Bison Peak",
+  "county": "Park",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://100summits.com/articles/colorado-mountaineering-deaths/item/239-2011-colorado-mountaineering-deaths",
+  "notes": "Reported missing Aug 11; recovered from rugged off-route terrain",
+  "peak": "Bison Peak",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 144
+}

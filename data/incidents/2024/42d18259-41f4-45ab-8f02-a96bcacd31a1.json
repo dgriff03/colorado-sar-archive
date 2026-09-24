@@ -1,0 +1,19 @@
+{
+  "id": "42d18259-41f4-45ab-8f02-a96bcacd31a1",
+  "date": "2024-08-16",
+  "summary": "Solo hiker Emily Young last seen Friday evening near Fancy Peak in the Holy Cross Wilderness; multi-day search ended when she was confirmed deceased following a fall from a ridge",
+  "location": "Fancy Peak, Holy Cross Wilderness",
+  "county": "Eagle",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Vail Mountain Rescue Group + Eagle County Sheriff",
+  "source_urls": "https://thenextsummit.org/vail-mountain-rescue-searching-for-missing-hiker-in-holy-cross-wilderness/",
+  "notes": "approx; last seen Aug 16, reported via forum, confirmed deceased Aug 20; Garmin inReach lost power",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Fancy Peak",
+  "place_type": "peak",
+  "legacy_id": 1440
+}

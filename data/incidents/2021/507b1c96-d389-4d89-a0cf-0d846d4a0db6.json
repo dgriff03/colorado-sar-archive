@@ -1,0 +1,19 @@
+{
+  "id": "507b1c96-d389-4d89-a0cf-0d846d4a0db6",
+  "date": "2021-12-05",
+  "summary": "Vehicle left Rimrock Drive about one mile from the west entrance of Colorado National Monument, resulting in one fatality; NPS investigating.",
+  "location": "Rimrock Drive, ~1 mile from west entrance, Colorado National Monument",
+  "county": "Mesa",
+  "incident_type": "vehicle",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "National Park Service",
+  "source_urls": "http://npshistory.com/morningreport/incidents/colm.htm",
+  "notes": "Parent-opened npshistory COLM page, Dec-15-2021 entry (source: KKCO): 'On December 5, about one mile from the west entrance on Rimrock Drive, a vehicle left the road, resulting in one fatality.' 2021-12-05 was a Sunday. Dedupe: zero Mesa rows 2021-11-25..12-15. Precedent: id 3214 (2024-08-26 COLM rollover) indexed.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Rimrock Drive",
+  "place_type": "road",
+  "legacy_id": 3263
+}

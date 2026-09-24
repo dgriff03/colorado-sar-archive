@@ -1,0 +1,19 @@
+{
+  "id": "e1747963-ec0a-47d1-9627-0548d1206a31",
+  "date": "2022-03-10",
+  "summary": "A snowboarder was cliffed out near the Staircase on the west side of Aspen Highlands. Ski patrollers who were assisting two out-of-bounds skiers were alerted, made contact with the man and gave him snowshoes, but he could not ascend away from the cliff. Mountain Rescue Aspen with Colorado National Guard HAATS made several attempts to extract him by helicopter but abandoned the tactic due to poor weather and visibility; a 37-person over-the-snow team instead uphauled the snowboarder 1,500 ft, returning him to the ski area around 10 p.m. — a 10-hour operation.",
+  "location": "Aspen Highlands, near the Staircase (west side of the mountain)",
+  "county": "Pitkin",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Mountain Rescue Aspen; Colorado National Guard HAATS; Aspen Highlands Ski Patrol",
+  "source_urls": "https://unofficialnetworks.com/2022/03/14/10-hour-rescue-at-aspen-highlands/",
+  "notes": "Date pinned to 2022-03-10: the opened Unofficial Networks article says the rescue took place \"on March 10th\"; the article URL path /2022/03/14/ and 2022-dated screenshot images pin the year; March 10, 2022 was a Thursday (America/Denver). Unindexed after Pitkin 2022-03-01–20 date-window + Aspen Highlands/Staircase token scans. First chunk from the Unofficial Networks rotation line.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Aspen Highlands",
+  "place_type": "ski_area",
+  "legacy_id": 2599
+}

@@ -1,0 +1,19 @@
+{
+  "id": "c423b399-d30a-45ce-a9d5-85a95bc197c0",
+  "date": "2017-06-24",
+  "summary": "A 24-year-old man bouldering in the Chaos Canyon area injured his leg in a fall; rangers assisted.",
+  "location": "Chaos Canyon area",
+  "county": "Larimer",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "RMNP rangers",
+  "source_urls": "http://npshistory.com/morningreport/incidents/romo.htm|https://www.nps.gov/romo/learn/news/pr_multiple_incidents_including_highline_rescue-_today.htm",
+  "notes": "NPS morning-report compendium entry (npshistory.com romo.htm), parent-opened and verified at run 580.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Chaos Canyon",
+  "place_type": "canyon",
+  "legacy_id": 2994
+}

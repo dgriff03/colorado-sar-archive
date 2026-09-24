@@ -1,0 +1,19 @@
+{
+  "id": "a025bef8-7347-41aa-8eb2-c9add3e218b3",
+  "date": "2018-09-22",
+  "summary": "Hang glider reported missing in the Marble area; West Elk SAR located him ~3:12 a.m. the next morning, stayed overnight, and he was airlifted out the next day with suspected broken ribs, leg, and ankle.",
+  "location": "Marble area",
+  "county": "Gunnison",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "West Elk Search and Rescue; Gunnison County Sheriff's Office (North District)",
+  "source_urls": "https://gunnisoncounty.org/Archive/ViewFile/Item/3036",
+  "notes": "GCSO weekly press release, parent-opened 2026-09-19; located 2018-09-23 ~3:12 a.m., airlifted 2018-09-23.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Marble",
+  "place_type": "town",
+  "legacy_id": 3483
+}

@@ -1,0 +1,19 @@
+{
+  "id": "4b49dd7b-c3b9-4b65-9a47-17524eccdeaf",
+  "date": "2024-08-22",
+  "summary": "66-year-old climber completed the technical traverse, reached the summit, went off-route on descent and suffered a fatal fall",
+  "location": "Crestone Needle area (Crestone group)",
+  "county": "Custer",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Custer County SAR, Alpine Rescue Team (state SAR coordinator assist 2024-109)",
+  "source_urls": "https://heartoftherockiesradio.com/66-year-old-climber-dies-after-fall-on-crestone-needle/|https://www.delnorteprospector.com/stories/solo-climber-at-13400-rescued,62068|https://www.montevistajournal.com/stories/solo-climber-at-13400-rescued,62068|https://www.mineralcountyminer.com/stories/solo-climber-at-13400-rescued,62068|https://www.facebook.com/CusterSAR/videos/803159911986440/|https://www.facebook.com/CusterSAR/videos/430803550004806/|https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "One regional report (Oct 2024) says Crestone Peak; Custer County SAR and Alpine's Aug 23 log say Crestone Needle; merged duplicate row id 2365 (Monte Vista Journal Oct-2024 passing mention, same date/victim/event) on 2026-09-13 run 266 Merged duplicate row id 1451 on 2026-09-23: Alpine's mission log (2024-109) dates its state-coordinator assist to Custer County 2024-08-23 and describes an overdue 67-year-old man on Crestone Needle; same mission number and peak as this row's 2024-08-22 66-year-old fatal fall. Age and date variance between sources; one mission.",
+  "peak": "Crestone Needle",
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1449
+}

@@ -1,0 +1,19 @@
+{
+  "id": "e8e9fc1f-35c3-489c-84b2-aa320fd4b0ae",
+  "date": "2023-03-19",
+  "summary": "Gabor Hazas, 54, of Budapest, Hungary killed in an avalanche triggered about 1:25 p.m. Sunday in Maroon Bowl, a steep northwest-facing slope on Highland Peak just outside the Aspen Highlands ski area boundary; two others were caught in the same slide and escaped - one was brought down safely by rescue teams on skis and the other was airlifted by helicopter",
+  "location": "Maroon Bowl, Highland Peak, outside Aspen Highlands ski area boundary",
+  "county": "Pitkin",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 3,
+  "responding_agency": "Pitkin County Sheriff Office; rescue teams",
+  "source_urls": "https://crestedbuttenews.com/2023/03/regional-avalanches-over-the-weekend-claim-two-lives/|https://heartoftherockiesradio.com/two-avalanche-related-fatalities-over-the-weekend/\nhttps://snowbrains.com/caic-releases-full-report-from-maroon-bowl-near-aspen-highlands-co-avalanche-that-killed-backcountry-skier/|https://www.cpr.org/2023/03/19/colorado-skier-killed-two-others-injured-in-large-avalanche-in-gunnison-county/\nhttps://www.facebook.com/mountainrescueaspen/posts/pfbid02j77wrYmffuKe9Vqk9hNqgUwbinJQbiChFeeAySq556Ywj62FaNk2vQ4ZS3eejAocl",
+  "notes": "Identified by the Pitkin County Coroner on Monday March 20 [merge 2026-09-15 run616: HotRR corroborates — Sunday avalanche just outside Aspen Highlands; three skiers caught, two escaped.] Run 817 merge: appended incident-specific source URL (parent-opened). Run 861 merge: MRA Facebook Page post (posted 2023-03-20, links PCSO press release '23P2975 - Maroon Bowl SAR') merged — post documents the MRA response (staged 2:15 PM Maroon Creek Rd, air resources requested; two uninjured skiers dug out the buried skier and did CPR until ~4:15 PM; Care Flight/Flight for Life unable to land; CO DFPC helicopter inserted two MRA rescuers 4:36 PM, confirmed deceased, 4:45 PM flight to Aspen/Pitkin County Airport; all out by 5:30 PM); post content read live in logged-in session by the MRA-FB browser task (tool-side browser_open of FB fails); matches id 2406 (2023-03-19 Maroon Bowl avalanche, Gabor Hazas fatality) exactly.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Highland Peak",
+  "place_type": "peak",
+  "legacy_id": 2406
+}

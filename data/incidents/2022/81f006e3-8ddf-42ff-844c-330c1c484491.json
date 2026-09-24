@@ -1,0 +1,19 @@
+{
+  "id": "81f006e3-8ddf-42ff-844c-330c1c484491",
+  "date": "2022-09-18",
+  "summary": "60-year-old woman broke her ankle at about 10,975 feet at the Sneffels overlook on the Blaine Basin/Wilson Pass trail east of the Blue Lakes trailhead. An eight-person OMRT field team located her 4.8 miles from the trailhead; a helicopter made a difficult landing and picked her up.",
+  "location": "Sneffels overlook, Blaine Basin/Wilson Pass trail",
+  "county": "Ouray",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Ouray Mountain Rescue Team",
+  "source_urls": "https://www.ouraymountainrescue.com/new-page-1",
+  "notes": "Helicopter extraction after remote litter-planning fell through.",
+  "peak": "Mount Sneffels",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2170
+}

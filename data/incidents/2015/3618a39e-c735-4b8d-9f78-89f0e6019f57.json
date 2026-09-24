@@ -1,0 +1,19 @@
+{
+  "id": "3618a39e-c735-4b8d-9f78-89f0e6019f57",
+  "date": "2015-02-23",
+  "summary": "Skier killed in a sidecountry avalanche near Aspen Mountain (Peter Barker path / Castle Creek Valley); a second skier was caught but uninjured and alerted rescuers; Mountain Rescue Aspen recovered the body the following day.",
+  "location": "near Aspen",
+  "county": "Pitkin",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://avalanche-center.org/Incidents/2014-15/|https://classic.avalanche.state.co.us/caic/acc/acc_co.php|http://unofficialnetworks.com/2015/02/24/1-dead-in-aspen-avalanche/|https://www.cpr.org/2015/02/24/body-pulled-from-aspen-mountain-avalanche/",
+  "notes": "Reported in avalanche-center 2014-15 season index Victim count corrected 2026-09-12 (was 2): the CAIC classic table, the avalanche-center 2014-15 season index, Unofficial Networks (two skiers caught, one killed) and CPR (one dead skier; a five-person Mountain Rescue Aspen team recovered the body the next day) all report ONE killed. CPR 2015-02-24 corroboration added run 684: body found Monday, recovered Tuesday by 5-person MRA team.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Aspen Mountain",
+  "place_type": "ski_area",
+  "legacy_id": 231
+}

@@ -1,0 +1,19 @@
+{
+  "id": "7d8bdc54-dd30-4e99-9a03-2d3d98515155",
+  "date": "2020-10-03",
+  "summary": "Ben Brownlee was last seen October 3 hiking near Unnamed Peak 13,832 east of Redcloud Peak; reported missing October 4; his body was found October 6 about 75-100 feet below a steep ridge southeast of Cooper Creek Peak.",
+  "location": "Ridge southeast of Cooper Creek Peak, between Cooper Creek and Silver Creek trails",
+  "county": "Hinsdale",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Hinsdale County Sheriff/SAR, Western State SAR, Colorado Search and Rescue Association (CSAR); private helicopter",
+  "source_urls": "https://snowbrains.com/missing-hiker-body-found/|https://missingnpf.com/people/ben-brownlee/",
+  "notes": "SnowBrains text says 'Tuesday, October 5' but corroborating sources give Tuesday, October 6, 2020; row date is the last-seen/incident date Oct 3. Name widely published.",
+  "peak": "Redcloud Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 882
+}

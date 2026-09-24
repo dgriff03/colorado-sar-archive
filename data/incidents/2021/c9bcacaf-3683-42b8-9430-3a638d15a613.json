@@ -1,0 +1,19 @@
+{
+  "id": "c9bcacaf-3683-42b8-9430-3a638d15a613",
+  "date": "2021-09-18",
+  "summary": "Injured female hiker on Mt Bierstadt",
+  "location": "Mt Bierstadt",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2022/02/2021-Missions-Website.pdf",
+  "notes": "Injury mechanism not specified in the log; ART mission 2021-105.",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1021
+}

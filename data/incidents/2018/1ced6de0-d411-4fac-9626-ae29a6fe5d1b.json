@@ -1,0 +1,19 @@
+{
+  "id": "1ced6de0-d411-4fac-9626-ae29a6fe5d1b",
+  "date": "2018-09-02",
+  "summary": "Injured male hiker, Byers Peak area (Labor Day weekend mission 3 of 3); GCSAR evacuation.",
+  "location": "Byers Peak area",
+  "county": "Grand County",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Grand County Search and Rescue",
+  "source_urls": "https://www.facebook.com/GCSAR/posts/pfbid04swUoPErYP8LNRhwVzRTPb6doA7CnhLiRkSpavHf5DGUDJ4niaZhNr6XzXAry8MVl|https://www.facebook.com/GCSAR/posts/pfbid05Bk14tYKYeEjHwm4WBHzokuyswLjtTwfMoKuXv4q31DDT9coKmFCxtbsV9hoGwYel",
+  "notes": "",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Byers Peak",
+  "place_type": "peak",
+  "legacy_id": 3582
+}

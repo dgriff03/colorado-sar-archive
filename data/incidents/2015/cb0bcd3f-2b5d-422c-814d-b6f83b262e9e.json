@@ -1,0 +1,19 @@
+{
+  "id": "cb0bcd3f-2b5d-422c-814d-b6f83b262e9e",
+  "date": "2015-08-06",
+  "summary": "Two 17-year-old females overdue from hiking Grays Peak",
+  "location": "Grays Peak",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-74.",
+  "peak": "Grays Peak",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2005
+}

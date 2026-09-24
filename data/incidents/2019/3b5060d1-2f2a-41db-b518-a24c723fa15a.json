@@ -1,0 +1,19 @@
+{
+  "id": "3b5060d1-2f2a-41db-b518-a24c723fa15a",
+  "date": "2019-06-07",
+  "summary": "16-year-old on a guided canyoneering trip at Amphitheater Bridge in Baby Bathtubs canyon tangled in a rope over a waterfall; cut free, he zip-lined ~50 ft down a guide line and struck his head on rock. Litter raise, CareFlight transfer.",
+  "location": "Amphitheater Bridge, Baby Bathtubs canyon",
+  "county": "Ouray",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Ouray Mountain Rescue Team; CareFlight",
+  "source_urls": "https://www.ouraymountainrescue.com/new-page-1-1",
+  "notes": "Patient treated for hypothermia risk; flown from Fellin Park after boom-truck litter raise off the team's primary vehicle.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Baby Bathtubs Canyon",
+  "place_type": "canyon",
+  "legacy_id": 2180
+}

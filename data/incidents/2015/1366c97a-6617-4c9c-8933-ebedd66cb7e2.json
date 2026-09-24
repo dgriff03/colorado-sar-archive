@@ -1,0 +1,19 @@
+{
+  "id": "1366c97a-6617-4c9c-8933-ebedd66cb7e2",
+  "date": "2015-09-21",
+  "summary": "Assist to SCRG with the rescue of 4 stranded climbers on Quandary Peak",
+  "location": "Quandary Peak",
+  "county": "Summit",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 4,
+  "responding_agency": "Alpine Rescue Team (assist to SCRG)",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-109.",
+  "peak": "Quandary Peak",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2032
+}

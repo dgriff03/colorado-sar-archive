@@ -1,0 +1,19 @@
+{
+  "id": "9c4d18d1-ed16-45ec-a332-fc8bc4023e13",
+  "date": "2016-07-30",
+  "summary": "A 39-year-old Australian male mountain biker from Vail crashed descending off Reno Ridge toward Flag, suffering broken ribs and internal injuries; a riding companion rode out to Cement Creek Road for cell signal and called 911 (~1:30 p.m.). CBSAR team leader Ric Ems and Mt. CB officer John Turco responded; a CareFlight helicopter from Montrose was initially cancelled at the patient's request, then re-called after SAR member/PA Jeff Isaac's evaluation, landing atop Reno Divide Ridge (~11,200 ft) ~4:30 p.m.; the patient was flown to St. Mary's Hospital in Grand Junction.",
+  "location": "Reno Divide Ridge, off Reno Ridge toward Flag, above Cement Creek Road",
+  "county": "Gunnison",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Crested Butte Search and Rescue / Mt. Crested Butte Police / CareFlight",
+  "source_urls": "https://crestedbuttenews.com/2016/08/helicopter-lands-on-top-of-reno-divide-to-save-a-mountain-biker/",
+  "notes": "Crested Butte News (opened by the mining subagent run 601; details corroborated by an independent parent search snippet this run). Date pinned: article text says 'Saturday afternoon' and the story ran in the CBN issue dated August 4, 2016 (Thursday) -> 2016-07-30 (verified Saturday). Genuinely new: zero Gunnison rows for 2016-08.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Reno Divide Ridge",
+  "place_type": "other",
+  "legacy_id": 3036
+}

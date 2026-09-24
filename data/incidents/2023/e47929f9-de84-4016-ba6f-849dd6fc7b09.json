@@ -1,0 +1,19 @@
+{
+  "id": "e47929f9-de84-4016-ba6f-849dd6fc7b09",
+  "date": "2023-05-20",
+  "summary": "Male hiker stuck in the snow on the trail to Grays and Torreys",
+  "location": "Grays and Torreys",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2024/01/2023-Missions-Website.pdf",
+  "notes": "ART mission 2023-028.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Grays and Torreys",
+  "place_type": "other",
+  "legacy_id": 1208
+}

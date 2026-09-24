@@ -1,0 +1,19 @@
+{
+  "id": "0ffbcad1-ef24-46f8-8159-b0744abfb31f",
+  "date": "2014-12-13",
+  "summary": "Fallen climber in the Third Flatiron area; Alpine assisting RMRG",
+  "location": "Third Flatiron",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team (assist to RMRG)",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2015/01/2014-Missions-Website.pdf|https://alpinerescueteam.org/2014-131-assist-rocky-mountain-rescue-group-fallen-climber-third-flatiron/",
+  "notes": "Mutual-aid assist to Rocky Mountain Rescue Group. Alpine mission 2014-131 page (assist to RMRG, Third Flatiron fallen climber).",
+  "peak": "The Flatirons",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 226
+}

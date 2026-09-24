@@ -1,0 +1,19 @@
+{
+  "id": "55b34dbd-526e-4124-a6c0-ca9746f658a3",
+  "date": "2013-07-11",
+  "summary": "Howard Scotland died in a 300- to 400-foot fall on Jagged Mountain",
+  "location": "Jagged Mountain",
+  "county": "San Juan",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://100summits.com/articles/colorado-mountaineering-deaths/item/256-2013-colorado-mountaineering-deaths | https://www.durangoherald.com/articles/news/hiker-dies-in-fall-on-jagged-mountain/",
+  "notes": " | 2026-09-15: merged Durango Herald contemporaneous account (user-supplied link) confirming 2013-07-11 Jagged Mountain 300-400 ft fall, San Juan County SAR response, helicopter litter carryout to Rockwood.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Jagged Mountain",
+  "place_type": "peak",
+  "legacy_id": 184
+}

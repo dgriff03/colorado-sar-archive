@@ -1,0 +1,19 @@
+{
+  "id": "de15ac29-44cf-401a-a0eb-96916415316b",
+  "date": "2023-04-29",
+  "summary": "Injured female party in the lower Chicago Lakes area",
+  "location": "Chicago Lakes",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2024/01/2023-Missions-Website.pdf",
+  "notes": "Injury mechanism not stated in log; ART mission 2023-020.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1202
+}

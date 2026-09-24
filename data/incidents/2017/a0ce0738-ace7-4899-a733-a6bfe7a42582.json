@@ -1,0 +1,19 @@
+{
+  "id": "a0ce0738-ace7-4899-a733-a6bfe7a42582",
+  "date": "2017-10-10",
+  "summary": "Shuei Kato, 39, of Summit County, lost for three days on Missouri Mountain (his 15th fourteener): departed the trailhead early Saturday 2017-10-07, summited, then descended the opposite side into a different valley; reported overdue Saturday by his wife Valerie; 45+ ground searchers and 3 helicopters (CCSAR North/South, Summit and Lake county SAR, Flight for Life, REACH, Air National Guard, HAATS) searched as weather deteriorated; found alive Tuesday ~5 mi from the summit at his campfire after aircraft picked up the heat signature; walked out uninjured",
+  "location": "Missouri Mountain",
+  "county": "Chaffee",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Chaffee County SAR North/South; Summit County Rescue Group; Lake County SAR; Flight for Life; REACH Air Ambulance; Colorado Air National Guard; HAATS",
+  "source_urls": "https://www.themountainmail.com/free_content/article_2ed3dbfa-ae21-11e7-98d1-7f1d608b81c6.html",
+  "notes": "DATE PIN NOTE: date = found/search-conclusion date per convention; pinned from the article's \"reported Saturday, found Tuesday\" narrative plus the article-creation timestamp 2017-10-11; 2017-10-07 was Saturday, 2017-10-10 Tuesday. Inserted run 548 (Mountain Mail rotation chunk).",
+  "peak": "Missouri Mountain",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2918
+}

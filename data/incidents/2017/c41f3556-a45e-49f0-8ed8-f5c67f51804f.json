@@ -1,0 +1,19 @@
+{
+  "id": "c41f3556-a45e-49f0-8ed8-f5c67f51804f",
+  "date": "2017-02-11",
+  "summary": "Bryan Skilinski, 40, of New York — wandered five nights in a winter storm in Great Sand Dunes NP with no survival gear; found ~1 mi south of the visitor center in relatively good health by park rangers, dog teams and search aircraft (separate incident from his May-2017 fatality, id 2579)",
+  "location": "Great Sand Dunes National Park, near the visitor center",
+  "county": "Alamosa",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "NPS rangers, dog teams, search aircraft",
+  "source_urls": "https://gearjunkie.com/news/hiker-found-dead-great-sand-dunes-national-park-reserve|https://www.avsar.us/missions-from-2017/",
+  "notes": "DATE APPROXIMATE — contemporary press gives only 'February 2017'; Feb 11 from a later recounting. Incident-focused only. | run 804: AVSAR missions-from-2017 page documents the 2/15-2/16 multi-agency search (standby, hasty search, SAR dog, found 2/16); parent-opened",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Great Sand Dunes National Park",
+  "place_type": "park",
+  "legacy_id": 2893
+}

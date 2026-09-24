@@ -1,0 +1,19 @@
+{
+  "id": "9476a9ae-550b-40ae-baa7-65303b3d5ac3",
+  "date": "2018-11-03",
+  "summary": "Ankle injury in the vicinity of Ormes Peak; EPCSAR responding.",
+  "location": "vicinity of Ormes Peak",
+  "county": "El Paso County",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "El Paso County Search and Rescue",
+  "source_urls": "https://www.facebook.com/epcsar/posts/pfbid0A4GVWim5ZP6k3e9zP17XfAWiFpbFtaF9AjH7gwiUtRFmJhsbi6BM8EcZBi6Bp6Abl|https://www.facebook.com/epcsar/posts/pfbid02DRkg8k7hb3heYJMeNauPX8KU42k9skGYd15tGNEw9dwdde9vZc93J1P4rHribtU3l",
+  "notes": "",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Ormes Peak",
+  "place_type": "peak",
+  "legacy_id": 3579
+}

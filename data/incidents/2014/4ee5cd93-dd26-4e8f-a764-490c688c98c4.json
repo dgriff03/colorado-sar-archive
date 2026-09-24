@@ -1,0 +1,19 @@
+{
+  "id": "4ee5cd93-dd26-4e8f-a764-490c688c98c4",
+  "date": "2014-03-23",
+  "summary": "Two 20-year-old men hiking Devil's Head on March 22 were snowed on overnight; one, a Type 1 diabetic, ran out of insulin and became hypoglycemic; the pair built a shelter and fire and were located near Lions Head by SARDOC K9 Annie.",
+  "location": "Devil's Head, Pine Junction (Lions Head)",
+  "county": "Jefferson",
+  "incident_type": "medical",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Jefferson County SAR / SARDOC",
+  "source_urls": "http://sardoc.org/cms/wp-content/uploads/2011/01/100914PublicSARDOC-MISSION-REPORTS.pdf",
+  "notes": "Report dated 2014-03-23; hikers stranded overnight 3/22-3/23.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Devil's Head",
+  "place_type": "other",
+  "legacy_id": 2925
+}

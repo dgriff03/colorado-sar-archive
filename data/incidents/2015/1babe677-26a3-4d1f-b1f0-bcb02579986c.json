@@ -1,0 +1,19 @@
+{
+  "id": "1babe677-26a3-4d1f-b1f0-bcb02579986c",
+  "date": "2015-08-27",
+  "summary": "Overdue 75-year-old hiker on Humboldt Peak spent an unplanned night out and returned to camp on his own",
+  "location": "Humboldt Peak",
+  "county": "Custer",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Custer County SAR",
+  "source_urls": "https://custersar.org/hiker-overdue-in-camp/",
+  "notes": "Located safe at camp; no injuries",
+  "peak": "Humboldt Peak",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 270
+}

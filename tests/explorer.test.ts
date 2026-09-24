@@ -201,16 +201,16 @@ test('reviewed location groups combine aliases and preserve clickable group coun
 test('merged incident replaces the URL and preserves modal Back navigation', () => {
   const h = historyHarness('/?location=Lone+Eagle');
   h.controller.openIncident('legacy-003648');
-  h.controller.resolveIncident('legacy-000537');
+  h.controller.resolveIncident('11111111-1111-4111-8111-111111111111');
   assert.equal(h.length, 2);
-  assert.equal(h.state.selected, 'legacy-000537');
+  assert.equal(h.state.selected, '11111111-1111-4111-8111-111111111111');
   h.controller.closeIncident();
   assert.equal(h.backCalls, 1);
   assert.equal(h.state.selected, null);
   h.forward();
-  assert.equal(h.state.selected, 'legacy-000537');
+  assert.equal(h.state.selected, '11111111-1111-4111-8111-111111111111');
   const direct = historyHarness('/?incident=legacy-003648');
-  direct.controller.resolveIncident('legacy-000537');
+  direct.controller.resolveIncident('11111111-1111-4111-8111-111111111111');
   assert.equal(direct.length, 1);
   direct.controller.closeIncident();
   assert.equal(direct.backCalls, 0);

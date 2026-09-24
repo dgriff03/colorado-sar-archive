@@ -1,0 +1,19 @@
+{
+  "id": "b9f3a2a5-104f-4795-a154-4153cb9f18fc",
+  "date": "2010-02-19",
+  "summary": "Injured skier evacuated from the Yankee Doodle Lake area during an evening snowstorm; alarm raised by a ham radio operator through a repeater; 13 members, about 2 hours",
+  "location": "Yankee Doodle Lake area",
+  "county": "Boulder",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain Rescue Group, Alpine Rescue Team, Eldora Ski Patrol",
+  "source_urls": "https://internal.rockymountainrescue.org/2010NarrativeSummary.php|http://www.rockymountainrescue.org/rmrg-2010",
+  "notes": "[Merged 2026-09-10: RMRG 2010 missions-of-note page adds ham-radio repeater alert detail and confirms 2010-02-19 date.]",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Yankee Doodle Lake",
+  "place_type": "lake",
+  "legacy_id": 10
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2aa73ae8-084b-4a11-9182-72ff6097e911",
+  "date": "2023-07-10",
+  "summary": "24-year-old female 14er summiter ran out of water and developed heat exhaustion on a hot July day; Chaffee County Search and Rescue South treated her with IV fluids and assisted her back to the trailhead",
+  "location": "Unnamed 14er, southern Chaffee County",
+  "county": "Chaffee",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Chaffee County Search and Rescue South",
+  "source_urls": "https://heartoftherockiesradio.com/chaffee-county-search-and-rescue-extracted-24-year-old-hiker-due-to-heat-exhaustion/",
+  "notes": "Date approximate: article published 2023-07-11, incident described as 'hot day in July', likely the day before publication; run 877.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3404
+}

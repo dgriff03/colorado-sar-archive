@@ -1,0 +1,19 @@
+{
+  "id": "6829dbca-bb91-4e08-a849-3b2aef7a0b09",
+  "date": "2015-06-28",
+  "summary": "Lightning struck hikers on Mount Bierstadt about 11:30 a.m.; as many as 16 people affected; eight adults received emergency medical treatment at the trailhead, three taken to Denver-area hospitals (one serious); one dog killed",
+  "location": "Mount Bierstadt",
+  "county": "Clear Creek",
+  "incident_type": "lightning",
+  "outcome": "injury",
+  "victims": 16,
+  "responding_agency": "Search and rescue teams; Army National Guard high-elevation helicopter",
+  "source_urls": "https://www.cpr.org/2015/06/29/lightning-strikes-bierstadt-hikers/|https://gearjunkie.com/climbing/mountaineering/lightning-injures-3-kills-dog-bierstadt",
+  "notes": "More than 100 people were on the mountain at the time; strike occurred about 500 feet below the summit. Five of the eight treated at the trailhead refused further treatment.",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 242
+}

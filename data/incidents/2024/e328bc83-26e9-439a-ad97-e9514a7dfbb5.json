@@ -1,0 +1,19 @@
+{
+  "id": "e328bc83-26e9-439a-ad97-e9514a7dfbb5",
+  "date": "2024-10-17",
+  "summary": "Bernice Moorehead reported missing; El Paso County Sheriff's Office Mounted Unit, detectives, and El Paso County Search and Rescue conducted a coordinated search along Fountain Creek near Pinello Ranch after personal belongings believed to be hers were found in the area; skeletal remains were found just north of Pinello Ranch, believed to be Moorehead",
+  "location": "Fountain Creek near Pinello Ranch",
+  "county": "El Paso",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "El Paso County Sheriff's Office (Mounted Unit) / El Paso County Search and Rescue",
+  "source_urls": "https://epcsheriffsoffice.com/bernice-moorehead-missing-person-case-update/",
+  "notes": "Date is the sheriff's media-release date (release says 'Today' for the search; search-index crawl metadata dates the release 2024-10-17, the same day she was reported missing). Coroner to confirm identity and cause/manner of death.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Fountain Creek",
+  "place_type": "creek",
+  "legacy_id": 2534
+}

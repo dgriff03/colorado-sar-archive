@@ -1,0 +1,19 @@
+{
+  "id": "b676e572-005d-498f-9cf1-fd3b70ef951e",
+  "date": "2011-02-20",
+  "summary": "Snowmobiler killed in avalanche at Sand Mountain northeast of Meeker",
+  "location": "Sand Mountain, northeast of Meeker",
+  "county": "Rio Blanco",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://avalanche-center.org/Incidents/2010-11/",
+  "notes": "Reported in avalanche-center 2010-11 season index; no dedicated news source opened",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Sand Mountain",
+  "place_type": "peak",
+  "legacy_id": 129
+}

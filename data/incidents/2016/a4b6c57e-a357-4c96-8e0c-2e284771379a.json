@@ -1,0 +1,19 @@
+{
+  "id": "a4b6c57e-a357-4c96-8e0c-2e284771379a",
+  "date": "2016-06-24",
+  "summary": "Mike Conroy, 49, of Joplin, MO, overdue hiker separated from church group at Weminuche Pass (Weminuche Trail/Divide Trail junction); spent the night on the mountain after misjudging cross-country route to Squaw Creek Trail; walked into 30-Mile Campground unharmed the next morning.",
+  "location": "Weminuche Pass / 30-Mile Campground",
+  "county": "Hinsdale",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Hinsdale County SAR, Hinsdale County Sheriff's Office (Flight for Life A-Star staged for air search)",
+  "source_urls": "http://lakecitysilverworld.com/search-rescue-leaps-into-summer-with-four-missions/",
+  "notes": "Reported overdue late June 23 by church group; SAR response mobilized that evening, air search planned for June 24 morning; Conroy walked in unharmed shortly before helicopter launch; evaluated on scene, no treatment needed.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Weminuche Pass",
+  "place_type": "pass",
+  "legacy_id": 3068
+}

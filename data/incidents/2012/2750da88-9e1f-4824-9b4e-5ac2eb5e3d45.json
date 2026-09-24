@@ -1,0 +1,19 @@
+{
+  "id": "2750da88-9e1f-4824-9b4e-5ac2eb5e3d45",
+  "date": "2012-08-28",
+  "summary": "Assist Custer County SAR with body recovery on Crestone Peak (Alpine mission 12-79)",
+  "location": "Crestone Peak",
+  "county": "Custer",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Custer County SAR; Alpine Rescue Team (assist)",
+  "source_urls": "https://alpinerescueteam.org/category/recent-missions/custer-county/page/2/",
+  "notes": "One-line mission-log alert; cause of death not specified in post",
+  "peak": "Crestone Peak",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1744
+}

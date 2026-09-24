@@ -1,0 +1,19 @@
+{
+  "id": "fa3b4ed0-8e15-40d4-a7ab-0490729f9210",
+  "date": "2020-05-03",
+  "summary": "Hiker with a possible broken leg (tibia-fibula) in Section 16; EPCSAR responded.",
+  "location": "Section 16",
+  "county": "El Paso",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "El Paso County Search and Rescue",
+  "source_urls": "https://www.facebook.com/epcsar/posts/pfbid026taFruUh66fhRLcA2B3FZpcNRELbmaR8DBJfy48fj9UUdU2ekPEGQUTycJxDxn9Pl",
+  "notes": "",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "ONE_LINER",
+  "place": "Section 16",
+  "place_type": "other",
+  "legacy_id": 3552
+}

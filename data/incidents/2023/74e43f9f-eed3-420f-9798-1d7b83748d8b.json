@@ -1,0 +1,19 @@
+{
+  "id": "74e43f9f-eed3-420f-9798-1d7b83748d8b",
+  "date": "2023-02-18",
+  "summary": "Three lost snowmobilers in North Routt",
+  "location": "North Routt",
+  "county": "Routt",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 3,
+  "responding_agency": "Routt County Search and Rescue",
+  "source_urls": "https://myemail-api.constantcontact.com/Far-Routt-Newsletter.html?soid=1139552188087&aid=6c-JSsZsGRU",
+  "notes": "Q1 2023 newsletter",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": "North Routt",
+  "place_type": "other",
+  "legacy_id": 1187
+}

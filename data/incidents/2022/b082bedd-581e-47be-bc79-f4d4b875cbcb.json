@@ -1,0 +1,19 @@
+{
+  "id": "b082bedd-581e-47be-bc79-f4d4b875cbcb",
+  "date": "2022-11-01",
+  "summary": "48-year-old severely injured in unroped 80- to 100-foot fall on the Second Flatiron; RMRG and rangers responded; transported to ICU.",
+  "location": "Second Flatiron",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain Rescue Group, Boulder Open Space and Mountain Parks rangers",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201216628.pdf",
+  "notes": "Copyright 2023; incident November 1; year 2022 inferred.",
+  "peak": "The Flatirons",
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1166
+}

@@ -1,0 +1,19 @@
+{
+  "id": "5dde87e1-c3d9-4fa7-aa30-8c0f54187e58",
+  "date": "2024-08-17",
+  "summary": "Assist to Gunnison County with two rescue techs for an injured paraglider on Baldy Mountain",
+  "location": "Baldy Mountain",
+  "county": "Gunnison",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Gunnison County SAR",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf|https://coloradosar.org/crested-butte-speed-flier-rescue/",
+  "notes": "ART mission 2024-105. County confirmed Gunnison via CSAR writeup (parent-opened): speed-wing struck tree on Baldy Mountain, femur broken in two; Buckley AFB Black Hawk hoist; CareFlight landed atop Paradise Divide. 'Beautiful Saturday morning' = 2024-08-17 (Saturday-verified).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Baldy Mountain",
+  "place_type": "peak",
+  "legacy_id": 1443
+}

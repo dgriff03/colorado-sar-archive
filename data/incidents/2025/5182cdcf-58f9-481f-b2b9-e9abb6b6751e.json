@@ -1,0 +1,19 @@
+{
+  "id": "5182cdcf-58f9-481f-b2b9-e9abb6b6751e",
+  "date": "2025-01-22",
+  "summary": "Assist to Rocky Mountain Rescue Group for a missing 78-year-old man in the Allenspark area of Boulder County",
+  "location": "Allenspark",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Rocky Mountain Rescue Group",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf",
+  "notes": "County per log; ART mission 2025-006.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Allenspark",
+  "place_type": "town",
+  "legacy_id": 1537
+}

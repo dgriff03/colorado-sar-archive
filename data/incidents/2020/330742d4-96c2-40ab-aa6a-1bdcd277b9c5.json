@@ -1,0 +1,19 @@
+{
+  "id": "330742d4-96c2-40ab-aa6a-1bdcd277b9c5",
+  "date": "2020-12-19",
+  "summary": "Two backcountry skiers reported missing Saturday west of Silverton; bodies found Sunday in avalanche debris by helicopter search.",
+  "location": "West of Silverton, San Juan Mountains",
+  "county": "San Juan",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 2,
+  "responding_agency": "first responders / helicopter search team",
+  "source_urls": "https://www.wcbe.org/2020-12-22/3-skiers-killed-in-colorado-avalanches-as-authorities-warn-of-weak-snowpack|http://classic.avalanche.state.co.us/caic/acc/acc_co.php|https://www.kvnf.org/news/2020-12-21/kvnf-regional-newscast-december-21-2020",
+  "notes": "approx date; avalanche occurred Saturday 2020-12-19, skiers reported missing that evening; first responders spotted ski tracks and a large avalanche from helicopter; both bodies recovered from debris Sunday 2020-12-20. Merged CAIC classic 2020-21 season table row. merged KVNF regional newscast (Dec 21, 2020): '2 others died Saturday near Silverton' (Saturday = 2020-12-19).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Silverton",
+  "place_type": "town",
+  "legacy_id": 906
+}

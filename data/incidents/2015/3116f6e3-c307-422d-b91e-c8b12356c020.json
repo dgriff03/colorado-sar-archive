@@ -1,0 +1,19 @@
+{
+  "id": "3116f6e3-c307-422d-b91e-c8b12356c020",
+  "date": "2015-09-05",
+  "summary": "Cessna 310H (N1099Q) on a personal VFR flight from Flagstaff, Arizona, to Amarillo, Texas, flew into mountainous terrain near Silverton in instrument conditions about 2:08 p.m.; all four aboard were killed. NTSB final report (CEN15FA400) attributed the crash to the non-instrument-rated pilots loss of situational awareness and controlled flight into terrain.",
+  "location": "Mountainous terrain near Silverton (~11,500 ft)",
+  "county": "San Juan",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 4,
+  "responding_agency": "San Juan County Search and Rescue; La Plata County Search and Rescue (airlifted to the remote site by a Colorado Air National Guard helicopter)",
+  "source_urls": "http://www.kathrynsreport.com/2015/09/plane-crash-victim-had-been-arrested-in.html",
+  "notes": "Victims: pilot Harold Raggio, 72; Steven Wilkinson, 59; Rosalinda Leslie, 57; Michael Lyle Riley, 59. SAR teams photographed at the wreckage on 2015-09-07; daughter reported the plane overdue on 2015-09-06.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Silverton",
+  "place_type": "town",
+  "legacy_id": 2373
+}

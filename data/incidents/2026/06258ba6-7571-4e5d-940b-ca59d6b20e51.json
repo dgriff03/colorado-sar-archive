@@ -1,0 +1,19 @@
+{
+  "id": "06258ba6-7571-4e5d-940b-ca59d6b20e51",
+  "date": "2026-08-19",
+  "summary": "Missing endangered party in the Larkspur area; ~40 personnel with ground, ATV, mobile and UAV teams searched residential and surrounding wilderness; located unharmed.",
+  "location": "Larkspur area",
+  "county": "Douglas",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Douglas County SAR; Douglas County Sheriff's Office; Douglas County Park Rangers",
+  "source_urls": "https://www.facebook.com/DouglasCountySearchAndRescue/posts/pfbid02ZTe2vTTkqJ2cHPJJxaBptQVCayKe9ja3Z9GVhS4jgHXiksSFmx7vHdBRLKPD26hnl",
+  "notes": "",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Larkspur",
+  "place_type": "town",
+  "legacy_id": 3625
+}

@@ -1,0 +1,19 @@
+{
+  "id": "a2af62a9-a7c8-4a6b-89f2-c028810c830b",
+  "date": "2018-08-18",
+  "summary": "Female hiker who is diabetic near summit of Mt Bierstadt (2018-93)",
+  "location": "Mt Bierstadt summit area",
+  "county": "Clear Creek",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2019/01/2018-Missions-Website.pdf",
+  "notes": "ART mission 2018-93.",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 571
+}

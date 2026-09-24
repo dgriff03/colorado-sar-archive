@@ -1,0 +1,19 @@
+{
+  "id": "b57cda0d-100b-4a7f-8a96-2ac4df170c93",
+  "date": "2018-12-25",
+  "summary": "Bill Montgomery (early 60s, Almont resident) fell on the summer-cabins trail off Cement Creek Road, then lost consciousness from a medical condition; found severely disoriented with severe frostbite after 4-6 hours; CareFlight airlifted him to St. Mary's, where he faced likely amputation of both feet",
+  "location": "Cement Creek Road (summer cabins trail)",
+  "county": "Gunnison",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Crested Butte Mountain Rescue + EMS, Mt Crested Butte Police, CareFlight",
+  "source_urls": "https://crestedbuttenews.com/2019/01/local-man-rescued-on-cement-creek-road/",
+  "notes": "Christmas Day 2018; solo hiker post-holing in deep snow; report to dispatch 2:09pm",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Cement Creek Road",
+  "place_type": "road",
+  "legacy_id": 609
+}

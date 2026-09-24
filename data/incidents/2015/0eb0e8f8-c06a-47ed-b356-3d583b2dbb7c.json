@@ -1,0 +1,19 @@
+{
+  "id": "0eb0e8f8-c06a-47ed-b356-3d583b2dbb7c",
+  "date": "2015-09-04",
+  "summary": "Female ultramarathoner in her late 20s lost the trail while descending from the Abyss Lake trailhead in the rain; a SARDOC dog trailed her about 3.5 miles through steep, wet terrain and made the find after 3 hours; the team warmed her and walked her out.",
+  "location": "Abyss Lake trailhead area",
+  "county": "Park",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "SARDOC",
+  "source_urls": "http://sardoc.org/cms/wp-content/uploads/2011/01/121315SARDOCPublicMissionRptSummaries.pdf",
+  "notes": "Date Friday-verified. SARDOC mission report: handler scented dog at subject's vehicle ~11 p.m., dog trailed ~3.5 mi and made the find in a meadow.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2879
+}

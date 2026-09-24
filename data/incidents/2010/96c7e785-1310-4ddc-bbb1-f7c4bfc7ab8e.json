@@ -1,0 +1,19 @@
+{
+  "id": "96c7e785-1310-4ddc-bbb1-f7c4bfc7ab8e",
+  "date": "2010-08-11",
+  "summary": "59-year-old Arvada woman broke her ankle in a hiking fall about 2 miles up the Upper Piney Trail in the Piney River Ranch area; her husband's 1 p.m. 911 call launched a Vail Mountain Rescue Group four-person horseback team (horses and a wrangler provided by Piney Stables); rescuers made contact by 4:30 p.m. and had her out of the field by 6 p.m. to Vail Valley Medical Center.",
+  "location": "Upper Piney Trail, Piney River Ranch area, north of Vail",
+  "county": "Eagle",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Vail Mountain Rescue Group; Eagle County Sheriff's Office; Eagle County Ambulance District",
+  "source_urls": "https://archives2.realvail.com/community-content/78/Woman-rescued-by-horseback-in-Piney-Ranch-area-after-breaking-ankle-hiking",
+  "notes": "Date = incident/article date; article describes the rescue as 'Wednesday' — 2010-08-11 was a Wednesday (weekday-verified). Found by the run-825 Vail Daily live-browser chunk as an incidental 2010 lead.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Upper Piney Trail",
+  "place_type": "trail",
+  "legacy_id": 3356
+}

@@ -1,0 +1,19 @@
+{
+  "id": "51a0f0f5-9fbb-4275-8cfd-24f259c3d2ee",
+  "date": "2010-12-25",
+  "summary": "Injured party in St Marys Glacier area (10-113)",
+  "location": "St Marys Glacier area",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-113. Cause of injury not stated.",
+  "peak": "James Peak",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 123
+}

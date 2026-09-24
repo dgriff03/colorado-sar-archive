@@ -1,0 +1,19 @@
+{
+  "id": "024ddc14-581b-4ed8-8717-aca7963bc702",
+  "date": "2015-09-13",
+  "summary": "CSU students Alexandra Anderson and Sean Supple fell roughly 300 feet after becoming lost/off-route on Kit Carson Peak; Anderson suffered two broken arms, head injury and bruised lung; both helicopter-evacuated",
+  "location": "Kit Carson Peak",
+  "county": "",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 2,
+  "responding_agency": "Flight for Life",
+  "source_urls": "https://collegian.com/articles/news/2015/10/two-csu-students-fall-300-feet-while-hiking-fourteeneer-live-to-tell-story/",
+  "notes": "Lost/off-route before the fall; county not verified",
+  "peak": "Kit Carson Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 276
+}

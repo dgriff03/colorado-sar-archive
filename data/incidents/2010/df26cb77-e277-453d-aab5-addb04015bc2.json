@@ -1,0 +1,19 @@
+{
+  "id": "df26cb77-e277-453d-aab5-addb04015bc2",
+  "date": "2010-01-06",
+  "summary": "An out-of-bounds snowboarder died in an avalanche near Battle Mountain outside the Vail Ski Area boundary; reported as the season's first avalanche fatality.",
+  "location": "Battle Mountain (outside Vail Ski Area boundary)",
+  "county": "Eagle",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://www.thorntonweather.com/blog/colorado-weather/avalanche-claims-life-of-skier-near-aspen/",
+  "notes": "Reported in Thornton Weather's recap of the season's later avalanches; avalanche-center.org's 2009-2010 incident list independently logs a Jan 6 Vail-area skiing fatality.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Battle Mountain",
+  "place_type": "peak",
+  "legacy_id": 3024
+}

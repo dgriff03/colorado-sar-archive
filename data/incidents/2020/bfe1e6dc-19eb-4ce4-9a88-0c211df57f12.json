@@ -1,0 +1,19 @@
+{
+  "id": "bfe1e6dc-19eb-4ce4-9a88-0c211df57f12",
+  "date": "2020-08-21",
+  "summary": "Search of missing person in Apex Valley area, Gilpin (2020-90)",
+  "location": "Apex Valley area",
+  "county": "Gilpin",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2021/01/2020-Missions-Website.pdf",
+  "notes": "ART mission 2020-90. Possibly same subject as 2020-77 (8/9); outcome not stated, presumed rescued-uninjured.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Apex Valley",
+  "place_type": "other",
+  "legacy_id": 854
+}

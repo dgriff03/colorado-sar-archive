@@ -1,0 +1,19 @@
+{
+  "id": "c8787426-5491-4b63-905d-06c83986e5b2",
+  "date": "2011-07-05",
+  "summary": "James \"Jamie\" Garrett, 36, of Vail, missing since last seen in West Vail on Tuesday; found deceased around 1 p.m. Saturday 2011-07-09 on Muddy Pass Road north of Vail (Piney River area) by a Vail Mountain Rescue search team; coroner ruled the manner of death suicide",
+  "location": "Piney River area / Muddy Pass Road north of Vail",
+  "county": "Eagle",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Eagle County Sheriff's Office; Vail Police Department; Vail Mountain Rescue Group",
+  "source_urls": "http://archives2.realvail.com/article/770/Eagle-County-coroner-positively-IDs-body-of-missing-Vail-man-rules-on-manner-of-death",
+  "notes": "Article dated 2011-07-11; crews searched the Piney River area on a tip from friends that Garrett might be there; first Eagle-2011 row (zero-row year before this insert)",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Piney River",
+  "place_type": "river",
+  "legacy_id": 2712
+}

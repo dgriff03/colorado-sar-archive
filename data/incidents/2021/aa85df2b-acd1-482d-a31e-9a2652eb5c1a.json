@@ -1,0 +1,19 @@
+{
+  "id": "aa85df2b-acd1-482d-a31e-9a2652eb5c1a",
+  "date": "2021-05-01",
+  "summary": "A 38-year-old woman from Denver sustained a non-life-threatening leg injury while hiking the Royal Arch Trail; reported about 2:30 p.m. Saturday. Rocky Mountain Rescue Group performed a litter evacuation to the trailhead (about two hours); she declined ambulance transport. City of Boulder Open Space and Mountain Parks assisted.",
+  "location": "Royal Arch Trail, Boulder",
+  "county": "Boulder",
+  "incident_type": "injury",
+  "outcome": "carried out, declined treatment",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain Rescue Group",
+  "source_urls": "https://bouldercounty.gov/news/injured-hiker-rescued-on-royal-arch-trail/",
+  "notes": "Date from Boulder County government press release ('Saturday, May 1, 2021'; 2021-05-01 was Saturday). BCSO case #21-2095.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3732
+}

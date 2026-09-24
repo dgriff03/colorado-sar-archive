@@ -1,0 +1,19 @@
+{
+  "id": "e5b0d0dd-403b-4a11-99f3-355d54ac4d9c",
+  "date": "2023-09-24",
+  "summary": "Sick 17-year-old male party at around 13400 feet on Torreys Peak",
+  "location": "Torreys Peak",
+  "county": "Clear Creek",
+  "incident_type": "medical",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2024/01/2023-Missions-Website.pdf",
+  "notes": "ART mission 2023-093.",
+  "peak": "Torreys Peak",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1292
+}

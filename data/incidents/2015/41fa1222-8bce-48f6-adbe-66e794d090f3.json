@@ -1,0 +1,19 @@
+{
+  "id": "41fa1222-8bce-48f6-adbe-66e794d090f3",
+  "date": "2015-07-12",
+  "summary": "Recovery in the Brainard Lake area; Alpine assisting RMRG",
+  "location": "Brainard Lake area",
+  "county": "Boulder",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team (assist to RMRG)",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Mutual-aid assist; log does not detail the subject.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Brainard Lake",
+  "place_type": "lake",
+  "legacy_id": 245
+}

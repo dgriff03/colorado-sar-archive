@@ -1,0 +1,19 @@
+{
+  "id": "4b288c28-9e83-4b26-bf5f-0cb47cc4861f",
+  "date": "2022-08-14",
+  "summary": "61-year-old Chris Zigler, solo snowmobiler missing overnight in the Bakers Peak area; found by Moffat County SAR crews mid-morning Monday in good condition",
+  "location": "Bakers Peak area, northeast Moffat County",
+  "county": "Moffat",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Moffat County Sheriff's Office; Moffat County Search and Rescue",
+  "source_urls": "https://www.basinnow.com/missing-snowmobiler-found-in-moffat-county/",
+  "notes": "DATE APPROXIMATE: went missing Sunday night, found Monday mid-morning per Basin Now article (opened this run); Sunday pinned to 2022-08-14 via search-index age (1492 days ~= 2022-08-17) rather than page metadata; 2022-08-14 was a Sunday, 2022-08-15 a Monday. First 2022 Moffat row (thin years 2018/2022/2023 otherwise zero-row). Resolves the parked Zigler/Bakers Peak lead; retires the 2023-01-08 hypothesis (that was the Basin Now 'busy weekend'/Lost Creek piece = id 2289). McFeaters 2021-05-06 outcome still unpublished (zero McFeaters rows).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Bakers Peak",
+  "place_type": "peak",
+  "legacy_id": 3299
+}

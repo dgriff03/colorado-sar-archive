@@ -1,0 +1,19 @@
+{
+  "id": "7d28f9af-b791-49f4-a15c-63b248e6a4cc",
+  "date": "2015-08-22",
+  "summary": "Injured 72-year-old male on Mount Bierstadt (Code 3 page)",
+  "location": "Mount Bierstadt",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-88.",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2017
+}

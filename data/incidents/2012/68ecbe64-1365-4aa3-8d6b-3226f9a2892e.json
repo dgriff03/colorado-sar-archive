@@ -1,0 +1,19 @@
+{
+  "id": "68ecbe64-1365-4aa3-8d6b-3226f9a2892e",
+  "date": "2012-02-16",
+  "summary": "Three backcountry skiers caught in an avalanche at Gibbs Creek near Wolf Creek Pass; one injured, one partially buried, one buried and killed (39-year-old off-duty Keystone ski patroller)",
+  "location": "Gibbs Creek, near Wolf Creek Pass",
+  "county": "Conejos",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 2,
+  "responding_agency": "",
+  "source_urls": "https://classic.avalanche.state.co.us/caic/acc/acc_co.php|https://unofficialnetworks.com/2012/02/17/avalanche-kills-keystone-ski-patroller/",
+  "notes": "Run 83 CAIC 2011-12 thin-year chunk. CAIC summary only; no SAR team response confirmed. Run 509 UN merge (URL opened this run): west-facing slope near treeline, slide 3 ft deep / 600 ft wide / 600 ft vertical; killed skier was a 39-year-old Keystone ski patroller (believed from Australia or New Zealand) skiing off duty; one skier uninjured, one injured and evacuated; 6th Colorado avalanche death of the 2011-12 season; CAIC forecaster on site the afternoon of the accident.",
+  "peak": "Wolf Creek Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2323
+}

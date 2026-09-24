@@ -1,0 +1,19 @@
+{
+  "id": "b61333cd-a3fb-41e8-81d9-3c843490d2ec",
+  "date": "2021-11-30",
+  "summary": "72-year-old male Boulder resident died after a collision between his skis and a snowboarder on the Windmill run at Eldora Mountain Resort ~11 a.m.; ski patrol CPR, pronounced dead at the scene at 11:43 a.m.; the snowboarder (Wellington resident) was treated for collision injuries, interviewed by deputies, no charges filed (BCSO 21-5768)",
+  "location": "Windmill run, Eldora Mountain Resort",
+  "county": "Boulder",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office; Eldora ski patrol; North Colorado MedEvac (air standby)",
+  "source_urls": "https://www.themtnear.com/stories/skier-dies-following-collision-at-eldora-ski-area,8266|https://snowbrains.com/man-killed-in-collision-at-eldora-ski-resort-co-on-tuesday-identified-as-icon-in-the-snowsports-industry/",
+  "notes": "Follow-up coverage identified the skier as Ron LeMaster, 72 (parent-opened SnowBrains identification article; the Mountain-Ear article withholds the name pending next-of-kin notification).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Eldora Mountain Resort",
+  "place_type": "ski_area",
+  "legacy_id": 3395
+}

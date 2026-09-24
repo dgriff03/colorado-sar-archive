@@ -1,0 +1,19 @@
+{
+  "id": "c6c0e2b2-b272-4d70-a495-e6df942ffdc8",
+  "date": "2024-08-01",
+  "summary": "Alpine Rescue Team assisted Larimer County SAR with a State SAR coordinator on a personal-locator-beacon (PLB) activation; outcome unreported.",
+  "location": "Larimer County (site unstated)",
+  "county": "Larimer",
+  "incident_type": "other",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team (assist to Larimer County SAR)",
+  "source_urls": "https://alpinerescueteam.org/2024-090-assist-to-larimer-county-with-a-state-sar-coordinator-for-plb-activation-in-larimer-county/",
+  "notes": "Alpine mission 2024-090; victim count unstated; PLB outcome unreported.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2333
+}

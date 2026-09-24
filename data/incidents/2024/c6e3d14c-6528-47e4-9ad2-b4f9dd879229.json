@@ -1,0 +1,19 @@
+{
+  "id": "c6e3d14c-6528-47e4-9ad2-b4f9dd879229",
+  "date": "2024-03-14",
+  "summary": "Stranded motorists due to snowstorm in the Fall River area",
+  "location": "Fall River",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "Number of motorists not stated; recorded as 1; county unverified; ART mission 2024-018.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Fall River",
+  "place_type": "river",
+  "legacy_id": 1343
+}

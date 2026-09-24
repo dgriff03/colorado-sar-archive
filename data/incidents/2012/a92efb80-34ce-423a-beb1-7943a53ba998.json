@@ -1,0 +1,19 @@
+{
+  "id": "a92efb80-34ce-423a-beb1-7943a53ba998",
+  "date": "2012-07-12",
+  "summary": "79-year-old male from Ballwin, Missouri with a significant medical emergency ~1 mile from the Lumpy Ridge Trailhead on the Gem Lake Trail; rangers reached him at noon, litter-carried him to the trailhead, then ambulance to a nearby meadow where St. Anthony Flight for Life flew him to Boulder Community Hospital.",
+  "location": "Gem Lake Trail, ~1 mile from Lumpy Ridge Trailhead, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park rangers | Estes Park Medical Center ambulance | St. Anthony Flight for Life",
+  "source_urls": "https://www.nationalparkstraveler.org/2012/07/colorado-man-dies-fall-glacier-rocky-mountain-national-park10218|http://npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "Same Thursday (Jul 12, 2012) as the Andrews Glacier fatality per NPT article and NPS morning report (Mon Jul 16, 2012): 911 call for the 79-yo; rangers at noon; litter carry to trailhead; ambulance to meadow; FFL to Boulder Community Hospital. A separate 74-year-old man in distress near Fern Falls the same day declined ambulance transport after reaching the trailhead - not inserted. | NPS ROMO morning-report compendium URL merged (run 487).",
+  "peak": "Lumpy Ridge",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2528
+}

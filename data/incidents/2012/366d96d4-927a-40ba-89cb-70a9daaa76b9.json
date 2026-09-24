@@ -1,0 +1,19 @@
+{
+  "id": "366d96d4-927a-40ba-89cb-70a9daaa76b9",
+  "date": "2012-08-20",
+  "summary": "Search for lost parties on Mt Trelease (Alpine mission 12-74)",
+  "location": "Mt Trelease",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/category/recent-missions/clear-creek-county/page/157/",
+  "notes": "Alpine Rescue Team Clear Creek County category mission-log archive (Alpine mission 12-74); one-line page alert, outcome detail unstated in post.; plural in post, exact count unstated",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Mount Trelease",
+  "place_type": "peak",
+  "legacy_id": 1781
+}

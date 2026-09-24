@@ -1,0 +1,19 @@
+{
+  "id": "2a909f5a-5f96-4008-bdf6-b7c2f3e667af",
+  "date": "2025-11-15",
+  "summary": "Ice climber died in the Precipice Peak area of the West Fork of the Cimarron River; body recovered November 16 by multi-county teams",
+  "location": "Precipice Peak, West Fork of Cimarron River",
+  "county": "Ouray",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Ouray Mountain Rescue Team + Hinsdale County SAR, Ouray/Hinsdale sheriff & coroner, DFPC, CSRA",
+  "source_urls": "https://unofficialnetworks.com/2025/11/18/deceased-ice-climber-recovered/|https://www.facebook.com/ouraymountainrescue/posts/pfbid07MSW4kQK4SRKdHYGXY8rdxVCU4Q1GuLUbAMg7VfSUXe2pXc8U2jcRS6oTe1mj8Y3l",
+  "notes": "approx; cause of death not released",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Precipice Peak",
+  "place_type": "peak",
+  "legacy_id": 1690
+}

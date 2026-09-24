@@ -1,0 +1,19 @@
+{
+  "id": "13cf6413-64a0-4a54-82cf-6c943db9ff85",
+  "date": "2016-12-11",
+  "summary": "Two snowmobilers fully buried ~4 ft in a rider-triggered 4-ft slab avalanche on Rabbit Ears Pass (trail 311, south-facing slope); avalanche-course-trained companions found them by probe search and completed extraction in 10-14 min; both riders uninjured, one avy pack deployed.",
+  "location": "Rabbit Ears Pass, trail 311",
+  "county": "Routt",
+  "incident_type": "avalanche",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "companions (no formal SAR response)",
+  "source_urls": "https://unofficialnetworks.com/2016/12/14/buried-under-four-feet-of-snow-two-colorado-snowmobilers-saved-by-companion-rescue/|https://sleddermag.com/two-sledders-buried-in-colorado-avalanche/",
+  "notes": "Date pinned 2016-12-11 (Sunday before Wed 2016-12-14 story; KVNF Dec-13-2016 newscast corroborates). 8-rider group; 2 rear riders paused at the danger zone, buried 4 ft deep pinned on trees; CAIC description quoted in source. Inserted run 716. | MERGED run 813: Mountain Sledder piece (parent-opened) on the same 2016-12-11 Rabbit Ears slide — Buffalo Pass area, group of eight, two sledders buried ~120cm, 10-14 min companion search, both breathing; adds CAIC-report link detail.",
+  "peak": "Rabbit Ears Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3237
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ec496acd-48fa-41f6-8fd0-7299d3368a6e",
+  "date": "2015-03-31",
+  "summary": "Overdue 26-year-old male skiing on Torrey's Peak",
+  "location": "Torrey's Peak",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-13.",
+  "peak": "Torreys Peak",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1969
+}

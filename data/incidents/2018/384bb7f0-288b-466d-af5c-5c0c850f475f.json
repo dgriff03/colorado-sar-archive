@@ -1,0 +1,19 @@
+{
+  "id": "384bb7f0-288b-466d-af5c-5c0c850f475f",
+  "date": "2018-06-19",
+  "summary": "A 44-year-old Clearwater, Florida man hiking in the Illinois Creek area was reported possibly suffering from heat exhaustion; the Western Mountain Rescue team was alerted and he returned in good health.",
+  "location": "Illinois Creek area",
+  "county": "Gunnison",
+  "incident_type": "medical",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Gunnison County Sheriff's Office; Western Mountain Rescue Team",
+  "source_urls": "https://gunnisoncounty.org/ArchiveCenter/ViewFile/Item/2863",
+  "notes": "Per-incident one-liner from the Gunnison County Sheriff's Office weekly press release (June 25, 2018 edition; item misdated 06/19/19 in the release, week coverage pins 06/19/18). Mined run 463.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Illinois Creek",
+  "place_type": "creek",
+  "legacy_id": 2746
+}

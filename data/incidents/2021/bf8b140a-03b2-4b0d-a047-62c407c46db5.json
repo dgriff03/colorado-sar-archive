@@ -1,0 +1,19 @@
+{
+  "id": "bf8b140a-03b2-4b0d-a047-62c407c46db5",
+  "date": "2021-06-20",
+  "summary": "Assist to Saguache County SAR for recovery (Jun 21) of a climber near Pico Aislado",
+  "location": "Pico Aislado",
+  "county": "Saguache",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Saguache County SAR",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2022/02/2021-Missions-Website.pdf|https://www.avsar.us/06-19-20-saguache-county-mutual-aid-in-pico-aislado/",
+  "notes": "Recovery; log gives no further details; ART mission 2021-059. Run 827 merge: AVSAR mission post (parent-opened, full-string verified absent).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Pico Aislado",
+  "place_type": "peak",
+  "legacy_id": 967
+}

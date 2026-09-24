@@ -1,0 +1,19 @@
+{
+  "id": "df736324-8be8-4a24-ac03-01d6b42ac148",
+  "date": "2011-02-11",
+  "summary": "Kellen Sams killed in avalanche near Ridgway",
+  "location": "near Ridgway",
+  "county": "Ouray",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://www.army.mil/article/34666",
+  "notes": "",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": "Ridgway",
+  "place_type": "town",
+  "legacy_id": 128
+}

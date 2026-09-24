@@ -1,0 +1,19 @@
+{
+  "id": "b1fe05d1-3041-45b4-9f22-12b75f12c8fd",
+  "date": "2016-06-18",
+  "summary": "Two people separated from raft at John Martin Reservoir; female rescued by civilian watercraft; Harley Benson (23) of Las Animas drowned, body recovered June 20 after multi-day multi-agency search",
+  "location": "John Martin Reservoir",
+  "county": "Bent",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 2,
+  "responding_agency": "Bent County Sheriff's Office; Hasty Fire/Ambulance; Colorado State Parks; U.S. Army Corps of Engineers; Lamar Fire Department; Care Connect; Prowers County Sheriff's Office; Las Animas Fire Department; Pueblo County Sheriff's Office dive team; Colorado Springs Fire Department dive team; El Paso County SARDOC K9",
+  "source_urls": "https://theprowersjournal.com/2016/06/john-martin-drowning-victim-identified/ | https://theprowersjournal.com/2016/06/search-ends-for-missing-victim-at-john-martin-reservoir/",
+  "notes": "Female rescued uninjured by passing boaters; male victim's body recovered June 20. Prowers Journal recovery report (parent-opened run 632): body recovered ~1 p.m. Monday 2016-06-20 in ~20 ft of water ~0.5 mi south of the railroad trestle, El Paso Fire dive team off a Pueblo West dog-team alert, Prowers County Rural FD assisted; search began Saturday afternoon. Merged 2026-09-15.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "John Martin Reservoir",
+  "place_type": "reservoir",
+  "legacy_id": 304
+}

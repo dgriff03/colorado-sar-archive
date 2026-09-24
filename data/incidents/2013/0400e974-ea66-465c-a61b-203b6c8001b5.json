@@ -1,0 +1,19 @@
+{
+  "id": "0400e974-ea66-465c-a61b-203b6c8001b5",
+  "date": "2013-08-31",
+  "summary": "Climber fell 30-40 feet at Happy Hour Crag after protection pulled; broken neck and skull fracture.",
+  "location": "Happy Hour Crag",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201213018",
+  "notes": "",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": "Happy Hour Crag",
+  "place_type": "climbing_area",
+  "legacy_id": 191
+}

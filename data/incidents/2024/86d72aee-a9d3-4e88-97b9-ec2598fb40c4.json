@@ -1,0 +1,19 @@
+{
+  "id": "86d72aee-a9d3-4e88-97b9-ec2598fb40c4",
+  "date": "2024-01-20",
+  "summary": "Andy Albosta, 46, fell ~50 feet while ice climbing in Cascade Canyon. He suffered a broken pelvis, a collapsed lung, and internal bleeding; SAR paramedics responded rapidly and he was flown immediately to Albuquerque. His recovery was expected to take four months, during which he was out of work from his electrician business.",
+  "location": "Cascade Canyon",
+  "county": "La Plata",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "La Plata County Search and Rescue",
+  "source_urls": "https://www.durangotelegraph.com/news/the-pole/aid-for-andy/|https://www.gofundme.com/f/andyalbosta?lang=en_US",
+  "notes": "Date approximate (weekday-inferred): GoFundMe states the accident was \"Saturday, January 20th\"; 2024-01-20 was a Saturday (2025-01-20 was a Monday), verified via date -d. Un-parked the run-681 lead (year resolvable by weekday).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Cascade Canyon",
+  "place_type": "canyon",
+  "legacy_id": 3293
+}

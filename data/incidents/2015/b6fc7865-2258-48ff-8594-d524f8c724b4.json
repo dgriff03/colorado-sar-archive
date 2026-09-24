@@ -1,0 +1,19 @@
+{
+  "id": "b6fc7865-2258-48ff-8594-d524f8c724b4",
+  "date": "2015-08-01",
+  "summary": "Lowering error on the Naked Edge, Eldorado Canyon; minor injuries.",
+  "location": "Eldorado Canyon, Naked Edge",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201213981",
+  "notes": "Date approximate: August 2015; listed as first of month.",
+  "peak": "Eldorado Canyon",
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 257
+}

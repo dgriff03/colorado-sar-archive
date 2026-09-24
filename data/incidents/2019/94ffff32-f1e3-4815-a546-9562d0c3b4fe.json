@@ -1,0 +1,19 @@
+{
+  "id": "94ffff32-f1e3-4815-a546-9562d0c3b4fe",
+  "date": "2019-10-20",
+  "summary": "28-year-old hunter reported overdue by a companion in the Rawah area; LCSAR paged in the early morning hours, departed Fort Collins at 0400 in snowy, windy conditions (18F, 60 mph winds forecast). Subject was brought to staging by two hunters on an ATV at 1008 and evaluated uninjured.",
+  "location": "North of the Rawah Wilderness, ~2 hours northwest of Fort Collins",
+  "county": "Larimer",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Larimer County Search and Rescue",
+  "source_urls": "https://www.facebook.com/lcsarinc/posts/pfbid02LPwNieC6HTgeAP67oYVSt4fsoJdWQW2N39L6JLiH6QfrxvxhdNxB7cVp6m8rMrmJl|https://www.facebook.com/lcsarinc/posts/pfbid09y2NqHcbUddtcMc6hdfAf7a3Hb21dSJ9HGLqi1n8zK1pqn3gtXLZL4jubcQYr85Rl",
+  "notes": "Two FB posts describe the same mission: the 2019-10-20 callout post and the 2019-11-06 full mission report. Single insert with both permalinks.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Rawah Wilderness",
+  "place_type": "wilderness",
+  "legacy_id": 3534
+}

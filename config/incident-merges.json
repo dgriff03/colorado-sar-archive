@@ -1,6 +1,6 @@
 {
-  "legacy-003648": {
-    "into": "legacy-000537",
-    "reason": "Maintainer confirmed these describe the same Lone Eagle Peak climber fall and Black Hawk hoist. Sources and agency details consolidated into legacy-000537. July 1 versus July 2 date conflict remains documented in notes. Original duplicate JSON retained for provenance."
+  "5c1bf6f8-ff66-41f9-b6b4-45c93052bd39": {
+    "into": "7f168d92-8b4b-4853-816f-df6cdb676c0c",
+    "reason": "Maintainer confirmed these describe the same Lone Eagle Peak climber fall and Black Hawk hoist. Sources and agency details consolidated into 7f168d92-8b4b-4853-816f-df6cdb676c0c. July 1 versus July 2 date conflict remains documented in notes. Original duplicate JSON retained for provenance."
   }
 }

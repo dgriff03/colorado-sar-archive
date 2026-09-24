@@ -1,0 +1,19 @@
+{
+  "id": "1b3ebb41-cc0b-499a-8bf4-6c9fbba911d1",
+  "date": "2015-08-13",
+  "summary": "Sick 54-year-old female in the Echo Lake area (Code 3 page)",
+  "location": "Echo Lake area",
+  "county": "Clear Creek",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-80.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2010
+}

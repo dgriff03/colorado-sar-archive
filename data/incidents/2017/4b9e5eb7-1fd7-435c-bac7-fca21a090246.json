@@ -1,0 +1,19 @@
+{
+  "id": "4b9e5eb7-1fd7-435c-bac7-fca21a090246",
+  "date": "2017-06-13",
+  "summary": "Hiker having allergic reaction on Mt Bierstadt (2017-34)",
+  "location": "Mt Bierstadt",
+  "county": "Clear Creek",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2018/01/2017-Missions-Website.pdf",
+  "notes": "ART mission 2017-34.",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 376
+}

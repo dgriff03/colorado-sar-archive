@@ -1,0 +1,19 @@
+{
+  "id": "97beeea5-e4eb-4de0-b533-49d49fc46822",
+  "date": "2022-04-28",
+  "summary": "Family of 3 visiting from New York rescued after their truck was swept away by spring-runoff water in Escalante Creek; all reached higher ground before the truck submerged, and swiftwater rescue swimmers brought two members stranded on the far bank back across 4-5 feet of fast water",
+  "location": "Escalante Creek at Escalante Road",
+  "county": "Mesa",
+  "incident_type": "other",
+  "outcome": "rescued-uninjured",
+  "victims": 3,
+  "responding_agency": "Mesa County Sheriff's Office; Mesa County Search and Rescue",
+  "source_urls": "https://crimewatch.net/us/co/mesa/sheriff/134177/cases/family-rescued-after-truck-swept-away-creek",
+  "notes": "MCSO CrimeWatch SAR release (mined 2026-09-11, run 28). Family stranded overnight by rising waters; swimmers also recovered the submerged truck.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Escalante Creek",
+  "place_type": "creek",
+  "legacy_id": 2232
+}

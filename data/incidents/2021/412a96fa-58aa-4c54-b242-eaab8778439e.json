@@ -1,0 +1,19 @@
+{
+  "id": "412a96fa-58aa-4c54-b242-eaab8778439e",
+  "date": "2021-07-30",
+  "summary": "50-year-old hiker fell 40 ft at 14,020 ft below Mt Sneffels summit (Lavender Couloir area); head injury, broken leg, severe hypothermia; OMRT bivouacked with him through violent weather and a National Guard helicopter hoisted him out the next morning",
+  "location": "Mt Sneffels, below summit / Lavender Couloir",
+  "county": "Ouray",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Ouray Mountain Rescue Team + Army National Guard helicopter",
+  "source_urls": "http://coloradosar.org/ouray-mountain-rescue-team-wins-colorado-mountain-clubs-annual-valor-award/|https://rockytalkie.com/en-uk/blogs/rocky-talkie-blog/against-the-odds-overnight-rescue-in-the-san-juans|https://rockytalkie.com/en-eu/blogs/rocky-talkie-blog/against-the-odds-overnight-rescue-in-the-san-juans|https://www.facebook.com/ouraymountainrescue/videos/1742812342571510/|https://www.facebook.com/ouraymountainrescue/posts/pfbid02BTJMDQbVJK6ioRRwpmqcjXnrGxFPSz93VojEYLE6zTKaCKGqjjJnBXvVY1uWaBopl",
+  "notes": "CSAR award-winning rescue; second source is a long-form narrative of the same mission | Rocky Talkie/AAC SAR Award story adds detail: volunteer responders Grant Kleeves, OMRT Lt. Patrick Brighton, Capt. Ruth Stewart; dispatch mixed signals (\"confirmed fatality\" then \"cancel\"); 2 in. hail, sustained lightning, sub-20F temps pinning teams at vehicles; mudslide took out the road, cleared by a local miner's bulldozer; patient combative from head injury + hypothermia (\"paradoxical undressing\"); team bivouacked overnight on the summit ledge; National Guard helo hoist at dawn. | Road-clearing miner named in the CSAR Valor Award account as Bumper Williams (hard-rock miner who heard radio traffic and used mine heavy equipment to clear the washed-out road to the trailhead). Run 817 merge: appended incident-specific source URL (parent-opened). EU-locale mirror of the 'Against the Odds' story already on the row (en-uk); same content. 2026-09-20: merged OMRT FB post permalink (Video post (2021-08-03) of the 7/31 hoist at 13,800' on Mt. Sneffels with Colorado Nationa). 2026-09-20: merged OMRT FB post permalink (Detailed 2021-08-02 narrative of the same 2021-07-30 Mt. Sneffels mission (SPOT distress c).",
+  "peak": "Mount Sneffels",
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 989
+}

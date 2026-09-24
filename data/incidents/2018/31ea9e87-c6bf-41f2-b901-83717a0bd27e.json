@@ -1,0 +1,19 @@
+{
+  "id": "31ea9e87-c6bf-41f2-b901-83717a0bd27e",
+  "date": "2018-08-19",
+  "summary": "Solo hiker from Austin, Texas, fell nearly 100 feet into a gully on Maroon Peak and could not self-rescue; airlifted by Flight for Life and a HAATS Blackhawk with Mountain Rescue Aspen",
+  "location": "Maroon Peak",
+  "county": "Pitkin",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Mountain Rescue Aspen; Flight for Life; HAATS",
+  "source_urls": "https://snowbrains.com/lone-texan-hiker-airlifted-maroon/|https://www.facebook.com/mountainrescueaspen/posts/pfbid03LpnS1NkzSmSPuct8cLjEB7cnphxHXvfyd4W9HABCtNuFJDSEpF5uPvv5rJY8DcYl|https://www.facebook.com/mountainrescueaspen/posts/pfbid026iJy42jP28zFTK3BA4z6SbNSLnMHbRre1UiR7owun3FeZvM6BrZsrWnsoY67GWxwl",
+  "notes": "approx; article from Aug 2018; exact day not stated in source Day set to 1st of month; only month known. | Date corrected 2026-09-09 (pass 2): incident occurred Sunday 2018-08-19 per SnowBrains reporting (was 2018-08-01 approx). 2026-09-22: merged MRA FB post permalink (MRA press-release post: Keith Brewer, 100-ft fall on Maroon Peak 2018-08-19.).",
+  "peak": "Maroon Peak",
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 572
+}

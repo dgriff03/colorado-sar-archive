@@ -1,0 +1,19 @@
+{
+  "id": "318af27d-b339-4cd1-a93e-34c9fa7df67c",
+  "date": "2026-07-02",
+  "summary": "Hiker with a lower leg injury on the Blue Lakes Trail ~1.25 miles from the trailhead; team reached the hiker on foot and wheeled-litter transported them to the trailhead; patient self-transported to further care.",
+  "location": "Blue Lakes Trail, ~1.25 miles from trailhead",
+  "county": "Ouray",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Ouray Mountain Rescue Team",
+  "source_urls": "https://www.facebook.com/ouraymountainrescue/posts/pfbid02Mtefo6AwjK5ZbfaepvMFkhngbHheDiRPzE1Xa4iLcx85y8QfsghRQ8Lj52r8nBB5l",
+  "notes": "",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Blue Lakes Trail",
+  "place_type": "trail",
+  "legacy_id": 3447
+}

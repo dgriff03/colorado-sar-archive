@@ -1,0 +1,19 @@
+{
+  "id": "2bca057d-d7e9-41ac-baff-03bc51cb95b2",
+  "date": "2010-11-16",
+  "summary": "Snowboarder carried and injured in an avalanche in Nitro Chute at Berthoud Pass.",
+  "location": "Nitro Chute, Berthoud Pass",
+  "county": "",
+  "incident_type": "avalanche",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://classic.avalanche.state.co.us/caic/acc/acc_co.php",
+  "notes": "CAIC classic-table summary only; no SAR agency or victim identity published in sources found. County left blank per the ambiguity convention (Berthoud Pass straddles Clear Creek/Grand). Date weekday-verified Tuesday 2010-11-16 (run 477).",
+  "peak": "Berthoud Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2778
+}

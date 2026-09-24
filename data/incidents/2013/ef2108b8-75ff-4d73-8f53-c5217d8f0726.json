@@ -1,0 +1,19 @@
+{
+  "id": "ef2108b8-75ff-4d73-8f53-c5217d8f0726",
+  "date": "2013-05-26",
+  "summary": "21-year-old CU-Boulder woman high on mushrooms was rescued from the Flatirons at Chautauqua Park after a 911 call; ~35 Boulder County Sheriff's deputies and rescue personnel responded; she was found naked and restrained by two companions, was handcuffed, placed in a rescue basket, treated and released at a hospital",
+  "location": "Flatirons, Chautauqua Park",
+  "county": "Boulder",
+  "incident_type": "other",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office",
+  "source_urls": "http://unofficialnetworks.com/2013/06/02/naked-cuboulder-student-rescued-flatirons-high-mushrooms/",
+  "notes": "UN story opened run 448; date pinned 2013-05-26 (Sunday): UN pub. 2013-06-02 says \"last week\"; College Fix retelling (opened this run) says \"Sunday\"; Memorial Day 2013 was May 27, so the preceding Sunday was May 26. Zero Boulder rows 2013-05-24--06-02.",
+  "peak": "The Flatirons",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2720
+}

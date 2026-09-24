@@ -1,0 +1,19 @@
+{
+  "id": "cdfe7683-bb18-4de3-ac63-21be60001d6d",
+  "date": "2010-05-29",
+  "summary": "Injured mountain biker on Bergen Peak (10-29)",
+  "location": "Bergen Peak",
+  "county": "Jefferson",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-29. Cause of injury not stated.",
+  "peak": "Bergen Peak",
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 29
+}

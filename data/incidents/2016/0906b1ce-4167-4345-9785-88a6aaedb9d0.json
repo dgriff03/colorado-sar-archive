@@ -1,0 +1,19 @@
+{
+  "id": "0906b1ce-4167-4345-9785-88a6aaedb9d0",
+  "date": "2016-05-25",
+  "summary": "Stranded and possibly hypothermic bicyclist near the Loveland ski area",
+  "location": "Loveland ski area",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-39.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Loveland Ski Area",
+  "place_type": "ski_area",
+  "legacy_id": 2070
+}

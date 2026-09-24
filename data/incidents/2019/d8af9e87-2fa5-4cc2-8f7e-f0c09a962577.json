@@ -1,0 +1,19 @@
+{
+  "id": "d8af9e87-2fa5-4cc2-8f7e-f0c09a962577",
+  "date": "2019-07-28",
+  "summary": "Injured hiker near Echo Lake (2019-79)",
+  "location": "Echo Lake area",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2020/01/2019-Missions-Website.pdf",
+  "notes": "ART mission 2019-79. Cause of injury not stated.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 692
+}

@@ -1,0 +1,19 @@
+{
+  "id": "abc5af32-1713-44a0-bfb6-00258d7393a0",
+  "date": "2011-09-12",
+  "summary": "60-year-old Texas woman took a 15-ft tumbling fall (initially reported at Sky Pond, determined to be at Lake of Glass, ~4.5 mi from the Bear Lake trailhead) and suffered several traumatic injuries; carried to a landing area on the east side of Lake of Glass and flown by St. Anthony Flight for Life to the Denver hospital",
+  "location": "Lake of Glass, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "RMNP rangers; St. Anthony Flight for Life",
+  "source_urls": "http://npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "One of three incidents Mon Sep 12, 2011 per the Tue Sep 20 report (the two others: a 61 YOM food-allergy case treated on scene who declined transport — excluded per precedent — and the Alberta Falls item, id 2682); weekday-verified.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Lake Of Glass",
+  "place_type": "lake",
+  "legacy_id": 2681
+}

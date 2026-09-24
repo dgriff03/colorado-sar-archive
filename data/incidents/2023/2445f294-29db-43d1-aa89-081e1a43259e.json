@@ -1,0 +1,19 @@
+{
+  "id": "2445f294-29db-43d1-aa89-081e1a43259e",
+  "date": "2023-08-11",
+  "summary": "64-year-old took a 60-foot tumbling fall on the Ledges on the Keyhole Route of Longs Peak; bystander care; Colorado Air National Guard hoist; RMRG assisted; Flight for Life to MCR.",
+  "location": "The Ledges, Keyhole Route, Longs Peak, Rocky Mountain National Park",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "National Park Service",
+  "source_urls": "https://www.npshistory.com/morningreport/incidents/romo.htm|https://www.nps.gov/romo/learn/news/two-separate-incidents-occurred-in-rocky-mountain-national-park-this-weekend.htm",
+  "notes": "NPS ROMO morning-report compendium entry. Run-585 merge: NPS Aug-13-2023 release (parent-opened) corroborates — 64-yo College Station male, ~60-ft tumbling fall above the Ledges on the Keyhole Route late Friday Aug 11, CANG hoist with RMRG assist, flown to Medical Center of the Rockies.",
+  "peak": "Longs Peak",
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2872
+}

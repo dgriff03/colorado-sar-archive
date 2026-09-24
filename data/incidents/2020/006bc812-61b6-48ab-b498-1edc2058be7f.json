@@ -1,0 +1,19 @@
+{
+  "id": "006bc812-61b6-48ab-b498-1edc2058be7f",
+  "date": "2020-03-05",
+  "summary": "37-year-old male skier sustained critical injuries colliding with a tree on the Corona ski run at Eldora Mountain Resort around noon Thursday; Flight for Life dispatched; pronounced dead at the scene; BCSO found no suspicious activity and no other skiers involved",
+  "location": "Corona run, Eldora Mountain Resort",
+  "county": "Boulder",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office; Flight for Life",
+  "source_urls": "https://kool1079.com/skier-dies-after-colliding-with-a-tree-at-eldora-mountain-resort/",
+  "notes": "",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Eldora Mountain Resort",
+  "place_type": "ski_area",
+  "legacy_id": 3401
+}

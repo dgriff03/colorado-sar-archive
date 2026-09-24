@@ -1,0 +1,19 @@
+{
+  "id": "a820025c-e16f-424f-a799-b05fe13d72dc",
+  "date": "2016-07-06",
+  "summary": "Lost male hiker near Spectacle Lake; located safe July 7 after Conejos County mutual-aid callout",
+  "location": "Spectacle Lake",
+  "county": "Conejos",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alamosa Volunteer SAR / Conejos County SO",
+  "source_urls": "https://www.avsar.us/missions-from-2016/",
+  "notes": "Wednesday-verified; AVSAR page header 'July 6-7, 2016': request came 2215h 7/6, hiker located safe ~1700h 7/7; same callout series as the Spectacle Lake body recovery; run 804",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Spectacle Lake",
+  "place_type": "lake",
+  "legacy_id": 3315
+}

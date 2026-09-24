@@ -1,0 +1,19 @@
+{
+  "id": "e867ce5e-1b20-4716-b721-c43b1b4faff9",
+  "date": "2026-04-25",
+  "summary": "Vehicle exited Highway 550 near mile marker 89 and traveled 400 ft down the embankment; sole occupant had relatively minor injuries but could not walk out; OMRT lowered a member, packaged the patient in a litter, and performed a scree evacuation with winch before EMS handoff.",
+  "location": "Highway 550 near mile marker 89",
+  "county": "Ouray",
+  "incident_type": "vehicle",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Ouray Mountain Rescue Team; Ouray County EMS; Ouray Fire; Ouray Sheriff's Department",
+  "source_urls": "https://www.facebook.com/ouraymountainrescue/posts/pfbid0ZMQwqBnMzCvRhKexQirbknYvxvuPP9s6p3VQ2WYnAaZZbiE3ae2DDXevKd9LdHQSl",
+  "notes": "",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Highway 550",
+  "place_type": "road",
+  "legacy_id": 3444
+}

@@ -1,0 +1,19 @@
+{
+  "id": "d58112ce-70ef-4246-bcc2-fcc2691a8904",
+  "date": "2019-10-05",
+  "summary": "Leader fell onto ledge on Stoned Oven, North Chasm View Wall, Black Canyon; tibia/fibula fracture; multi-agency SAR.",
+  "location": "Black Canyon, North Chasm View Wall",
+  "county": "Gunnison",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Black Canyon SAR, Ouray SAR, Rigging for Rescue, Crested Butte Mountain Rescue",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201215591|https://crestedbuttenews.com/2019/11/local-rescuers-go-to-great-lengths-for-technical-rope-rescue-in-black-canyon/|https://archives.boulderweekly.com/adventure/out-from-below/|https://www.nps.gov/blca/learn/news/pr19-15.htm|https://www.facebook.com/ouraymountainrescue/posts/pfbid0c4EryTDpy44XCMDhLgtxJetCjczozDYRE7Wk8Gzm4pt8seHtGN5RcvyS6u5yjwnql",
+  "notes": "County depends on rim; North Rim listed as Gunnison. CBN narrative (largest vertical rope raise in N. America since 2014; North Rim climbing rangers + CBSAR; partner rappelled back to canyon bottom; 800-ft Stoned Oven route, 25-ft leader fall) Boulder Weekly narrative \"Out from below\" names climbers Mitchell Friedeman and Aaron Hedges; ranger Tom Schaefer (NPS) coordinated; Black Canyon SAR assisted by Ouray SAR and Crested Butte Mountain Rescue; overnight bivouac then manual 3:1 pulley haul-out the following morning. MERGE 2026-09-15 (run 538): NPS pr19-15 release URL appended (release date 2019-10-11; 25-person multi-team 1,800-ft litter raise). 2026-09-20: merged OMRT FB post (own team account of the North Rim ~2,000-ft raise; post dates the operation Sunday 10/6 while the row is dated 10/5 — overnight operation spanning both dates).",
+  "peak": "Black Canyon of the Gunnison",
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 732
+}

@@ -1,0 +1,19 @@
+{
+  "id": "264b25f3-1abc-4894-b336-c16e9adddd03",
+  "date": "2019-10-19",
+  "summary": "A possible missing person from a rolled vehicle was reported at Boreas Pass; the subject was located several miles away.",
+  "location": "Boreas Pass",
+  "county": "Park",
+  "incident_type": "vehicle",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Search and Rescue Dogs of Colorado (SARDOC)",
+  "source_urls": "http://sardoc.org/cms/wp-content/uploads/2011/01/2019PublicMissionSummaries123119.pdf",
+  "notes": "SARDOC 2019 public mission summaries (opened run 598): 'Possible missing person from rolled vehicle. Subject located several miles away.' No injury detail stated.",
+  "peak": "Boreas Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3027
+}

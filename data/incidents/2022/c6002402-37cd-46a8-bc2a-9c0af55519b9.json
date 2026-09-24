@@ -1,0 +1,19 @@
+{
+  "id": "c6002402-37cd-46a8-bc2a-9c0af55519b9",
+  "date": "2022-05-29",
+  "summary": "Overloaded Sea Ray (13 aboard: 8 children, 5 adults) capsized in high winds ~7:30 p.m. Sunday near the north shore of Lake Pueblo; CPW rangers rescued all 8 children and 3 adults (11 survivors, hypothermia treatment, one juvenile airlifted); Jessica Prindle, 38, of Pueblo West was pulled from the water deceased by rangers, and her husband Joshua Prindle, 30 (Fort Carson staff sergeant), was missing until CPW's Marine Evidence Recovery Team located him ~5:45 a.m. Tuesday in 107 ft of water after a ~36-hour sonar search; neither adult wore a life jacket",
+  "location": "Lake Pueblo State Park (north shore / north picnic area)",
+  "county": "Pueblo",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 2,
+  "responding_agency": "Colorado Parks and Wildlife rangers; CPW Marine Evidence Recovery Team; Pueblo County Coroner; Pueblo County Sheriff's Office (investigation)",
+  "source_urls": "https://www.cpr.org/2022/05/31/authorities-recover-two-bodies-rescue-11-others-after-boat-capsizes-on-lake-pueblo-sunday/|https://www.beaconjournal.com/story/news/2022/05/31/joshua-prindle-lake-pueblo-drowning-boat-accident-body-recovered-identified/7455214001/|https://www.wvlt.tv/2022/05/30/1-missing-1-dead-11-hospitalized-after-boat-capsizes-colorado/?outputType=amp",
+  "notes": "Found via run-352 Pueblo County Sheriff DocumentCenter rotation (search-index crawl; DocumentCenter archive itself is 2025+-heavy for SAR items)",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Lake Pueblo State Park",
+  "place_type": "lake",
+  "legacy_id": 2615
+}

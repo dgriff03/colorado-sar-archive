@@ -1,0 +1,19 @@
+{
+  "id": "3ffdd834-3112-47c6-9093-7a09c1d2f2f6",
+  "date": "2015-11-16",
+  "summary": "Missing female party in one of the Jefferson County parks",
+  "location": "Jefferson County park",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-114.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2037
+}

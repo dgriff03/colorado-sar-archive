@@ -1,0 +1,19 @@
+{
+  "id": "ffed2996-8f25-499e-a7c0-c129f30c4669",
+  "date": "2012-01-22",
+  "summary": "Christopher Norris, 28, of Evergreen caught, buried and killed in an inbounds avalanche at Trestle Trees, Winter Park (asphyxiation)",
+  "location": "Trestle Trees, Winter Park",
+  "county": "Grand",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Winter Park Ski Patrol; Winter Park Police",
+  "source_urls": "https://classic.avalanche.state.co.us/caic/acc/acc_co.php|https://unofficialnetworks.com/2012/01/24/skier-dies-avalanche-mary-jane-closed-area-sun-jan-22-2012/|https://www.cpr.org/2015/09/29/should-ski-resorts-be-liable-for-avalanches-court-will-decide/",
+  "notes": "Run 83 CAIC 2011-12 thin-year chunk. CAIC summary only; no SAR team response confirmed. Run 509 UN merge (URL opened this run): found in the debris of a small slide in a gully in a tree area between Trestle and Roundhouse trails; Ski Patrol reached him and began CPR; father-in-law last saw him ~1 p.m. and reported him missing; second avalanche fatality of the weekend (after the Vail Prima Cornice death the same day). Run 817 merge: appended incident-specific source URL (parent-opened). 2015 court story corroborating the 2012 Winter Park incident.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Trestle Trees",
+  "place_type": "other",
+  "legacy_id": 2326
+}

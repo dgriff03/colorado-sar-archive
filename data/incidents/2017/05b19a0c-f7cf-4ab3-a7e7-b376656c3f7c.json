@@ -1,0 +1,19 @@
+{
+  "id": "05b19a0c-f7cf-4ab3-a7e7-b376656c3f7c",
+  "date": "2017-09-30",
+  "summary": "Fatal fall at Batman Pinnacle, RMNP.",
+  "location": "Rocky Mountain National Park, Batman Pinnacle",
+  "county": "Larimer",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201214856",
+  "notes": "",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": "Rocky Mountain National Park",
+  "place_type": "park",
+  "legacy_id": 466
+}

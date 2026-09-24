@@ -1,0 +1,19 @@
+{
+  "id": "8ea9a46e-d98f-41ac-afc1-bb563f2363c1",
+  "date": "2022-09-12",
+  "summary": "Injured 60-year-old male hiker on Mt Spaulding",
+  "location": "Mount Spaulding",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2023/01/2022-Missions-Website.pdf",
+  "notes": "Injury mechanism not stated in log; ART mission 2022-098.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Mount Spaulding",
+  "place_type": "peak",
+  "legacy_id": 1150
+}

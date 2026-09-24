@@ -1,0 +1,19 @@
+{
+  "id": "bd124b3d-ac79-4ddb-a69e-1aad8ea54892",
+  "date": "2018-08-08",
+  "summary": "Suicidal teen in Meyers Ranch area, Jeffco (2018-89)",
+  "location": "Meyers Ranch area",
+  "county": "Jefferson",
+  "incident_type": "other",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2019/01/2018-Missions-Website.pdf",
+  "notes": "ART mission 2018-89. Mental health call; outcome not stated, presumed rescued-uninjured.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Meyers Ranch",
+  "place_type": "other",
+  "legacy_id": 565
+}

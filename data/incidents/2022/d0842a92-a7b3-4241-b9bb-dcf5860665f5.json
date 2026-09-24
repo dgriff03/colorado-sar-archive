@@ -1,0 +1,19 @@
+{
+  "id": "d0842a92-a7b3-4241-b9bb-dcf5860665f5",
+  "date": "2022-07-07",
+  "summary": "Missing person reported off North Sailboard late Thursday afternoon at Lake Pueblo State Park; Pueblo County Sheriff's Office Dive Team recovered the body using an underwater drone in 17 ft of water; body turned over to the Pueblo County Coroner for identification and cause-of-death determination",
+  "location": "Lake Pueblo State Park (North Sailboard)",
+  "county": "Pueblo",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Pueblo County Sheriff's Office Dive Team; Colorado Parks and Wildlife rangers",
+  "source_urls": "https://live-krdo13.pantheonsite.io/news/2022/07/07/multiple-agencies-respond-to-lake-pueblo/|https://www.cpr.org/2022/07/10/two-deaths-on-lake-pueblo-prompting-alerts-over-colorado-water-safety-amid-uptick-in-water-related-deaths-this-year/",
+  "notes": "KRDO mirror of the CPW-reported incident; 23rd Colorado water death of 2022 if confirmed a drowning | CPR 2022-07-10 story (parent-opened) covers this July-7 death plus a second Lake Pueblo boating fatality on Saturday July 9, inserted as a new row this run.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Lake Pueblo State Park",
+  "place_type": "lake",
+  "legacy_id": 2616
+}

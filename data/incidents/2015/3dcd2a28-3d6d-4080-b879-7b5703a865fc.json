@@ -1,0 +1,19 @@
+{
+  "id": "3dcd2a28-3d6d-4080-b879-7b5703a865fc",
+  "date": "2015-06-12",
+  "summary": "22-year-old male from Highlands Ranch fell from a cliff while cliff diving at Seaman Reservoir; body recovered from the water about an hour later by the Larimer County Dive Rescue Team after a multi-agency response (Friday-verified)",
+  "location": "Seaman Reservoir",
+  "county": "Larimer",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Larimer County Dive Rescue Team; Larimer County Sheriff's Office Emergency Services; LCSO Patrol; Poudre Fire Authority; Larimer County Coroner's Office",
+  "source_urls": "https://northfortynews.com/category/news/body-recovered-at-seaman-reservoir/",
+  "notes": "North Forty News story published 2015-06-13 describing the June 12 incident; identity not released in the story",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Seaman Reservoir",
+  "place_type": "reservoir",
+  "legacy_id": 3212
+}

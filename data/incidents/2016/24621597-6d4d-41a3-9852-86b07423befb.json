@@ -1,0 +1,19 @@
+{
+  "id": "24621597-6d4d-41a3-9852-86b07423befb",
+  "date": "2016-06-02",
+  "summary": "Search in the Lookout Mountain area",
+  "location": "Lookout Mountain",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-43. Subject count unstated; search ran 06/07, paged 06/02",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Lookout Mountain",
+  "place_type": "peak",
+  "legacy_id": 2073
+}

@@ -1,0 +1,19 @@
+{
+  "id": "5a9a32f0-d29e-447a-8f72-ad005c5b310b",
+  "date": "2014-07-09",
+  "summary": "Hiker Katherine Powell suffered a broken ankle ~2.5 miles above the Brainard Lake trailhead; call ~noon; Indian Peaks FPD, Nederland Fire, RMRG, AMR, Flight for Life, and BCSO responded; flown to Good Samaritan Hospital",
+  "location": "Blue Lake Trail, ~2.5 mi above Brainard Lake trailhead",
+  "county": "Boulder",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Indian Peaks Fire Protection District; Nederland Fire; Rocky Mountain Rescue Group; AMR; Flight for Life; Boulder County Sheriff's Office",
+  "source_urls": "https://www.themtnear.com/stories/high-peaks-firefighter-dies-on-rescue,1850",
+  "notes": "During the carryout, Indian Peaks FPD / Allenspark FD EMT Dick Marchman (66) collapsed ~1 mile from the trailhead and died; obituary confirms July 9, 2014",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Blue Lake Trail",
+  "place_type": "trail",
+  "legacy_id": 2847
+}

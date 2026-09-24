@@ -1,0 +1,19 @@
+{
+  "id": "ed5c7f13-bf2d-4dc3-8d87-194c07b948e4",
+  "date": "2012-09-02",
+  "summary": "Michael Mullen was scrambling out of Dream Canyon off Lost Angel Road in the Sugar Loaf area when he fell approximately 30 feet, suffering compound fractures to both legs.",
+  "location": "Dream Canyon, Sugar Loaf area",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain Rescue Group; Sugarloaf Fire Protection District; American Medical Response; Boulder County Sheriff's Office",
+  "source_urls": "https://www.themtnear.com/stories/man-dies-in-climbing-fall,1138",
+  "notes": "Technical evacuation (~2 hrs); flown by helicopter to Swedish Medical Center, condition unknown at publication. Year pinned by story-ID sequence (1138 predates the Sep-2014 ID 1951) + Sept-2 Sunday match (2012-09-02).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Dream Canyon",
+  "place_type": "canyon",
+  "legacy_id": 2763
+}

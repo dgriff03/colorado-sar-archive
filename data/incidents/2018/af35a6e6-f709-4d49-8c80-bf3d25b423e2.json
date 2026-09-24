@@ -1,0 +1,19 @@
+{
+  "id": "af35a6e6-f709-4d49-8c80-bf3d25b423e2",
+  "date": "2018-10-25",
+  "summary": "Hunter missing overnight in the Marshal Pass area; GCSO officers and Western Mountain Rescue searched; he was located the following day and returned to his hunting party.",
+  "location": "Marshal Pass area",
+  "county": "Gunnison",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Gunnison County Sheriff Office; Western Mountain Rescue",
+  "source_urls": "https://gunnisoncounty.org/Archive/ViewFile/Item/3035",
+  "notes": "GCSO weekly blotter entry 10/25/18 (parent-opened run 615). Fills thin year 2018 for Gunnison.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Marshal Pass",
+  "place_type": "pass",
+  "legacy_id": 3062
+}

@@ -1,0 +1,19 @@
+{
+  "id": "b9bb20d5-034a-47aa-ac13-caf51d2d1691",
+  "date": "2021-08-02",
+  "summary": "66-year-old female mountain biker suffered a leg injury on Strawberry Creek Trail off County Road 6. MMRT assisted with pain control; teams walked her out, then transferred her to a litter partway and transported to County Road 6. Out of the field at 17:00.",
+  "location": "Strawberry Creek Trail off County Road 6",
+  "county": "Grand",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Grand County Search and Rescue",
+  "source_urls": "https://www.facebook.com/GCSAR/posts/pfbid02TzPB1EgGEmt1FFPqWbbzPr4nQEH2rxXv34SP9fgWZrreXREmuRR7ZmXjueZZNETml",
+  "notes": "Date approximate: Post timestamp (2021-08-03 12:50 MDT) precedes the stated field times (paged 13:35, out 17:00), so the mission is inferred to be 2021-08-02; approx.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Strawberry Creek Trail",
+  "place_type": "trail",
+  "legacy_id": 3508
+}

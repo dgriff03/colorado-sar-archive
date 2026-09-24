@@ -1,0 +1,19 @@
+{
+  "id": "b4aca6c0-2541-445a-8b61-a6295412be27",
+  "date": "2024-06-15",
+  "summary": "Swimmer reported missing off the north shore of Lake Pueblo State Park; CPW rangers and Pueblo County Sheriff's Office divers conducted a ~3-hour grid search with sonar and an underwater ROV and recovered the body ~75 ft from shore in ~6 ft of water near Sailboard Beach; turned over to the Pueblo County Coroner.",
+  "location": "Lake Pueblo State Park, north shore / Sailboard Beach",
+  "county": "Pueblo",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Colorado Parks and Wildlife; Pueblo County Sheriff's Office divers",
+  "source_urls": "https://theprowersjournal.com/2024/06/cpw-rangers-pueblo-sheriffs-divers-recover-body-after-swimmer-reported-missing-at-lake-pueblo-state-park/",
+  "notes": "Victim identity not published in the article; 8:15 p.m. call Saturday June 15, body located ~11 p.m.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Lake Pueblo State Park",
+  "place_type": "lake",
+  "legacy_id": 2532
+}

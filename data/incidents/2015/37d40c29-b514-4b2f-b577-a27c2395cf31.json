@@ -1,0 +1,19 @@
+{
+  "id": "37d40c29-b514-4b2f-b577-a27c2395cf31",
+  "date": "2015-09-08",
+  "summary": "Missing 43-year-old female at mile marker 23 on Highway 103",
+  "location": "Mile marker 23, Highway 103",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-103.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Highway 103",
+  "place_type": "road",
+  "legacy_id": 2029
+}

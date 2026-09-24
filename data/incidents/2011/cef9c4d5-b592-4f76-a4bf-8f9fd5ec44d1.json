@@ -1,0 +1,19 @@
+{
+  "id": "cef9c4d5-b592-4f76-a4bf-8f9fd5ec44d1",
+  "date": "2011-06-27",
+  "summary": "56-year-old man lost at the base of Flattop Mountain in the Bear Lake area on Monday evening; rangers contacted him by cell phone and advised him to keep moving east; his phone battery then died; other hikers found him the next morning and rangers reached them ~90 min later",
+  "location": "Base of Flattop Mountain, Bear Lake area, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "RMNP rangers",
+  "source_urls": "http://npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "One of three SAR operations reported Tue/Thu Jun 27-30, 2011. Date = the Monday-evening call per the report; weekday-verified.",
+  "peak": "Flattop Mountain",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2673
+}

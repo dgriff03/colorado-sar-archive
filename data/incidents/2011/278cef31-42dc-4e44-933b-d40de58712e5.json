@@ -1,0 +1,19 @@
+{
+  "id": "278cef31-42dc-4e44-933b-d40de58712e5",
+  "date": "2011-12-03",
+  "summary": "Single-engine Socata TB21 (N25153) flying Durango (Animas Air Park) to Aspen for a holiday party flew into snowy instrument conditions and went down in dense forest at ~11,000 ft about 1.5 mi north of Silverton, ~1:35 p.m.; all four aboard killed (pilot Steve Osborne 59, his wife Jan Osborne 50, Tyler Black 24, Gena Rych 26). Search suspended Saturday in worsening weather; resumed Sunday; two victims recovered Sunday, the other two Tuesday; 30+ responders from nine agencies.",
+  "location": "Dense forest ~1.5 mi north of Silverton, ~11,000 ft",
+  "county": "San Juan",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 4,
+  "responding_agency": "San Juan County Search and Rescue; Silverton Fire & Rescue; San Juan County Fire & Rescue; K-9 unit (Dolores); Silverton Snowmobile Club; La Plata County Sheriff Office",
+  "source_urls": "http://www.kathrynsreport.com/2011/12/1-body-found-after-colorado-plane-crash.html|http://www.kathrynsreport.com/2011/12/4-aboard-small-plane-that-crashed-in.html|https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateFactualReport/82452/pdf|http://archives.durangotelegraph.com/archives/20111/december-08-2011/news/quick-n-dirty/",
+  "notes": "Date pinned to 2011-12-03 (Saturday) via NTSB accident report; Durango Telegraph 2011-12-08 names all four victims and responding agencies; Kathryn's Report carries AP/Silverton coverage; Durango Telegraph archive page errors on fetch so the NTSB PDF is cited instead. Paraphrased summary, no verbatim source text. Added by SAR backfill run 70 (rotation: San Juan Co archives). | Durango Telegraph 'Victims recovered; investigation stalled' (Quick 'n' Dirty, Dec-08-2011 issue) corroboration via search-index story text (matches victims/timeline/agency count verbatim); archive page itself serves a CFML server error (site-side rendering bug), URL confirmed real and indexed.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Silverton",
+  "place_type": "town",
+  "legacy_id": 2307
+}

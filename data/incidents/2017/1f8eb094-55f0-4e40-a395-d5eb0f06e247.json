@@ -1,0 +1,19 @@
+{
+  "id": "1f8eb094-55f0-4e40-a395-d5eb0f06e247",
+  "date": "2017-09-19",
+  "summary": "66-year-old man with Parkinson’s disease reported missing in Great Sand Dunes National Park; a SARDOC dog team was placed on standby and he was located by a Flight for Life helicopter the morning of September 19.",
+  "location": "Great Sand Dunes National Park",
+  "county": "Alamosa",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": null,
+  "source_urls": "https://sardoc.org/cms/wp-content/uploads/2011/01/2017SARDOCPublicMissionReports.pdf",
+  "notes": "Run-658 SARDOC chunk.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Great Sand Dunes National Park",
+  "place_type": "park",
+  "legacy_id": 3161
+}

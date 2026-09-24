@@ -1,0 +1,19 @@
+{
+  "id": "c1431019-ec6a-485e-bdb8-73d44e991c70",
+  "date": "2022-08-17",
+  "summary": "SPOT/PLB activation in the Summit Lake area",
+  "location": "Summit Lake",
+  "county": "Clear Creek",
+  "incident_type": "other",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2023/01/2022-Missions-Website.pdf",
+  "notes": "Beacon activation; subject details and outcome not stated in log; ART mission 2022-078.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1130
+}

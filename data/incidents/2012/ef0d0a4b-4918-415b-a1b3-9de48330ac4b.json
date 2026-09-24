@@ -1,0 +1,19 @@
+{
+  "id": "ef0d0a4b-4918-415b-a1b3-9de48330ac4b",
+  "date": "2012-07-12",
+  "summary": "Clinton McHugh died in a fall on Sawtooth Ridge",
+  "location": "Sawtooth Ridge",
+  "county": "Clear Creek",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://100SUMMITS.COM/articles/colorado-mountaineering-deaths/item/255-2012-colorado-mountaineering-deaths",
+  "notes": "",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": "The Sawtooth",
+  "place_type": "other",
+  "legacy_id": 164
+}

@@ -1,0 +1,19 @@
+{
+  "id": "a8b2efbe-0f47-4d6d-b06c-b86e0f3dda85",
+  "date": "2017-11-05",
+  "summary": "Missing hunter (early 50s) in the Rito Seco area; located near San Luis, AVSAR stood down",
+  "location": "Rito Seco",
+  "county": "Costilla",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alamosa Volunteer SAR / Costilla County SO",
+  "source_urls": "https://www.avsar.us/missions-from-2017/",
+  "notes": "Sunday-verified; missed rendezvous with hunting group, no backcountry experience; found ~1425h the same day; run 804",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Rito Seco",
+  "place_type": "creek",
+  "legacy_id": 3320
+}

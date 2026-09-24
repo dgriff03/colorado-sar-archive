@@ -1,0 +1,19 @@
+{
+  "id": "5007b953-af69-44a2-8081-88dbf5616d92",
+  "date": "2026-04-20",
+  "summary": "Hiker fell over 50 ft onto a ledge roughly 200 ft up Greyrock around 5:30 PM; LCSAR members climbed to her in the dark, treated injuries, and lowered her down a technical section; she then hiked out. Team home by 4 AM.",
+  "location": "Greyrock",
+  "county": "Larimer",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Larimer County Search and Rescue; Larimer County Emergency Services; Larimer County Sheriff's Office; UCHealth EMS; Poudre Canyon Fire Protection District",
+  "source_urls": "https://www.facebook.com/lcsarinc/posts/pfbid0sn9GXFymAxD6Q2KUGPNn1716cEzMAJrj812peXiG8cMp5XVDLPCcyDeFiP92fHzYl",
+  "notes": "Date approximate: 'the other night' in an Apr-22 post (Apr 20 vs 21 ambiguous).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Greyrock",
+  "place_type": "other",
+  "legacy_id": 3423
+}

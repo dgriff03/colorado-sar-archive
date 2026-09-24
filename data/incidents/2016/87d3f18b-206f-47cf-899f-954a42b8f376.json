@@ -1,0 +1,19 @@
+{
+  "id": "87d3f18b-206f-47cf-899f-954a42b8f376",
+  "date": "2016-09-17",
+  "summary": "ATV crash with injuries four miles up Guanella Pass (Code 3 page)",
+  "location": "Guanella Pass",
+  "county": "Clear Creek",
+  "incident_type": "vehicle",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-118. Injury count unstated; recorded as 1",
+  "peak": "Guanella Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2127
+}

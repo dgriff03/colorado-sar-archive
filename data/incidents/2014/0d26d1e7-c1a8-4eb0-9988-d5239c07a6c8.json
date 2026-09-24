@@ -1,0 +1,19 @@
+{
+  "id": "0d26d1e7-c1a8-4eb0-9988-d5239c07a6c8",
+  "date": "2014-12-21",
+  "summary": "Soloist swept by avalanche in Loch Vale, RMNP (Mo' Flo' Than Go area) to bottom without reported injury; six climbers in immediate area.",
+  "location": "Rocky Mountain National Park, Loch Vale",
+  "county": "Larimer",
+  "incident_type": "avalanche",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201213497/Avalanche-Poor-Position|http://publications.americanalpineclub.org/articles/13201213507",
+  "notes": "Duplicate AAC records; counted once. Six in area, one swept.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Rocky Mountain National Park",
+  "place_type": "park",
+  "legacy_id": 227
+}

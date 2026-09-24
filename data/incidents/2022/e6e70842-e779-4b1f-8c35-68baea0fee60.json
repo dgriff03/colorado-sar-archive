@@ -1,0 +1,19 @@
+{
+  "id": "e6e70842-e779-4b1f-8c35-68baea0fee60",
+  "date": "2022-08-20",
+  "summary": "Woman hiker broke her foot several hundred yards up the trail at the Sutton Mine trailhead. Another hiker helped her most of the way down; OMRT ran a half-hour wheeled-litter operation for the final stretch to the ambulance.",
+  "location": "Sutton Mine Trailhead",
+  "county": "Ouray",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Ouray Mountain Rescue Team",
+  "source_urls": "https://www.ouraymountainrescue.com/new-page-1",
+  "notes": "Bystander assisted most of the carry.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Sutton Mine Trailhead",
+  "place_type": "trailhead",
+  "legacy_id": 2166
+}

@@ -1,0 +1,19 @@
+{
+  "id": "4622b310-6a5e-451f-af73-3fd29b6aa238",
+  "date": "2020-04-03",
+  "summary": "Injured hiker on St Marys Glacier (2020-15)",
+  "location": "St Marys Glacier",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2021/01/2020-Missions-Website.pdf|https://snowbrains.com/20-search-and-rescue-volunteers-rescue-injured-man-on-colorado-glacier/",
+  "notes": "ART mission 2020-15. Cause of injury not stated.",
+  "peak": "James Peak",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 768
+}

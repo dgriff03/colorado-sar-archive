@@ -1,0 +1,19 @@
+{
+  "id": "630e2370-7bcb-4c6c-970e-b8eb24523bbd",
+  "date": "2019-07-24",
+  "summary": "Dan Wallick, 41, went missing July 24 after summiting Kit Carson Peak and Challenger Point; his family reported him missing July 25 after he failed to check in; his body was recovered July 28 by Custer County crews using ground and air resources",
+  "location": "Kit Carson Peak / Challenger Point",
+  "county": "",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Custer County SAR and other agencies",
+  "source_urls": "https://snowbrains.com/hiker-body-found-colorado-14ers/",
+  "notes": "Circumstances of death not released in opened source; county unverified (Saguache/Custer line)",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Kit Carson Peak",
+  "place_type": "peak",
+  "legacy_id": 688
+}

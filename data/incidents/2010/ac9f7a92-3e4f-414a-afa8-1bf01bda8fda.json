@@ -1,0 +1,19 @@
+{
+  "id": "ac9f7a92-3e4f-414a-afa8-1bf01bda8fda",
+  "date": "2010-08-14",
+  "summary": "Possible rescue on Lookout Mountain (10-67)",
+  "location": "Lookout Mountain",
+  "county": "Jefferson",
+  "incident_type": "other",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-67. Possible rescue; details not stated; victim count estimated.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Lookout Mountain",
+  "place_type": "peak",
+  "legacy_id": 74
+}

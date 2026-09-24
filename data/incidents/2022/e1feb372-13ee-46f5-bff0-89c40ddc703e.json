@@ -1,0 +1,19 @@
+{
+  "id": "e1feb372-13ee-46f5-bff0-89c40ddc703e",
+  "date": "2022-07-09",
+  "summary": "35-year-old male hiker with a broken leg in the St Mary's Glacier area",
+  "location": "St Mary's Glacier",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2023/01/2022-Missions-Website.pdf",
+  "notes": "Cause of injury not stated in log; ART mission 2022-047.",
+  "peak": "James Peak",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1094
+}

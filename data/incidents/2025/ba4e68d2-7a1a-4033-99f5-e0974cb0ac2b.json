@@ -1,0 +1,19 @@
+{
+  "id": "ba4e68d2-7a1a-4033-99f5-e0974cb0ac2b",
+  "date": "2025-06-05",
+  "summary": "Climber fell several hundred feet after a boulder gave way while ascending the northwest ridge approach near the summit of Mt. Lindsey; AVSAR contacted the morning of June 5; injury severity and weather required helicopter extraction; REACH 71 flew the climber out at ~1:40 p.m.",
+  "location": "Mt. Lindsey (northwest ridge approach near summit)",
+  "county": "Costilla County",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "AVSAR, REACH 71 helicopter, Costilla County Sheriff's Office",
+  "source_urls": "https://www.montevistajournal.com/stories/avsar-rescues-climber-on-mount-lindsey",
+  "notes": "89740, 14ers forum thread 'Mt Lindsey - Rescue after ridge fall - 6/5' not opened (browser tool failure); incident facts from AVSAR/news report",
+  "peak": "Mount Lindsey",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1584
+}

@@ -1,0 +1,19 @@
+{
+  "id": "311c66c0-40f5-42f1-935a-e77549468cf1",
+  "date": "2018-08-14",
+  "summary": "Traffic accident with vehicle over the side on Gold Camp Road; 3:1 uphaul between two anchor vehicles to bring subject up to road and ambulance.",
+  "location": "Gold Camp Road",
+  "county": "El Paso",
+  "incident_type": "vehicle",
+  "outcome": "extricated",
+  "victims": null,
+  "responding_agency": "El Paso County SAR",
+  "source_urls": "https://www.facebook.com/epcsar/posts/pfbid0fGzSkC1wg8y1KqVG9qP3fTC5iJTMcCqiLRRNqWUhBndmJHoujY2Zxn4NTKzVyFxNl",
+  "notes": "Source: El Paso County SAR Facebook page. Victim count not stated.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Gold Camp Road",
+  "place_type": "road",
+  "legacy_id": 3676
+}

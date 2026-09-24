@@ -1,0 +1,19 @@
+{
+  "id": "bad5f986-2765-4819-9e0c-341ca89111af",
+  "date": "2011-10-24",
+  "summary": "Two climbers stranded after dark on Castle Rock, Boulder Canyon; RMRG lowered both; uninjured.",
+  "location": "Boulder Canyon, Castle Rock",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Rocky Mountain Rescue Group",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201205602/Stranded-Darkness-Poor-Planning-Colorado-Boulder-Canyon-Castle-Rock",
+  "notes": "",
+  "peak": "Boulder Canyon",
+  "setting": "frontcountry",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 150
+}

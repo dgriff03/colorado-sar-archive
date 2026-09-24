@@ -1,0 +1,19 @@
+{
+  "id": "a52cf13e-4be1-4aee-b90b-6e8ed75e379a",
+  "date": "2015-08-01",
+  "summary": "Two lost hikers in the Mount Evans / Chicago Creek area",
+  "location": "Mount Evans / Chicago Creek area",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-65.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1998
+}

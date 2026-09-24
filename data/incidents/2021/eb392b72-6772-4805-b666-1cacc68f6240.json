@@ -1,0 +1,19 @@
+{
+  "id": "eb392b72-6772-4805-b666-1cacc68f6240",
+  "date": "2021-12-04",
+  "summary": "Two climbers from Manitou Springs and Fort Collins were stranded near the top of Redgarden Wall at dusk, unsure of the descent; Rocky Mountain Rescue Group climbed the East Slabs and assisted them down. Uninjured.",
+  "location": "Redgarden Wall, Eldorado Canyon",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Rocky Mountain Rescue Group",
+  "source_urls": "https://publications.americanalpineclub.org/articles/13201216245",
+  "notes": "ANAC 2022 edition (Pub 2022); one of two stranding incidents in same article; incident date Dec 4 per article.",
+  "peak": "Eldorado Canyon",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1040
+}

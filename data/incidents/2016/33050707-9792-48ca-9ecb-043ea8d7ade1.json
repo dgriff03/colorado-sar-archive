@@ -1,0 +1,19 @@
+{
+  "id": "33050707-9792-48ca-9ecb-043ea8d7ade1",
+  "date": "2016-10-08",
+  "summary": "Injured male party in an ATV rollover in the Dawson area (Code 3 page)",
+  "location": "Dawson area",
+  "county": "",
+  "incident_type": "vehicle",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-131. County ambiguous in one-liner; left blank",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Dawson",
+  "place_type": "other",
+  "legacy_id": 2138
+}

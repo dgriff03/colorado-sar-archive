@@ -1,0 +1,19 @@
+{
+  "id": "6d796dc1-0796-446c-bdc3-0bc8516983e4",
+  "date": "2017-10-01",
+  "summary": "Three high school students from China on their first hike summited Mt. Democrat in a snowstorm with summer clothing, no map, and no knowledge of the area; a SARDOC dog team located them, helped them through the snow, sheltered them overnight, and sent them on their way in the morning.",
+  "location": "Mt. Democrat",
+  "county": "Park",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 3,
+  "responding_agency": null,
+  "source_urls": "https://sardoc.org/cms/wp-content/uploads/2011/01/2017SARDOCPublicMissionReports.pdf",
+  "notes": "Run-658 SARDOC chunk.",
+  "peak": "Mount Democrat",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3162
+}

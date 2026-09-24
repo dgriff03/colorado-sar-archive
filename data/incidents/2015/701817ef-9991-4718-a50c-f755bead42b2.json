@@ -1,0 +1,19 @@
+{
+  "id": "701817ef-9991-4718-a50c-f755bead42b2",
+  "date": "2015-06-03",
+  "summary": "Assist to Park County SAR for a search in the Wellington Lake area",
+  "location": "Wellington Lake area",
+  "county": "Park",
+  "incident_type": "other",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team (assist to Park County SAR)",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-24.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Wellington Lake",
+  "place_type": "lake",
+  "legacy_id": 1977
+}

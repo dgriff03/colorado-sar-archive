@@ -1,0 +1,19 @@
+{
+  "id": "af233b15-2ec0-4d57-9258-78c73e60a23f",
+  "date": "2010-08-21",
+  "summary": "Assist RMRG on rescue west of Brainard Lake for injured party (10-70)",
+  "location": "Brainard Lake area",
+  "county": "Boulder",
+  "incident_type": "injury",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team; Rocky Mountain Rescue Group",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-70.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Brainard Lake",
+  "place_type": "lake",
+  "legacy_id": 81
+}

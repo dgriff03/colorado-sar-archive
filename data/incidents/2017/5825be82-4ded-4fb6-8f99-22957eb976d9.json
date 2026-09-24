@@ -1,0 +1,19 @@
+{
+  "id": "5825be82-4ded-4fb6-8f99-22957eb976d9",
+  "date": "2017-07-05",
+  "summary": "A 40-year-old Tennessee woman slipped on wet rocks and fell into the St. Vrain River about a mile from the Wild Basin trailhead, was swept about 150 yards downstream and managed to pull herself onto a rock and log. The park SAR team and the Estes Valley Fire dive/swiftwater team reached her, got her into a life jacket and helmet, helped her to shore, and carried her on a wheeled litter to the trailhead, where an ambulance took her to Estes Park Medical Center.",
+  "location": "St. Vrain River, ~1 mi from Wild Basin trailhead",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "RMNP SAR; Estes Valley Fire Protection District dive/swiftwater team",
+  "source_urls": "http://npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "NPS morning-report compendium entry (npshistory.com romo.htm), parent-opened and verified at run 580.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "St. Vrain River",
+  "place_type": "river",
+  "legacy_id": 2997
+}

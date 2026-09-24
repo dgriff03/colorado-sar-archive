@@ -1,0 +1,19 @@
+{
+  "id": "83e191f4-c235-4a57-bf9e-09eab74be8e9",
+  "date": "2025-08-31",
+  "summary": "Injured female party near Summit Lake on Mt Blue Sky",
+  "location": "Summit Lake (Mt Blue Sky)",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf",
+  "notes": "Injury mechanism not stated in log; ART mission 2025-105.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1648
+}

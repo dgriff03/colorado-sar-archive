@@ -1,0 +1,19 @@
+{
+  "id": "dc62a34b-ef37-468e-af97-a5450881b19a",
+  "date": "2018-09-03",
+  "summary": "Sick hiker just below summit of Grays Peak (2018-98)",
+  "location": "Grays Peak summit area",
+  "county": "Clear Creek",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2019/01/2018-Missions-Website.pdf",
+  "notes": "ART mission 2018-98.",
+  "peak": "Grays Peak",
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 578
+}

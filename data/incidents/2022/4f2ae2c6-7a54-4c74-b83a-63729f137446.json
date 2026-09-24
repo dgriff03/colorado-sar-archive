@@ -1,0 +1,19 @@
+{
+  "id": "4f2ae2c6-7a54-4c74-b83a-63729f137446",
+  "date": "2022-08-03",
+  "summary": "Two Denver-area climbers got off-route at ~13,800 ft near the Crestone Traverse; one suffered a fatal fall and the partner was stranded, then rescued by helicopter.",
+  "location": "Near the Crestone Traverse, Sangre de Cristo Range",
+  "county": "Saguache",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 2,
+  "responding_agency": "Custer County Search and Rescue (Technical Rope Rescue); DFPC Canon City Helitack; Saguache County Search and Rescue",
+  "source_urls": "https://snowbrains.com/climber-killed-rescued-crestone-traverse-colorado/ | https://custersar.org/crestone-traverse-fall-8-3-22/ | https://heartoftherockiesradio.com/one-dead-one-rescued-from-crestone-traverse/|https://www.facebook.com/CusterSAR/posts/pfbid0dFhXcXRzcHRhcDwdvVUcpJdPsJusx7uZKyjHHNv8iDmU22gi7PVugpCStLoamVFkl|https://www.facebook.com/CusterSAR/posts/pfbid02Pg3Ytsg1NgUSddSDum6MVgXxTM4gi1LMSfYfV2WD6WhRwNfiFf35Jqc7gbmvN4dl",
+  "notes": "Surviving partner down-climbed to the victim but could not ascend or descend; called for help via Garmin inReach; both extracted by CCSAR rope team with helicopter support. MERGE (run 535): CCSAR Past Missions write-up of the 2022-08-03 Crestone Traverse fatal fall appended (resolves the long-standing \"Crestone Peak Aug. 22\" date pin from the Monte Vista Journal — MVJ date was an error; the 66-year-old Denver-area climber died on the Crestone Traverse 2022-08-03). Merged HOTR corroboration (run 716): same incident confirmed via parent-opened HOTR piece.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Crestone Traverse",
+  "place_type": "climbing_area",
+  "legacy_id": 1116
+}

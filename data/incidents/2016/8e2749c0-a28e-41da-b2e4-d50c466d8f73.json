@@ -1,0 +1,19 @@
+{
+  "id": "8e2749c0-a28e-41da-b2e4-d50c466d8f73",
+  "date": "2016-05-17",
+  "summary": "Two Utah men in an experimental AutoGyro Calidus gyroplane crashed in a remote canyon about 12 miles southeast of the Glade Park Fire Station after a downdraft left them unable to climb out; pilot Mike Burton, 53, of Pleasant Grove UT and passenger Josh Humphries, 30, of Payson UT survived with back and neck injuries. CareFlight located the site with night-vision equipment but could not land in the heavy snow; a snowmobile ground rescue reached the pair around 8:20 p.m. Burton was flown to a Grand Junction hospital, Humphries was snowmobiled to a waiting ambulance.",
+  "location": "Glade Park",
+  "county": "Mesa",
+  "incident_type": "other",
+  "outcome": "injury",
+  "victims": 2,
+  "responding_agency": "Mesa County Search and Rescue; Mesa County Sheriff's Office; Glade Park Fire Department; Grand Junction Fire Department; CareFlight; Delta County Dispatch",
+  "source_urls": "http://www.kathrynsreport.com/2016_05_20_archive.html",
+  "notes": "Incident-focused: victim roles stated as pilot/passenger only, no other personal detail. NBC11 story via Kathryn's Report 05/20/16 archive (parent-opened 2026-09-17): crash 'Tuesday night' 2016-05-17 (Tuesday-verified; Monday 5/16 demo trip to Telluride, Wednesday 5/18 return). Burton built the Calidus himself through Air-Gyro Aviation. The same archive page's N50NE NTSB entries are distinct incidents: 2015-01-06 Johnson Creek south of Glade Park CO (no SAR-response detail, not inserted) and 2016-05-20 Fruitland UT (out of scope).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Glade Park",
+  "place_type": "park",
+  "legacy_id": 3331
+}

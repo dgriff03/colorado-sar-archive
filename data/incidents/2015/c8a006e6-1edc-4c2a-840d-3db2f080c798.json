@@ -1,0 +1,19 @@
+{
+  "id": "c8a006e6-1edc-4c2a-840d-3db2f080c798",
+  "date": "2015-08-14",
+  "summary": "Climber broke ankle in Red Gully, Crestone Peak; Custer County SAR and Flight For Life response.",
+  "location": "Crestone Peak, Red Gully",
+  "county": "Custer",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Custer County SAR, Flight For Life",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201214127",
+  "notes": "",
+  "peak": "Crestone Peak",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 260
+}

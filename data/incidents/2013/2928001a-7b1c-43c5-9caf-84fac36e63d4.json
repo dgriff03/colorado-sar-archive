@@ -1,0 +1,19 @@
+{
+  "id": "2928001a-7b1c-43c5-9caf-84fac36e63d4",
+  "date": "2013-10-26",
+  "summary": "Injured hiker on Chief Mountain (Alpine mission 13-93)",
+  "location": "Chief Mountain",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/category/recent-missions/clear-creek-county/page/146/",
+  "notes": "Alpine Rescue Team Clear Creek County category mission-log archive (Alpine mission 13-93); one-line page alert, outcome detail unstated in post.",
+  "peak": "Chief Mountain",
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1855
+}

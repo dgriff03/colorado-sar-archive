@@ -1,0 +1,19 @@
+{
+  "id": "bd28ff7e-d2a1-4a2d-ade9-2b69ebab7ba7",
+  "date": "2018-03-31",
+  "summary": "3 overdue teens in Goose Creek area, Jeffco (2018-18)",
+  "location": "Goose Creek area",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 3,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2019/01/2018-Missions-Website.pdf|http://sardoc.org/cms/wp-content/uploads/2011/01/2018SARDOCPublicSearchSummaries123118.pdf|http://sardoc.org/cms/wp-content/uploads/2011/01/0718SARDOCPublicSearchSummaries.pdf",
+  "notes": "ART mission 2018-18. Outcome not stated in PDF; presumed rescued-uninjured. SARDOC 2018 public mission summaries (parent-opened this run): 3/31/2018 McCurdy Park, Lost Park area — three teens overdue from a Goose Creek Trailhead drop-off; SARDOC dog team canceled after a Flight for Life helicopter spotted them in Refrigerator Gulch; Alpine led them out in good health. Consistent same-incident reading (3 teens, Goose Creek TH, same dates).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Goose Creek",
+  "place_type": "creek",
+  "legacy_id": 495
+}

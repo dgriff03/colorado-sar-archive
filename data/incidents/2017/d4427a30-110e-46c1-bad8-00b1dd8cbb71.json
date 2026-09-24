@@ -1,0 +1,19 @@
+{
+  "id": "d4427a30-110e-46c1-bad8-00b1dd8cbb71",
+  "date": "2017-03-23",
+  "summary": "Adult man drowned when his canoe capsized on Wellington Lake; SARDOC water-search dog teams searched over two days with strong alerts in one location, and the body surfaced weeks later.",
+  "location": "Wellington Lake",
+  "county": "Park",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": null,
+  "source_urls": "https://sardoc.org/cms/wp-content/uploads/2011/01/2017SARDOCPublicMissionReports.pdf",
+  "notes": "Run-658 SARDOC chunk.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": "Wellington Lake",
+  "place_type": "lake",
+  "legacy_id": 3153
+}

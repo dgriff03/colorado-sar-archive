@@ -1,0 +1,19 @@
+{
+  "id": "d61b3d57-e8aa-4f3a-a879-4156b80498ae",
+  "date": "2013-09-16",
+  "summary": "Body recovery of a Jamestown resident killed in the floods; victim located in an unstable collapsed home",
+  "location": "Jamestown",
+  "county": "Boulder",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain Rescue Group (assisted FEMA Urban Search and Rescue)",
+  "source_urls": "https://mra.org/wp-content/uploads/2016/05/Meridian13Fall.pdf|https://weather.com/news/news/tales-rescue-heroism-20130914",
+  "notes": "RMR searched the canyon on Monday 2013-09-16 as part of the federal Type II incident response; USAR conducted the recovery; townspeople were given time to say goodbye before the recovery. Also described in Weather.com flood-rescue roundup: Jamestown neighbor killed by a mudslide that crushed his home on Wednesday night (Sept 11).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Jamestown",
+  "place_type": "town",
+  "legacy_id": 2176
+}

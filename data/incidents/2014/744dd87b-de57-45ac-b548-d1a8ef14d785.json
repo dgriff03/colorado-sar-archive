@@ -1,0 +1,19 @@
+{
+  "id": "744dd87b-de57-45ac-b548-d1a8ef14d785",
+  "date": "2014-06-15",
+  "summary": "A Denver mother and three children became stranded in Browns Canyon near the Zoom Flume rapids after their raft began taking on water; the rafting guide put the craft ashore and the four waited in the railroad right-of-way while the mother and the guide separately called 911. Five SAR volunteers with four ATVs and a rescue trailer reached them about an hour after the ~10 p.m. Sunday call, provided food and water, and returned all four to safety by ~3 a.m. Monday.",
+  "location": "Browns Canyon, Zoom Flume rapids area",
+  "county": "Chaffee",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 4,
+  "responding_agency": "Chaffee County SAR",
+  "source_urls": "https://www.themountainmail.com/free_content/article_f92c0cc2-f779-11e3-8fe5-0017a43b2370.html",
+  "notes": "FIBArk weekend incident; date pinned to Sunday June 15, 2014 (weekday-verified; mission concluded ~3 a.m. Monday June 16). Subjects: Clarre Behrens, 35, her children Anastasia Behrens, 11, and Alana Behrens, 7, and David Perrie, 9; guide Chris Banks, 37. Put in at Fisherman's Bridge.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Browns Canyon",
+  "place_type": "canyon",
+  "legacy_id": 2429
+}

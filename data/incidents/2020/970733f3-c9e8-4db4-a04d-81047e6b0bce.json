@@ -1,0 +1,19 @@
+{
+  "id": "970733f3-c9e8-4db4-a04d-81047e6b0bce",
+  "date": "2020-10-11",
+  "summary": "Assist Park County SAR for two overdue hikers on Mt Rosalie (2020-119)",
+  "location": "Mt Rosalie",
+  "county": "Park",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team; Park County SAR",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2021/01/2020-Missions-Website.pdf",
+  "notes": "ART mission 2020-119.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Mount Rosalie",
+  "place_type": "peak",
+  "legacy_id": 887
+}

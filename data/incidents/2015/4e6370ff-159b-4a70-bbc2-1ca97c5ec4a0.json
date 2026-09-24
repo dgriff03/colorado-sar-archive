@@ -1,0 +1,19 @@
+{
+  "id": "4e6370ff-159b-4a70-bbc2-1ca97c5ec4a0",
+  "date": "2015-07-19",
+  "summary": "43-year-old woman injured her leg near Emerald Lake in Rocky Mountain National Park; carried out in a wheeled litter.",
+  "location": "Emerald Lake, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "National Park Service",
+  "source_urls": "https://www.npshistory.com/morningreport/incidents/romo.htm|https://www.nps.gov/romo/learn/news/pr_rescue_in_forest_canyon_above_the_pool_second_rescue_tonight_occurs_near_-emerald_lake.htm",
+  "notes": "NPS ROMO morning-report compendium entry.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Emerald Lake",
+  "place_type": "lake",
+  "legacy_id": 2856
+}

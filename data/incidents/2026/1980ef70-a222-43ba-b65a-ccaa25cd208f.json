@@ -1,0 +1,19 @@
+{
+  "id": "1980ef70-a222-43ba-b65a-ccaa25cd208f",
+  "date": "2026-09-07",
+  "summary": "Single rappeller cliffed out on remote 13,833-ft Jagged Mountain in the Weminuche Wilderness; complex overnight mission with lead climbing and rope pick-offs to extract the stranded climber",
+  "location": "Jagged Mountain, Weminuche Wilderness",
+  "county": "San Juan",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Silverton Medical Rescue; Flight for Life (tagged)",
+  "source_urls": "https://www.facebook.com/sjcsar/posts/pfbid02UYGLPRBk3wLtPffsirQgrqALoGexHx4N9mstca9AGNPw6tj7b53G96WkJByRWh74l",
+  "notes": "date per post date; post describes overnight mission; distinct from 2013-07-11 Jagged Mountain fatal fall",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Weminuche Wilderness",
+  "place_type": "wilderness",
+  "legacy_id": 1735
+}

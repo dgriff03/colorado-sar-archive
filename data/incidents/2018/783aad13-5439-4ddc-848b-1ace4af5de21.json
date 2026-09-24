@@ -1,0 +1,19 @@
+{
+  "id": "783aad13-5439-4ddc-848b-1ace4af5de21",
+  "date": "2018-03-01",
+  "summary": "65-year-old male skier missing at Jones Pass; a SARDOC air-scent dog team worked Jones Pass Road and the subject's body was located some distance from where the team was working.",
+  "location": "Jones Pass",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "SARDOC (dog-team assist); county search team unnamed in summary",
+  "source_urls": "http://sardoc.org/cms/wp-content/uploads/2011/01/2018SARDOCPublicSearchSummaries123118.pdf|http://sardoc.org/cms/wp-content/uploads/2011/01/0718SARDOCPublicSearchSummaries.pdf",
+  "notes": "SARDOC 2018 public mission summaries (parent-opened this run). Cause of death not stated. Jones Pass on the Clear Creek/Grand County line.",
+  "peak": "Jones Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3053
+}

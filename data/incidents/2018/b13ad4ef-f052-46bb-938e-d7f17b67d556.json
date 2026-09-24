@@ -1,0 +1,19 @@
+{
+  "id": "b13ad4ef-f052-46bb-938e-d7f17b67d556",
+  "date": "2018-07-28",
+  "summary": "Unidentified male visitor activated a SPOT device in the Keplinger Couloir area of Longs Peak with a lower-leg injury; rangers located him Saturday evening, stayed overnight, and he was flown by Flight For Life to Estes Park Medical Center on July 29, treated and released",
+  "location": "Keplinger Couloir, Longs Peak",
+  "county": "Boulder",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park rangers; Flight For Life Air Ambulance",
+  "source_urls": "https://www.nps.gov/romo/learn/news/recovery-efforts-completed-for-brian-perri.htm|https://www.nationalparkstraveler.org/2018/07/man-who-went-missing-rocky-mountain-national-park-apparently-died-instantly-fall",
+  "notes": "Incident reported within the July-31-2018 NPS release for the Brian Perri body recovery: a ranger responding to this SPOT activation found Perri's body southwest of the Mount Meeker summit. | run-831 NPT corroboration URL appended (parent-opened).",
+  "peak": "Longs Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2753
+}

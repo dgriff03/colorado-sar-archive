@@ -1,0 +1,19 @@
+{
+  "id": "25e81c03-4c2b-4bd2-9c42-e2b9120d828a",
+  "date": "2022-08-16",
+  "summary": "Assist to Park County SAR in search for two missing parties in the Rosalie Peak area",
+  "location": "Rosalie Peak",
+  "county": "Park",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team, Park County SAR",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2023/01/2022-Missions-Website.pdf",
+  "notes": "ART mission 2022-076.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Rosalie Peak",
+  "place_type": "peak",
+  "legacy_id": 1129
+}

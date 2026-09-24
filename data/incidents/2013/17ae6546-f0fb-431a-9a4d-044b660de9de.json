@@ -1,0 +1,19 @@
+{
+  "id": "17ae6546-f0fb-431a-9a4d-044b660de9de",
+  "date": "2013-06-17",
+  "summary": "Party in the river in the Dumont area (Alpine mission 13-27)",
+  "location": "Dumont",
+  "county": "Clear Creek",
+  "incident_type": "other",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/category/recent-missions/clear-creek-county/page/151/",
+  "notes": "Alpine Rescue Team Clear Creek County category mission-log archive (Alpine mission 13-27); one-line page alert, outcome detail unstated in post.; subject count unstated in one-line post; swiftwater response",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Dumont",
+  "place_type": "town",
+  "legacy_id": 1819
+}

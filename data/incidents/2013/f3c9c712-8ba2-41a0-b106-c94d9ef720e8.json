@@ -1,0 +1,19 @@
+{
+  "id": "f3c9c712-8ba2-41a0-b106-c94d9ef720e8",
+  "date": "2013-09-07",
+  "summary": "Assist RMRG with search for two overdue male parties in the Indian Peaks area (Alpine mission 13-80)",
+  "location": "Indian Peaks area",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 2,
+  "responding_agency": "Rocky Mountain Rescue Group; Alpine Rescue Team (assist)",
+  "source_urls": "https://alpinerescueteam.org/category/recent-missions/boulder-county/page/7/",
+  "notes": "One-line mission-log alert; pre-dates the Sept 2013 flood response, treated as standalone search",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Indian Peaks",
+  "place_type": "other",
+  "legacy_id": 1749
+}

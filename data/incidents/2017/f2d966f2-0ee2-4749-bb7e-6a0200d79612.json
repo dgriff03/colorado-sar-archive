@@ -1,0 +1,19 @@
+{
+  "id": "f2d966f2-0ee2-4749-bb7e-6a0200d79612",
+  "date": "2017-07-02",
+  "summary": "Climber fell at Greyrock Mountain and broke ankle; helicopter unable to land due to dangerous weather; teams carried subject out on foot with medical treatment en route.",
+  "location": "Greyrock Mountain",
+  "county": "Larimer",
+  "incident_type": "injury",
+  "outcome": "carried out",
+  "victims": 1,
+  "responding_agency": "Larimer County SAR",
+  "source_urls": "https://www.facebook.com/photo/?fbid=1206399862804912&set=a.795662108039784",
+  "notes": "Source: Larimer County SAR Facebook page. Date approximate (Sunday of July 4 holiday weekend).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Greyrock Mountain",
+  "place_type": "peak",
+  "legacy_id": 3688
+}

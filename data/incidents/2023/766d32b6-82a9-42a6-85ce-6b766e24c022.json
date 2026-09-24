@@ -1,0 +1,19 @@
+{
+  "id": "766d32b6-82a9-42a6-85ce-6b766e24c022",
+  "date": "2023-06-24",
+  "summary": "Ian O'Brien, 28, of Page AZ texted his partner at ~6:30pm after summiting Hesperus Peak and failed to return to camp at Echo Basin; 12,000+ acres searched by Montezuma County SAR, ground/air teams, drones, USAF HH-60W helicopters; official search suspended Jun 28, volunteer search ended Jul 11; remains found September 2023.",
+  "location": "Hesperus Mountain / Echo Basin, La Plata Mountains (east of Mancos)",
+  "county": "Montezuma",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Montezuma County Sheriff's Office, Montezuma County SAR, USAF 58th Special Operations Wing",
+  "source_urls": "https://thetrek.co/search-underway-for-missing-hiker-in-southwest-colorado/|https://www.durangotelegraph.com/news/top-stories/into-the-woods/|https://montezumacounty.org/wp-content/uploads/2023/07/MC_SituationReport_07.14.23.pdf|https://grandjunctiondailysentinel-co.newsmemory.com/?publink=2409d33d0_134fbaa",
+  "notes": "Last contact 6:30pm Jun 24; reported missing 12:30am Jun 25; O'Brien had epilepsy and a GPS unit; outcome fatality (presumed; never located). Montezuma County OEM July-2023 situation report: MCSAR responded 6/25/23 to Echo Basin/Hesperus Peak; after 4 operational periods (ground teams, dogs, ATVs, mutual aid, multiple air resources) the search was suspended pending further information; friends/family continued searching until Jul 9; search placed in \"limited continuous mode\"; a second turned-around hiker was assisted back to his vehicle by a diverted search team during the operation. Resolution 2026-09-15: Grand Junction Daily Sentinel reports the search was called off July 2023 and his remains were found in September 2023.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Hesperus Mountain",
+  "place_type": "peak",
+  "legacy_id": 1226
+}

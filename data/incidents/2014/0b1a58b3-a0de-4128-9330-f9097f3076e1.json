@@ -1,0 +1,19 @@
+{
+  "id": "0b1a58b3-a0de-4128-9330-f9097f3076e1",
+  "date": "2014-09-12",
+  "summary": "Mountain climber tumbled an estimated 250 feet near the peak of Mt. Sneffels late Friday night, coming to rest in terrain that was difficult and dangerous for rescuers to reach in the dark.",
+  "location": "Mt. Sneffels, near summit",
+  "county": "Ouray",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Ouray Mountain Rescue Team + CO Army National Guard UH-60 Black Hawk (Gypsum)",
+  "source_urls": "https://www.kvnf.org/news/2014-09-17/climber-rescued-from-mt-sneffels|https://www.kvnf.org/news/2014-09-17/kvnf-regional-newscast-wednesday-sept-17-2014",
+  "notes": "KVNF: Ouray Mountain Rescue Team received the call from the climber's partner; ground team held until daylight rather than descend the 14er in the dark; Guard Black Hawk lowered a cable and winched the injured climber aboard, reaching critical care in ~20 minutes. MERGE run 621: KVNF 2014-09-17 newscast URL appended (parent-opened — \"Mountain climber rescued from Mt. Sneffels\" headline; distinct page from the dedicated story URL already on the row).",
+  "peak": "Mount Sneffels",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2411
+}

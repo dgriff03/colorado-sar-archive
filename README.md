@@ -83,7 +83,9 @@ with sqlite3.connect('public/data/colorado-sar.db') as db:
 PY
 ```
 
-`id` is stable TEXT; imported numeric IDs remain in `legacy_id`. `summary` is the
+`id` is a stable UUID v4 stored as TEXT for every record. Imported numeric IDs
+remain in `legacy_id` for provenance; old `legacy-*` links resolve via
+`config/id-aliases.json`. `summary` is the
 searchable title. SQL groups above use stored values; website/MCP grouping also
 normalizes case and surrounding whitespace. Consult the [data and operations
 reference](docs/operations.md) for import provenance and schema caveats.

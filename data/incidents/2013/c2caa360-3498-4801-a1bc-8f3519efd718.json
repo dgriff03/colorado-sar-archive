@@ -1,0 +1,19 @@
+{
+  "id": "c2caa360-3498-4801-a1bc-8f3519efd718",
+  "date": "2013-06-14",
+  "summary": "36-year-old Golden climber fell approximately 40 feet on Sundance Buttress in the Lumpy Ridge area, sustaining numerous injuries; a Colorado Mountain School guide who witnessed the fall lowered him to the base of the route; a Grand Canyon helitack crew conducted a short-haul rescue; taken by ambulance to Estes Park Medical Center.",
+  "location": "Sundance Buttress, Lumpy Ridge, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "NPS Rocky Mountain National Park rangers; Colorado Mountain School guide; Grand Canyon helitack crew",
+  "source_urls": "http://npshistory.com/morningreport/incidents/romo.htm|https://www.nps.gov/romo/learn/news/pr_rescue_operation_sundance_buttress.htm",
+  "notes": "NPS morning-report compendium entry dated 2013-06-17 (Friday-verified). Merged run 720: original NPS 2013-06-14 news release (36yo Golden climber, 40-ft fall on Sundance Buttress, short-haul heli rescue by Grand Canyon Helitak crew from Big Meadows Fire).",
+  "peak": "Lumpy Ridge",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2804
+}

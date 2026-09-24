@@ -1,0 +1,19 @@
+{
+  "id": "44970454-ac32-4d94-aa66-c090aad0b03d",
+  "date": "2024-12-16",
+  "summary": "42-year-old man fell to his death while hiking near the Second Flatiron; body found by friends on a rock ledge after he failed to return by dark",
+  "location": "Second Flatiron, near Boulder",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Boulder Emergency Squad, Rocky Mountain Rescue Group; Boulder County Sheriff's Office, Rocky Mountain Rescue Group, Boulder Parks and Open Space Rangers, Boulder Emergency Squad, American Medical Response",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201217273|https://thenextsummit.org/hiker-found-dead-after-fall-from-second-flatiron-near-boulder-colorado/",
+  "notes": "Two separate fatal incidents in one article.; Friends reported him overdue and initiated the search; Merged 2 reports (parts: aac, news-2024-2026); date per both sources.",
+  "peak": "The Flatirons",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1520
+}

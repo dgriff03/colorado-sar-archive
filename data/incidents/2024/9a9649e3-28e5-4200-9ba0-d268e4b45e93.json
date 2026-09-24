@@ -1,0 +1,19 @@
+{
+  "id": "9a9649e3-28e5-4200-9ba0-d268e4b45e93",
+  "date": "2024-07-16",
+  "summary": "Injured 55-year-old woman who was swimming in Clear Creek near Tunnel 6",
+  "location": "Clear Creek (Tunnel 6)",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "ART mission 2024-070.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Clear Creek",
+  "place_type": "creek",
+  "legacy_id": 1403
+}

@@ -1,0 +1,19 @@
+{
+  "id": "fdc27caf-5c63-4e3f-9dc2-630653f836e7",
+  "date": "2016-12-10",
+  "summary": "Lost snowboarder in the Berthoud Pass area (Code 3 page)",
+  "location": "Berthoud Pass",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-143.",
+  "peak": "Berthoud Pass",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2147
+}

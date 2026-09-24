@@ -1,0 +1,19 @@
+{
+  "id": "3306e1ed-6f5d-4425-92ad-99a0d2b81228",
+  "date": "2019-06-25",
+  "summary": "A missing 13-year-old male camper at Estes Park was located by a SARDOC dog team.",
+  "location": "Estes Park",
+  "county": "Larimer",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Search and Rescue Dogs of Colorado (SARDOC)",
+  "source_urls": "http://sardoc.org/cms/wp-content/uploads/2011/01/2019PublicMissionSummaries123119.pdf",
+  "notes": "SARDOC 2019 public mission summaries (opened run 598): 'Missing 13 y/o male camper. Subject located by SARDOC dog team.'",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Estes Park",
+  "place_type": "town",
+  "legacy_id": 3029
+}

@@ -1027,7 +1027,6 @@ export default function Home() {
               </section>
               <div className="record-id">
                 Record {detail.id}
-                {detail.legacy_id ? ` · Original ID ${detail.legacy_id}` : ''}
               </div>
             </div>
           ) : detailError ? (

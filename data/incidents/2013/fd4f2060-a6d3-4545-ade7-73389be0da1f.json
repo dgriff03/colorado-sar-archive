@@ -1,0 +1,19 @@
+{
+  "id": "fd4f2060-a6d3-4545-ade7-73389be0da1f",
+  "date": "2013-12-26",
+  "summary": "Young man crashed his snowmobile into a tree at high speed on Thursday Dec 26 just northwest of the Irwin Y on Kebler Pass and was knocked unconscious; bystanders alerted staff at the Irwin Movie Cabin, Irwin Guides spinally immobilized him and evacuated him by rescue sled to the trailhead, where Crested Butte EMS took him to Gunnison Valley Hospital with cervical spine damage and a brain bleed, then flew him to Grand Junction",
+  "location": "Irwin Y, Kebler Pass",
+  "county": "Gunnison",
+  "incident_type": "vehicle",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Crested Butte Search and Rescue + Crested Butte Ambulance and Emergency Services + Irwin Guides",
+  "source_urls": "https://crestedbuttenews.com/2013/12/emergency-backcountry-help-comes-from-irwin-sar-ems/",
+  "notes": "Crested Butte News 2013-12-31; Irwin Guides responds to 3-4 accidents each winter in the Kebler Pass/West Elk area",
+  "peak": "Kebler Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2246
+}

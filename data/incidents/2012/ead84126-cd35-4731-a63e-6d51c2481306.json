@@ -1,0 +1,19 @@
+{
+  "id": "ead84126-cd35-4731-a63e-6d51c2481306",
+  "date": "2012-01-21",
+  "summary": "Two people on foot caught in an avalanche at Chedsey Creek, North Park; one partially buried, one fully buried and killed",
+  "location": "Chedsey Creek, North Park",
+  "county": "Jackson",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 2,
+  "responding_agency": "",
+  "source_urls": "https://classic.avalanche.state.co.us/caic/acc/acc_co.php|https://www.evergreenbound.com/evergreenforum/viewtopic.php?t=2060",
+  "notes": "Run 83 CAIC 2011-12 thin-year chunk. CAIC summary only; no SAR team response confirmed. Run 635 Steamboat-Pilot-chunk merge (Denver Post 2012-01-24 repost, parent-opened): two Fort Collins brothers in their 20s (auto mechanics) in a snowmobiling party got stuck Saturday night 2012-01-21 near their Grizzly Creek campsite, east side of Buffalo Pass, then walked back on foot and were caught in the avalanche; the father located the surviving brother alive in a snow cave and a SAR helicopter spotted the pair; the other brother was confirmed dead Monday evening 2012-01-23. SAR response documented (DP confirms a SAR helicopter; unopened snowest.com thread search-index content reports RCSAR + Jackson County SAR + helicopters searched). Victims corrected 1->2 (two subjects: one fatality, one rescued alive). Location-note: DP places the slide at the Grizzly Creek campsite/east Buffalo Pass; CAIC's row location reads Chedsey Creek, North Park -- same 2012-01-21 Park Range, Jackson County, 1-fatality snowmobile-party avalanche per the CAIC 2011-12 table.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Chedsey Creek",
+  "place_type": "creek",
+  "legacy_id": 2327
+}

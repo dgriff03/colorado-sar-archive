@@ -1,0 +1,19 @@
+{
+  "id": "34473f06-a4a0-4ab7-a3b2-c9802540680b",
+  "date": "2018-09-02",
+  "summary": "A 21-year-old Bellevue, Idaho man broke his clavicle and suffered a concussion while mountain biking on the Free Fall Trail in the Hartman Rocks area; Western State Mountain Rescue and EMS responded.",
+  "location": "Free Fall Trail, Hartman Rocks area",
+  "county": "Gunnison",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Gunnison County Sheriff's Office; Western State Mountain Rescue; EMS",
+  "source_urls": "https://gunnisoncounty.org/ArchiveCenter/ViewFile/Item/2944",
+  "notes": "Per-incident one-liner from the Gunnison County Sheriff's Office weekly press release (September 4, 2018 edition). Mined run 463.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Free Fall Trail",
+  "place_type": "trail",
+  "legacy_id": 2751
+}

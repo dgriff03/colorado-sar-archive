@@ -1,0 +1,19 @@
+{
+  "id": "ef370a50-afb9-4380-a0db-7cd45ff0c224",
+  "date": "2019-07-08",
+  "summary": "Mountain biker wrecked on the Ridgway Area Trails system and suffered a debilitating ankle injury; standard litter evacuation using the team's ATV.",
+  "location": "Ridgway Area Trails (BLM land north of County Road 10)",
+  "county": "Ouray",
+  "incident_type": "vehicle",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Ouray Mountain Rescue Team",
+  "source_urls": "https://www.ouraymountainrescue.com/new-page-1-1",
+  "notes": "Single-bike trail crash; packaged and evacuated by ATV (R14).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Ridgway Area Trails",
+  "place_type": "trail",
+  "legacy_id": 2181
+}

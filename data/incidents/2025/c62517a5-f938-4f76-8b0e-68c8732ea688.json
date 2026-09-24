@@ -1,0 +1,19 @@
+{
+  "id": "c62517a5-f938-4f76-8b0e-68c8732ea688",
+  "date": "2025-04-10",
+  "summary": "Lost couple trapped in deep snow on Quandary Peak called for assistance; assisted to safety",
+  "location": "Quandary Peak",
+  "county": "Summit",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Summit County Sheriff; Summit County Rescue Group",
+  "source_urls": "https://unofficialnetworks.com/2025/04/17/search-and-rescue-quandary-peak/",
+  "notes": "One of four Quandary Peak missions Apr 7-13, 2025 (ids 3098-3101); source: Summit County Sheriff Office.",
+  "peak": "Quandary Peak",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3099
+}

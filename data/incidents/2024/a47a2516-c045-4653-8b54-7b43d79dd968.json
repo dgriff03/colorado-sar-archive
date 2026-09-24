@@ -1,0 +1,19 @@
+{
+  "id": "a47a2516-c045-4653-8b54-7b43d79dd968",
+  "date": "2024-07-15",
+  "summary": "80-year-old found unresponsive on the Lawn Lake Trail about 5 mi from the trailhead; hikers performed CPR; Colorado Army National Guard hoist; Med Evac to emergency care; outcome not reported.",
+  "location": "Lawn Lake Trail, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "National Park Service",
+  "source_urls": "https://www.npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "NPS ROMO morning-report compendium entry. Outcome not reported in compendium; classified \"injury\" (medically evacuated) per available enums.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Lawn Lake Trail",
+  "place_type": "trail",
+  "legacy_id": 2873
+}

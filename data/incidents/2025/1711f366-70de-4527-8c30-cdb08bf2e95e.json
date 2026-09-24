@@ -1,0 +1,19 @@
+{
+  "id": "1711f366-70de-4527-8c30-cdb08bf2e95e",
+  "date": "2025-07-09",
+  "summary": "20-year-old solo climber fell ~200 feet from the Maroon Peak summit ridge; hoisted out by HAATS Black Hawk and taken to Aspen Valley Hospital",
+  "location": "Maroon Peak summit ridge",
+  "county": "Pitkin",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Mountain Rescue Aspen, CO Army National Guard HAATS, Aspen Ambulance",
+  "source_urls": "https://thenextsummit.org/helicopter-hoist-plucks-injured-solo-climber-from-maroon-peak-after-200-foot-fall/",
+  "notes": "approx; report says incident occurred on a Wednesday; exact date unverified | Date corrected 2026-09-09 (pass 2): incident occurred 2025-07-09 per news/forum verification (was 2025-06-25).",
+  "peak": "Maroon Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1609
+}

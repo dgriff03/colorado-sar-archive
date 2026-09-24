@@ -1,0 +1,19 @@
+{
+  "id": "045fa54c-4c1d-4d02-8663-d26de607b11e",
+  "date": "2020-10-14",
+  "summary": "Two stranded males on south side of Grays Peak (2020-122)",
+  "location": "South side of Grays Peak",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2021/01/2020-Missions-Website.pdf",
+  "notes": "ART mission 2020-122. Outcome not stated in PDF; presumed rescued-uninjured.",
+  "peak": "Grays Peak",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 890
+}

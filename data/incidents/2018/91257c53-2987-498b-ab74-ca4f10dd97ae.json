@@ -1,0 +1,19 @@
+{
+  "id": "91257c53-2987-498b-ab74-ca4f10dd97ae",
+  "date": "2018-08-05",
+  "summary": "Injured hiker on the Tenmile Trail in the Gore Range; SCRG responded during a weekend with three simultaneous calls",
+  "location": "Tenmile Trail, Gore Range",
+  "county": "Summit",
+  "incident_type": "injury",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Summit County Rescue Group",
+  "source_urls": "https://snowbrains.com/texan-couple-quandary-rescue/",
+  "notes": "Date from the story's \"on Sunday\" (the Aug-3/4 Quandary rescue weekend; 2018-08-05 was a Sunday). Tenmile Trail hiker noted as one of three near-simultaneous SCRG calls that weekend alongside ids 561/562. Outcome details not reported in the re-report of the Summit Daily story.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Tenmile Trail",
+  "place_type": "trail",
+  "legacy_id": 2834
+}

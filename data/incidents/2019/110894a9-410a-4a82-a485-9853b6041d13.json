@@ -1,0 +1,19 @@
+{
+  "id": "110894a9-410a-4a82-a485-9853b6041d13",
+  "date": "2019-10-26",
+  "summary": "Sick hiker on Squaw Mtn (2019-128)",
+  "location": "Squaw Mtn",
+  "county": "Clear Creek",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2020/01/2019-Missions-Website.pdf",
+  "notes": "ART mission 2019-128.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "ONE_LINER",
+  "place": "Squaw Mountain",
+  "place_type": "peak",
+  "legacy_id": 742
+}

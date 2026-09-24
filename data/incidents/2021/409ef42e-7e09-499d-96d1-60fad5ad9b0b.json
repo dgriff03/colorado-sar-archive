@@ -1,0 +1,19 @@
+{
+  "id": "409ef42e-7e09-499d-96d1-60fad5ad9b0b",
+  "date": "2021-08-11",
+  "summary": "Mother and her 14-year-old son lost overnight on a hike between Trappers Lake and Stillwater Reservoir after getting turned around; husband/father searched that night with friends, a cell-phone ping gave approximate coordinates, and he spotted them and called 911 the next morning; mother treated for hypothermia and dehydration at Trappers Lake, son uninjured",
+  "location": "between Trappers Lake and Stillwater Reservoir",
+  "county": "Garfield",
+  "incident_type": "lost/stranded",
+  "outcome": "injury",
+  "victims": 2,
+  "responding_agency": "Garfield County SAR; Garfield County Sheriff's Office; Routt County Sheriff's Office SAR volunteers; CareFlight of the Rockies",
+  "source_urls": "https://townsquarenoco.com/mother-and-son-lost-on-hike-in-colorado-wilderness-rescued/",
+  "notes": "DATE APPROXIMATE — pinned from the townsquarenoco article's '1859 days ago' search-index metadata (=2021-08-11); sister-site kool1079 mirror metadata = 2021-08-10; overnight lost/found narrative consistent with either. RESOLVES the pending Garfield mother/son Trappers Lake lead from run 315.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Trappers Lake",
+  "place_type": "lake",
+  "legacy_id": 2635
+}

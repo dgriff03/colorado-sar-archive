@@ -1,0 +1,19 @@
+{
+  "id": "37bcafbf-8b4e-41e0-8f72-0b7917b4ee93",
+  "date": "2010-05-28",
+  "summary": "Two dehydrated mountain bikers in Waterton Canyon area (10-28)",
+  "location": "Waterton Canyon area",
+  "county": "Jefferson",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-28.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": "Waterton Canyon",
+  "place_type": "canyon",
+  "legacy_id": 28
+}

@@ -1,0 +1,19 @@
+{
+  "id": "3a6b62d1-83d7-4dfc-be95-fc378db7c20b",
+  "date": "2014-07-13",
+  "summary": "A man broke his ankle slipping on ice at the edge of a snowfield between Arapahoe Peak and Neva Ridge while crossing with a group of eight as the slope steepened; Nederland Fire Protection District, Rocky Mountain Rescue Group, and the Boulder County Fire Crew used evacuation equipment to carry him to a landing zone, and a helicopter flew him out just before thick fog closed the area (one chopper paramedic left behind for weight)",
+  "location": "Snowfield between Arapahoe Peak and Neva Ridge",
+  "county": "Boulder",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Nederland Fire Protection District (with Rocky Mountain Rescue Group)",
+  "source_urls": "https://www.themtnear.com/stories/man-rescued-on-arapahoe-peak,1834",
+  "notes": "DATE PIN — article says \"On Sunday, July 13\"; embedded image named 2014-NFPD-Neva-ankle-rescue confirms 2014-07-13 (Sunday); zero Boulder 2014-07-13 rows before insert.",
+  "peak": "Arapaho Peaks",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3075
+}

@@ -1,0 +1,19 @@
+{
+  "id": "bc3d9d3e-5e3a-433f-ab34-41fce54c9484",
+  "date": "2016-07-01",
+  "summary": "Five family members from Kansas/Missouri lost overnight on the Colorado Trail near North Fork road after an evening hike with no supplies; two self-exited at Payne Gulch Trailhead, three found off-trail and all reunited",
+  "location": "Colorado Trail near North Fork road / Payne Gulch Trailhead",
+  "county": "Park",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 5,
+  "responding_agency": "Park County SAR",
+  "source_urls": "https://www.theflume.com/news/article_d540cf68-6bd1-11e6-a6a4-8b8247bc52c4.html",
+  "notes": "Date approximate: July 2016; listed as first of month. Large search effort next morning; PCSAR foot teams obtained voice contact with the three off-trail hikers waiting 'on a rock'; ATVs and vehicle transport used in the reunification.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Colorado Trail",
+  "place_type": "trail",
+  "legacy_id": 2263
+}

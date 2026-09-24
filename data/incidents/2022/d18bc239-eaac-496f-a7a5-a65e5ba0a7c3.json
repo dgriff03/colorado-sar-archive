@@ -1,0 +1,19 @@
+{
+  "id": "d18bc239-eaac-496f-a7a5-a65e5ba0a7c3",
+  "date": "2022-06-26",
+  "summary": "21-year-old male scrambler became stuck ~50 ft up on the slabs; friends called 911; RMRG built an anchor above him and lowered him on a rope system; he was uninjured and hiked out.",
+  "location": "Fern Canyon Slabs, west of Boulder",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "BCSO, Rocky Mountain Rescue Group, City of Boulder Open Space & Mountain Parks",
+  "source_urls": "https://bouldercounty.gov/news/stuck-climber-rescued-from-fern-canyon-slabs/",
+  "notes": "BCSO case 22-02995",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Fern Canyon",
+  "place_type": "canyon",
+  "legacy_id": 2945
+}

@@ -1,0 +1,19 @@
+{
+  "id": "831ea386-4def-4222-a334-ab7bde879c37",
+  "date": "2017-11-27",
+  "summary": "A 23-month-old reported missing from home near the 1500 block of W. Highway 34 in Drake was found unresponsive about 400 yards downriver from the home; CPR was started, the child was transported to a hospital and pronounced dead; LCSO conducted the search.",
+  "location": "Near 1500 blk W. Highway 34, Drake",
+  "county": "Larimer",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Larimer County Sheriff's Office",
+  "source_urls": "https://northfortynews.com/category/news/child-dies-near-drake-reported-missing/",
+  "notes": "Missing-child search response ending in drowning; in scope as a documented SAR search with public reporting. Run 651.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Highway 34",
+  "place_type": "road",
+  "legacy_id": 3136
+}

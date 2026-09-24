@@ -1,0 +1,19 @@
+{
+  "id": "79c976ca-c436-48db-80e8-569225151789",
+  "date": "2024-02-03",
+  "summary": "Missing 68-year-old man in the Wheat Ridge area",
+  "location": "Wheat Ridge",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "County per Wheat Ridge location (unverified); ART mission 2024-007.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Wheat Ridge",
+  "place_type": "town",
+  "legacy_id": 1329
+}

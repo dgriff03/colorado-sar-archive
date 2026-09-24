@@ -1,0 +1,19 @@
+{
+  "id": "a84660aa-1a0e-44c3-b1a2-a5c6566b3fed",
+  "date": "2015-01-01",
+  "summary": "Ski guide working with a snowcat operation caught, carried and injured in an avalanche at McFarlane's Bowl (The Happy Face).",
+  "location": "McFarlane's Bowl (The Happy Face)",
+  "county": "",
+  "incident_type": "avalanche",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://classic.avalanche.state.co.us/caic/acc/acc_co.php",
+  "notes": "CAIC classic-table summary only; no SAR agency or victim identity published in sources found; county left blank (ambiguous).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "McFarlane's Bowl",
+  "place_type": "other",
+  "legacy_id": 2474
+}

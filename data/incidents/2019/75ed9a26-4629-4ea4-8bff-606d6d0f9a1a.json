@@ -1,0 +1,19 @@
+{
+  "id": "75ed9a26-4629-4ea4-8bff-606d6d0f9a1a",
+  "date": "2019-07-19",
+  "summary": "Assist Foothills Fire with carryout on Chavez trail, Jeffco (2019-74)",
+  "location": "Chavez trail",
+  "county": "Jefferson",
+  "incident_type": "other",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team; Foothills Fire",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2020/01/2019-Missions-Website.pdf",
+  "notes": "ART mission 2019-74.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Chavez Trail",
+  "place_type": "trail",
+  "legacy_id": 685
+}

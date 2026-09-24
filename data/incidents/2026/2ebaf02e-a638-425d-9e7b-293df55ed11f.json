@@ -1,0 +1,19 @@
+{
+  "id": "2ebaf02e-a638-425d-9e7b-293df55ed11f",
+  "date": "2026-08-28",
+  "summary": "Joe Anderson, 45, Englewood mayor pro tem, lost consciousness and stopped breathing on the lower slopes of Quandary Peak ~6:40 a.m.; other hikers began CPR before Summit County Sheriff's deputies and medical personnel took over; he died at the scene (official cause of death pending coroner determination).",
+  "location": "Quandary Peak, lower slopes",
+  "county": "Summit",
+  "incident_type": "medical",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Summit County Sheriff's Office",
+  "source_urls": "https://people.com/joe-anderson-dead-englewood-mayor-pro-tem-dies-while-hiking-colorado-12072694",
+  "notes": "Parks the run-643 SCSO-blotter 'Quandary Trail ~1-mi hiker fatality (fall or medical, bystander CPR unsuccessful)' lead (cross-anchored via SCSO statements in news coverage; 2026-08-28 Friday-verified). Row date = occurrence date per Aug. 28 City of Englewood release ('died this morning').",
+  "peak": "Quandary Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3195
+}

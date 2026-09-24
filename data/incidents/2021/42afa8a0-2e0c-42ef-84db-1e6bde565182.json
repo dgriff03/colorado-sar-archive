@@ -1,0 +1,19 @@
+{
+  "id": "42afa8a0-2e0c-42ef-84db-1e6bde565182",
+  "date": "2021-09-04",
+  "summary": "41-year-old male hiker became sick with cramps and dehydration on the Devil's Thumb Trail; his wife called dispatch at 7:33 p.m.; first team reached the couple ~10:09 p.m.; both transported by UTV to the trailhead; male medically cleared with no further assistance needed; all out ~1:15 a.m.; BCSO case #21-4265",
+  "location": "Devil's Thumb Trail, 730 Fourth of July Road, west of Nederland",
+  "county": "Boulder",
+  "incident_type": "medical",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Nederland Fire Protection District, Boulder County Sheriff's Office, Rocky Mountain Rescue Group, American Medical Response",
+  "source_urls": "https://www.themtnear.com/stories/rescue-on-devils-thumb-trail,7922|https://bouldercounty.gov/news/rescue-on-the-devils-thumb-trail-just-west-of-nederland-in-boulder-county-colorado/",
+  "notes": "couple from Aurora; male appeared dehydrated; rescue lasted just under six hours | MERGE run 709: Official BCSO release (Sept 5, 2021, case 21-4265) confirms row date/details: 41-year-old male sick/dehydrated on Devil's Thumb Trail, UTV evac, medically cleared on scene",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Devils Thumb Trail",
+  "place_type": "trail",
+  "legacy_id": 2651
+}

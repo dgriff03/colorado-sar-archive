@@ -1,0 +1,19 @@
+{
+  "id": "448e5420-e86f-4560-b8f4-5e663cb18f72",
+  "date": "2023-05-04",
+  "summary": "Avalanche with unknown burial in the 7 Sisters area of Loveland Pass",
+  "location": "7 Sisters (Loveland Pass)",
+  "county": "Clear Creek",
+  "incident_type": "avalanche",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2024/01/2023-Missions-Website.pdf",
+  "notes": "Burial unknown; no confirmed subject; ART mission 2023-022.",
+  "peak": "Loveland Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1204
+}

@@ -1,0 +1,19 @@
+{
+  "id": "35f975c8-2948-42e3-902b-93f81263a827",
+  "date": "2020-07-04",
+  "summary": "Subject jumped into lake but never emerged at St Marys (2020-44)",
+  "location": "St Marys",
+  "county": "Clear Creek",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2021/01/2020-Missions-Website.pdf",
+  "notes": "ART mission 2020-44. Presumed drowning; asterisk in source; outcome inferred.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "St. Mary's",
+  "place_type": "town",
+  "legacy_id": 804
+}

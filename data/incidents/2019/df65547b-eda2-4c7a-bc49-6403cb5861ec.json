@@ -1,0 +1,19 @@
+{
+  "id": "df65547b-eda2-4c7a-bc49-6403cb5861ec",
+  "date": "2019-06-08",
+  "summary": "Possible injured party on Sawtooth; two overdue hikers and two additional parties on Mt Evans West Ridge encountered during mission (2019-43, 2019-44, 2019-45)",
+  "location": "Sawtooth/West Ridge of Mt Evans",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 5,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2020/01/2019-Missions-Website.pdf",
+  "notes": "ART missions 2019-43, 2019-44, 2019-45. Victim count estimated (1 possible injured plus 2 overdue plus 2 parties); injuries assumed.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 654
+}

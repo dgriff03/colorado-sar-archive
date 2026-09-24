@@ -1,0 +1,19 @@
+{
+  "id": "865280e3-3936-4e93-aadd-9abce85c41bc",
+  "date": "2023-06-19",
+  "summary": "Party of 4 in trouble descending Crestone Needle; 2 stranded and were reunited then descended safely with SAR",
+  "location": "Crestone Needle",
+  "county": "Saguache",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Custer County SAR + Saguache County SAR",
+  "source_urls": "https://custersar.org/lost-climber-crestone-needle/|https://www.facebook.com/CusterSAR/posts/pfbid0cEcjWt7vMv2VvFd3tbttfyqSjciYKmHqvg28uyTik9LNLHZ9rUZ585d6mLrYHXJVl",
+  "notes": "Party of 4; 2 self-descended to camp, 2 stranded needed assist",
+  "peak": "Crestone Needle",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1221
+}

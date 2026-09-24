@@ -1,0 +1,19 @@
+{
+  "id": "67e489bc-d994-4404-b8f2-595088f1b94a",
+  "date": "2012-08-18",
+  "summary": "An unconscious white male, possibly in his late 20s, was found at the bottom of an estimated 150-foot ravine near the 2400 block of Fourmile Canyon; he carried no identification and no associated vehicle or bicycle was found nearby.",
+  "location": "Fourmile Canyon, 2400 block",
+  "county": "Boulder",
+  "incident_type": "other",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office; Rocky Mountain Rescue Group; Fourmile Fire Protection District; Boulder Emergency Squad; American Medical Response",
+  "source_urls": "https://www.themtnear.com/stories/man-dies-in-climbing-fall,1138",
+  "notes": "Seriously injured; airlifted by Northern Colorado MedEvac to Denver Health Hospital. Cause of the fall / why he was unconscious was unknown at publication. Year pinned by story-ID sequence (1138 predates the Sep-2014 ID 1951); 'the next day' after the Aug-17 item.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Fourmile Canyon",
+  "place_type": "canyon",
+  "legacy_id": 2765
+}

@@ -51,9 +51,10 @@ publish changes. No local script can stop the owner of a local clone from editin
 The initial SQLite upload was read as a standalone immutable snapshot and passed
 SQLite integrity_check. All 3,718 rows were retained. Weather fields (`wx_*`) were subsequently removed
 at the maintainer’s request; all other original fields are preserved. Original
-numeric IDs are in `legacy_id`; stable public IDs are `legacy-000001`, etc. New
-incidents use UUID v4 IDs. The generated SQLite `id` column is TEXT, with the
-original numeric ID available in `legacy_id`. SQL columns preserve original
+numeric IDs are in `legacy_id`. All records now use UUID v4 primary IDs after a
+maintainer-requested one-time migration. `config/id-aliases.json` preserves the
+original public IDs as compatibility aliases. The generated SQLite `id` column
+is TEXT, with the original numeric ID available in `legacy_id`. SQL columns preserve original
 names (`summary` is the website's searchable title). `detail_score` intentionally
 has no SQLite type affinity because the source contains text labels and numbers.
 

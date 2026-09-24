@@ -1,0 +1,19 @@
+{
+  "id": "5245d203-7f26-4285-996f-30aff474869e",
+  "date": "2016-02-13",
+  "summary": "Two injured climbers near Tunnel 6 in Clear Creek Canyon",
+  "location": "Clear Creek Canyon (Tunnel 6)",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Injury mechanism not specified in the log.",
+  "peak": "Clear Creek Canyon",
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 291
+}

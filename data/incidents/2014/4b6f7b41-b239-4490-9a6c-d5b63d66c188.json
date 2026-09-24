@@ -1,0 +1,19 @@
+{
+  "id": "4b6f7b41-b239-4490-9a6c-d5b63d66c188",
+  "date": "2014-08-12",
+  "summary": "Two adults (50 and 60) on a day hike lost off the Lynch Trailhead toward the Salt Creek Trail in the Buffalo Peaks Wilderness; located by Chaffee County SAR.",
+  "location": "Lynch Trailhead / Salt Creek Trail, Buffalo Peaks Wilderness",
+  "county": "Chaffee",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Chaffee County SAR / Park County SAR / SARDOC",
+  "source_urls": "http://sardoc.org/cms/wp-content/uploads/2011/01/100914PublicSARDOC-MISSION-REPORTS.pdf",
+  "notes": "County = locating agency's jurisdiction; Buffalo Peaks Wilderness straddles Park/Lake/Chaffee.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Lynch Trailhead",
+  "place_type": "trailhead",
+  "legacy_id": 2929
+}

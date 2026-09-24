@@ -1,0 +1,19 @@
+{
+  "id": "fabcc9e1-3b73-488b-9ece-28a8071e053b",
+  "date": "2021-10-19",
+  "summary": "Three hunters' truck slid off the road and became stuck in mud; stranded in the remote Spring Creek area near the Colorado-Utah border; Mesa County SO deputies and SAR ATV team located them safe and transported them back to town.",
+  "location": "Spring Creek area, Glade Park, Mesa County",
+  "county": "Mesa",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 3,
+  "responding_agency": "Mesa County Sheriff's Office, Mesa County Search and Rescue ATV team",
+  "source_urls": "https://crimewatch.net/us/co/mesa/sheriff/134177/incidents/three-hunters-rescued",
+  "notes": "Reported Tuesday Oct 19, 2021; page incident date Oct 22, 2021 @ 11:09am.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Spring Creek",
+  "place_type": "creek",
+  "legacy_id": 1035
+}

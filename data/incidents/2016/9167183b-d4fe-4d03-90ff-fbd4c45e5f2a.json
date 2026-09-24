@@ -1,0 +1,19 @@
+{
+  "id": "9167183b-d4fe-4d03-90ff-fbd4c45e5f2a",
+  "date": "2016-10-23",
+  "summary": "Injured female climber in the Cat Slab area of Clear Creek Canyon",
+  "location": "Clear Creek Canyon (Cat Slab)",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Injury mechanism not specified in the log.",
+  "peak": "Clear Creek Canyon",
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 328
+}

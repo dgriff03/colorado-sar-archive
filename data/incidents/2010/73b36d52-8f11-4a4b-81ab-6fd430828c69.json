@@ -1,0 +1,19 @@
+{
+  "id": "73b36d52-8f11-4a4b-81ab-6fd430828c69",
+  "date": "2010-08-10",
+  "summary": "62-year-old woman fell and broke her ankle on the Gem Lake Trail; rangers carried her out on a wheeled litter, then transferred her to an ambulance for Estes Park Medical Center (one of three NPS rescues that day)",
+  "location": "Gem Lake Trail",
+  "county": "Larimer",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "RMNP rangers",
+  "source_urls": "https://npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "NPS morning report (reported 2010-08-18): Tuesday three-rescue day; reported at 2 p.m.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Gem Lake Trail",
+  "place_type": "trail",
+  "legacy_id": 2626
+}

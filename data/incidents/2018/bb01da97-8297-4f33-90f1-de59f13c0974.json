@@ -1,0 +1,19 @@
+{
+  "id": "bb01da97-8297-4f33-90f1-de59f13c0974",
+  "date": "2018-09-04",
+  "summary": "Four stranded climbers in the Crestone Peak Northwest Couloir; lowered to safety",
+  "location": "Crestone Peak Northwest Couloir",
+  "county": "Saguache",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 4,
+  "responding_agency": "Custer County SAR",
+  "source_urls": "https://custersar.org/northwest-couloir-mission/|http://www.alpinerescueteam.org/wp-content/uploads/2019/01/2018-Missions-Website.pdf",
+  "notes": "Multi-day technical rescue; all lowered safely Merged with Alpine Rescue Team 2018 annual PDF entry (2018-100 assist to Custer County SAR): same 4 stranded climbers.",
+  "peak": "Crestone Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 579
+}

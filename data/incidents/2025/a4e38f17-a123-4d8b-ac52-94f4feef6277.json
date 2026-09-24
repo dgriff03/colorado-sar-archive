@@ -1,0 +1,19 @@
+{
+  "id": "a4e38f17-a123-4d8b-ac52-94f4feef6277",
+  "date": "2025-07-11",
+  "summary": "Elaine Stypula, 60, of Michigan, collapsed on the Little Giant Trail near Gold Lake (~12,300 ft) about an hour into the 2025 Hardrock 100 ultramarathon; the Hardrock 100 Safety Sweep Team had CPR in progress when the 9:02 a.m. SAR call came in. Silverton Medical Rescue reached the steep, rugged scene by 4x4 and a quarter-mile hike, performed resuscitation efforts, and the patient was pronounced deceased at 10:27 a.m. Cause of death unknown (investigation ongoing per the release).",
+  "location": "Little Giant Trail near Gold Lake, Hardrock 100 course east of Silverton",
+  "county": "San Juan",
+  "incident_type": "medical",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "San Juan County Sheriff's Office; Silverton Medical Rescue; Flight for Life",
+  "source_urls": "http://WWW.HARDROCK100.COM/files/bod/HR100-2025-Press-Release-Loss2.pdf; https://www.irunfar.com/elaine-stypula-hardrock-100-death",
+  "notes": "Date = Friday 2025-07-11 (weekday-verified; SMR press release 'Press Release: 7_11_2025' opened this run). Coroner's office identified the 60-year-old female as Elaine Stypula of Michigan. Stypula was an experienced ultrarunner (100+ ultra-distance finishes). iRunFar corroborates the 9:02 a.m. call / 10:27 a.m. death timeline.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Little Giant Trail",
+  "place_type": "trail",
+  "legacy_id": 2656
+}

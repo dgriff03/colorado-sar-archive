@@ -1,0 +1,19 @@
+{
+  "id": "2f311482-97a8-49d8-9890-bb1f8d5bb2e6",
+  "date": "2018-06-29",
+  "summary": "Sick hiker on the lower Barr Trail.",
+  "location": "lower Barr Trail",
+  "county": "El Paso",
+  "incident_type": "medical",
+  "outcome": "assisted",
+  "victims": 1,
+  "responding_agency": "El Paso County SAR",
+  "source_urls": "https://www.facebook.com/epcsar/posts/pfbid02xstMjWNzeBvgW7Wpc6bxSgaEyQqtJAVgNgdMEvY84L6e4m2NvjaLNnEWznWzp8Bpl",
+  "notes": "Source: El Paso County SAR Facebook page.",
+  "peak": "Pikes Peak",
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3671
+}

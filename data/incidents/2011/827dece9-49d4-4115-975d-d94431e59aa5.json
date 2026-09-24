@@ -1,0 +1,19 @@
+{
+  "id": "827dece9-49d4-4115-975d-d94431e59aa5",
+  "date": "2011-09-09",
+  "summary": "24-year-old Grand Junction woman ran and jumped from a cliff near Cold Shivers Point (witness 911 call Friday); Mesa County Technical Rescue Team recovered her body the next day via an ~300-ft technical raise, with Glade Park and Grand Junction fire departments assisting overnight.",
+  "location": "Cold Shivers Point",
+  "county": "Mesa",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "NPS rangers; Mesa County Technical Rescue Team; Glade Park FD; Grand Junction FD",
+  "source_urls": "http://npshistory.com/morningreport/incidents/colm.htm",
+  "notes": "Incident 2011-09-09 (Friday); body recovered Saturday 2011-09-10; Mesa County Coroner investigated.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Cold Shivers Point",
+  "place_type": "peak",
+  "legacy_id": 2784
+}

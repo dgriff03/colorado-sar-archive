@@ -1,0 +1,19 @@
+{
+  "id": "9c0831cc-0998-497c-9545-a51f7e4fef1e",
+  "date": "2015-08-06",
+  "summary": "Assist to SCRG with carry-out of an injured party on the north side of Quandary Peak",
+  "location": "Quandary Peak (north side)",
+  "county": "Summit",
+  "incident_type": "injury",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team (assist to SCRG)",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-75.",
+  "peak": "Quandary Peak",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2006
+}

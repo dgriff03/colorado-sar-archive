@@ -1,0 +1,19 @@
+{
+  "id": "74038030-3155-436b-90a5-aec534ee49fc",
+  "date": "2014-07-17",
+  "summary": "Recovery of two missing hikers in the Mount Goliath area",
+  "location": "Mount Goliath",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2015/01/2014-Missions-Website.pdf|https://alpinerescueteam.org/2014-57-team-paged-recovery-two-missing-hikers-mount-goliath-area/|https://5280.com/a-rookies-guide-to-surviving-colorados-backcountry/",
+  "notes": "Annual log marks entry as a follow-up and a significant mission; second source URL is Alpine's individual mission post (opened in search results). Merge run 441: 5280 feature (opened) identifies the pair as Damian McManus, 51, and his son Evan, 18, of Minnesota — went to climb a peak April 2, 2014, reported missing April 6; search suspended after four days when a snowstorm obliterated tracks; bodies found in July (Alpine Rescue Team search).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Mount Goliath",
+  "place_type": "peak",
+  "legacy_id": 208
+}

@@ -1,0 +1,19 @@
+{
+  "id": "95e6ad1c-904b-43e3-a647-6153ec8146bb",
+  "date": "2020-07-02",
+  "summary": "Overdue party voluntarily separated from his group on the 4 Pass Loop; group last saw him Tuesday afternoon and could not locate him when exiting Wednesday night. Teams found the overdue party on Buckskin Pass — tired, moving slowly, otherwise in good health.",
+  "location": "Buckskin Pass, Four Pass Loop",
+  "county": "Pitkin",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Mountain Rescue Aspen",
+  "source_urls": "https://www.facebook.com/mountainrescueaspen/posts/pfbid0TRWcpDmAPfQFfnctSP34PynNXhyFXBYcYgpm3BQpTQhmNG3zpaK2Chd4vfGnCRe6l",
+  "notes": "One of two separate rescues handled by MRA the same afternoon (see also the Thomas Lakes medical call); kept as separate incidents.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Buckskin Pass",
+  "place_type": "pass",
+  "legacy_id": 3519
+}

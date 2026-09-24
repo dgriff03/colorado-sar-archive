@@ -1,0 +1,19 @@
+{
+  "id": "f0114453-8534-471e-9486-1556a2cdc078",
+  "date": "2018-07-04",
+  "summary": "Injured biker on the Flume Trail in the St. Louis Creek area; litter carry half a mile to ambulance with MMRT.",
+  "location": "Flume Trail, St. Louis Creek area",
+  "county": "Grand",
+  "incident_type": "injury",
+  "outcome": "evacuated by litter",
+  "victims": 1,
+  "responding_agency": "Grand County SAR",
+  "source_urls": "https://www.facebook.com/GCSAR/posts/pfbid02NZK9MUpsFdLLKULzGA6txo6JnpHQbewwfUNv131AE8MxTPDJT1S3MJBXCwYKmK8sl",
+  "notes": "Source: Grand County SAR Facebook page.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Flume Trail",
+  "place_type": "trail",
+  "legacy_id": 3647
+}

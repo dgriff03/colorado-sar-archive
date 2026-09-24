@@ -1,0 +1,19 @@
+{
+  "id": "72261990-faf8-4ab0-a303-2ce0683e0a97",
+  "date": "2026-09-18",
+  "summary": "UTV driver lost control and fell 250 ft down a steep, loose embankment just outside Hot Sulphur Springs; Grand County SAR executed a ~5-hour nighttime technical rope rescue with drone overhead lighting, then handed the patient to Grand County EMS / Med Evac; name and condition not released.",
+  "location": "Just outside Hot Sulphur Springs",
+  "county": "Grand",
+  "incident_type": "vehicle",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Grand County Search and Rescue (GCSAR)",
+  "source_urls": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/utv-colorado-250-foot-fall/",
+  "notes": "Call came in 11:30 p.m.; patient stabilized and out of field by 4 a.m.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Hot Sulphur Springs",
+  "place_type": "town",
+  "legacy_id": 3645
+}

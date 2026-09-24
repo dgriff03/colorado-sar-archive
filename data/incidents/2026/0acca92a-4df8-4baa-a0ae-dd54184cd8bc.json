@@ -1,0 +1,19 @@
+{
+  "id": "0acca92a-4df8-4baa-a0ae-dd54184cd8bc",
+  "date": "2026-05-30",
+  "summary": "Hiker fell ~200 ft on Buckskin Pass; Mountain Rescue Aspen stabilized the patient and walked them down to the trailhead and Aspen Valley Hospital",
+  "location": "Buckskin Pass, Maroon Bells-Snowmass Wilderness",
+  "county": "Pitkin",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Mountain Rescue Aspen + Pitkin County dispatch, Aspen Ambulance",
+  "source_urls": "https://thenextsummit.org/buckskin-pass-200-foot-fall-rescue/|https://www.facebook.com/mountainrescueaspen/posts/pfbid035Y3sHVeNUxhM6gsJ5ChHoMvoeoTSfe1rbcNqEVU6K5zBS16LwrJ7nyZD3XVZwih7l",
+  "notes": "Non-life-threatening injuries; 12 MRA members in 3 field teams",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Buckskin Pass",
+  "place_type": "pass",
+  "legacy_id": 1711
+}

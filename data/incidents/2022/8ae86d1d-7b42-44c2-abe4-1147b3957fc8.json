@@ -1,0 +1,19 @@
+{
+  "id": "8ae86d1d-7b42-44c2-abe4-1147b3957fc8",
+  "date": "2022-05-28",
+  "summary": "Sick hiker in the Lost Creek Wilderness area near the Wigwam Trailhead",
+  "location": "Lost Creek Wilderness (Wigwam TH)",
+  "county": "",
+  "incident_type": "medical",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2023/01/2022-Missions-Website.pdf",
+  "notes": "County unverified; ART mission 2022-030.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Lost Creek Wilderness",
+  "place_type": "wilderness",
+  "legacy_id": 1075
+}

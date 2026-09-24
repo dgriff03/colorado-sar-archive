@@ -1,0 +1,19 @@
+{
+  "id": "aa32870f-bb94-419c-b990-fec38b5da738",
+  "date": "2023-01-21",
+  "summary": "Snowmobiler with a broken femur near Dumont Lake on Rabbit Ears Pass. RCSAR assisted Grand County SAR; the subject was brought out via patient sled and snowmobiles.",
+  "location": "Dumont Lake, Rabbit Ears Pass",
+  "county": "Routt",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Routt County Search and Rescue; Grand County Search and Rescue",
+  "source_urls": "https://myemail-api.constantcontact.com/Far-Routt-Newsletter.html?soid=1139552188087&aid=6c-JSsZsGRU",
+  "notes": "Far Routt Newsletter, Spring Edition (April 2023), RCSAR mission report; county=Routt per id-1238 Dumont Lake convention; URL parent-opened run 553.",
+  "peak": "Rabbit Ears Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2937
+}

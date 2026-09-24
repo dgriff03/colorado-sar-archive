@@ -1,0 +1,19 @@
+{
+  "id": "e51ef743-9ca3-4878-a3de-a10b5ac8f71f",
+  "date": "2022-06-11",
+  "summary": "Montrose hiker slipped on loose gravel on the Bear Creek Trail about half a mile below Grizzly Bear Mine, injuring a knee and unable to walk. An eight-person OMRT crew hiked in and carried him out on a wheeled litter.",
+  "location": "Bear Creek Trail, south of Ouray",
+  "county": "Ouray",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Ouray Mountain Rescue Team",
+  "source_urls": "https://www.ouraymountainrescue.com/new-page-1",
+  "notes": "Lack of cell service forced the reporting party to hike down for coverage.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Bear Creek Trail",
+  "place_type": "trail",
+  "legacy_id": 2158
+}

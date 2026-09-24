@@ -1,0 +1,19 @@
+{
+  "id": "2ffb396c-60de-43c4-893b-b416b590c1c0",
+  "date": "2023-02-19",
+  "summary": "A racer in CB Nordic's 17th Annual Gothic Mountain Tour suffered a broken ankle on the race course (over the Washington Gulch drainage) and had to be transported out; Crested Butte Search and Rescue president Randy Felix confirmed the team evacuated the injured participant that winter.",
+  "location": "Gothic Mountain Tour course, Washington Gulch / Gothic corridor, near Crested Butte",
+  "county": "Gunnison",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Crested Butte Search and Rescue",
+  "source_urls": "https://crestedbuttenews.com/2023/02/gothic-mountain-tour-racers/|https://crestedbuttenews.com/2023/05/cb-mountain-rescue-team-uses-helicopter-to-extract-skier/",
+  "notes": "Run 874: resolves run-851 parked lead #1 of 3 winter 2022-23 unnamed missions; date pinned from race-day report (Sunday, February 19 + /2023/02/ URL; 2023-02-19 was a Sunday). Cement Creek dislocated-hip and Friend's Hut cardiac leads stay parked (undateable).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Washington Gulch",
+  "place_type": "gulch",
+  "legacy_id": 3403
+}

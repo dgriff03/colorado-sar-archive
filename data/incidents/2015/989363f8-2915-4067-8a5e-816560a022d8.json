@@ -1,0 +1,19 @@
+{
+  "id": "989363f8-2915-4067-8a5e-816560a022d8",
+  "date": "2015-12-07",
+  "summary": "Injured hiker in the Deer Creek Canyon area (Code 3 page)",
+  "location": "Deer Creek Canyon",
+  "county": "Jefferson",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-117.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Deer Creek Canyon",
+  "place_type": "canyon",
+  "legacy_id": 2040
+}

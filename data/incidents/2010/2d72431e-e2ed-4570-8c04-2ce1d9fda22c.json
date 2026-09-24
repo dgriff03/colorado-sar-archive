@@ -1,0 +1,19 @@
+{
+  "id": "2d72431e-e2ed-4570-8c04-2ce1d9fda22c",
+  "date": "2010-02-05",
+  "summary": "Avalanche on Mt Trelease (10-06)",
+  "location": "Mt Trelease",
+  "county": "Clear Creek",
+  "incident_type": "avalanche",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-06. Outcome not stated; assumed injury from Code 3 avalanche response; victim count estimated.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Mount Trelease",
+  "place_type": "peak",
+  "legacy_id": 6
+}

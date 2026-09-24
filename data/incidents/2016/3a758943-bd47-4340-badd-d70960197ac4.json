@@ -1,0 +1,19 @@
+{
+  "id": "3a758943-bd47-4340-badd-d70960197ac4",
+  "date": "2016-09-07",
+  "summary": "Injured 23-year-old woman, rock climber in Clear Creek Canyon",
+  "location": "Clear Creek Canyon",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Injury mechanism not specified in the log.",
+  "peak": "Clear Creek Canyon",
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 325
+}

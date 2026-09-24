@@ -1,0 +1,19 @@
+{
+  "id": "2fbd565f-78f9-4463-abbd-3f68f19e38b9",
+  "date": "2024-07-19",
+  "summary": "Injured 16-year-old male party in the St Mary's Glacier area",
+  "location": "St Mary's Glacier",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "Injury mechanism not stated in log; ART mission 2024-071.",
+  "peak": "James Peak",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1406
+}

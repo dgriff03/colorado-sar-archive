@@ -1,0 +1,19 @@
+{
+  "id": "79726eac-a8eb-4456-81cd-2aec7de775d9",
+  "date": "2024-05-22",
+  "summary": "Assist to Custer County with two rescue techs for a rescue of a sick 19-year-old woman on Horn Peak",
+  "location": "Horn Peak",
+  "county": "Custer",
+  "incident_type": "medical",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Custer County SAR",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf|https://www.facebook.com/CusterSAR/posts/pfbid02nQTcaGYX3zyHkbRYZZeyZuSspUHjpr8etHHSqAfMsgqHxUWYLz86153Mko76anKvl",
+  "notes": "ART mission 2024-036.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Horn Peak",
+  "place_type": "peak",
+  "legacy_id": 1360
+}

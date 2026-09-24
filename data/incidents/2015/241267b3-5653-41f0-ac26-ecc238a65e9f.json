@@ -1,0 +1,19 @@
+{
+  "id": "241267b3-5653-41f0-ac26-ecc238a65e9f",
+  "date": "2015-07-20",
+  "summary": "Trisha Montgomery, 40, of Lafayette injured her left ankle hiking the Fern Canyon trail in south Boulder, just above the \"rock steps\" ~4-5 miles from the trailhead at 1245 Wildwood Road; Rocky Mountain Rescue Group, Boulder Mountain Parks & Open Space, and Boulder Fire Department responded with Sheriff's deputies and evacuated her down the trail via wheeled litter in an ~3-hour operation (BCSO case 15-4055)",
+  "location": "Fern Canyon trail, south Boulder",
+  "county": "Boulder",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain Rescue Group (with Boulder County Sheriff's Office)",
+  "source_urls": "http://content.govdelivery.com/accounts/COBOULDER/bulletins/110513b",
+  "notes": "DATE PIN — BCSO release dated Monday 2015-07-20; zero Boulder 2015-07-20 rows and zero Montgomery/Fern Canyon rows before insert.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Fern Canyon Trail",
+  "place_type": "trail",
+  "legacy_id": 3073
+}

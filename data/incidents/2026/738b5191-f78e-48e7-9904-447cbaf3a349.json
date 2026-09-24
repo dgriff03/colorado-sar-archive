@@ -1,0 +1,19 @@
+{
+  "id": "738b5191-f78e-48e7-9904-447cbaf3a349",
+  "date": "2026-09-05",
+  "summary": "Hiker fell from the top of Mt. Sneffels and injured a lower leg; OMRT mobilized a hasty team; patient short-hauled off the summit by Mesa Verde Helitack to Fellin Park and transferred to an OCEMS ambulance.",
+  "location": "Mt. Sneffels, summit",
+  "county": "Ouray",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Ouray Mountain Rescue Team; Ouray County Sheriff's Office; Mesa Verde Helitack; Ouray County EMS",
+  "source_urls": "https://www.facebook.com/ouraymountainrescue/posts/pfbid0FRx8rxaMvqxk7Qww33JCNxtgLUnnorr3GuLGKeBmGFyt9TERZMDBozyjpy1cUintl",
+  "notes": "",
+  "peak": "Mount Sneffels",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3452
+}

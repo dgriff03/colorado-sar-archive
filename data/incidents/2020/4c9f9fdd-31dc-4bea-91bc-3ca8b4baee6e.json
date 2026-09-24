@@ -1,0 +1,19 @@
+{
+  "id": "4c9f9fdd-31dc-4bea-91bc-3ca8b4baee6e",
+  "date": "2020-01-22",
+  "summary": "Backcountry skier caught, partially buried, and injured in an avalanche above Emerald Lake in Rocky Mountain National Park.",
+  "location": "Emerald Lake, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "avalanche",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "http://classic.avalanche.state.co.us/caic/acc/acc_co.php",
+  "notes": "CAIC classic 2019-20 season table row: \"Above Emerald Lake, Rocky Mountain National Park,\" 1 backcountry skier caught, partially buried, and injured. Three days after the 2020-01-19 Emerald Lake climber incident - distinct events.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Emerald Lake",
+  "place_type": "lake",
+  "legacy_id": 2541
+}

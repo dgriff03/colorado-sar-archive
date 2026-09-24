@@ -1,0 +1,19 @@
+{
+  "id": "5b09a51e-9882-4e29-865e-d0b9496f1272",
+  "date": "2021-03-06",
+  "summary": "Injured 52-year-old male ice climber in the Silver Plume area",
+  "location": "Silver Plume",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2022/02/2021-Missions-Website.pdf",
+  "notes": "Injury mechanism not specified in the log; ART mission 2021-027.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Silver Plume",
+  "place_type": "town",
+  "legacy_id": 934
+}

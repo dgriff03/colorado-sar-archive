@@ -1,0 +1,19 @@
+{
+  "id": "ccbff1e8-232b-458d-a641-66fee5af79e1",
+  "date": "2012-07-10",
+  "summary": "25-year-old woman lost near Zapata Falls after separating from two hiking companions heading to the lake; AVSAR called out with 5 members en route and more responding; a Forest Service officer encountered hikers who had seen her and she was located uninjured ~1510 hours",
+  "location": "Zapata Falls",
+  "county": "Alamosa",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alamosa Volunteer SAR; US Forest Service",
+  "source_urls": "https://avsar.us/missions-from-2008-2015/",
+  "notes": "AVSAR 2012 archive narrative; distinct from 2012-07-10 First Flatiron rescue (id 161, Boulder)",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Zapata Falls",
+  "place_type": "waterfall",
+  "legacy_id": 2486
+}

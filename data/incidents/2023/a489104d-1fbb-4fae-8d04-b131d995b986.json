@@ -1,0 +1,19 @@
+{
+  "id": "a489104d-1fbb-4fae-8d04-b131d995b986",
+  "date": "2023-06-30",
+  "summary": "Driver bypassed road barricades at County Roads 73 and 16 near Roggen and was swept away in floodwaters; the occupant was pulled from the floating car by witnesses and died despite lifesaving measures; Weld County Sheriff's Office deputies and Keenesburg officers performed six human rescues and five K-9 rescues from six submerged vehicles during the Friday flood event",
+  "location": "County Roads 73 and 16, near Roggen",
+  "county": "Weld",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 7,
+  "responding_agency": "Weld County Sheriff's Office; Keenesburg Police Department; Weld County Coroner",
+  "source_urls": "https://www.foxweather.com/weather-news/roggen-colorado-flood-barricades-weld-county.amp",
+  "notes": "Date pinned 2023-06-30 (Friday) from Fox Weather publication 2023-07-01 + 'responded about 9 a.m. Friday' (subagent's 2023-09-15 proposal corrected — date-pin conflict rule, dated corroboration wins); victims = 1 deceased + 6 rescued humans; 5 K-9 rescues noted separately",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "County Road S",
+  "place_type": "road",
+  "legacy_id": 3307
+}

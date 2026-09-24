@@ -1,0 +1,19 @@
+{
+  "id": "7de4270c-45f9-4d17-9b1c-64fdf0297933",
+  "date": "2026-06-20",
+  "summary": "36-year-old Telluride man mountain biking with two friends fell ~200 ft down a steep slope on Calico Trail west of Rico; packaged in litter and wheeled 1.5 miles to trailhead and waiting ambulance.",
+  "location": "Calico Trail west of Rico",
+  "county": "Dolores",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Dolores County SAR, San Miguel County SAR, Rico Fire Department",
+  "source_urls": "https://www.facebook.com/sanmiguelcountysheriff/posts/pfbid0LWsvnKZ3uP9FZxWyAbjYTnNiz5ChFEu6Nbk6spWGZE4XUc8rcBtsfni7bBLeUP2Yl",
+  "notes": "San Miguel County SAR mutual aid to Dolores County; mission took ~5.5 hrs; companions (an EMT and a Wilderness First Responder) provided initial care and activated SAR via satellite texting.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Calico Trail",
+  "place_type": "trail",
+  "legacy_id": 1715
+}

@@ -1,0 +1,19 @@
+{
+  "id": "5d76c47e-a873-4fe2-829c-dd4a124b2244",
+  "date": "2013-06-30",
+  "summary": "22-year-old man critically injured after falling off a boat on Horsetooth Reservoir and being run over by its intoxicated driver; serious propeller lacerations to his right side; flown by AirLink to Medical Center of the Rockies in critical condition.",
+  "location": "Horsetooth Reservoir",
+  "county": "Larimer",
+  "incident_type": "other",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Larimer County Sheriff's Office",
+  "source_urls": "https://apps.larimer.org/boards/minutes/olab/20130822_OLAB_July-Aug_2013_News_Articles.pdf",
+  "notes": "The Coloradoan, Jun. 30, 2013 (Sarah Jane Kyle); boat carried ~9 people, many underage and severely intoxicated per LCSO; responders LCSO + county parks + Poudre Fire Authority + AirLink + Poudre Valley Hospital ambulance; identities withheld; investigation ongoing whether the fall was accidental/alcohol-related or intentional.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Horsetooth Reservoir",
+  "place_type": "reservoir",
+  "legacy_id": 3308
+}

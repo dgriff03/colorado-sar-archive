@@ -1,0 +1,19 @@
+{
+  "id": "bb1e3762-8838-4838-9fc5-461a015af8b2",
+  "date": "2016-08-12",
+  "summary": "Injured party on Crestone Needle; Alpine assisting Custer County SAR",
+  "location": "Crestone Needle",
+  "county": "Custer",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team (assist to Custer County SAR)",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Mutual-aid assist; injury mechanism not specified in the log.",
+  "peak": "Crestone Needle",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 323
+}

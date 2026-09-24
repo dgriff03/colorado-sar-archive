@@ -1,0 +1,19 @@
+{
+  "id": "eecd1ee8-eb86-44a2-823a-c451bbc55373",
+  "date": "2010-08-21",
+  "summary": "Experienced mountaineer critically injured in a 200-foot tumbling fall on Little Pawnee Peak; evacuated from a dangerous gully with Flight For Life, Colorado Army National Guard, and Front Range Rescue Dogs; 30 members, about 4 hours",
+  "location": "Little Pawnee Peak",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain Rescue Group + mutual aid",
+  "source_urls": "https://internal.rockymountainrescue.org/2010NarrativeSummary.php|http://www.rockymountainrescue.org/rmrg-2010 | https://archives.boulderweekly.com/news/police-blotter-a-clean-getaway-for-peeper/",
+  "notes": "[Merged 2026-09-10: RMRG 2010 page confirms 30 RMR members, Flight For Life + Colorado Army National Guard + Front Range Rescue Dogs assistance, loose/dangerous gully high on the peak.] Boulder Weekly police blotter (parent-opened run 632): 200-ft rockslide fall 'Saturday' (2010-08-21) near Brainard Lakes in the Indian Peaks Wilderness Area; notes victim as an exceptionally experienced Seven Summits climber; agencies: Indian Peaks FD, RMRG, BCSO, Boulder County Emergency Services, CO National Guard, Red Cross. Corroboration merge. Merged 2026-09-15.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Little Pawnee Peak",
+  "place_type": "peak",
+  "legacy_id": 82
+}

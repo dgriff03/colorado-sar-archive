@@ -1,0 +1,19 @@
+{
+  "id": "82f860cf-6623-4929-ac58-909667b80cbb",
+  "date": "2018-10-20",
+  "summary": "Assist RMRG with search for three lost/stuck hikers in Eldorado Canyon (2018-118)",
+  "location": "Eldorado Canyon",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 3,
+  "responding_agency": "Alpine Rescue Team; Rocky Mountain Rescue Group",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2019/01/2018-Missions-Website.pdf",
+  "notes": "ART mission 2018-118.",
+  "peak": "Eldorado Canyon",
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 595
+}

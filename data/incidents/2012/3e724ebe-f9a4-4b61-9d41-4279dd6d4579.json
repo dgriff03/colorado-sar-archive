@@ -1,0 +1,19 @@
+{
+  "id": "3e724ebe-f9a4-4b61-9d41-4279dd6d4579",
+  "date": "2012-01-01",
+  "summary": "Skier caught and partially buried (not critical) in an avalanche on the Second Creek headwall near Berthoud Pass; injured",
+  "location": "Second Creek headwall, near Berthoud Pass",
+  "county": "",
+  "incident_type": "avalanche",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://classic.avalanche.state.co.us/caic/acc/acc_co.php",
+  "notes": "Run 83 CAIC 2011-12 thin-year chunk. CAIC summary only; no SAR team response confirmed. East/Clear Creek side of Berthoud Pass unconfirmed; county left blank.",
+  "peak": "Berthoud Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2331
+}

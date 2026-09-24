@@ -1,0 +1,19 @@
+{
+  "id": "d4a9f708-bd9c-4333-b791-72e817e16150",
+  "date": "2025-08-02",
+  "summary": "Female stranded in a storm in the Argentine Pass area",
+  "location": "Argentine Pass",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf",
+  "notes": "County unverified; ART mission 2025-082.",
+  "peak": "Argentine Pass",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1626
+}

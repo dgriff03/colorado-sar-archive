@@ -1,0 +1,19 @@
+{
+  "id": "3b48015a-c5cb-4556-b0ab-97fa6b12c768",
+  "date": "2015-11-25",
+  "summary": "Brian Holmes, 26, of Ophir triggered an avalanche while descending from the Fatwa area near Waterfall Canyon on a backcountry ski tour from Trout Lake to Ophir; carried an estimated 1,000 feet down the slide and self-extricated after 10-15 minutes, mostly buried with only his face and one arm exposed; non-life-threatening injuries.",
+  "location": "Fatwa area near Waterfall Canyon, Trout Lake to Ophir",
+  "county": "San Miguel",
+  "incident_type": "avalanche",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "San Miguel County Sheriff's Office SAR; Telluride Ski Patrol avalanche dog team (stood down)",
+  "source_urls": "https://sanmiguelcountyco.gov/CivicAlerts.asp?AID=62&ARC=160|https://www.kvnf.org/news/2015-11-30/kvnf-regional-newscast-monday-nov-30-2015",
+  "notes": "Alert published 11/26/2015, incident Wednesday 2015-11-25. Sheriff's deputies staged in Ophir, paged SAR volunteers, launched an Olathe Spray helicopter and activated Telluride Ski Patrol avy-dog team — all stood down when Holmes walked out to on-scene deputies ~2 p.m. His brother Alex Holmes, 27, triggered a second avalanche trying to search and skied back to Trout Lake to call for help. Surfaced via the San Miguel County SO alerts re-check (run 96). Merged the opened KVNF 2015-11-30 regional newscast headline page (Ophir brothers' avalanche headline source).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Waterfall Canyon",
+  "place_type": "canyon",
+  "legacy_id": 2353
+}

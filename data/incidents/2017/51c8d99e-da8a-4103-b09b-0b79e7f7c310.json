@@ -1,0 +1,19 @@
+{
+  "id": "51c8d99e-da8a-4103-b09b-0b79e7f7c310",
+  "date": "2017-05-10",
+  "summary": "Missing 14 YOM in Deer Creek Middle School area (2017-22)",
+  "location": "Deer Creek Middle School area",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2018/01/2017-Missions-Website.pdf",
+  "notes": "ART mission 2017-22. Outcome not stated in PDF; presumed rescued-uninjured.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Deer Creek Middle School",
+  "place_type": "other",
+  "legacy_id": 363
+}

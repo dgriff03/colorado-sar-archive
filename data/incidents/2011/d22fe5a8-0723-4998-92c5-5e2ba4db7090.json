@@ -1,0 +1,19 @@
+{
+  "id": "d22fe5a8-0723-4998-92c5-5e2ba4db7090",
+  "date": "2011-01-23",
+  "summary": "Solo skier caught and fully buried in an avalanche in the West Willow drainage, Snowmass sidecountry; self-rescued and survived.",
+  "location": "West Willow drainage, Snowmass sidecountry",
+  "county": "Pitkin",
+  "incident_type": "avalanche",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://classic.avalanche.state.co.us/caic/acc/acc_co.php",
+  "notes": "CAIC classic-table summary only; no SAR agency or victim identity published in sources found. Date weekday-verified Sunday 2011-01-23 (run 477).",
+  "peak": "Snowmass Mountain",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2776
+}

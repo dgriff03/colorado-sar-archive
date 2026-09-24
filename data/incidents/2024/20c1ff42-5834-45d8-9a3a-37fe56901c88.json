@@ -1,0 +1,19 @@
+{
+  "id": "20c1ff42-5834-45d8-9a3a-37fe56901c88",
+  "date": "2024-01-19",
+  "summary": "75-year-old John Miketin, who had dementia, walked away from his home on North Surrey Court in the Redlands on Jan 11, 2024; multi-day search by MCSO deputies, Mesa County SAR volunteers, community members, drones and CDPS aircraft; found deceased Jan 19, 2024 near the 2000 block of E 1/2 Road on private property; death not considered suspicious.",
+  "location": "Redlands, Grand Junction",
+  "county": "Mesa",
+  "incident_type": "vehicle",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Mesa County Sheriff Office; Mesa County Search and Rescue; Grand Junction Fire Department; Colorado Department of Public Safety (aircraft); Center of Excellence for Advanced Technology Aerial Firefighting (Rifle)",
+  "source_urls": "https://crimewatch.net/us/co/mesa/sheriff/134177/post/update-missing-redlands-man|https://crimewatch.net/us/co/mesa/sheriff/134177/broadcasts/mcso-searching-missing-endangered-adult-redlands",
+  "notes": "Dementia-related walk-away; date shown is the date he was found deceased (last seen Jan 11, 2024).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Redlands",
+  "place_type": "other",
+  "legacy_id": 2536
+}

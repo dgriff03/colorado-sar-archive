@@ -1,0 +1,19 @@
+{
+  "id": "e27bdcac-2955-4147-a26e-62105be3b7e7",
+  "date": "2010-07-25",
+  "summary": "Overdue hiker in Echo Lake area (10-56)",
+  "location": "Echo Lake area",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-56. Outcome not stated in PDF; presumed rescued-uninjured.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 60
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ec8c3222-b290-4429-8632-8c1a95ec034f",
+  "date": "2020-06-02",
+  "summary": "A 43-year-old Utah climber took a 50-foot lead fall on the Scenic Cruise route in Cruise Gully, breaking his ankle, and rappelled to the base of the route; Black Canyon rangers performed the park's first-ever short-haul rescue, flying him to the South Rim helicopter landing pad.",
+  "location": "Scenic Cruise route, Cruise Gully, Black Canyon of the Gunnison NP",
+  "county": "Montrose",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "NPS Black Canyon rangers; Mesa Verde helitack (short-haul training)",
+  "source_urls": "http://npshistory.com/morningreport/incidents/blca.htm",
+  "notes": "NPS morning-report entry dated 2020-06-17 (source: Montrose Daily Press). First short-haul rescue conducted within Black Canyon.",
+  "peak": "Black Canyon of the Gunnison",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2782
+}

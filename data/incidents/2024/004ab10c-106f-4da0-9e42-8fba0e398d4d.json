@@ -1,0 +1,19 @@
+{
+  "id": "004ab10c-106f-4da0-9e42-8fba0e398d4d",
+  "date": "2024-01-20",
+  "summary": "Lost snowboarder south of the Eldora Ski area",
+  "location": "Eldora Ski area (south)",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "County unverified; ART mission 2024-002.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "ONE_LINER",
+  "place": "Eldora Ski Area",
+  "place_type": "ski_area",
+  "legacy_id": 1324
+}

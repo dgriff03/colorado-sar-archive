@@ -1,0 +1,19 @@
+{
+  "id": "512cbc04-83ed-405f-8a94-7df8cd9078f5",
+  "date": "2023-01-11",
+  "summary": "Steamboat Resort Ski Patrol requested RCSAR aid for a skier lost in the sidecountry behind the ski area (Holy Bowl via the Tomahawk backcountry access point). No communication with the subject. An RCSAR team skied in, found ski tracks, and followed them until they entered avalanche terrain and could not proceed. A second team searched likely exit routes at Alpine Mountain Ranch and made contact with the subject, who had self-rescued there.",
+  "location": "Holy Bowl sidecountry, behind Steamboat Ski Resort (Tomahawk access)",
+  "county": "Routt",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Routt County Search and Rescue; Steamboat Resort Ski Patrol",
+  "source_urls": "https://myemail-api.constantcontact.com/Far-Routt-Newsletter.html?soid=1139552188087&aid=6c-JSsZsGRU|http://coloradosar.org/sidecountry-is-backcountry/",
+  "notes": "Resolves the pending Jan-2023 Holy Bowl lead (date pinned to 2023-01-11 via the Far Routt Newsletter, Spring Edition Apr 2023; newsletter URL parent-opened run 553, CSAR blog URL subagent-opened same run).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Holy Bowl",
+  "place_type": "other",
+  "legacy_id": 2936
+}

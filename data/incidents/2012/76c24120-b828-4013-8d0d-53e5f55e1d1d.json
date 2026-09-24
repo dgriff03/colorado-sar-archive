@@ -1,0 +1,19 @@
+{
+  "id": "76c24120-b828-4013-8d0d-53e5f55e1d1d",
+  "date": "2012-09-02",
+  "summary": "Climber fell 70 feet from cliff top while setting top-rope at Boulderado, Boulder Canyon; fatal.",
+  "location": "Boulder Canyon, Boulderado",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201212435|https://www.themtnear.com/stories/man-dies-in-climbing-fall,1138",
+  "notes": "ME 'Man dies in climbing fall' (run 471): 28-YO male, rocks directly above the highway at Boulder Canyon mile marker 32, lost footing, fell onto the road and was pronounced dead; year pinned by story-ID sequence + Sept-2 Sunday match (2012-09-02). Distance discrepancy noted: AAC says 70 ft (top-rope setting), ME says ~150 ft onto road.",
+  "peak": "Boulder Canyon",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 170
+}

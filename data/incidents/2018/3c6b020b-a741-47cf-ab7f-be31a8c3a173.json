@@ -1,0 +1,19 @@
+{
+  "id": "3c6b020b-a741-47cf-ab7f-be31a8c3a173",
+  "date": "2018-10-21",
+  "summary": "Lost 12-year-old male who was hunting with adults in the Arrowhead area; located in good shape the same day.",
+  "location": "Arrowhead area",
+  "county": "Gunnison",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Gunnison County Sheriff's Office",
+  "source_urls": "https://gunnisoncounty.org/Archive/ViewFile/Item/3038",
+  "notes": "GCSO weekly press release, parent-opened 2026-09-19.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Arrowhead",
+  "place_type": "other",
+  "legacy_id": 3485
+}

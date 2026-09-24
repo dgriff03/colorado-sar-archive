@@ -1,0 +1,19 @@
+{
+  "id": "8c44c464-5f58-4083-8edb-76fd15aa8453",
+  "date": "2024-01-27",
+  "summary": "Avalanche in the Dry Gulch area",
+  "location": "Dry Gulch",
+  "county": "Clear Creek",
+  "incident_type": "avalanche",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "Burial/subject not confirmed in log; county unverified; ART mission 2024-003.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Dry Gulch",
+  "place_type": "gulch",
+  "legacy_id": 1326
+}

@@ -1,0 +1,19 @@
+{
+  "id": "77b64fe4-5cbc-492a-a02a-5ceb728bb8a2",
+  "date": "2019-01-25",
+  "summary": "Mark Beshore, Nederland resident, overexerted after his snowmobile stuck in a snowdrift near Nederland; hiked to a cabin at Arapaho Ranch, suffered cardiac arrest, was revived by bystander CPR and Nederland Fire paramedics (defibrillation), then flown by Med Evac helicopter to Boulder Community Hospital; received a stent and fully recovered.",
+  "location": "Arapaho Ranch near Nederland",
+  "county": "Boulder",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Nederland Fire Protection District; Med Evac (helicopter)",
+  "source_urls": "https://www.themtnear.com/stories/local-man-diesand-is-brought-back-to-life,6027",
+  "notes": null,
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Arapaho Ranch",
+  "place_type": "other",
+  "legacy_id": 3563
+}

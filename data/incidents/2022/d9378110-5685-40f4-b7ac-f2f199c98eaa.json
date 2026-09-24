@@ -1,0 +1,19 @@
+{
+  "id": "d9378110-5685-40f4-b7ac-f2f199c98eaa",
+  "date": "2022-06-07",
+  "summary": "Father swimming at Lake Pueblo jumped off an inflatable ~300 ft offshore Tuesday afternoon to check on his daughter, whom he believed was in danger; he disappeared, CPW launched a search and rescue, and his body was later found under 25 ft of water.",
+  "location": "Lake Pueblo (~300 ft offshore)",
+  "county": "Pueblo",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Colorado Parks and Wildlife",
+  "source_urls": "https://www.cpr.org/2022/06/07/father-died-in-lake-pueblo-while-trying-to-make-sure-daughter-was-ok/",
+  "notes": null,
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Lake Pueblo",
+  "place_type": "lake",
+  "legacy_id": 3562
+}

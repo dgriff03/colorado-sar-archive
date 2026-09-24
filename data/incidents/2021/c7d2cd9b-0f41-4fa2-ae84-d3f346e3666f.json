@@ -1,0 +1,19 @@
+{
+  "id": "c7d2cd9b-0f41-4fa2-ae84-d3f346e3666f",
+  "date": "2021-02-01",
+  "summary": "Michael Levy (31) broke his fibula in a leader fall on pitch 2 of Bridalveil Falls (WI5+); he and partner Tom Bohanon self-rescued to the access road and local SAR transported them to their vehicle.",
+  "location": "Bridalveil Falls, near Telluride",
+  "county": "San Miguel",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "local SAR",
+  "source_urls": "https://publications.americanalpineclub.org/articles/13201216237",
+  "notes": "ANAC 2022 edition (Pub 2022); incident date Feb 1 per article.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Bridalveil Falls",
+  "place_type": "waterfall",
+  "legacy_id": 925
+}

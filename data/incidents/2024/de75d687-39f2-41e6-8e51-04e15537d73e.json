@@ -1,0 +1,19 @@
+{
+  "id": "de75d687-39f2-41e6-8e51-04e15537d73e",
+  "date": "2024-01-01",
+  "summary": "Texas couple (first wedding anniversary) got lost on snow-covered Bear Creek Trail after a 3pm start; spent frigid night out (~5F); family member reported them overdue; Montezuma County SAR + Flight for Life located them Jan 2 and extracted both by helicopter; male flown to Durango hospital with mild frostbite.",
+  "location": "Bear Creek Trail, San Juan National Forest",
+  "county": "Montezuma",
+  "incident_type": "lost/stranded",
+  "outcome": "injury",
+  "victims": 2,
+  "responding_agency": "Montezuma County Search and Rescue, Flight for Life",
+  "source_urls": "https://www.wideopenspaces.com/texas-couple-lost-in-colorado-survives-freezing-temperatures/|https://www.advnture.com/news/winter-hikers-warned-after-frostbitten-pair-rescued",
+  "notes": "Hike began Jan 1; SAR search began Jan 2; both returned to Texas. MERGE run 80: advnture.com article confirms the MCSAR Facebook post — call received Jan 2, hikers out since ~3pm Jan 1, team followed the female hiker's tracks up the trail; Flight for Life Durango extraction; mild frostbite only.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Bear Creek Trail",
+  "place_type": "trail",
+  "legacy_id": 1320
+}

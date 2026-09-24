@@ -1,0 +1,19 @@
+{
+  "id": "cca8c500-3564-4544-ac29-9577b3e1b734",
+  "date": "2021-06-18",
+  "summary": "33-year-old female from Arvada found deceased: body discovered by park visitors late Friday afternoon June 18 in the drainage below the outlet of The Loch; rangers could not reach the site Friday night (lightning/darkness) and field ops were hampered by weather Saturday; on Sunday June 20 a 38-member RMNP SAR team (28 in the field) extricated the body up ~60 ft through steep rocky terrain to the Loch Vale Trail and wheeled it by litter to Glacier Gorge Trailhead; transferred to the Larimer County Coroner; incident date and mechanism unknown, investigation ongoing",
+  "location": "The Loch outlet drainage, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park SAR",
+  "source_urls": "https://rockymountaindayhikes.com/rmnp-updates/archives/06-2021|https://www.nationalparkstraveler.org/2021/06/deaths-rising-national-park-system|https://www.nps.gov/romo/learn/news/body-recovery-in-the-loch-area-of-rocky-mountain-national-park.htm",
+  "notes": "DATE APPROXIMATE: incident date unknown; row recorded at the body-discovery date (2021-06-18). RMNP News Release June-20-2021 via the Rocky Mountain Day Hikes June-2021 archive (opened 2026-09-13); mechanism unknown — coded other/fatality per the body-found convention (ids 2363/2388/2432). [run 654: NPT merge, parent-opened URL]",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Rocky Mountain National Park",
+  "place_type": "park",
+  "legacy_id": 2511
+}

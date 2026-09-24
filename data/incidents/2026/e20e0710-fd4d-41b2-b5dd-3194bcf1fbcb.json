@@ -1,0 +1,19 @@
+{
+  "id": "e20e0710-fd4d-41b2-b5dd-3194bcf1fbcb",
+  "date": "2026-08-29",
+  "summary": "Sick female hiker in the South Chicago Creek area",
+  "location": "South Chicago Creek area",
+  "county": "Clear Creek",
+  "incident_type": "medical",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/category/mesa-county/clear-creek-county/page/2/",
+  "notes": "ART mission 2026-125; paged 08/29/26 07:16; terse one-liner, outcome not published.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "South Chicago Creek",
+  "place_type": "creek",
+  "legacy_id": 2734
+}

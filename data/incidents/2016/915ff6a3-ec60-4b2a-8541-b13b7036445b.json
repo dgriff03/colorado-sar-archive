@@ -1,0 +1,19 @@
+{
+  "id": "915ff6a3-ec60-4b2a-8541-b13b7036445b",
+  "date": "2016-06-19",
+  "summary": "Missing 26-year-old male in the Wigwam Campground area off Highway 126",
+  "location": "Wigwam Campground (off Hwy 126)",
+  "county": "",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-56. County ambiguous in one-liner; left blank",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Wigwam Campground",
+  "place_type": "campground",
+  "legacy_id": 2082
+}

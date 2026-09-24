@@ -1,0 +1,19 @@
+{
+  "id": "5464ebc8-8aff-4b4a-b6d6-48ced4526fe7",
+  "date": "2017-01-20",
+  "summary": "58-year-old man from Grand Forks, North Dakota became lost hiking Jan 20 and spent an unplanned night in the RMNP backcountry; found Jan 21 in deep snow ~300 yds off the North Longs Peak Trail south of Alberta Falls by two skiers; suffering hypothermia and exposure injuries; evacuated by toboggan litter to Glacier Gorge Trailhead, then ambulance and Flight for Life to University of Colorado Hospital; 15+ personnel with Larimer County SAR assisting the carry-out.",
+  "location": "~300 yds off North Longs Peak Trail, south of Alberta Falls",
+  "county": "Larimer",
+  "incident_type": "lost/stranded",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park Search and Rescue; Larimer County Search and Rescue",
+  "source_urls": "https://www.nps.gov/romo/learn/news/pr_man_rescued_off_trail_in_alberta_falls_area.htm",
+  "notes": "Found by chance by two skiers Jan 21. Parent-opened run 585.",
+  "peak": "Longs Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3010
+}

@@ -1,0 +1,19 @@
+{
+  "id": "f2dd30a4-f9a0-4c34-a1b0-f3618523ee40",
+  "date": "2020-04-27",
+  "summary": "Table-sized rock flake broke loose on pitch 1 of a Red Garden Wall climb: the lead climber fell, suffered a lacerated liver, and walked out; the belayer was struck and suffered incapacitating injuries (fractured femur, hip, tibia, fibula, foot); multi-agency high-angle rescue with scree evacuation and a Tyrolean highline across South Boulder Creek; Air Life helicopter.",
+  "location": "Red Garden Wall, Eldorado Canyon State Park",
+  "county": "Boulder",
+  "incident_type": "rockfall",
+  "outcome": "injury",
+  "victims": 2,
+  "responding_agency": "BCSO, Rocky Mountain Rescue Group, Rocky Mountain Fire Authority, Boulder Emergency Squad, Colorado State Parks",
+  "source_urls": "https://www.firefighternation.com/firerescue/colorado-rescue-involves-multiple-evacuation-techniques/|http://publications.americanalpineclub.org/articles/13201215879.pdf",
+  "notes": "Date pinned via AAC Accidents in North American Climbing 2021 \"Rockfall Onto Belayer\" account covering the 2020 season",
+  "peak": "Eldorado Canyon",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2948
+}

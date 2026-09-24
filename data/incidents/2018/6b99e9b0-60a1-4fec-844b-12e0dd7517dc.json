@@ -1,0 +1,19 @@
+{
+  "id": "6b99e9b0-60a1-4fec-844b-12e0dd7517dc",
+  "date": "2018-06-02",
+  "summary": "Ankle injury on the lower Barr Trail.",
+  "location": "lower Barr Trail",
+  "county": "El Paso",
+  "incident_type": "injury",
+  "outcome": "assisted",
+  "victims": 1,
+  "responding_agency": "El Paso County SAR",
+  "source_urls": "https://www.facebook.com/epcsar/posts/pfbid0254CtBgZi4ELz7WxL1UgBG3kC7EfKei1zjVZxqD8bUxwFuyg1K2eAHsV64vZ7dxCyl",
+  "notes": "Source: El Paso County SAR Facebook page.",
+  "peak": "Pikes Peak",
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3664
+}

@@ -1,0 +1,19 @@
+{
+  "id": "146b947b-f64e-4487-a7a2-d11fedfc2a14",
+  "date": "2019-06-26",
+  "summary": "Overdue hiker found deceased on a snow slope ~1,000 feet below the Challenger/Kit Carson saddle",
+  "location": "Below Challenger/Kit Carson saddle",
+  "county": "Saguache",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Custer County SAR",
+  "source_urls": "https://custersar.org/fall-near-the-challenger-and-kit-carson-saddle-june-26th-2019/ | https://www.centerpostdispatch.com/stories/searchers-recover-body-of-missing-climber,21493|https://snowbrains.com/body-solo-hiker-found-colorado/",
+  "notes": "Cause of death not stated; body recovery Run 307: Center Post-Dispatch identifies the subject as Tyler Cline, 27, of Buena Vista; he left Sunday to climb Kit Carson Peak and was reported missing when he missed work; car found at the Kit Carson trailhead Wednesday. Run 375: snowbrains account merged (same incident: solo hiker attempting all Colorado 14ers, body found between Kit Carson Peak and Challenger Point).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Challenger Point",
+  "place_type": "peak",
+  "legacy_id": 661
+}

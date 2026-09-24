@@ -1,0 +1,19 @@
+{
+  "id": "a7dae9e2-1afd-4a51-83a8-50e04bbbd4ef",
+  "date": "2015-08-17",
+  "summary": "Overdue hiker in the Summit Lake area of Mount Evans",
+  "location": "Summit Lake, Mount Evans",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-85.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2015
+}

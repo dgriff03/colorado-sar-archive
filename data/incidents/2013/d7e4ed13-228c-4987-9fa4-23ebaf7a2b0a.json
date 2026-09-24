@@ -1,0 +1,19 @@
+{
+  "id": "d7e4ed13-228c-4987-9fa4-23ebaf7a2b0a",
+  "date": "2013-08-16",
+  "summary": "Falling rock caused 50-foot roped fall in North Chimney, Longs Peak, with severe injuries; rangers and climbers responded.",
+  "location": "Longs Peak, North Chimney",
+  "county": "Larimer",
+  "incident_type": "rockfall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park rangers",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201213013|http://npshistory.com/morningreport/incidents/romo.htm|https://www.nps.gov/romo/learn/news/pr_body_recovery_delayed_due_to_second_incident_on_longs_peak.htm",
+  "notes": "| NPS ROMO morning-report compendium URL merged (run 487). Merge run 529: NPS body-recovery-delayed release appended — documents this North Chimney rescue delaying the Paul Nahon (id 2808) body recovery.",
+  "peak": "Longs Peak",
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 187
+}

@@ -1,0 +1,19 @@
+{
+  "id": "a6ff29ff-243b-4844-86aa-78df5a862eca",
+  "date": "2016-11-25",
+  "summary": "Man became unresponsive and hypothermic after going into icy Barker Reservoir to retrieve two dogs; a Nederland PD detective revived him, NFPD treated him on scene, and AMR transported him to Boulder Community Hospital.",
+  "location": "Barker Reservoir shoreline near water treatment ponds, Nederland",
+  "county": "Boulder",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Nederland Police Department; Nederland Fire Protection District; American Medical Response",
+  "source_urls": "https://www.themtnear.com/stories/dog-man-saved-after-barker-swim,3214",
+  "notes": "Incident occurred the day after Thanksgiving 2016 (story date arithmetic). Dogs entered icy water; owner collapsed at shore's edge with hypothermia after his dog got stuck under an ice ledge. Fire/EMS response; no SAR team paged.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Barker Reservoir",
+  "place_type": "reservoir",
+  "legacy_id": 3048
+}

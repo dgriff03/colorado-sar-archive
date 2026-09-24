@@ -1,0 +1,19 @@
+{
+  "id": "7c7c34cc-1b1c-488f-83ea-0c4c6f80a63e",
+  "date": "2018-12-18",
+  "summary": "Injured skier in avalanche in Jones Pass area (2018-130)",
+  "location": "West Fork of Clear Creek, north of Jones Pass",
+  "county": "Clear Creek",
+  "incident_type": "avalanche",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2019/01/2018-Missions-Website.pdf|https://classic.avalanche.state.co.us/caic/acc/acc_co.php|http://unofficialnetworks.com/2018/12/19/scary-persistent-slab-injures-backcountry-skier-colorado/",
+  "notes": "ART mission 2018-130.",
+  "peak": "Jones Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 606
+}

@@ -1,0 +1,19 @@
+{
+  "id": "6479088c-a430-4cee-b83b-26c826ce4163",
+  "date": "2022-11-20",
+  "summary": "Possible avalanche burial in the Loveland Pass area",
+  "location": "Loveland Pass",
+  "county": "Clear Creek",
+  "incident_type": "avalanche",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2023/01/2022-Missions-Website.pdf",
+  "notes": "Possible burial; no confirmed subject stated in log; ART mission 2022-113.",
+  "peak": "Loveland Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1167
+}

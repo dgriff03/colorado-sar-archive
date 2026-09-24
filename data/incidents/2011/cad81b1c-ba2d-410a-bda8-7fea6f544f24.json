@@ -1,0 +1,19 @@
+{
+  "id": "cad81b1c-ba2d-410a-bda8-7fea6f544f24",
+  "date": "2011-07-22",
+  "summary": "26-year-old Kansas man suffering severe high altitude sickness at the Boulder Field on Longs Peak, ill since attempting to summit the day before; a park trail crew assessed him within 30 min and St. Anthony Flight for Life helicopter flew him to Medical Center of the Rockies; doctors said the care likely saved his life",
+  "location": "Boulder Field, Longs Peak, Rocky Mountain National Park",
+  "county": "Boulder",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "RMNP rangers/trail crew; St. Anthony Flight for Life",
+  "source_urls": "http://npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "Incident date pinned to Fri 2011-07-22: report filed Mon Jul 25 says rangers were notified \"last Friday morning\"; weekday-verified.",
+  "peak": "Longs Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2676
+}

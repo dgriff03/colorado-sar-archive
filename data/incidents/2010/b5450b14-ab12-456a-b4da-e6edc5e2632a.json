@@ -1,0 +1,19 @@
+{
+  "id": "b5450b14-ab12-456a-b4da-e6edc5e2632a",
+  "date": "2010-11-06",
+  "summary": "Intoxicated young man in poor clothing reported missing at the top of Wildernest; he was located the next morning.",
+  "location": "Wildernest",
+  "county": "Summit",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": null,
+  "source_urls": "http://sardoc.org/cms/wp-content/uploads/2011/01/PublicSummaryFinal.pdf",
+  "notes": "Run-658 SARDOC chunk.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": "Wildernest",
+  "place_type": "town",
+  "legacy_id": 3182
+}

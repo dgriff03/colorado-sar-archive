@@ -1,0 +1,19 @@
+{
+  "id": "c64f507f-56c6-4447-b246-143351bee706",
+  "date": "2013-07-29",
+  "summary": "Search for missing party in the Echo Lake area (Alpine mission 13-56)",
+  "location": "Echo Lake",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/category/recent-missions/clear-creek-county/page/149/",
+  "notes": "Alpine Rescue Team Clear Creek County category mission-log archive (Alpine mission 13-56); one-line page alert, outcome detail unstated in post.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1835
+}

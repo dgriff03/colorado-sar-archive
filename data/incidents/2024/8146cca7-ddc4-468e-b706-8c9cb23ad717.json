@@ -1,0 +1,19 @@
+{
+  "id": "8146cca7-ddc4-468e-b706-8c9cb23ad717",
+  "date": "2024-03-15",
+  "summary": "Sick hiker on Barr Trail required extraction during the March blizzard; stretcher carry transferred to the Manitou Incline Trail for the carry-out to the trailhead",
+  "location": "Barr Trail near Manitou Springs, Pikes Peak",
+  "county": "El Paso",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "El Paso County Search and Rescue",
+  "source_urls": "https://www.advnture.com/news/hikers-rescued-by-snow-cat-from-barr-trail|https://www.facebook.com/epcsar/posts/pfbid02uvCsMW6gCz5QRoGJCxgTwqwXkwPfEPBEprfr4WkAH5hQMGctNdZnKgZzZSqmpb8l",
+  "notes": "Date approximate: advnture.com article (updated 2024-03-21) says the mission was 'on Friday' — 2024-03-15 was the Friday of the March 14-15, 2024 blizzard; victim count/condition details beyond 'sick hiker' not reported. 2026-09-18: merged EPCSAR FB post (Manitou Incline carry-out; post dated 3/16, blizzard mission likely spanned 3/15-3/16).",
+  "peak": "Pikes Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2278
+}

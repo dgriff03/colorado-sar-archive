@@ -1,0 +1,19 @@
+{
+  "id": "6be85dbf-cf61-4735-9061-4609d04ebda0",
+  "date": "2017-03-20",
+  "summary": "Skier staying at the Polar Star Inn 10th Mountain hut fractured ribs with possible internal injuries in a fall; snowmobile evacuation to Yeoman Park trailhead, then ambulance",
+  "location": "Polar Star Inn hut, west side of New York Mountain",
+  "county": "Eagle",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Vail Mountain Rescue Group + Eagle County Paramedic Services, Eagle County Sheriff, Vail Dispatch",
+  "source_urls": "https://www.vailvalleypartnership.com/2017/04/vail-mountain-rescue-group-newsletter-spring-2017/",
+  "notes": "approx; texted 911 just before 7am; out of field by 1:45pm",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Polar Star Inn",
+  "place_type": "other",
+  "legacy_id": 351
+}

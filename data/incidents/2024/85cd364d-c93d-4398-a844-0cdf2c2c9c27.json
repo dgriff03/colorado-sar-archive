@@ -1,0 +1,19 @@
+{
+  "id": "85cd364d-c93d-4398-a844-0cdf2c2c9c27",
+  "date": "2024-08-27",
+  "summary": "Assist to Rocky Mountain National Park (State SAR Coordinator) for an injured 39-year-old woman in the Spearhead Peak area",
+  "location": "Spearhead Peak",
+  "county": "",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Rocky Mountain National Park",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "County unverified; injury mechanism not stated in log; ART mission 2024-115.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Spearhead Peak",
+  "place_type": "peak",
+  "legacy_id": 1459
+}

@@ -1,0 +1,19 @@
+{
+  "id": "bf3b77fa-a3cc-4b96-9596-51602cf6f9d1",
+  "date": "2017-06-27",
+  "summary": "Car over the edge near the Coke Ovens, fell ~600 ft; lone male occupant died; SAR teams assisting per local reporting",
+  "location": "Near Coke Ovens, Colorado National Monument",
+  "county": "Mesa",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "SAR teams, NPS",
+  "source_urls": "https://95rockfm.com/colorado-national-monument-car-off-cliff/",
+  "notes": "DATE APPROXIMATE — reporter's last-updated 2017-06-28 page describes SAR 'currently assisting'. Distinct from the 2022-09-12 Coke Ovens crash (id 2790). Incident-focused only.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Coke Ovens",
+  "place_type": "other",
+  "legacy_id": 2898
+}

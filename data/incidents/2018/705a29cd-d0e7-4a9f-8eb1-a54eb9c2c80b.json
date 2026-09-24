@@ -1,0 +1,19 @@
+{
+  "id": "705a29cd-d0e7-4a9f-8eb1-a54eb9c2c80b",
+  "date": "2018-09-07",
+  "summary": "Missing male, possibly suicidal, at Lost Park; located deceased by a searcher.",
+  "location": "Lost Park",
+  "county": "Park",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "SARDOC (dog-team assist); county SAR agency not named in summary",
+  "source_urls": "http://sardoc.org/cms/wp-content/uploads/2011/01/2018SARDOCPublicSearchSummaries123118.pdf",
+  "notes": "SARDOC 2018 public mission summaries (parent-opened this run). Terse entry; no victim details.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Lost Park",
+  "place_type": "park",
+  "legacy_id": 3057
+}

@@ -1,0 +1,19 @@
+{
+  "id": "d10394be-521b-41a0-bf4c-26c0337e34d8",
+  "date": "2023-07-17",
+  "summary": "51-year-old found unresponsive one mile into the Mount Ida Trail; visitors and rangers performed CPR unsuccessfully; body transferred to the Grand County Coroner.",
+  "location": "Mount Ida Trail, Rocky Mountain National Park",
+  "county": "Grand",
+  "incident_type": "medical",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "National Park Service",
+  "source_urls": "https://www.npshistory.com/morningreport/incidents/romo.htm|https://www.nps.gov/romo/learn/news/fatality-on-mount-ida-trail-in-rocky-mountain-national-park.htm",
+  "notes": "NPS ROMO morning-report compendium entry.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Mount Ida Trail",
+  "place_type": "peak",
+  "legacy_id": 2871
+}

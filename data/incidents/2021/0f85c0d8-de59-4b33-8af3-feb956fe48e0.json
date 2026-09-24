@@ -1,0 +1,19 @@
+{
+  "id": "0f85c0d8-de59-4b33-8af3-feb956fe48e0",
+  "date": "2021-08-26",
+  "summary": "Two climbers fell over 100 feet from Wind Ridge, Wind Tower, Eldorado Canyon, when belay anchor failed; one fatality, one severe injuries; RMRG response.",
+  "location": "Wind Tower, Eldorado Canyon (Wind Ridge route)",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 2,
+  "responding_agency": "Rocky Mountain Rescue Group; Rocky Mountain Rescue Group; Boulder County Sheriff",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201216198.pdf|https://www.climbing.com/news/climer-killed-fall-eldorado-springs-colorado/?scope=anon|https://archives.boulderweekly.com/special-editions/aubrey-runyon/",
+  "notes": "Anchor (girth-hitched cordelette) failed, pulling both climbers off; survivor in 20s hospitalized with extensive injuries, then airlifted to Denver; deceased in 30s pronounced at ~6:11pm.; Merged 2 reports (parts: aac, news-2020-2023); date per both sources. Boulder Weekly profile of Aubrey Runyon identifies her as the witness/initial responder: reports ~130-ft fall from Wind Tower, survivor with severe leg injury, second climber dead on impact.",
+  "peak": "Eldorado Canyon",
+  "setting": "frontcountry",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1010
+}

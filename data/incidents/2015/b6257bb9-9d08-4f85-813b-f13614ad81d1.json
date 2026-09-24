@@ -1,0 +1,19 @@
+{
+  "id": "b6257bb9-9d08-4f85-813b-f13614ad81d1",
+  "date": "2015-08-05",
+  "summary": "Injured 62-year-old woman in the Square Top Mountain area near Guanella Pass",
+  "location": "Square Top Mountain (Guanella Pass)",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Injury mechanism not specified in the log.",
+  "peak": "Square Top Mountain",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 258
+}

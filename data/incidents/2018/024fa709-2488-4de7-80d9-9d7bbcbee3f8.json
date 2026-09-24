@@ -1,0 +1,19 @@
+{
+  "id": "024fa709-2488-4de7-80d9-9d7bbcbee3f8",
+  "date": "2018-06-22",
+  "summary": "Vehicle accident off Rampart Range Road.",
+  "location": "Rampart Range Road",
+  "county": "El Paso",
+  "incident_type": "vehicle",
+  "outcome": "responded",
+  "victims": null,
+  "responding_agency": "El Paso County SAR",
+  "source_urls": "https://www.facebook.com/epcsar/posts/pfbid02NsmbcVjgJneeJ7TbyX57fbXcpR5TdYfZowomFzJ3bW2YqRLHGHXZKUGbwCUEdhj2l",
+  "notes": "Source: El Paso County SAR Facebook page. Victim count not stated.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Rampart Range Road",
+  "place_type": "road",
+  "legacy_id": 3670
+}

@@ -1,0 +1,19 @@
+{
+  "id": "234c7085-33f7-47d5-8796-14d895aaee0c",
+  "date": "2018-12-16",
+  "summary": "Stranded snowmobiler (first of two missions in two days).",
+  "location": "location unspecified",
+  "county": "Grand County",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Grand County Search and Rescue",
+  "source_urls": "https://www.facebook.com/GCSAR/posts/pfbid0vpxSTZ6PQHEbvCnzFKgMm9x9ot342RqmpU2uqiCScAgH8yzHjz8e1eCgR3Gdj5Bjl|https://www.facebook.com/GCSAR/posts/pfbid02zgQ9eE2DFifkZ5KN7BSHMM9g3S2L6Wa7hj5ps4i1U8v34ndzLgiCtvc8LDdRgbxYl",
+  "notes": "Date approximate; location unspecified.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3587
+}

@@ -1,0 +1,19 @@
+{
+  "id": "9bd52c9b-29fd-48f5-b1db-fc6d828c4479",
+  "date": "2025-08-19",
+  "summary": "Sick 51-year-old male mountain biker in the Centennial Cone Park area",
+  "location": "Centennial Cone Park",
+  "county": "Jefferson",
+  "incident_type": "medical",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf",
+  "notes": "County unverified; ART mission 2025-095.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Centennial Cone Park",
+  "place_type": "park",
+  "legacy_id": 1638
+}

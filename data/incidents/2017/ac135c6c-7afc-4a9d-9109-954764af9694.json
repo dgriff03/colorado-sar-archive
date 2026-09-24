@@ -1,0 +1,19 @@
+{
+  "id": "ac135c6c-7afc-4a9d-9109-954764af9694",
+  "date": "2017-10-08",
+  "summary": "Hikers about 9:30 a.m. discovered a deceased person near Pinewood Reservoir in the 15000 block of W. County Road 18E; LCSO, Larimer County Dept. of Natural Resources park rangers and LCSAR responded and carried out the body; the coroner took custody with no indication of foul play.",
+  "location": "Pinewood Reservoir, 15000 blk W. County Rd 18E",
+  "county": "Larimer",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Larimer County Sheriff's Office; Larimer County Dept. of Natural Resources park rangers; Larimer County SAR; Larimer County Coroner's Office",
+  "source_urls": "https://northfortynews.com/category/news/body-recovered-near-pinewood-reservior/|https://www.facebook.com/lcsarinc/posts/pfbid02hdinYi3cZc6r2pZqQL4Ld6Pz7EaP2HowZRPMGaPDDP48CokDXjsdhXj4xanTZBaFl",
+  "notes": "Body discovery rather than witnessed rescue; index precedent exists for recovery rows. Run 651.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Pinewood Reservoir",
+  "place_type": "reservoir",
+  "legacy_id": 3135
+}

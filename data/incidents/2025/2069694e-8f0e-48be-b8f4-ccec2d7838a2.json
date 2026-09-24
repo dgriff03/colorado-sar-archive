@@ -1,0 +1,19 @@
+{
+  "id": "2069694e-8f0e-48be-b8f4-ccec2d7838a2",
+  "date": "2025-09-25",
+  "summary": "Patient with serious injuries evacuated from behind Mt. Morrison; lowered 500 feet down a steep scree slope to an ambulance",
+  "location": "behind Mt. Morrison",
+  "county": "Jefferson",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Foothills Fire, Genesee Fire Rescue, Indian Hills Fire, Highlands Rescue, Jefferson County Sheriff's Office",
+  "source_urls": "https://www.facebook.com/AlpineRescue/posts/pfbid0Ei7d75DoXbRUWouQxTfYr3mXSHPsRtkcKbobMA22bDHhPXegRKvrnMvXevhCBjqql",
+  "notes": "Injury mechanism not specified; evening mission, posted 2025-09-26",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Mount Morrison",
+  "place_type": "peak",
+  "legacy_id": 1668
+}

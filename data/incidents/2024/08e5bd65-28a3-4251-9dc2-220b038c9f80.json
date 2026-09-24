@@ -1,0 +1,19 @@
+{
+  "id": "08e5bd65-28a3-4251-9dc2-220b038c9f80",
+  "date": "2024-10-30",
+  "summary": "Injured 20-year-old male snowboarder in the Loveland Pass area",
+  "location": "Loveland Pass",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "Injury mechanism not stated in log; ART mission 2024-156.",
+  "peak": "Loveland Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1506
+}

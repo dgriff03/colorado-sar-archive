@@ -1,0 +1,19 @@
+{
+  "id": "b016ad42-f1de-4e9f-b384-eb17d1d1cac3",
+  "date": "2016-07-25",
+  "summary": "Missing 25-year-old male in the Green Mountain area of Lakewood",
+  "location": "Green Mountain (Lakewood)",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-80.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Green Mountain",
+  "place_type": "peak",
+  "legacy_id": 2099
+}

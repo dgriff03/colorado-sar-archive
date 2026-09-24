@@ -1,0 +1,19 @@
+{
+  "id": "becce921-e69d-4213-b8d1-06cd0513bd80",
+  "date": "2024-07-20",
+  "summary": "Injured hiker roughly 6 miles from the nearest trailhead; call came around 9:30pm Saturday amid thunderstorms; reached by ATV; all out of the field by 4:15am Sunday.",
+  "location": "~6 miles from nearest trailhead (location unspecified)",
+  "county": "Custer",
+  "incident_type": "injury",
+  "outcome": "assisted",
+  "victims": 1,
+  "responding_agency": "Custer County SAR",
+  "source_urls": "https://www.facebook.com/CusterSAR/posts/pfbid0diZjnP6Yz7jZC1MXBWCT57eonVxPkZkW95ehjUpMh4D3qk8Fr2fsnrUxEfF6TbdSl",
+  "notes": "Source: Custer County SAR Facebook page. Companion post also covers the 2024-07-19 sick hiker.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3718
+}

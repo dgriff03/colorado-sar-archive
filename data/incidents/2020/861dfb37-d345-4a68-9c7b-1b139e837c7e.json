@@ -1,0 +1,19 @@
+{
+  "id": "861dfb37-d345-4a68-9c7b-1b139e837c7e",
+  "date": "2020-10-04",
+  "summary": "Cessna 210B N9568X suffered engine failure after departing Blake Field (Delta) for Casper, WY; hard forced landing next to highway near Cedaredge; post-impact fire; pilot Tyler Beyer (35) and passenger Jessica Beyer (33) pulled from wreckage by witnesses with serious injuries.",
+  "location": "near Cedaredge, Grand Mesa (Hwy 65 near Ward Lake)",
+  "county": "Delta",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 2,
+  "responding_agency": "Delta County Sheriff's Office, Delta County Search and Rescue, Delta County Ambulance District, Cedaredge Fire Department",
+  "source_urls": "https://mycountry955.com/bar-nunn-couple-severely-injured-in-plane-crash-in-western-colorado/|http://www.kathrynsreport.com/2020/10/cessna-210b-centurion-n9568x-accident.html",
+  "notes": "Both victims transported to St. Mary's Medical Center, Grand Junction; Delta County SAR provided scene security; names per NTSB/Kathryn's Report (widely published).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Cedaredge",
+  "place_type": "town",
+  "legacy_id": 883
+}

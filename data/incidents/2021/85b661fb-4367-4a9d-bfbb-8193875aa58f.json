@@ -1,0 +1,19 @@
+{
+  "id": "85b661fb-4367-4a9d-bfbb-8193875aa58f",
+  "date": "2021-07-06",
+  "summary": "Two experienced hikers lost on a day hike from the Bear Creek Trail south of Ouray toward American Flats after a midday navigation error; ended up in Wildhorse Canyon, spent two unplanned nights out with no fire; Ouray Mountain Rescue Team located them by helicopter late on day 2 and flew them out the following morning",
+  "location": "Bear Creek Trail / Wildhorse Canyon, south of Ouray",
+  "county": "Ouray",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Ouray Mountain Rescue Team",
+  "source_urls": "https://www.ouraymountainrescue.com/how-to-get-lost",
+  "notes": "First-person survivor account on the team site. Hike began ~7am 2021-07-06; pair called an OMRT member ~5pm after ending up in Wildhorse Canyon; helo located them just before 4pm on 2021-07-07 on its second pass, crew set down ~1 mi away and guided them to an LZ; too late to fly, overnighted with the team; flown to the outskirts of Ouray the morning of 2021-07-08.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Wildhorse Canyon",
+  "place_type": "canyon",
+  "legacy_id": 2828
+}

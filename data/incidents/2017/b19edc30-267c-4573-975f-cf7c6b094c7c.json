@@ -1,0 +1,19 @@
+{
+  "id": "b19edc30-267c-4573-975f-cf7c6b094c7c",
+  "date": "2017-08-05",
+  "summary": "34-year-old man seriously injured in a 15- to 20-foot fall on Pagoda Mountain; two hikers activated a SPOT alert; Colorado National Guard hoist; Flight for Life to St. Anthony's.",
+  "location": "Pagoda Mountain, Rocky Mountain National Park",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "National Park Service",
+  "source_urls": "https://www.npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "NPS ROMO morning-report compendium entry.",
+  "peak": "Pagoda Mountain",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2858
+}

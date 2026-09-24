@@ -1,0 +1,19 @@
+{
+  "id": "9c48d3c6-b115-4e20-b4ea-e568b3305e35",
+  "date": "2020-12-30",
+  "summary": "Injured 25 YOM on Beaver Brook Trail (2020-137)",
+  "location": "Beaver Brook Trail",
+  "county": "Jefferson",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2021/01/2020-Missions-Website.pdf",
+  "notes": "ART mission 2020-137. Cause of injury not stated.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Beaver Brook Trail",
+  "place_type": "trail",
+  "legacy_id": 908
+}

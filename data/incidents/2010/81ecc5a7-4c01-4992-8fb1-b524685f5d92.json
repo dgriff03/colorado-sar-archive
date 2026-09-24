@@ -1,0 +1,19 @@
+{
+  "id": "81ecc5a7-4c01-4992-8fb1-b524685f5d92",
+  "date": "2010-08-06",
+  "summary": "Missing party in Buffalo Creek area (10-64)",
+  "location": "Buffalo Creek area",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-64. Victim count estimated; outcome not stated, presumed rescued-uninjured.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Buffalo Creek",
+  "place_type": "creek",
+  "legacy_id": 72
+}

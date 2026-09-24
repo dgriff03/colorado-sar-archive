@@ -1,0 +1,19 @@
+{
+  "id": "b05dfee7-df9b-4847-bda9-eb80ae03937d",
+  "date": "2015-08-15",
+  "summary": "Climber injured wrist and finger descending Crestone Needle; assisted",
+  "location": "Crestone Needle",
+  "county": "Custer",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Custer County SAR",
+  "source_urls": "https://custersar.org/hectic-weekend-for-local-sar-teams-in-the-sangres/",
+  "notes": "date estimated: from official combined report covering the Aug 14-16, 2015 weekend",
+  "peak": "Crestone Needle",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 262
+}

@@ -1,0 +1,19 @@
+{
+  "id": "779715e5-512a-4808-92cd-78b4f07faddc",
+  "date": "2018-06-25",
+  "summary": "55-year-old Houston, Texas woman suffering high altitude sickness in the remote Powderhorn Lake area; Western Mountain Rescue made contact and she was airlifted to Montrose Memorial Hospital.",
+  "location": "Powderhorn Lake area",
+  "county": "Gunnison",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Gunnison County Sheriff Office; Western Mountain Rescue",
+  "source_urls": "https://gunnisoncounty.org/Archive/ViewFile/Item/2861",
+  "notes": "GCSO weekly blotter entry 06/25/18 (parent-opened run 615). Fills thin year 2018 for Gunnison.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Powderhorn Lake",
+  "place_type": "lake",
+  "legacy_id": 3058
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2db187d6-2101-4b54-b2ae-0aa8bb39b82f",
+  "date": "2015-08-10",
+  "summary": "Missing 10-year-old female in the Clement Park area in Littleton",
+  "location": "Clement Park, Littleton",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-79.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Clement Park",
+  "place_type": "park",
+  "legacy_id": 2009
+}

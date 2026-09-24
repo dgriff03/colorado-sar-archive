@@ -1,0 +1,19 @@
+{
+  "id": "85d50e7f-e461-4372-93d5-2e46b9e8a1b5",
+  "date": "2010-10-29",
+  "summary": "Hunter with snow blindness in Mt Evans area near Summit Lake (10-102)",
+  "location": "Mt Evans near Summit Lake",
+  "county": "Clear Creek",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-102.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 111
+}

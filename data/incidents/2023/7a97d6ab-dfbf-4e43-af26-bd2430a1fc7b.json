@@ -1,0 +1,19 @@
+{
+  "id": "7a97d6ab-dfbf-4e43-af26-bd2430a1fc7b",
+  "date": "2023-07-29",
+  "summary": "Assist to Larimer County SAR in search for 3 missing females near the Hourglass Reservoir",
+  "location": "Hourglass Reservoir",
+  "county": "Larimer",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 3,
+  "responding_agency": "Alpine Rescue Team, Larimer County SAR",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2024/01/2023-Missions-Website.pdf",
+  "notes": "ART mission 2023-070.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Hourglass Reservoir",
+  "place_type": "reservoir",
+  "legacy_id": 1255
+}

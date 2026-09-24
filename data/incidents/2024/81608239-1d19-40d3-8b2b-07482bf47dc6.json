@@ -1,0 +1,19 @@
+{
+  "id": "81608239-1d19-40d3-8b2b-07482bf47dc6",
+  "date": "2024-10-25",
+  "summary": "Injured hiker in the Silver Dollar Lake area",
+  "location": "Silver Dollar Lake",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "Injury mechanism not stated in log; ART mission 2024-153.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Silver Dollar Lake",
+  "place_type": "lake",
+  "legacy_id": 1504
+}

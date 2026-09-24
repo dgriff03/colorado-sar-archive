@@ -1,0 +1,19 @@
+{
+  "id": "fc2b9ff1-8055-432c-984a-11ccc82b4e2a",
+  "date": "2016-04-09",
+  "summary": "Sick 31-year-old female hiker near the top of Guanella Pass (Code 3 page)",
+  "location": "Guanella Pass (summit)",
+  "county": "Clear Creek",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-26.",
+  "peak": "Guanella Pass",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2058
+}

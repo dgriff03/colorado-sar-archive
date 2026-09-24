@@ -1,0 +1,19 @@
+{
+  "id": "c71723fa-c4c8-41fa-a6ca-d5dd279682bf",
+  "date": "2016-07-04",
+  "summary": "Carry-out of an injured party in the Mount Falcon area",
+  "location": "Mount Falcon area",
+  "county": "Jefferson",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-67.",
+  "peak": "Mount Falcon",
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2090
+}

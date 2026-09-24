@@ -1,0 +1,19 @@
+{
+  "id": "540b3810-cc19-4d25-a5ce-63e2815a087e",
+  "date": "2015-07-07",
+  "summary": "Marine Sgt. Krystle Williams, 25, fell ~20 ft on the rain-slicked north side of Horsetooth Rock on a Tuesday afternoon, breaking her tibia in three places and shattering her L5 vertebra; 45 rescuers (PFA, LCSAR, parks, PVH EMS) worked 4+ hours in steady rain to lower her in a multi-rope system to the trailhead and an ambulance; she survived, hospitalized at Medical Center of the Rockies",
+  "location": "Horsetooth Rock (north side), Horsetooth Mountain Park, west of Fort Collins",
+  "county": "Larimer",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Poudre Fire Authority; Larimer County Search and Rescue; Larimer County parks; Poudre Valley Hospital EMS",
+  "source_urls": "https://www.beaconjournal.com/story/news/2015/07/18/future-uncertain-marine-rescued-horsetooth/30335329/|https://apps.larimer.org/boards/minutes/olab/20150723_news_articles_July_2015.pdf",
+  "notes": "Beaconjournal 2015-07-18 follow-up feature confirms date July 7 and identity; larimer.org PDF preserves the original 2015-07-07 Coloradoan story; date weekday-verified Tuesday; same incident as the 'Horsetooth Rock fall prompts rescue' 7/7 report",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Horsetooth Mountain Park",
+  "place_type": "park",
+  "legacy_id": 2456
+}

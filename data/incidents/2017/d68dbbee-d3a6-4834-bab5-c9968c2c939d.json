@@ -1,0 +1,19 @@
+{
+  "id": "d68dbbee-d3a6-4834-bab5-c9968c2c939d",
+  "date": "2017-08-13",
+  "summary": "Missing 75 YOF near Goose Creek trailhead, day 1; day 2 on 8/14 (2017-86, 2017-89)",
+  "location": "Goose Creek trailhead",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2018/01/2017-Missions-Website.pdf",
+  "notes": "ART missions 2017-86 (8/13, day 1) and 2017-89 (8/14, day 2). Outcome not stated; presumed rescued-uninjured.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Goose Creek Trailhead",
+  "place_type": "trailhead",
+  "legacy_id": 431
+}

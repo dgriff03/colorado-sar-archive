@@ -1,0 +1,19 @@
+{
+  "id": "87743c45-322c-43f3-ac27-af66f8edefa3",
+  "date": "2024-04-08",
+  "summary": "Injured skier involved in an avalanche near Mt Bethel",
+  "location": "Mt Bethel",
+  "county": "Clear Creek",
+  "incident_type": "avalanche",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf|https://unofficialnetworks.com/2024/04/11/colorado-avalanche-forecaster-buried/",
+  "notes": "Log spells \"Mt Bethal\"; county unverified; ART mission 2024-025. [run 589] UN corroboration: CAIC avalanche forecaster caught and partially buried in slide on Mt Bethel NE slope ~11,800 ft; Alpine Rescue Team + CAIC staff skied in, Flight for Life ferried rescuers; toboggan evac to Clear Creek EMS, hospital transport, no major injuries; Herman Gulch egress.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Mount Bethel",
+  "place_type": "peak",
+  "legacy_id": 1348
+}

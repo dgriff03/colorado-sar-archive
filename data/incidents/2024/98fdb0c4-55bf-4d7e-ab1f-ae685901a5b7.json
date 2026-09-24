@@ -1,0 +1,19 @@
+{
+  "id": "98fdb0c4-55bf-4d7e-ab1f-ae685901a5b7",
+  "date": "2024-12-31",
+  "summary": "Injured OHV party in the St Mary's / Alice area",
+  "location": "St Mary's / Alice",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "Number of subjects not stated; recorded as 1; county unverified; ART mission 2024-172.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "St. Mary's",
+  "place_type": "town",
+  "legacy_id": 1529
+}

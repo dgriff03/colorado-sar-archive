@@ -1,0 +1,19 @@
+{
+  "id": "b48057b9-ed26-467b-a86b-fac75e3f6ca3",
+  "date": "2025-09-13",
+  "summary": "Injured mountain biker in the Virginia Canyon Mountain Park area",
+  "location": "Virginia Canyon Mountain Park",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf",
+  "notes": "County unverified; injury mechanism not stated; ART mission 2025-113.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Virginia Canyon Mountain Park",
+  "place_type": "park",
+  "legacy_id": 1659
+}

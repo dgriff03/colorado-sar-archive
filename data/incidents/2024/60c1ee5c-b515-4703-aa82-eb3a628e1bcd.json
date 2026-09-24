@@ -1,0 +1,19 @@
+{
+  "id": "60c1ee5c-b515-4703-aa82-eb3a628e1bcd",
+  "date": "2024-07-21",
+  "summary": "Parties that separated from their group in the Mount Parnassus area",
+  "location": "Mount Parnassus",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "Number of parties not stated; recorded as 1; county unverified; ART mission 2024-076.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Mount Parnassus",
+  "place_type": "peak",
+  "legacy_id": 1409
+}

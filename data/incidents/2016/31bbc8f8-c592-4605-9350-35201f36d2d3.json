@@ -1,0 +1,19 @@
+{
+  "id": "31bbc8f8-c592-4605-9350-35201f36d2d3",
+  "date": "2016-07-06",
+  "summary": "Body recovered over a cliff near Spectacle Lake (second same-day Conejos County callout)",
+  "location": "Spectacle Lake",
+  "county": "Conejos",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Alamosa Volunteer SAR / Conejos County SO",
+  "source_urls": "https://www.avsar.us/missions-from-2016/",
+  "notes": "Wednesday-verified; same July 6-7 callout series as the lost-hiker assist; recovery team back in town 7/7; run 804",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Spectacle Lake",
+  "place_type": "lake",
+  "legacy_id": 3316
+}

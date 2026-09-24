@@ -1,0 +1,19 @@
+{
+  "id": "6d0038ae-9061-40b4-8ce4-44d15c83a9e0",
+  "date": "2019-04-07",
+  "summary": "Injured subject near Blackhawk water treatment plant, Gilpin (2019-24)",
+  "location": "Blackhawk water treatment plant area",
+  "county": "Gilpin",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2020/01/2019-Missions-Website.pdf",
+  "notes": "ART mission 2019-24. Cause of injury not stated.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 634
+}

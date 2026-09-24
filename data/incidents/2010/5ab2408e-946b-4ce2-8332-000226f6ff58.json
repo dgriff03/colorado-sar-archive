@@ -1,0 +1,19 @@
+{
+  "id": "5ab2408e-946b-4ce2-8332-000226f6ff58",
+  "date": "2010-06-29",
+  "summary": "Assist Park County SAR in search for overdue party on Colorado Trail (10-44)",
+  "location": "Colorado Trail",
+  "county": "Park",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team; Park County SAR",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-44. Victim count estimated.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Colorado Trail",
+  "place_type": "trail",
+  "legacy_id": 44
+}

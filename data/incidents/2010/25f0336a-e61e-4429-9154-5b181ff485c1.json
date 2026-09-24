@@ -1,0 +1,19 @@
+{
+  "id": "25f0336a-e61e-4429-9154-5b181ff485c1",
+  "date": "2010-08-18",
+  "summary": "Possible search on Guanella Pass (10-69)",
+  "location": "Guanella Pass",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-69. Possible search; subject details not stated; victim count estimated.",
+  "peak": "Guanella Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 79
+}

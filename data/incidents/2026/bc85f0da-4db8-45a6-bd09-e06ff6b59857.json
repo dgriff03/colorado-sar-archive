@@ -1,0 +1,19 @@
+{
+  "id": "bc85f0da-4db8-45a6-bd09-e06ff6b59857",
+  "date": "2026-02-11",
+  "summary": "Patient with serious injuries technically evacuated 800 feet between Tunnels 1 and 2 in Clear Creek Canyon, then transported across Clear Creek via highline",
+  "location": "Clear Creek Canyon, between Tunnels 1 and 2",
+  "county": "Jefferson",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Golden Firefighters Local 5080, Jefferson County Sheriff's Office, HCA HealthONE AirLife, Colorado Department of Transportation, Colorado Search and Rescue Association, Jeffco Open Space rangers",
+  "source_urls": "https://www.facebook.com/AlpineRescue/posts/pfbid02yFpiKUyNYH1D1HqxHh1BQiFnHu5yTg9NHRQZ65tZd7c9LvKbatfo2E5jNP6YzmQ4l",
+  "notes": "Alpine assisted Golden Fire; injury mechanism not specified; 'Today' per 2026-02-11 post",
+  "peak": "Clear Creek Canyon",
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1697
+}

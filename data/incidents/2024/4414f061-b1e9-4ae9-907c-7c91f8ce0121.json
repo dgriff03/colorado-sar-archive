@@ -1,0 +1,19 @@
+{
+  "id": "4414f061-b1e9-4ae9-907c-7c91f8ce0121",
+  "date": "2024-09-06",
+  "summary": "Hunter collapsed on Lincoln Creek Road about 2.7 miles past Grizzly Reservoir while the hunter's guide was administering CPR; the first rescue team found no signs of life and the patient was deceased.",
+  "location": "Lincoln Creek Road, ~2.7 mi past Grizzly Reservoir",
+  "county": "Pitkin",
+  "incident_type": "medical",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Mountain Rescue Aspen",
+  "source_urls": "https://www.facebook.com/mountainrescueaspen/posts/pfbid04L3mr2fAG13DvcDjL6VFwCZG69arPZzZRzWNRvNVHf253nUgTpBxrWTqmBXuMmLRl",
+  "notes": "Notification via Garmin inReach ~1:47 PM; teams coordinated with Coroner on scene; all teams out by 7:26 PM. Pitkin County Sheriff's Office, Aspen Ambulance District, Aspen Fire Protection District, CareFlight of the Rockies, Pitkin County Coroner involved.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Lincoln Creek Road",
+  "place_type": "road",
+  "legacy_id": 3464
+}

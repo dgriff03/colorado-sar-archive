@@ -1,0 +1,19 @@
+{
+  "id": "2b52fd1b-efbf-4aa3-85e6-467fde4da9da",
+  "date": "2025-01-20",
+  "summary": "60-year-old man with frostbite in the Stanley Road area",
+  "location": "Stanley Road",
+  "county": "",
+  "incident_type": "medical",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf",
+  "notes": "Location unverified; ART mission 2025-005.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Stanley Road",
+  "place_type": "road",
+  "legacy_id": 1535
+}

@@ -1,0 +1,19 @@
+{
+  "id": "0d84798a-ba29-46ad-907b-4eff34be8610",
+  "date": "2016-03-19",
+  "summary": "Code 3 page for possible avalanche burial of one party on Berthoud Pass",
+  "location": "Berthoud Pass",
+  "county": "Clear Creek",
+  "incident_type": "avalanche",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-21. Possible burial; outcome not stated in one-liner",
+  "peak": "Berthoud Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2055
+}

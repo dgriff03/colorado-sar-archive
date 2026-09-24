@@ -1,0 +1,19 @@
+{
+  "id": "4ec35cb6-e799-4574-8cc2-9a6ba10bf2cb",
+  "date": "2016-01-15",
+  "summary": "Lost snowboarder evacuated from the Lime Creek drainage after leaving Blue Sky Basin",
+  "location": "Lime Creek drainage (via Blue Sky Basin), Vail",
+  "county": "Eagle County",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Vail Mountain Rescue Group + Vail Ski Patrol",
+  "source_urls": "https://vailchamber.org/2016/03/16/vail-mountain-rescue-group-february-january-missions-digest/|https://vailchamber.org/2016/03/16/vail-mountain-rescue-group-mission-digest/",
+  "notes": "Vail Ski Patrol located the subject; two VMRG rescuers on snowmobiles transported him to vehicles at Vail Pass, then to Vail Village; out of the field by 6 p.m. Digest is a truncated RSS import — only the first mission summary is readable, so this is the sole extractable incident from that page. | Merged 2026-09-15: Jan-Feb 2016 VMRG mission digest repost (Vail Chamber) corroborates the Jan 15 Lime Creek snowboarder evac.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Lime Creek",
+  "place_type": "creek",
+  "legacy_id": 2238
+}

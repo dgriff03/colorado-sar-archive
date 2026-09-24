@@ -1,0 +1,19 @@
+{
+  "id": "325ac881-5220-4ca6-8631-edb135d1db86",
+  "date": "2022-07-10",
+  "summary": "Injured 63-year-old woman in the Silver Dollar Lake area of Guanella Pass",
+  "location": "Silver Dollar Lake",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2023/01/2022-Missions-Website.pdf",
+  "notes": "Injury mechanism not stated in log; ART mission 2022-051.",
+  "peak": "Guanella Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1099
+}

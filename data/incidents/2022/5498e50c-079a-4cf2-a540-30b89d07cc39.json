@@ -1,0 +1,19 @@
+{
+  "id": "5498e50c-079a-4cf2-a540-30b89d07cc39",
+  "date": "2022-07-22",
+  "summary": "Man drowned after cliff-jumping into Black Hole pond behind the Two Buttes Reservoir dam (~40 mi S of Lamar); resurfaced briefly then went under on Friday evening. CPW boat/sonar searched that night; CPW Marine Evidence Recovery Team with a submersible ROV recovered the body Saturday afternoon; Baca County Coroner took custody. Victim identity not released at publication.",
+  "location": "Black Hole pond, Two Buttes Reservoir State Wildlife Area, below Two Buttes Reservoir dam",
+  "county": "Baca",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Colorado Parks and Wildlife officers; Baca County Sheriff deputies; CPW Marine Evidence Recovery Team; Baca County Coroner",
+  "source_urls": "https://theprowersjournal.com/2022/07/cpw-officers-recover-a-body-in-black-hole-pond-below-two-buttes-reservoir/",
+  "notes": "Row date 2022-07-22 = the Friday-evening incident/search start (article dated Jul 23, 2022; Friday/Saturday stated, weekday-verified). First Baca County row — fills Baca zero-row status. Source URL parent-opened 2026-09-15.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Black Hole",
+  "place_type": "other",
+  "legacy_id": 3139
+}

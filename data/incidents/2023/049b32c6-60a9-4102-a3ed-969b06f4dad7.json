@@ -1,0 +1,19 @@
+{
+  "id": "049b32c6-60a9-4102-a3ed-969b06f4dad7",
+  "date": "2023-05-12",
+  "summary": "Swift water rescue in Clear Creek along Highway 6",
+  "location": "Clear Creek (Highway 6)",
+  "county": "Clear Creek",
+  "incident_type": "other",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2024/01/2023-Missions-Website.pdf",
+  "notes": "Number of subjects not stated; recorded as 1; ART mission 2023-026.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Clear Creek",
+  "place_type": "creek",
+  "legacy_id": 1206
+}
