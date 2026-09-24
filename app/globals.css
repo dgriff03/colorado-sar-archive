@@ -1612,3 +1612,8 @@ body {
 }
 .map-search-link { color: #235e46; text-decoration: underline; }
 @media (max-width: 900px) { .filters .field-hint { display: block; } }
+
+/* Source classifications stay readable alongside type and county on small cards. */
+.incident-tags { flex-wrap: wrap; }
+.type-tag.outcome-tag { background: #e5e9dd; color: #34432f; }
+.type-tag.detail-tag { background: #eee6d8; color: #594a35; white-space: normal; }

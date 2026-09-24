@@ -11,12 +11,14 @@ class DataTests(unittest.TestCase):
     def write(self,r):
         p=self.root/'pending'/(r['id']+'.json');p.write_text(json.dumps(r));return p
     def test_promote_and_export_roundtrip(self):
-        r=self.record(victims=0,notes='Details unknown');p=self.write(r)
+        r=self.record(victims=0,notes='Details unknown',detail_score='BASIC_FACTS');p=self.write(r)
         data.promote(self.root);self.assertFalse(p.exists());data.promote(self.root);data.build(self.root)
         db=sqlite3.connect(self.root/'public/data/colorado-sar.db');db.row_factory=sqlite3.Row
         row=dict(db.execute('select * from incidents').fetchone());db.close()
         for key,value in r.items():self.assertEqual(row[key],value)
-        self.assertEqual(json.loads((self.root/'public/data/incidents.json').read_text())[0]['id'],r['id'])
+        exported=json.loads((self.root/'public/data/incidents.json').read_text())[0]
+        self.assertEqual(exported['id'],r['id'])
+        self.assertEqual(exported['detail_score'],'BASIC_FACTS')
     def test_batch_is_validated_before_any_moves(self):
         a=self.write(self.record());r=self.record();r['date']='2026-02-30';b=self.write(r)
         with self.assertRaises(ValueError):data.promote(self.root)

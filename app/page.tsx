@@ -20,6 +20,7 @@ import {
 } from 'lucide-react';
 import { flushSync } from 'react-dom';
 import { registerArchiveTool } from '@/lib/webmcp';
+import { IncidentTags } from '@/components/incident-tags';
 import { Header } from '@/components/header';
 import { useExplorer } from '@/hooks/use-explorer';
 import {
@@ -820,6 +821,7 @@ export default function Home() {
                               >
                                 {label(r.incident_type)}
                               </span>
+                              <IncidentTags incident={r} />
                               <span>{r.county || 'County not recorded'}</span>
                             </div>
                             <a
@@ -840,7 +842,6 @@ export default function Home() {
                               {r.summary}
                             </a>
                             <div className="incident-context">
-                              <span>Outcome: {label(r.outcome)}</span>
                               <span>
                                 People involved: {displayValue(r.victims)}
                               </span>
@@ -926,6 +927,11 @@ export default function Home() {
                 ? `${detail.county || 'County not recorded'} · ${label(detail.incident_type)}`
                 : 'Source report and incident context'}
             </SheetDescription>
+            {detail && (
+              <div className="incident-tags" aria-label="Incident outcome and detail level">
+                <IncidentTags incident={detail} />
+              </div>
+            )}
             <button className="share-incident" onClick={copyIncident}>
               {copyStatus === 'Copied' ? (
                 <Check size={15} />
