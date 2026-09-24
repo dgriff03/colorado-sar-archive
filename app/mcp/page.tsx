@@ -4,9 +4,10 @@ import { join } from 'node:path';
 import Markdown from 'react-markdown';
 import { Header } from '@/components/header';
 export const metadata: Metadata = {
+  alternates: { canonical: '/mcp/' },
   title: 'Connect Claude or Codex — Colorado SAR Archive',
   description:
-    'Install the read-only Colorado SAR MCP server for incident search, source details and grouped counts.',
+    'Connect to the hosted read-only Colorado SAR MCP server for incident search, source details and grouped counts.',
 };
 export default function MCPGuide() {
   const guide = readFileSync(join(process.cwd(), 'docs/mcp.md'), 'utf8');

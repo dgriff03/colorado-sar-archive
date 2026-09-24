@@ -4,15 +4,19 @@ Explore Colorado search and rescue reports by location, fuzzy title search, year
 and incident type—or group records by outcome, location, county, and agency.
 Incidents and filtered views have shareable links.
 
-[Explore the website](https://colorado-sar-archive.web.app/) ·
-[Download SQLite](https://colorado-sar-archive.web.app/data/colorado-sar.db) ·
-[Connect Claude or Codex](https://colorado-sar-archive.web.app/mcp/)
+[Explore the website](https://accidents.typetwo.dev/) ·
+[Download SQLite](https://accidents.typetwo.dev/data/colorado-sar.db) ·
+[Connect Claude or Codex](https://accidents.typetwo.dev/mcp/)
 
 The initial collection contains **3,718 records from 2010–2026**. Coverage and
 source quality vary: counts describe this archive, not all rescues or geographic
 risk. Weather data is excluded. Code is [MIT licensed](LICENSE); incident data
 and linked source material are **not** covered by that license. Data licensing
 awaits maintainer review; source publishers retain their rights.
+
+Canonical domain: **accidents.typetwo.dev**. [Domain setup](docs/domain.md).
+AI discovery: [`/llms.txt`](https://accidents.typetwo.dev/llms.txt), with generated
+Markdown FAQ/MCP guides and a [data guide](https://accidents.typetwo.dev/data-guide.md).
 
 ## 1. Run the website, build it, or build only the database
 
@@ -67,6 +71,7 @@ reference](docs/operations.md) for import provenance and schema caveats.
 
 ```sh
 npm ci
+npm ci --prefix functions
 npm run dev
 ```
 
@@ -82,17 +87,19 @@ npm run build
 
 The deployable static website is in **`dist/client/`**, including the SQLite
 download, search index, and incident details. Search runs in the browser; no
-application server or paid database is required. `npm run build` also checks
+application server or paid database is required for browsing. The optional hosted
+MCP uses a Firebase Cloud Function. `npm run build` also checks
 that all website routes and data files were exported successfully.
 
 To deploy **your own copy**, create a Firebase project with Hosting, install the
-Firebase CLI, then use your project ID explicitly:
+Firebase CLI, enable the Blaze plan for the hosted MCP, then use your project ID explicitly:
 
 ```sh
 npm install -g firebase-tools
 firebase login
 npm run build
-firebase deploy --only hosting --project YOUR_FIREBASE_PROJECT_ID
+npm ci --prefix functions
+firebase deploy --only functions:sar-mcp,hosting --project YOUR_FIREBASE_PROJECT_ID
 ```
 
 The checked-in `.firebaserc` points to the original archive. Do not use the
@@ -100,7 +107,10 @@ maintainer's `npm run deploy` shortcut for your fork until you change that
 project mapping. Add a custom domain in your Firebase Hosting console.
 For your own copy, replace `config/analytics.json` with your own GA measurement
 configuration, or remove `<Analytics />` and its import in `app/layout.tsx`.
-Replace archive/repository links when branding a fork.
+Replace archive/repository links and MCP URLs when branding a fork. For a static-only
+copy on Firebase Spark, remove the MCP rewrites from `firebase.json` and deploy
+with `--only hosting`. Hosted MCP deployment details are in
+[docs/hosting-mcp.md](docs/hosting-mcp.md).
 
 ### Edit content or connect an assistant
 
@@ -108,8 +118,8 @@ Replace archive/repository links when branding a fork.
   emphasis, and code; use `\n\n` inside JSON strings for paragraphs. A null
   answer displays “Answer coming soon.” Rebuild/deploy to publish.
 - **Claude Desktop or Codex:** follow the [MCP setup guide](docs/mcp.md).
-  The local, read-only server supports search, full details, and grouped counts.
-  It needs no API key and does not run on Firebase Hosting.
+  The hosted, read-only server supports search, full details, and grouped counts.
+  Connect by URL without installing anything; local/offline setup is optional.
 - **Maintainer reference:** [operations, analytics, provenance, and
   permissions](docs/operations.md). [Landscape credit](public/IMAGE-CREDITS.md).
 
@@ -117,7 +127,7 @@ Replace archive/repository links when branding a fork.
 
 ### Start with an existing-event check
 
-Search the [archive](https://colorado-sar-archive.web.app/) for the date, place,
+Search the [archive](https://accidents.typetwo.dev/) for the date, place,
 and event before submitting. Two reports about one rescue belong in one record.
 For an existing event, propose a correction to its accepted JSON file and add
 supporting sources instead of creating a new incident. Keep its stable ID.

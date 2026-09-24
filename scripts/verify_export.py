@@ -2,7 +2,7 @@
 import json, sqlite3
 from pathlib import Path
 root=Path(__file__).resolve().parents[1]; out=root/'dist/client'
-for route in ['index.html','faq/index.html','mcp/index.html','data/incidents.json','data/colorado-sar.db']:
+for route in ['index.html','faq/index.html','mcp/index.html','llms.txt','data-guide.md','faq/index.md','mcp/index.md','data/incidents.json','data/colorado-sar.db']:
     assert (out/route).is_file(),f'Missing export: {route}'
 records=json.loads((out/'data/incidents.json').read_text())
 assert records,'Empty public archive'

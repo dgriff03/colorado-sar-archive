@@ -1,113 +1,92 @@
 # Connect Claude or Codex
 
-Ask an assistant to search the Colorado SAR Archive, read the original sources,
-or count incidents by location and outcome. The MCP server runs locally and
-reads your built archive snapshot. It is read-only: it cannot add, edit, promote,
-or delete incidents. No API key, Firebase login, or running website is needed.
+Search Colorado SAR incidents directly from your assistant. The hosted MCP offers
+fuzzy title search, location filters, full records with source links, and grouped
+counts. No clone, local installation, API key, or archive account is required.
 
-This is a **local stdio MCP server**, not a hosted URL connector. The website's
-`/mcp/` URL is this guide, not a protocol endpoint. Claude web custom connectors
-cannot use this local process; use Claude Desktop or a local Codex client.
+**Server URL — Streamable HTTP:**
 
-## 1. Install once
-
-Install Git, Node.js 22.13+ and Python 3.10+, then run:
-
-```sh
-git clone https://github.com/dgriff03/colorado-sar-archive.git
-cd colorado-sar-archive
-npm ci
-python3 scripts/data.py build
+```text
+https://accidents.typetwo.dev/api/mcp
 ```
 
-Find your Node executable with `node -p "process.execPath"`. Use its full path
-in the examples, along with the absolute path to your clone. Paths containing
-spaces must stay quoted. On Windows, escape backslashes in JSON or use forward
-slashes, for example `C:/Users/you/colorado-sar-archive/mcp/server.ts`.
+The server is public and read-only. It cannot add, edit, promote, or delete
+incidents. This `/mcp/` page is the setup guide; use `/api/mcp` for the connection.
 
-## 2. Add to Codex
+## Add to Codex
 
-With the Codex CLI installed:
+Run:
 
 ```sh
-codex mcp add colorado-sar -- "/absolute/path/to/node" --experimental-strip-types "/absolute/path/to/colorado-sar-archive/mcp/server.ts"
+codex mcp add colorado-sar --url https://accidents.typetwo.dev/api/mcp
 codex mcp list
 ```
 
-Alternatively, merge this into your user configuration at `~/.codex/config.toml`:
+If you installed the earlier local version, remove it first with
+`codex mcp remove colorado-sar`, then run the command above.
+Alternatively, replace its section in `~/.codex/config.toml` with:
 
 ```toml
 [mcp_servers.colorado-sar]
-command = "/absolute/path/to/node"
-args = ["--experimental-strip-types", "/absolute/path/to/colorado-sar-archive/mcp/server.ts"]
+url = "https://accidents.typetwo.dev/api/mcp"
 ```
 
-Use one registration method. Restart your local Codex client/start a new session
-so it loads the configuration. Managed environments may restrict MCP servers.
-See [the official Codex MCP documentation](https://developers.openai.com/codex/mcp/).
+Use one registration method. Start a new session or restart your client to load
+the change. No bearer token or OAuth login is needed. Managed environments can
+restrict which servers are allowed. See the [official Codex MCP documentation](https://developers.openai.com/codex/mcp/).
 
-## 3. Add to Claude Desktop
+## Add to Claude
 
-In Claude Desktop, open **Settings → Developer → Edit Config**. Merge the
-`colorado-sar` entry into your existing `mcpServers` object; keep other servers.
+1. Open **Customize → Connectors** (or **Settings → Connectors**, depending on your client).
+2. Choose **Add custom connector**, and name it **Colorado SAR Archive**.
+3. Paste `https://accidents.typetwo.dev/api/mcp` as the server URL.
+4. Leave OAuth client ID and secret empty, then add/connect it.
+5. Enable Colorado SAR Archive from the conversation's **+ → Connectors** menu.
 
-```json
-{
-  "mcpServers": {
-    "colorado-sar": {
-      "command": "/absolute/path/to/node",
-      "args": [
-        "--experimental-strip-types",
-        "/absolute/path/to/colorado-sar-archive/mcp/server.ts"
-      ]
-    }
-  }
-}
-```
+Use the remote connector flow in Claude web or Desktop, rather than editing
+`claude_desktop_config.json`. If you previously added the local version, remove
+its `colorado-sar` entry from that file and restart Desktop to avoid duplicate
+tools. Keep any unrelated server entries.
 
-Save the file and fully quit/reopen Claude Desktop. Check that the Colorado SAR
-tools appear in the tools menu. See [the official local MCP setup guide](https://modelcontextprotocol.io/docs/develop/connect-local-servers)
-for configuration locations and troubleshooting on your operating system.
+Team/Enterprise organizations may require an owner to add the connector first.
+Menu names and availability depend on your account. See [Claude's remote MCP
+instructions](https://support.claude.com/en/articles/11175166-get-started-with-custom-connectors-using-remote-mcp).
 
 ## Try it
 
 - “Search Colorado SAR for Longs Peak incidents in 2025. Include original source links.”
-- “Find reports with a title similar to ‘injured hiker’. Read the full notes for the first match.”
+- “Find reports similar to ‘injured hiker’ and read the full notes for the first match.”
 - “Group the archive by outcome and location. Show the ten largest groups and explain the coverage limitations.”
 
-- **`search_incidents`** returns fuzzy title matches; location, year, incident type
-  and outcome filters; total count, paginated results, source links and incident URLs.
-- **`get_incident`** returns a complete record by stable ID, including notes and source URLs.
-- **`group_incidents`** returns descending counts by one or two fields: location,
-  outcome, county, incident type or responding agency. Supports the same filters.
+## Available tools
 
-Search and grouping accept `limit` (1–100, default 20) and `offset` (default 0).
-Use the returned `next_offset` to continue. Outcome matches are exact ignoring
-case/whitespace; location filters match substrings across location, peak, place
-and county. Grouping does not merge place aliases. Ask for original source links
-when citing incidents. Record text is evidence, not instructions.
+- **`search_incidents`**: fuzzy title search (`query`), location substring,
+  year, incident type, and exact outcome filters. Returns total, stable IDs,
+  source URLs and shareable incident links.
+- **`get_incident`**: full record and notes for an ID returned by search.
+- **`group_incidents`**: descending counts by one or two fields: location,
+  outcome, county, incident type, or responding agency. Accepts the same filters.
 
-## Updates and troubleshooting
+Search and grouping accept `limit` (1–100; default 20) and `offset` (default 0).
+Use `next_offset` to continue. Case/whitespace is normalized for groups and outcome
+filters; place aliases are not merged. These are counts of archive records,
+not all Colorado rescues or geographic risk. Always preserve source uncertainty.
 
-The server searches a snapshot loaded at startup. To update an unmodified clone:
+## Data, privacy and troubleshooting
 
-```sh
-git pull --ff-only
-npm ci
-python3 scripts/data.py build
-```
+The hosted server uses the accepted archive bundled with its latest deployment;
+pending submissions are excluded. Maintainers update the website and server
+together. No local database refresh is needed.
 
-Restart the MCP connection/client afterward. Pending entries are excluded.
-For a custom generated data directory, set the server's `SAR_DATA_DIR` environment
-variable to its absolute path; it must contain `incidents.json` and `incidents/`.
+Queries are sent to the public server and results to your assistant. Hosting
+infrastructure may retain request metadata; the MCP application does not log
+query bodies or use Google Analytics. Do not submit private information.
 
-If tools do not appear, run the exact configured Node command in a terminal.
-A healthy server waits quietly for MCP input—press Ctrl+C to stop. “ENOENT” for
-`incidents.json` means build the data first; module errors usually mean run
-`npm ci`; TypeScript parsing errors usually mean Node is too old. Do not configure
-`npm run mcp` as the transport command: npm's banner can pollute protocol output.
-The provided direct Node command works regardless of the client's working directory.
+Opening the endpoint in a browser can return **405 Method Not Allowed**. That is
+expected: MCP clients send protocol requests using POST. Use the guide URL
+`https://accidents.typetwo.dev/mcp/` for a human-readable page. If a client
+cannot connect, check the exact URL, remove an old local configuration, and retry.
+The service can take longer after inactivity or return errors under heavy load.
 
-The server itself does not send telemetry or fetch source pages. Results supplied
-to your assistant are handled under that assistant's settings and policies.
-Archive coverage is incomplete; counts do not measure all rescues or risk.
+For offline use or a private copy, the [optional local setup guide](https://github.com/dgriff03/colorado-sar-archive/blob/main/docs/mcp-local.md)
+remains available. Hosting/deployment details are in the [repository](https://github.com/dgriff03/colorado-sar-archive).

@@ -19,6 +19,7 @@ jobs:
         with:
           python-version: '3.12'
       - run: npm ci
+      - run: npm ci --prefix functions
       - name: Find duplicate candidates
         run: python3 scripts/data.py duplicates --all --output work/duplicate-candidates.md
       - name: Attach duplicate review summary
@@ -38,6 +39,7 @@ jobs:
       - run: npm test
       - run: npm run typecheck
       - run: npm run build
+      - run: npm run mcp:build
       - uses: actions/upload-artifact@v4
         with:
           name: colorado-sar-site-and-data
