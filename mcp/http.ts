@@ -1,7 +1,7 @@
 import { SITE_URL } from '../lib/site.ts';
 import type { IncomingMessage, ServerResponse } from 'node:http';
 import { StreamableHTTPServerTransport } from '@modelcontextprotocol/sdk/server/streamableHttp.js';
-import { createArchiveServer } from './archive.ts';
+import { createArchiveServer, createArchiveStore } from './archive.ts';
 import type { Incident } from '../lib/types.ts';
 
 const allowedOrigins = new Set([
@@ -17,6 +17,10 @@ export function createMcpHandler(
   records: Incident[],
   getDetail: (id: string) => Promise<Incident>,
 ) {
+  const store = createArchiveStore(records);
+  let tokens = 40,
+    lastRefill = Date.now(),
+    active = 0;
   return async (req: Request, res: ServerResponse) => {
     res.setHeader('Cache-Control', 'no-store');
     res.setHeader('X-Content-Type-Options', 'nosniff');
@@ -56,37 +60,55 @@ export function createMcpHandler(
       res.writeHead(413).end('Request too large');
       return;
     }
-    let body = req.body;
-    if (body === undefined) {
-      const chunks: Buffer[] = [];
-      let bytes = 0;
-      for await (const chunk of req) {
-        bytes += chunk.length;
-        if (bytes > maxBytes) {
-          res.writeHead(413).end('Request too large');
+    const now = Date.now();
+    tokens = Math.min(40, tokens + ((now - lastRefill) / 1000) * 20);
+    lastRefill = now;
+    if (tokens < 1 || active >= 10) {
+      res.setHeader('Retry-After', '1');
+      res.writeHead(429).end('Server busy; retry later');
+      return;
+    }
+    tokens--;
+    active++;
+    try {
+      let body = req.body;
+      if (body === undefined) {
+        const chunks: Buffer[] = [];
+        let bytes = 0;
+        req.setTimeout(5000, () => req.destroy());
+        for await (const chunk of req) {
+          bytes += chunk.length;
+          if (bytes > maxBytes) {
+            res.writeHead(413).end('Request too large');
+            return;
+          }
+          chunks.push(Buffer.from(chunk));
+        }
+        try {
+          body = JSON.parse(Buffer.concat(chunks).toString());
+        } catch {
+          res.writeHead(400).end('Invalid JSON');
           return;
         }
-        chunks.push(Buffer.from(chunk));
       }
+      const transport = new StreamableHTTPServerTransport({
+        sessionIdGenerator: undefined,
+        enableJsonResponse: true,
+      });
+      const server = createArchiveServer(records, getDetail, store);
       try {
-        body = JSON.parse(Buffer.concat(chunks).toString());
+        await server.connect(transport);
+        await transport.handleRequest(req, res, body);
       } catch {
-        res.writeHead(400).end('Invalid JSON');
-        return;
+        if (!res.headersSent) res.writeHead(500).end('MCP request failed');
+      } finally {
+        await server.close();
       }
-    }
-    const transport = new StreamableHTTPServerTransport({
-      sessionIdGenerator: undefined,
-      enableJsonResponse: true,
-    });
-    const server = createArchiveServer(records, getDetail);
-    try {
-      await server.connect(transport);
-      await transport.handleRequest(req, res, body);
     } catch {
-      if (!res.headersSent) res.writeHead(500).end('MCP request failed');
+      if (!res.headersSent)
+        res.writeHead(400).end('Invalid or interrupted request');
     } finally {
-      await server.close();
+      active--;
     }
   };
 }

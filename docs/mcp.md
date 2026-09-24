@@ -1,7 +1,7 @@
 # Connect Claude or Codex
 
 Search Colorado SAR incidents directly from your assistant. The hosted MCP offers
-fuzzy title search, location filters, full records with source links, and grouped
+title and notes search, location filters, full records with source links, and grouped
 counts. No clone, local installation, API key, or archive account is required.
 
 **Server URL — Streamable HTTP:**
@@ -60,7 +60,7 @@ instructions](https://support.claude.com/en/articles/11175166-get-started-with-c
 
 ## Available tools
 
-- **`search_incidents`**: fuzzy title search (`query`), location substring,
+- **`search_incidents`**: title and notes search (`query`), location substring,
   year, incident type, and exact outcome filters. Returns total, stable IDs,
   source URLs and shareable incident links.
 - **`get_incident`**: full record and notes for an ID returned by search.
@@ -90,3 +90,12 @@ The service can take longer after inactivity or return errors under heavy load.
 
 For offline use or a private copy, the [optional local setup guide](https://github.com/dgriff03/colorado-sar-archive/blob/main/docs/mcp-local.md)
 remains available. Hosting/deployment details are in the [repository](https://github.com/dgriff03/colorado-sar-archive).
+
+## Search details
+
+Queries are limited to 120 characters. Up to 32 characters use fuzzy matching;
+longer queries require all words literally. Filters also accept agency, inclusive
+`from`/`to` dates (YYYY-MM-DD), `month` (1–12), `setting`, `place_type`, and
+comma-separated `incident_type` values (OR). Other filters intersect. Recorded
+outcomes are preserved as reported, not merged into inferred categories.
+Hosted requests may return 429 with Retry-After during bursts; wait before retrying.

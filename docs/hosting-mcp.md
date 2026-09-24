@@ -68,3 +68,11 @@ confirm both releases succeeded before announcing an update.
 References: [Firebase Hosting with Cloud Functions](https://firebase.google.com/docs/hosting/functions),
 [MCP Streamable HTTP SDK](https://ts.sdk.modelcontextprotocol.io/server),
 [Firebase runtime scaling](https://firebase.google.com/docs/functions/manage-functions).
+
+## Application admission control
+
+The handler shares its immutable search index across requests, while MCP server
+and transport instances remain isolated. Per instance, a 40-token bucket refills
+at 20 requests/second and at most 10 requests enter the handler concurrently.
+HTTP 429 responses include Retry-After. These are best-effort limits, reset on cold
+starts, and are not a global/IP quota, billing cap, or edge DDoS defense.

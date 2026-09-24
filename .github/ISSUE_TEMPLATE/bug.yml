@@ -1,0 +1,21 @@
+name: Website or MCP bug
+description: Report a reproducible problem with exploration, data builds or MCP.
+body:
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Expected and actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Include your browser or MCP client/version and an example URL with private queries removed.
+    validations:
+      required: true
+  - type: textarea
+    id: errors
+    attributes:
+      label: Relevant error messages
+      description: Remove tokens, credentials and personal information before posting.

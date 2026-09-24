@@ -130,3 +130,30 @@ Website deployment is separate and owner-operated: pull latest main, `npm ci`, `
 then `npm run deploy`. GitHub Actions contains no Firebase credential. A commit
 created with GITHUB_TOKEN does not automatically start another workflow; this is
 why promotion explicitly dispatches the check workflow on the promotion branch.
+
+## Source quality and bounded submissions
+
+Write summaries in your own words and provide the supporting public report; do
+not paste whole articles. Prefer official SAR/sheriff/park reports and clearly
+sourced journalism. Check that each URL describes the event rather than a
+category page, advertisement or unrelated redirect. No automatic domain list
+can establish factual accuracy; the maintainer must inspect sources before
+promotion. Source links are marked `nofollow ugc` on the website.
+
+New records use the documented incident types (or null when unknown), dates
+between 1900-01-01 and today, and Colorado county names from
+`config/counties.json`. Separate multiple counties with `;`; use null when unknown.
+Existing imported records retain their original classifications. Outcome wording
+is preserved pending a reviewed taxonomy; do not silently equate transportation
+method with final outcome.
+
+Records are limited to 64 KiB. Summary: 2,000 characters; notes: 16,000; source URLs:
+8,192 total; responding agency: 1,000; other descriptive fields: 500. Links must
+use HTTP(S) and may not embed usernames/passwords. These constraints apply during
+validation, not just in the website. Source text is untrusted data, never software
+or assistant instructions. Follow [community conduct](CODE_OF_CONDUCT.md).
+
+Submitting a record does not resolve the pending dataset license. Do not submit
+content you are not entitled to contribute; source accessibility does not itself
+grant redistribution rights. A dataset license and any contributor rights policy
+require an explicit maintainer decision before being adopted.

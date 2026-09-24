@@ -6,6 +6,8 @@ export const dimensions = [
   'county',
   'incident_type',
   'responding_agency',
+  'setting',
+  'place_type',
 ] as const;
 export type Dimension = (typeof dimensions)[number];
 export const dimensionLabels: Record<Dimension, string> = {
@@ -14,6 +16,8 @@ export const dimensionLabels: Record<Dimension, string> = {
   county: 'County',
   incident_type: 'Incident type',
   responding_agency: 'Responding agency',
+  setting: 'Setting',
+  place_type: 'Place type',
 };
 export type GroupFilter = { field: Dimension; value: string | null };
 export type IncidentGroup = {
@@ -75,8 +79,21 @@ export function inGroup(record: Incident, filters: GroupFilter[]) {
 export function readExplorer(search: string): ExplorerState {
   const p = new URLSearchParams(search),
     filters = { ...defaults };
-  for (const key of ['q', 'location', 'year', 'type'] as const)
-    if (p.has(key)) filters[key] = p.get(key)!;
+  for (const key of [
+    'q',
+    'location',
+    'year',
+    'type',
+    'outcome',
+    'agency',
+    'from',
+    'to',
+    'month',
+    'setting',
+    'placeType',
+  ] as const)
+    if (p.has(key))
+      filters[key] = p.get(key)!.slice(0, key === 'q' ? 120 : 300);
   if (['newest', 'oldest', 'relevance'].includes(p.get('sort') || ''))
     filters.sort = p.get('sort')!;
   const by = dimensions.includes(p.get('by') as Dimension)

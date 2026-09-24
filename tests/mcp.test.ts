@@ -62,6 +62,27 @@ test('MCP stdio handshake, search, pagination, details, groups and invalid input
       })
     ).structuredContent as any;
     assert.equal(detail.incident.notes, 'Source uncertainty preserved');
+    const filtered = (
+      await client.callTool({
+        name: 'search_incidents',
+        arguments: {
+          agency: 'missing',
+          from: '2025-01-01',
+          to: '2025-12-31',
+          month: 1,
+        },
+      })
+    ).structuredContent as any;
+    assert.equal(filtered.total, 0);
+    assert.equal(
+      (
+        await client.callTool({
+          name: 'search_incidents',
+          arguments: { query: 'x'.repeat(121) },
+        })
+      ).isError,
+      true,
+    );
     const grouped = (
       await client.callTool({
         name: 'group_incidents',

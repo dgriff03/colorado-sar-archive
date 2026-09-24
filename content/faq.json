@@ -9,22 +9,22 @@
   },
   {
     "question": "How are incidents selected and verified?",
-    "answer": null
+    "answer": "Entries collect reported Colorado search and rescue incidents from public sources. Contributors provide source links and document uncertainty; the maintainer reviews submissions and duplicate candidates before promotion. Inclusion is not independent verification of every reported fact. Check the original reports and notes."
   },
   {
     "question": "How can I contribute or correct a record?",
-    "answer": null
+    "answer": "Follow the [contribution guide](https://github.com/dgriff03/colorado-sar-archive/blob/main/CONTRIBUTING.md). Submit one JSON file per new incident, or propose a correction to the existing record with supporting sources and its stable ID. You can also open an issue; please do not include private medical or contact information."
   },
   {
     "question": "Can I reuse the data?",
-    "answer": null
+    "answer": "The MIT license applies to project code, not the incident dataset or linked reporting. Dataset redistribution terms are still under maintainer review. Source publishers retain their rights; availability for download is not an additional license grant."
   },
   {
     "question": "Who maintains this archive?",
-    "answer": null
+    "answer": "Daniel ([@dgriff03](https://github.com/dgriff03)) maintains this independent archive. It is not an official SAR agency service. Contributions are reviewed through the public repository."
   },
   {
     "question": "Does this site use analytics?",
-    "answer": "We use Google Analytics to understand visits and how people explore the archive. Page URLs, including filter and incident links, may be recorded. Tracking is skipped when your browser sends Do Not Track or Global Privacy Control. Advertising personalization is disabled. Please avoid putting private information into search queries."
+    "answer": "Google Analytics collection is currently paused while automatic URL tracking is disabled. The replacement configuration allows only coarse page names, without search queries, incident IDs, titles, hashes or referrers. It respects Do Not Track and Global Privacy Control. Search filters remain in shareable URLs, so avoid entering private information."
   }
 ]

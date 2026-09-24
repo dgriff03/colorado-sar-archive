@@ -116,3 +116,36 @@ test('Hosted MCP handles stateless HTTP clients, tools, concurrency and invalid 
     await new Promise<void>((r) => server.close(() => r()));
   }
 });
+
+test('hosted admission control bounds anonymous bursts and returns retry guidance', async () => {
+  const server = createServer(
+    createMcpHandler([], async () => {
+      throw new Error('unused');
+    }),
+  );
+  await new Promise<void>((r) => server.listen(0, '127.0.0.1', r));
+  const url = `http://127.0.0.1:${(server.address() as AddressInfo).port}/api/mcp`;
+  try {
+    const responses = await Promise.all(
+      Array.from({ length: 80 }, () =>
+        fetch(url, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            Accept: 'application/json, text/event-stream',
+          },
+          body: '{}',
+        }),
+      ),
+    );
+    assert.ok(responses.some((r) => r.status === 429));
+    for (const response of responses) {
+      if (response.status === 429)
+        assert.equal(response.headers.get('Retry-After'), '1');
+      await response.text();
+    }
+  } finally {
+    server.closeAllConnections();
+    await new Promise<void>((r) => server.close(() => r()));
+  }
+});

@@ -130,7 +130,7 @@ database downloads over HTTP. Browser interaction/visual testing was not run.
 The optional WebMCP search tool has registry contract tests; a native WebMCP
 browser context was not available for verification.
 
-The current 1.6 MB search index is appropriate for this initial archive. As the
+The current approximately 2.8 MiB uncompressed search index is appropriate for this initial archive. As the
 collection grows substantially (for example, beyond tens of thousands of rows),
 move search into a worker or server index instead of loading the full index into
 the main browser thread. Canonical incident files and the contribution flow can
@@ -188,24 +188,10 @@ site. The incident panel includes **Copy incident link**.
 
 ## Analytics
 
-The archive has its own GA4 property **555725939**, web stream **15837736850**, and
-measurement ID **G-2L4K7PT38M**, under the owner's existing Analytics account.
-[Open Analytics](https://analytics.google.com/analytics/web/#/p555725939/reports/intelligenthome).
-The public measurement configuration lives in `config/analytics.json`; it contains
-no secrets. No Firebase SDK credentials are needed in the website.
-
-The Google tag sends page views for page loads and browser history changes, including
-group and incident navigation and Back/Forward. Enhanced measurement was verified
-as enabled in the tag configuration. The application deliberately does not send
-manual `page_view` events as well, which would double-count them. URL filter changes
-also represent page views; reports can use “Page path + query string” to distinguish
-them. Reporting can be delayed, and blockers, Do Not Track, and Global Privacy
-Control can prevent collection. Localhost is excluded. Google signals, ad
-personalization, and enhanced conversions are disabled in the tag configuration.
-
-The code and configured Google tag were checked; real production visitor reports
-need to populate after deployment. Search URLs may include typed queries, so do
-not enter private information.
+Analytics is paused in source after a privacy review. Search queries must not be
+sent via automatic history tracking. The replacement counts only coarse routes.
+See [analytics operations](analytics.md) for the required account-side changes
+and verification before re-enabling. Configuration contains public IDs only.
 
 ## Landscape credit
 

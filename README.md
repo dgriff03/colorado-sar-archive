@@ -1,6 +1,6 @@
 # Colorado SAR Archive
 
-Explore Colorado search and rescue reports by location, fuzzy title search, year,
+Explore Colorado search and rescue reports by location, title and notes search, year,
 and incident type—or group records by outcome, location, county, and agency.
 Incidents and filtered views have shareable links.
 
@@ -120,6 +120,7 @@ with `--only hosting`. Hosted MCP deployment details are in
 - **Claude Desktop or Codex:** follow the [MCP setup guide](docs/mcp.md).
   The hosted, read-only server supports search, full details, and grouped counts.
   Connect by URL without installing anything; local/offline setup is optional.
+- **Review findings:** [verified fixes and deferred policy decisions](docs/adversarial-review.md).
 - **Maintainer reference:** [operations, analytics, provenance, and
   permissions](docs/operations.md). [Landscape credit](public/IMAGE-CREDITS.md).
 
