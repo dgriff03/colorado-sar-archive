@@ -1,0 +1,8 @@
+[
+  {"question":"What is the Colorado SAR Archive?","answer":"An independent collection of reported search and rescue incidents in Colorado. Each record brings together a summary, location, and available source reports. It is a historical reference, not a live rescue service or an official count of all incidents."},
+  {"question":"How complete is the data?","answer":"Coverage varies by year, place, and responding agency. A place with more records is not necessarily more dangerous, and a year with fewer records does not necessarily mean fewer rescues. Some dates, outcomes, and other details may be approximate or inferred; read the notes and original sources."},
+  {"question":"How are incidents selected and verified?","answer":null},
+  {"question":"How can I contribute or correct a record?","answer":null},
+  {"question":"Can I reuse the data?","answer":null},
+  {"question":"Who maintains this archive?","answer":null}
+]

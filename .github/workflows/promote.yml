@@ -1,0 +1,51 @@
+name: Promote reviewed incidents
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+  pull-requests: write
+  actions: write
+concurrency:
+  group: archive-promotion
+  cancel-in-progress: false
+jobs:
+  promote:
+    if: github.actor == github.repository_owner && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 scripts/data.py validate
+      - run: python3 -m unittest discover -s tests
+      - run: python3 scripts/data.py promote
+      - run: python3 scripts/data.py build
+      - name: Open owner-reviewed promotion PR
+        run: |
+          git add data/incidents pending
+          if git diff --cached --quiet; then
+            echo 'No pending incidents to promote.'
+            exit 0
+          fi
+          if git ls-remote --exit-code --heads origin codex/promote-incidents; then
+            echo 'A promotion branch already exists. Merge or close it and delete the branch before retrying.'
+            exit 1
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git switch -c codex/promote-incidents
+          git commit -m 'Promote reviewed incident submissions'
+          git push origin HEAD
+          gh pr create --base main --head codex/promote-incidents --title 'Promote reviewed incident submissions' --body 'Move reviewed pending files into the canonical archive. The generated SQLite is available as a workflow artifact. Merge after checks pass, then deploy from main.'
+          # GITHUB_TOKEN pushes do not trigger push/pull_request workflows.
+          # An explicit workflow_dispatch does trigger the required check job.
+          gh workflow run check.yml --ref codex/promote-incidents
+      - uses: actions/upload-artifact@v4
+        with:
+          name: consolidated-sqlite
+          path: public/data/colorado-sar.db
