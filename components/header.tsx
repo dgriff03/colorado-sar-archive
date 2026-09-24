@@ -18,6 +18,9 @@ export function Header({ active = 'explore' }: { active?: string }) {
         <a aria-current={active === 'faq' ? 'page' : undefined} href="/faq/">
           FAQ
         </a>
+        <a aria-current={active === 'mcp' ? 'page' : undefined} href="/mcp/">
+          MCP
+        </a>
         <a
           className="repo-link"
           href="https://github.com/dgriff03/colorado-sar-archive"
