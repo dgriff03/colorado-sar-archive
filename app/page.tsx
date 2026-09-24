@@ -2,7 +2,7 @@
 import { agencySuggestions } from '@/lib/agencies';
 import { detailLabels } from '@/lib/detail';
 import { SITE_URL } from '@/lib/site';
-import { useEffect, useMemo, useState, useDeferredValue } from 'react';
+import { useEffect, useMemo, useState, useDeferredValue, useRef } from 'react';
 import {
   ArrowRight,
   ArrowUpRight,
@@ -32,6 +32,7 @@ import {
   dimensionLabels,
   explorerUrl,
   type Dimension,
+  type ExplorerState,
 } from '@/lib/explorer';
 import {
   Table,
@@ -121,6 +122,13 @@ export default function Home() {
     [detailError, setDetailError] = useState(false);
   const [copyStatus, setCopyStatus] = useState('');
   const [filtersOpen, setFiltersOpen] = useState(false);
+  const resultsRef = useRef<HTMLElement>(null);
+  function navigateToResults(patch: Partial<ExplorerState>) {
+    // Commit the shorter result list before scrolling, so layout changes cannot
+    // leave the viewport at the old group row's position.
+    flushSync(() => navigate(patch));
+    resultsRef.current?.scrollIntoView({ block: 'start', behavior: 'instant' });
+  }
   const choices = (key: keyof Incident) =>
     [
       ...new Set(
@@ -523,7 +531,7 @@ export default function Home() {
               </a>
             </div>
           </aside>
-          <section className="results" aria-label="Incident search">
+          <section ref={resultsRef} className="results" aria-label="Incident search">
             <div className="searchbar">
               <Search size={21} />
               <input
@@ -621,7 +629,7 @@ export default function Home() {
                   <div className="group-breadcrumb">
                     <button
                       onClick={() =>
-                        navigate({ view: 'groups', drill: [], page: 1 })
+                        navigateToResults({ view: 'groups', drill: [], page: 1 })
                       }
                     >
                       <ChevronLeft size={16} /> All groups
@@ -637,7 +645,7 @@ export default function Home() {
                     <button
                       className="clear-group"
                       aria-label="Clear group filter"
-                      onClick={() => navigate({ drill: [], page: 1 })}
+                      onClick={() => navigateToResults({ drill: [], page: 1 })}
                     >
                       <X size={16} />
                     </button>
@@ -741,7 +749,7 @@ export default function Home() {
                           return (
                             <TableRow
                               key={group.key}
-                              onClick={() => navigate(target)}
+                              onClick={() => navigateToResults(target)}
                             >
                               {group.labels.map((text, i) => (
                                 <TableCell key={groupFields[i]}>
@@ -757,7 +765,7 @@ export default function Home() {
                                           !e.altKey
                                         ) {
                                           e.preventDefault();
-                                          navigate(target);
+                                          navigateToResults(target);
                                         }
                                       }}
                                     >
