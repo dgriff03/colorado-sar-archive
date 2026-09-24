@@ -1,4 +1,64 @@
-# Contributing incidents
+# Contributing
+
+
+Daniel ([@dgriff03](https://github.com/dgriff03)) is the sole maintainer, listed
+in [OWNERS](OWNERS). GitHub review ownership is configured in
+[.github/CODEOWNERS](.github/CODEOWNERS).
+
+## Pull request guidelines
+
+- Open PRs against **`main`** from a focused branch in your fork. Keep each PR to
+  one purpose: an incident batch, an evidence-supported correction, or a code/docs change.
+  Related batches of 10–100 incidents are welcome; avoid unrelated formatting churn.
+- Use a descriptive title, such as “Add 12 Boulder County incidents from August
+  2026” or “Preserve filters when closing an incident.”
+- Explain **what changed and why**, with incident IDs/source links for data changes
+  or a concrete before/after example for behavior changes. Call out uncertainty,
+  duplicate candidates, compatibility changes and deployment steps where relevant.
+- Record the checks you ran and their results. If a check was not run, say so and
+  explain why. Do not mark unrelated checklist items as completed; use N/A.
+- New incidents belong in `pending/`, one UUID-named JSON file per event. Correct
+  accepted records in place and preserve IDs. Do not promote entries as part of
+  a contributor PR; promotion is a separate maintainer action.
+- Commit source files and required dependency lockfile changes. Exclude generated
+  databases, public data exports, builds, logs and credentials. Keep example
+  configuration limited to placeholders. Review `git diff --cached` before committing.
+- Respond to review comments in the same PR. Required CI must pass before merge;
+  Daniel reviews and merges contributions. Avoid force-pushing once review starts
+  unless coordinating it with the maintainer. A tidy commit history is welcome,
+  but contributors do not need to squash commits themselves.
+- A merge does not publish the website or promote pending incidents. Those are
+  separate maintainer-operated steps.
+
+### Checks for your change
+
+For incident submissions/corrections, Python 3.10+ is sufficient:
+
+```sh
+python3 scripts/data.py validate
+python3 scripts/data.py duplicates
+```
+
+Inspect the duplicate report and explain candidates; a successful command alone
+does not establish that the events are distinct.
+
+For website, MCP, ingestion or search changes, use Node.js 22.13+ and Python 3.10+:
+
+```sh
+npm ci
+npm ci --prefix functions
+npm run data:validate
+npm test
+npm run typecheck
+npm run build
+npm run mcp:build
+```
+
+For documentation-only changes, check links, commands and Markdown formatting.
+Changes to FAQ/MCP content or generated documentation also need `npm run build`.
+CI runs the full suite for every PR and attaches duplicate-review/build artifacts.
+
+## Contributing incidents
 
 1. Search the archive for the same event; multiple news articles may describe one rescue.
 2. Fork this repository and create a branch.
