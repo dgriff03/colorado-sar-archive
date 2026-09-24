@@ -10,6 +10,9 @@ db=sqlite3.connect(out/'data/colorado-sar.db')
 assert db.execute('PRAGMA integrity_check').fetchone()[0]=='ok'
 assert db.execute('SELECT COUNT(*) FROM incidents').fetchone()[0]==len(records)
 assert all((out/'data/incidents'/(r['id']+'.json')).is_file() for r in records)
+aliases=db.execute('SELECT id, canonical_id FROM incident_aliases').fetchall()
+for old, target in aliases:
+    assert json.loads((out/'data/incidents'/(old+'.json')).read_text())['id']==target, f'Broken merged incident link: {old}'
 manifest=json.loads((root/'dist/server/vinext-prerender.json').read_text())
 assert all(r['status']=='rendered' for r in manifest['routes']),manifest['routes']
 print(f'Export verified: 3 routes, {len(records)} incident details and matching SQLite')

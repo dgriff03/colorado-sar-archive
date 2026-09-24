@@ -2,7 +2,7 @@
 
 Generated with `python3 scripts/location-report.py`. Counts describe archive records, not distinct rescues.
 
-3,718 incidents retained; 958 receive a different browsing label. Distinct location groups decrease from 2,593 reported labels to 2,202 browsing labels (case and outer whitespace normalized).
+3,717 incidents retained; 958 receive a different browsing label. Distinct location groups decrease from 2,593 reported labels to 2,202 browsing labels (case and outer whitespace normalized).
 
 Mappings are exact and county-scoped. Original locations, source notes and IDs remain unchanged. An area can include routes, summit, slopes or lake approaches. This is not geocoding.
 
@@ -130,4 +130,4 @@ Mappings are exact and county-scoped. Original locations, source notes and IDs r
 
 ## Remaining work
 
-Unlisted names remain as reported. Generic county-wide locations, unclear nearby-area reports, and multi-mountain traverses need more evidence before assignment to a single mountain. No incident duplicates were merged or deleted. See [location curation](locations.md) for the review process.
+Unlisted names remain as reported. Generic county-wide locations, unclear nearby-area reports, and multi-mountain traverses need more evidence before assignment to a single mountain. Confirmed duplicates are excluded via the reviewed incident merge registry; original JSON files remain available for provenance. See [location curation](locations.md) for the review process.

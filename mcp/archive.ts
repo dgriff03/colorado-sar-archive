@@ -11,7 +11,7 @@ import { aggregateIncidents, dimensions, groupValue } from '../lib/explorer.ts';
 import type { Incident } from '../lib/types.ts';
 export function createArchiveStore(records: Incident[]) {
   return {
-    byId: new Map(records.map((r) => [r.id, r])),
+    byId: new Map(records.flatMap((r) => [r.id, ...(r.merged_ids || [])].map(id => [id, r] as const))),
     search: createSearch(records),
   };
 }
@@ -166,11 +166,12 @@ export function createArchiveServer(
             },
           ],
         };
-      const incident = await getDetail(id);
+      const canonicalId = byId.get(id)!.id;
+      const incident = await getDetail(canonicalId);
       return result({
         incident,
         sources: sourceLinks(incident.source_urls),
-        url: `${SITE_URL}/?incident=${encodeURIComponent(id)}`,
+        url: `${SITE_URL}/?incident=${encodeURIComponent(canonicalId)}`,
       });
     },
   );

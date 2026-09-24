@@ -197,3 +197,22 @@ test('reviewed location groups combine aliases and preserve clickable group coun
   const state = readExplorer(new URL(explorerUrl({ ...initialExplorer, drill: group.values }), 'https://example.org').search);
   assert.deepEqual(records.filter(r => inGroup(r, state.drill)).map(r => r.id), ['a', 'b']);
 });
+
+test('merged incident replaces the URL and preserves modal Back navigation', () => {
+  const h = historyHarness('/?location=Lone+Eagle');
+  h.controller.openIncident('legacy-003648');
+  h.controller.resolveIncident('legacy-000537');
+  assert.equal(h.length, 2);
+  assert.equal(h.state.selected, 'legacy-000537');
+  h.controller.closeIncident();
+  assert.equal(h.backCalls, 1);
+  assert.equal(h.state.selected, null);
+  h.forward();
+  assert.equal(h.state.selected, 'legacy-000537');
+  const direct = historyHarness('/?incident=legacy-003648');
+  direct.controller.resolveIncident('legacy-000537');
+  assert.equal(direct.length, 1);
+  direct.controller.closeIncident();
+  assert.equal(direct.backCalls, 0);
+  assert.equal(direct.state.selected, null);
+});

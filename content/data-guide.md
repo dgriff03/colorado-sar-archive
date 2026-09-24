@@ -62,3 +62,14 @@ excluded. Publication occurs when the maintainer deploys a reviewed update.
 
 The MIT license covers project code, not incident data or external reporting.
 Data redistribution terms await maintainer review; source publishers retain rights.
+
+## Confirmed duplicate merges
+
+Maintainer-reviewed duplicates are listed in `config/incident-merges.json`.
+The surviving record combines sources and documents conflicting claims.
+Search, grouping and the SQLite `incidents` table count only the surviving record.
+Original duplicate JSON files remain in the repository for provenance.
+Retired detail URLs return the surviving record, and the website replaces the
+incident ID in the URL without adding a history entry. MCP `get_incident` also
+accepts retired IDs and returns the canonical link. Generated JSON includes
+`merged_ids`; SQLite exposes the equivalent `incident_aliases` table.

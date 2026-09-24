@@ -2,9 +2,12 @@
 import json
 from pathlib import Path
 from locations import GROUPS, location_group
+from merges import incident_merges
 
 root = Path(__file__).resolve().parents[1]
 records = [json.loads(p.read_text()) for p in sorted((root/'data/incidents').glob('*/*.json'))]
+merges = incident_merges(root, records)
+records = [r for r in records if r['id'] not in merges]
 norm = lambda value: (value or '').strip().casefold()
 before = {norm(r.get('location')) for r in records}
 after = {norm(location_group(r)) for r in records}
@@ -27,4 +30,4 @@ for group in GROUPS:
 print('\n## Remaining work\n')
 print('Unlisted names remain as reported. Generic county-wide locations, unclear nearby-area reports, '
       'and multi-mountain traverses need more evidence before assignment to a single mountain. '
-      'No incident duplicates were merged or deleted. See [location curation](locations.md) for the review process.')
+      'Confirmed duplicates are excluded via the reviewed incident merge registry; original JSON files remain available for provenance. See [location curation](locations.md) for the review process.')

@@ -1,6 +1,7 @@
 export type Incident = {
   id: string;
   legacy_id?: number;
+  merged_ids?: string[];
   date: string;
   summary: string;
   location: string | null;

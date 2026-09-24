@@ -105,7 +105,7 @@ function Picker({
 export default function Home() {
   const [records, setRecords] = useState<Incident[]>([]),
     [status, setStatus] = useState('loading');
-  const { state, ready, navigate, openIncident, closeIncident } = useExplorer();
+  const { state, ready, navigate, openIncident, closeIncident, resolveIncident } = useExplorer();
   const { filters, page, selected, view, by, then, drill } = state;
   const [detail, setDetail] = useState<Incident | null>(null),
     [detailError, setDetailError] = useState(false);
@@ -238,12 +238,17 @@ export default function Home() {
         if (!r.ok) throw Error();
         return r.json();
       })
-      .then((r) => setDetail(r as Incident))
+      .then((r) => {
+        if (ctrl.signal.aborted) return;
+        const incident = r as Incident;
+        setDetail(incident);
+        if (incident.id !== selected) resolveIncident(incident.id);
+      })
       .catch((e) => {
         if (e.name !== 'AbortError') setDetailError(true);
       });
     return () => ctrl.abort();
-  }, [selected]);
+  }, [selected, resolveIncident]);
   useEffect(() => {
     if (status !== 'loaded') return;
     const ctx = (
