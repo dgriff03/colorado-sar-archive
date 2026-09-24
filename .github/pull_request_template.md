@@ -1,13 +1,34 @@
-## Incident submission / correction
+## What changed and why
 
-- [ ] Each new incident is a separate UUID-named JSON file in `pending/`.
-- [ ] I searched the archive for an existing record of this event.
-- [ ] The date is the incident date, not the article publication date (or uncertainty is explained).
-- [ ] Source URLs support the factual summary; inferred details are identified in notes.
-- [ ] I omitted unnecessary personal identifiers, contact information, and nonpublic information.
-- [ ] `npm run data:validate` passes.
-- [ ] I ran `npm run data:duplicates` and explained any candidate matches below.
+<!-- Describe the outcome. For a bug, give a concrete before/after example.
+Use a focused PR: incident batch, correction, code, or documentation.
+Guidelines: CONTRIBUTING.md. Target branch: main. -->
 
-Sources and context:
+## Evidence and review notes
 
-<!-- For a correction, identify the existing incident ID and explain the change. -->
+<!-- Data: list incident IDs, source links, uncertain facts and duplicate candidates.
+Corrections: explain the evidence and retain the existing IDs.
+Code/docs: mention relevant issues, compatibility or deployment steps.
+Write N/A when this section does not apply. -->
+
+## Validation
+
+<!-- List commands run and outcomes. State any checks not run and why.
+Data: python3 scripts/data.py validate; python3 scripts/data.py duplicates.
+Code: data:validate, test, typecheck, build, mcp:build (see CONTRIBUTING.md).
+Docs: check links/commands; build for published content changes. -->
+
+## Checklist
+
+- [ ] This PR has one clear purpose and follows CONTRIBUTING.md.
+- [ ] The diff excludes credentials, generated databases/data exports, builds and logs.
+- [ ] Validation results and remaining limitations are documented above.
+
+For incident changes only (otherwise mark N/A in the review notes):
+
+- [ ] New incidents use separate UUID-named files in `pending/`; corrections preserve IDs.
+- [ ] I searched for existing events and explained duplicate candidates.
+- [ ] Dates refer to incidents, or uncertainty is explicit in notes.
+- [ ] Public sources support the summary; unknowns remain unknown.
+- [ ] I omitted weather fields, unnecessary identifiers and nonpublic information.
+- [ ] No pending records were promoted by this PR.
