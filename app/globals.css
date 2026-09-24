@@ -638,20 +638,6 @@ dd {
   color: #647980;
   font-size: 11px;
 }
-.weather {
-  display: flex;
-  gap: 30px;
-}
-.weather span {
-  font-size: 12px;
-  color: #657981;
-}
-.weather b {
-  display: block;
-  color: #24434f;
-  font-size: 20px;
-  font-weight: 500;
-}
 .record-id {
   margin-top: 35px;
   font-family: monospace;

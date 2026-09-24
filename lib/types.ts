@@ -16,13 +16,4 @@ export type Incident = {
   place_type?: string | null;
   setting?: string | null;
   detail_score?: string | number | null;
-  wx_lat?: number | null;
-  wx_lon?: number | null;
-  wx_high_f?: number | null;
-  wx_low_f?: number | null;
-  wx_precip_in?: number | null;
-  wx_wind_max_mph?: number | null;
-  wx_gust_max_mph?: number | null;
-  wx_source?: string | null;
-  wx_note?: string | null;
 };

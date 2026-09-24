@@ -20,7 +20,8 @@
     "test": "python3 -m unittest discover -s tests && node --experimental-strip-types --test tests/search.test.ts",
     "typecheck": "tsc --noEmit",
     "deploy": "npm run build && firebase deploy --only hosting",
-    "postbuild": "python3 scripts/verify_export.py"
+    "postbuild": "python3 scripts/verify_export.py",
+    "data:duplicates": "python3 scripts/data.py duplicates"
   },
   "dependencies": {
     "@base-ui/react": "1.7.0",

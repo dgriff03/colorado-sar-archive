@@ -1,9 +1,12 @@
 """Validate, promote and build incident data using only Python's standard library."""
 import argparse, datetime, json, math, os, re, sqlite3, tempfile, uuid
 from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from duplicates import ensure_no_identical_submissions, find_candidates, markdown_report
 ROOT = Path(__file__).resolve().parents[1]
-TEXT_FIELDS = ['date','summary','location','county','incident_type','outcome','responding_agency','source_urls','notes','peak','wx_source','wx_note','setting','place','place_type']
-NUMBER_FIELDS = ['wx_lat','wx_lon','wx_high_f','wx_low_f','wx_precip_in','wx_wind_max_mph','wx_gust_max_mph']
+TEXT_FIELDS = ['date','summary','location','county','incident_type','outcome','responding_agency','source_urls','notes','peak','setting','place','place_type']
+NUMBER_FIELDS = []
 FIELDS = ['id','legacy_id'] + TEXT_FIELDS + ['victims','detail_score'] + NUMBER_FIELDS
 
 def validate(record, path, pending=False):
@@ -34,7 +37,7 @@ def validate(record, path, pending=False):
             if parsed.scheme not in ('https','http') or not parsed.netloc: raise ValueError(f'{path}: source must be an HTTP(S) URL')
     return record
 
-def read_records(root, include_pending=True):
+def read_records(root, include_pending=True, check_identical=True):
     accepted=[]; submissions=[]; seen=set()
     groups=[(root/'data/incidents',accepted,False)]
     if include_pending: groups.append((root/'pending',submissions,True))
@@ -45,6 +48,8 @@ def read_records(root, include_pending=True):
             if not is_pending and path.parent.name != record['date'][:4]: raise ValueError(f'{path}: wrong year directory')
             if record['id'] in seen: raise ValueError(f'{path}: duplicate ID')
             seen.add(record['id']); items.append((path,record))
+    if check_identical:
+        ensure_no_identical_submissions(accepted, submissions)
     return accepted,submissions
 
 def promote(root):
@@ -87,12 +92,21 @@ def build(root):
     print(f'Built index, details and SQLite for {len(records)} incidents')
 
 if __name__=='__main__':
-    parser=argparse.ArgumentParser(); parser.add_argument('command',choices=['validate','promote','build','new']); args=parser.parse_args()
+    parser=argparse.ArgumentParser(); parser.add_argument('command',choices=['validate','promote','build','new','duplicates']); parser.add_argument('--all', action='store_true'); parser.add_argument('--output', type=Path); args=parser.parse_args()
     try:
         if args.command=='validate':
             a,p=read_records(ROOT); print(f'Valid: {len(a)} accepted, {len(p)} pending')
         elif args.command=='promote': promote(ROOT)
         elif args.command=='build': build(ROOT)
+        elif args.command=='duplicates':
+            a,p=read_records(ROOT, check_identical=False)
+            matches=find_candidates(a,p,all_records=args.all)
+            report=markdown_report(matches,ROOT,args.all)
+            if args.output:
+                args.output.parent.mkdir(parents=True,exist_ok=True); args.output.write_text(report)
+                print(f'{len(matches)} candidate pairs; report: {args.output}')
+            else: print(report)
+            if any(m['blocking'] for m in matches): raise SystemExit('Identical pending submissions found; see duplicate report')
         else:
             ident=str(uuid.uuid4()); target=ROOT/'pending'/(ident+'.json')
             target.write_text(json.dumps(dict(id=ident,date='',summary='',location='',county='',incident_type='',outcome=None,victims=None,responding_agency='',source_urls='',notes=''),indent=2)+'\n'); print(target)

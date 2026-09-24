@@ -531,26 +531,6 @@ export default function Home() {
                   <p>No source link recorded.</p>
                 )}
               </section>
-              {detail.wx_source && (
-                <section>
-                  <h3>Historical weather context</h3>
-                  <div className="weather">
-                    <span>
-                      <b>{detail.wx_high_f ?? '—'}°F</b>High
-                    </span>
-                    <span>
-                      <b>{detail.wx_low_f ?? '—'}°F</b>Low
-                    </span>
-                    <span>
-                      <b>{detail.wx_gust_max_mph ?? '—'} mph</b>Max gust
-                    </span>
-                  </div>
-                  <p className="data-note">
-                    {detail.wx_source}. {detail.wx_note} Weather coordinates are
-                    contextual estimates, not verified incident locations.
-                  </p>
-                </section>
-              )}
               <div className="record-id">
                 Record {detail.id}
                 {detail.legacy_id ? ` · Original ID ${detail.legacy_id}` : ''}
