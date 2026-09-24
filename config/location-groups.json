@@ -71,5 +71,35 @@
       "Summit Lake, Mount Evans"
     ],
     "rationale": "Summit Lake and immediate trail/area reports in Clear Creek County, including historical Mount Evans labels. Other counties and Camp Rock excluded."
+  },
+  {
+    "name": "Torreys Peak",
+    "counties": [
+      "Clear Creek",
+      "Clear Creek County"
+    ],
+    "aliases": [
+      "Dead Dog Couloir of Torreys Peak",
+      "Kelso Ridge",
+      "Kelso Ridge (Torrey's Peak)",
+      "Kelso Ridge (Torreys Peak)",
+      "Kelso Ridge of Torreys Peak",
+      "Kelso Ridge, Torrey's Peak",
+      "Kelso Ridge/Torreys Peak",
+      "Kelso Ridge/Torreys Peak summit",
+      "Summit of Torrey’s Peak",
+      "Torrey's Peak",
+      "Torrey's Peak (Kelso Ridge)",
+      "Torrey's Peak (summit)",
+      "Torrey's Peak, north face",
+      "Torreys Peak",
+      "Torreys Peak (north face)",
+      "Torreys Peak, Dead Dog Couloir",
+      "Torreys Peak, Kelso Ridge",
+      "Torreys Pk",
+      "Tuning Fork (Torreys Peak)",
+      "Tuning Forks (Torreys Peak)"
+    ],
+    "rationale": "Torreys Peak includes Kelso Ridge, summit, faces and named couloirs. Preserve reported route names; exclude shared Grays/Torreys and Grizzly areas. Clear Creek County is a legacy county spelling."
   }
 ]
