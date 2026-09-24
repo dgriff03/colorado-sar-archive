@@ -1,6 +1,6 @@
 'use client';
 import { agencySuggestions } from '@/lib/agencies';
-import { detailLabels } from '@/lib/detail';
+import { detailLabel } from '@/lib/detail';
 import { SITE_URL } from '@/lib/site';
 import { useEffect, useMemo, useState, useDeferredValue, useRef } from 'react';
 import {
@@ -428,7 +428,7 @@ export default function Home() {
                   { value: '__missing__', label: 'Not recorded' },
                   ...detailLevels.map((v) => ({
                     value: v,
-                    label: detailLabels[v] || label(v),
+                    label: detailLabel(v),
                   })),
                 ]}
               />
@@ -997,7 +997,7 @@ export default function Home() {
                   ['Peak', detail.peak],
                   ['Setting', detail.setting],
                   ['Place type', detail.place_type],
-                  ['Source detail score', detail.detail_score],
+                  ['Source detail score', detailLabel(detail.detail_score)],
                 ].map(([k, v]) => (
                   <div key={k as string}>
                     <dt>{k}</dt>
