@@ -17,6 +17,8 @@ test('MCP stdio handshake, search, pagination, details, groups and invalid input
     county: 'Boulder',
     incident_type: 'injury',
     outcome: 'rescued',
+    detail_score: i === 1 ? 'BASIC_FACTS' : null,
+    responding_agency: 'Summit County SAR',
     source_urls: 'https://example.org/report',
   }));
   await mkdir(resolve(dir, 'incidents'));
@@ -67,6 +69,10 @@ test('MCP stdio handshake, search, pagination, details, groups and invalid input
     assert.equal(merged.incident.id, '11111111-1111-4111-8111-111111111111');
     assert.ok(merged.url.endsWith('?incident=11111111-1111-4111-8111-111111111111'));
 
+    const multi = (await client.callTool({ name: 'search_incidents', arguments: { month: [1, 6], detail_level: 'BASIC_FACTS', agency: 'SCRG' } })).structuredContent as any;
+    assert.equal(multi.total, 1);
+    assert.equal(multi.incidents[0].id, records[0].id);
+    assert.equal((await client.callTool({ name: 'search_incidents', arguments: { month: [13] } })).isError, true);
     const filtered = (
       await client.callTool({
         name: 'search_incidents',

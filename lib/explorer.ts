@@ -96,6 +96,7 @@ export function readExplorer(search: string): ExplorerState {
     'month',
     'setting',
     'placeType',
+    'detail',
   ] as const)
     if (p.has(key))
       filters[key] = p.get(key)!.slice(0, key === 'q' ? 120 : 300);

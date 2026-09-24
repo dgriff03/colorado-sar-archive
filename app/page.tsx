@@ -1,4 +1,6 @@
 'use client';
+import { agencySuggestions } from '@/lib/agencies';
+import { detailLabels } from '@/lib/detail';
 import { SITE_URL } from '@/lib/site';
 import { useEffect, useMemo, useState, useDeferredValue } from 'react';
 import {
@@ -106,7 +108,14 @@ function Picker({
 export default function Home() {
   const [records, setRecords] = useState<Incident[]>([]),
     [status, setStatus] = useState('loading');
-  const { state, ready, navigate, openIncident, closeIncident, resolveIncident } = useExplorer();
+  const {
+    state,
+    ready,
+    navigate,
+    openIncident,
+    closeIncident,
+    resolveIncident,
+  } = useExplorer();
   const { filters, page, selected, view, by, then, drill } = state;
   const [detail, setDetail] = useState<Incident | null>(null),
     [detailError, setDetailError] = useState(false);
@@ -120,12 +129,35 @@ export default function Home() {
           .filter((v) => typeof v === 'string' && v.trim()) as string[],
       ),
     ].sort();
+  const agencies = useMemo(
+    () => agencySuggestions(records.map((r) => r.responding_agency)),
+    [records],
+  );
+  const detailLevels = useMemo(
+    () =>
+      [
+        ...new Set(
+          records.flatMap((r) =>
+            r.detail_score == null || String(r.detail_score).trim() === ''
+              ? []
+              : [String(r.detail_score).trim()],
+          ),
+        ),
+      ].sort(),
+    [records],
+  );
   const locations = useMemo(
     () =>
       [
         ...new Set(
           records
-            .flatMap((r) => [r.location_group, r.location, r.peak, r.place, r.county])
+            .flatMap((r) => [
+              r.location_group,
+              r.location,
+              r.peak,
+              r.place,
+              r.county,
+            ])
             .filter(Boolean) as string[],
         ),
       ].sort(),
@@ -411,10 +443,27 @@ export default function Home() {
                 placeholder="Agency or SAR team"
               />
               <datalist id="agencies">
-                {choices('responding_agency').map((v) => (
+                {agencies.map((v) => (
                   <option key={v} value={v} />
                 ))}
               </datalist>
+              <p className="field-hint">
+                Suggestions combine known agency aliases. You can also search
+                the original agency text.
+              </p>
+              <Picker
+                title="Detail level"
+                value={filters.detail}
+                onChange={(v) => update('detail', v)}
+                options={[
+                  { value: 'all', label: 'All detail levels' },
+                  { value: '__missing__', label: 'Not recorded' },
+                  ...detailLevels.map((v) => ({
+                    value: v,
+                    label: detailLabels[v] || label(v),
+                  })),
+                ]}
+              />
               <div className="date-filters">
                 <label>
                   From
@@ -438,20 +487,40 @@ export default function Home() {
                   Start date must be on or before the end date.
                 </p>
               )}
-              <Picker
-                title="Month"
-                value={filters.month}
-                onChange={(v) => update('month', v)}
-                options={[
-                  { value: 'all', label: 'All months' },
-                  ...Array.from({ length: 12 }, (_, i) => ({
-                    value: String(i + 1).padStart(2, '0'),
-                    label: new Date(2000, i, 1).toLocaleString('en-US', {
-                      month: 'long',
-                    }),
-                  })),
-                ]}
-              />
+              <fieldset className="type-options month-options">
+                <legend>Months · select any</legend>
+                {Array.from({ length: 12 }, (_, i) => {
+                  const value = String(i + 1).padStart(2, '0');
+                  return (
+                    <label key={value}>
+                      <input
+                        type="checkbox"
+                        checked={
+                          filters.month !== 'all' &&
+                          filters.month.split(',').includes(value)
+                        }
+                        onChange={(e) => {
+                          const selected = new Set(
+                            filters.month === 'all'
+                              ? []
+                              : filters.month.split(','),
+                          );
+                          if (e.target.checked) selected.add(value);
+                          else selected.delete(value);
+                          update(
+                            'month',
+                            [...selected].sort().join(',') || 'all',
+                          );
+                        }}
+                      />
+                      {new Date(2000, i, 1).toLocaleString('en-US', {
+                        month: 'long',
+                      })}
+                    </label>
+                  );
+                })}
+                <p className="field-hint">No selection includes all months.</p>
+              </fieldset>
               <p className="field-hint">
                 Dates, year and month filters intersect. Use a date range for a
                 season spanning two years.
@@ -928,7 +997,10 @@ export default function Home() {
                 : 'Source report and incident context'}
             </SheetDescription>
             {detail && (
-              <div className="incident-tags" aria-label="Incident outcome and detail level">
+              <div
+                className="incident-tags"
+                aria-label="Incident outcome and detail level"
+              >
                 <IncidentTags incident={detail} />
               </div>
             )}
@@ -1025,9 +1097,7 @@ export default function Home() {
                   <p>No source link recorded.</p>
                 )}
               </section>
-              <div className="record-id">
-                Record {detail.id}
-              </div>
+              <div className="record-id">Record {detail.id}</div>
             </div>
           ) : detailError ? (
             <Empty>

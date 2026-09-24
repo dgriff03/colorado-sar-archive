@@ -1,4 +1,5 @@
 import Fuse from 'fuse.js';
+import { agencyNames, agencyQuery } from './agencies.ts';
 import type { Incident } from './types';
 export const MAX_QUERY_LENGTH = 120;
 export type Filters = {
@@ -14,6 +15,7 @@ export type Filters = {
   month: string;
   setting: string;
   placeType: string;
+  detail: string;
 };
 export const defaults: Filters = {
   q: '',
@@ -28,6 +30,7 @@ export const defaults: Filters = {
   month: 'all',
   setting: 'all',
   placeType: 'all',
+  detail: 'all',
 };
 export const normalizePlace = (s: string) =>
   s
@@ -44,6 +47,12 @@ export function displayValue(value: unknown) {
     : String(value);
 }
 export function createSearch(records: Incident[]) {
+  const agencies = new Map(
+    records.map((r) => [
+      r,
+      agencyNames(r.responding_agency).map((n) => n.toLowerCase()),
+    ]),
+  );
   const fuse = new Fuse(records, {
     keys: [
       { name: 'summary', weight: 0.75 },
@@ -56,14 +65,17 @@ export function createSearch(records: Incident[]) {
   return (filters: Filters) => {
     const query = filters.q.trim().slice(0, MAX_QUERY_LENGTH);
     const location = normalizePlace(filters.location.slice(0, 300));
-    const agency = filters.agency.trim().toLocaleLowerCase();
+    const agency = agencyQuery(filters.agency);
+    const months = filters.month === 'all' ? [] : filters.month.split(',');
     const types = filters.type === 'all' ? [] : filters.type.split(',');
     const matchesFilters = (r: Incident) =>
       (!location ||
         [r.location, r.location_group, r.county, r.place, r.peak].some(
           (s) => s && normalizePlace(s).includes(location),
         )) &&
-      (!agency || r.responding_agency?.toLocaleLowerCase().includes(agency)) &&
+      (!agency ||
+        r.responding_agency?.toLocaleLowerCase().includes(agency) ||
+        agencies.get(r)?.some((n) => n.includes(agency))) &&
       (filters.year === 'all' || r.date.startsWith(filters.year)) &&
       (!types.length || types.includes(r.incident_type || '')) &&
       (filters.outcome === 'all' ||
@@ -73,9 +85,13 @@ export function createSearch(records: Incident[]) {
             filters.outcome.toLocaleLowerCase())) &&
       (!filters.from || r.date >= filters.from) &&
       (!filters.to || r.date <= filters.to) &&
-      (filters.month === 'all' || r.date.slice(5, 7) === filters.month) &&
+      (!months.length || months.includes(r.date.slice(5, 7))) &&
       (filters.setting === 'all' || r.setting === filters.setting) &&
-      (filters.placeType === 'all' || r.place_type === filters.placeType);
+      (filters.placeType === 'all' || r.place_type === filters.placeType) &&
+      (filters.detail === 'all' ||
+        (filters.detail === '__missing__'
+          ? r.detail_score == null || String(r.detail_score).trim() === ''
+          : String(r.detail_score).trim() === filters.detail));
     // Bound each fuzzy pattern to one Bitap word. Long queries use literal
     // all-token matching rather than multiplying fuzzy work for long strings.
     let result: Incident[];
@@ -105,7 +121,7 @@ export function createSearch(records: Incident[]) {
 }
 export const label = (s?: string | null) =>
   s?.trim()
-    ? s.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase())
+    ? s.replace(/[-_]/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase())
     : 'Not recorded';
 export const formatDate = (s: string) =>
   new Date(s + 'T12:00:00Z').toLocaleDateString('en-US', {

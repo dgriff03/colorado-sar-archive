@@ -11,7 +11,11 @@ import { aggregateIncidents, dimensions, groupValue } from '../lib/explorer.ts';
 import type { Incident } from '../lib/types.ts';
 export function createArchiveStore(records: Incident[]) {
   return {
-    byId: new Map(records.flatMap((r) => [r.id, ...(r.merged_ids || [])].map(id => [id, r] as const))),
+    byId: new Map(
+      records.flatMap((r) =>
+        [r.id, ...(r.merged_ids || [])].map((id) => [id, r] as const),
+      ),
+    ),
     search: createSearch(records),
   };
 }
@@ -39,7 +43,9 @@ export function createArchiveServer(
       .string()
       .max(300)
       .optional()
-      .describe('Substring in reported location, normalized location group, county, place or peak'),
+      .describe(
+        'Substring in reported location, normalized location group, county, place or peak',
+      ),
     year: z.number().int().min(1900).max(2200).optional(),
     incident_type: z
       .string()
@@ -55,7 +61,20 @@ export function createArchiveServer(
       .string()
       .regex(/^\d{4}-\d{2}-\d{2}$/)
       .optional(),
-    month: z.number().int().min(1).max(12).optional(),
+    month: z
+      .union([
+        z.number().int().min(1).max(12),
+        z.array(z.number().int().min(1).max(12)).min(1).max(12),
+      ])
+      .optional()
+      .describe('One month or an array of months (OR)'),
+    detail_level: z
+      .string()
+      .max(100)
+      .optional()
+      .describe(
+        'Exact detail_score classification, or __missing__ for unrecorded detail',
+      ),
     setting: z.string().max(100).optional(),
     place_type: z.string().max(100).optional(),
     outcome: z
@@ -77,7 +96,8 @@ export function createArchiveServer(
     agency?: string;
     from?: string;
     to?: string;
-    month?: number;
+    month?: number | number[];
+    detail_level?: string;
     setting?: string;
     place_type?: string;
   };
@@ -92,7 +112,13 @@ export function createArchiveServer(
       agency: input.agency || '',
       from: input.from || '',
       to: input.to || '',
-      month: input.month ? String(input.month).padStart(2, '0') : 'all',
+      month: input.month
+        ? [input.month]
+            .flat()
+            .map((m) => String(m).padStart(2, '0'))
+            .join(',')
+        : 'all',
+      detail: input.detail_level || 'all',
       setting: input.setting || 'all',
       placeType: input.place_type || 'all',
     }).filter(
