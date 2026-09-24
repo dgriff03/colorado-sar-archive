@@ -105,7 +105,7 @@ def build(root):
     for old in details.glob('*.json'):
         if old.name not in keep: old.unlink()
     index=[]
-    index_fields=['id','date','summary','location','county','incident_type','outcome','responding_agency','place','peak','notes','source_urls','victims','setting','place_type','location_group','merged_ids']
+    index_fields=['id','date','summary','location','county','incident_type','outcome','responding_agency','place','peak','notes','source_urls','victims','setting','place_type','location_group','merged_ids','detail_score']
     for record in records:
         (details/(record['id']+'.json')).write_text(json.dumps(record,ensure_ascii=False,separators=(',',':'))+'\n')
         index.append({k:record.get(k) for k in index_fields})
