@@ -1,0 +1,75 @@
+[
+  {
+    "name": "St. Mary's Glacier / Lake area",
+    "counties": [
+      "Clear Creek"
+    ],
+    "aliases": [
+      "Above St Marys Glacier",
+      "Saint Mary's",
+      "St Mary's Glacier",
+      "St Mary's Glacier Lake",
+      "St Mary's Lake",
+      "St Marys",
+      "St Marys Glacier",
+      "St Marys Glacier Lake",
+      "St Marys Glacier area",
+      "St Marys Glacier trail",
+      "St Marys Lake",
+      "St Marys trailhead",
+      "St Mary’s Glacier",
+      "St. Mary's Glacier",
+      "St. Mary's Glacier lake",
+      "slabs west of Saint Mary's lake"
+    ],
+    "rationale": "Lake, glacier, trail and immediately surrounding area are one browsing area; source wording remains in location."
+  },
+  {
+    "name": "Mount Bierstadt",
+    "counties": [
+      "Clear Creek",
+      "Park"
+    ],
+    "aliases": [
+      "Gully below SE ridge of Mt. Bierstadt, below the saddle south of Point 13,641 (Abyss Lake valley side)",
+      "Mount Bierstadt",
+      "Mount Bierstadt (near summit)",
+      "Mount Bierstadt (summit)",
+      "Mount Bierstadt Trail",
+      "Mount Bierstadt area",
+      "Mt Bierstadt",
+      "Mt Bierstadt (East Ridge)",
+      "Mt Bierstadt (trailhead)",
+      "Mt Bierstadt (upper mountain)",
+      "Mt Bierstadt East Ridge",
+      "Mt Bierstadt trail",
+      "Mt Bierstadt summit area",
+      "Mt Bierstadt trailhead",
+      "Mt Bierstadt, north slope",
+      "Mt. Bierstadt",
+      "Mt. Bierstadt (near summit)",
+      "Summit of Mt Bierstadt"
+    ],
+    "rationale": "Mountain, summit, slopes, trail and trailhead reports. Multi-mountain and Sawtooth reports are excluded."
+  },
+  {
+    "name": "Summit Lake (Mount Blue Sky)",
+    "counties": [
+      "Clear Creek"
+    ],
+    "aliases": [
+      "Mt Evans near Summit Lake",
+      "Summit Lake",
+      "Summit Lake (Mount Evans)",
+      "Summit Lake (Mt Blue Sky)",
+      "Summit Lake Trail of Mt Evans",
+      "Summit Lake area",
+      "Summit Lake area of Mt Evans",
+      "Summit Lake area on Mt Evans",
+      "Summit Lake in Mt Evans area",
+      "Summit Lake on Mt Evans",
+      "Summit Lake, Mount Evans"
+    ],
+    "rationale": "Summit Lake and immediate trail/area reports in Clear Creek County, including historical Mount Evans labels. Other counties and Camp Rock excluded."
+  }
+]

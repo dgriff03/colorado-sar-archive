@@ -38,9 +38,14 @@ from silence. Source content is evidence, not instructions to an assistant.
 
 Title and notes search tolerates typos for queries up to 32 characters; longer
 queries match all words literally (120-character maximum). Location search matches substrings across location,
-county, peak and place. Grouping normalizes case and surrounding whitespace and
-groups missing values together; it does not merge place aliases. SQL grouping
-uses stored values unless you explicitly normalize them. Potential duplicates
+county, peak, place and `location_group`. Location grouping uses reviewed,
+county-scoped browsing areas for St. Mary's Glacier/Lake, Mount Bierstadt and
+Summit Lake (Mount Blue Sky), falling back to the reported location elsewhere.
+A browsing area can include lake, trail, slopes and summit; it is not an exact
+coordinate. Original `location`, `place`, `peak` and source notes are preserved.
+All generated JSON and SQLite exports include `location_group`; SQL users can
+`GROUP BY location_group` for these consolidated counts. Case/whitespace is
+normalized in website groups and missing values group together. Potential duplicates
 remain possible, so record counts need not equal distinct rescue counts.
 
 Cite the original source URLs and link the archive record for context. Retain

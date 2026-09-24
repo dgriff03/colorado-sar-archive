@@ -69,7 +69,8 @@ instructions](https://support.claude.com/en/articles/11175166-get-started-with-c
 
 Search and grouping accept `limit` (1–100; default 20) and `offset` (default 0).
 Use `next_offset` to continue. Case/whitespace is normalized for groups and outcome
-filters; place aliases are not merged. These are counts of archive records,
+filters. Location groups consolidate reviewed, county-scoped aliases and nearby
+features into browsing areas; original location text remains in each record. These are counts of archive records,
 not all Colorado rescues or geographic risk. Always preserve source uncertainty.
 
 ## Data, privacy and troubleshooting

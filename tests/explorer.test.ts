@@ -183,3 +183,17 @@ test('replacing search state does not create a history entry', () => {
   h.back();
   assert.equal(h.state.filters.q, 'rescue');
 });
+
+test('reviewed location groups combine aliases and preserve clickable group counts', () => {
+  const records = [
+    { id: 'a', location: 'Mt Bierstadt', location_group: 'Mount Bierstadt', outcome: 'rescued' },
+    { id: 'b', location: 'Mount Bierstadt (summit)', location_group: 'Mount Bierstadt', outcome: 'rescued' },
+    { id: 'c', location: 'Bierstadt Lake', location_group: 'Bierstadt Lake', outcome: 'rescued' },
+  ] as Incident[];
+  const group = aggregateIncidents(records, ['location', 'outcome'])[0];
+  assert.deepEqual(records.filter(r => inGroup(r, [{ field: 'location', value: 'mt bierstadt' }])).map(r => r.id), ['a']);
+  assert.equal(group.count, 2);
+  assert.equal(group.labels[0], 'Mount Bierstadt');
+  const state = readExplorer(new URL(explorerUrl({ ...initialExplorer, drill: group.values }), 'https://example.org').search);
+  assert.deepEqual(records.filter(r => inGroup(r, state.drill)).map(r => r.id), ['a', 'b']);
+});

@@ -11,7 +11,7 @@ export const dimensions = [
 ] as const;
 export type Dimension = (typeof dimensions)[number];
 export const dimensionLabels: Record<Dimension, string> = {
-  location: 'Location',
+  location: 'Location (normalized area)',
   outcome: 'Outcome',
   county: 'County',
   incident_type: 'Incident type',
@@ -46,6 +46,8 @@ export const initialExplorer: ExplorerState = {
 };
 export const groupValue = (value: string | null | undefined) =>
   value?.trim().toLocaleLowerCase() || null;
+const dimensionValue = (record: Incident, field: Dimension) =>
+  field === 'location' ? record.location_group ?? record.location : record[field];
 export function aggregateIncidents(
   records: Incident[],
   fields: Dimension[],
@@ -54,7 +56,7 @@ export function aggregateIncidents(
   for (const record of records) {
     const values = fields.map((field) => ({
       field,
-      value: groupValue(record[field]),
+      value: groupValue(dimensionValue(record, field)),
     }));
     const key = JSON.stringify(values);
     const group = groups.get(key);
@@ -63,7 +65,7 @@ export function aggregateIncidents(
       groups.set(key, {
         key,
         values,
-        labels: fields.map((f) => record[f]?.trim() || 'Not recorded'),
+        labels: fields.map((f) => dimensionValue(record, f)?.trim() || 'Not recorded'),
         count: 1,
       });
   }
@@ -73,7 +75,10 @@ export function aggregateIncidents(
 }
 export function inGroup(record: Incident, filters: GroupFilter[]) {
   return filters.every(
-    ({ field, value }) => groupValue(record[field]) === value,
+    ({ field, value }) =>
+      groupValue(dimensionValue(record, field)) === value ||
+      // Preserve older shared drill-down links using the reported location.
+      (field === 'location' && groupValue(record.location) === value),
   );
 }
 export function readExplorer(search: string): ExplorerState {
