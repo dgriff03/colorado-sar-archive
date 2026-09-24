@@ -1,0 +1,19 @@
+{
+  "id": "e6b4e20d-c7c1-4ab9-ac7f-1166e32864c9",
+  "date": "2010-05-20",
+  "summary": "Missing 20 YOM in Clear Creek Canyon near tunnel 1; search continued day 2 (10-25, 10-27)",
+  "location": "Clear Creek Canyon near tunnel 1",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART missions 10-25 (5/20) and 10-27 (5/21, day 2). Outcome not stated; presumed rescued-uninjured.",
+  "peak": "Clear Creek Canyon",
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 26
+}

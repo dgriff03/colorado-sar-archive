@@ -1,0 +1,19 @@
+{
+  "id": "03d1f4ab-dc27-46e9-b17d-29a55a32cbcf",
+  "date": "2015-08-02",
+  "summary": "Austin Schindler, 18, of Pueblo West, fell ~100 ft from a rock cliff area into a rugged ravine while hiking near the St. Charles River east of Lake Isabel in the San Isabel National Forest; Pueblo County Search and Rescue crews recovered his body.",
+  "location": "St. Charles River east of Lake Isabel, San Isabel National Forest",
+  "county": "Pueblo",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Pueblo County Search and Rescue",
+  "source_urls": "https://www.cpr.org/2015/08/04/pueblo-west-man-dies-after-hiking-fall-near-lake-isabel/",
+  "notes": "DATE APPROXIMATE: incident date pinned from the story's \"Sunday afternoon\" hiking reference published 2015-08-04 (Sunday = 2015-08-02).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "St. Charles River",
+  "place_type": "river",
+  "legacy_id": 2533
+}

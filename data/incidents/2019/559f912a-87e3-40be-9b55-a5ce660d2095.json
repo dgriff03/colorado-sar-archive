@@ -1,0 +1,19 @@
+{
+  "id": "559f912a-87e3-40be-9b55-a5ce660d2095",
+  "date": "2019-03-09",
+  "summary": "Two Crested Butte South residents clearing snow from a roof were buried when the roof avalanched; dug out in 20-30 minutes, one man survived and one died.",
+  "location": "Crested Butte South",
+  "county": "Gunnison",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 2,
+  "responding_agency": "",
+  "source_urls": "https://cbavalanchecenter.org/wp-content/uploads/2025/10/2018-19-CBAC-Annual-Report.pdf|https://classic.avalanche.state.co.us/caic/acc/acc_co.php",
+  "notes": "Roof avalanche during the historic March-2019 loading cycle; CBAC 2018-19 annual report confirms the March-9 incident (dug out in 20-30 min, one survived, one died). Responding agency not named in sources read.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Crested Butte South",
+  "place_type": "other",
+  "legacy_id": 2502
+}

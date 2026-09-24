@@ -1,0 +1,19 @@
+{
+  "id": "7ab9f0c3-c389-40e8-946b-6e9dbc00bfc3",
+  "date": "2020-03-21",
+  "summary": "50-year-old woman broke her leg in a snowmobile accident near Idleglen; evacuated by Med Evac.",
+  "location": "Near Idleglen, Grand County",
+  "county": "Grand",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Grand County Search and Rescue",
+  "source_urls": "https://www.facebook.com/GCSAR/posts/pfbid02maqovxvNvVbZhHDH8S7afcnBidytwFX7ETqvAxdPcAADK6cfEfvG9jTAhJvvgcK3l",
+  "notes": "Post dated 2020-03-22 15:20 MDT describes 'yesterday' missions (2020-03-21). One of two snowmobile accidents near Idleglen in the same response. Broken leg; taken by Med Evac. Grand Lake Fire, Grand County EMS - Mountain Medical Response Team, On The Trail Rentals assisted. Distinct from the same-day 18-year-old's incident.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Idleglen",
+  "place_type": "other",
+  "legacy_id": 3543
+}

@@ -1,0 +1,19 @@
+{
+  "id": "3caa6796-fcba-44a8-9042-0e0bd02ca1d9",
+  "date": "2019-10-23",
+  "summary": "Overdue hunter in the La Garita Mountains; found with positive outcome",
+  "location": "La Garita Mountains",
+  "county": "Saguache",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Saguache County SAR + Custer County SAR + others",
+  "source_urls": "https://custersar.org/saguache-assist/|https://www.avsar.us/10-23-2019-mutual-aid/",
+  "notes": "CCSAR mutual aid to Saguache; outcome described as positive | run 804: AVSAR 10/23/2019 post confirms the mutual-aid assist to Saguache County (missing hunter, La Garita, found safe); note post says 'Yesterday morning' (=10/22) — row date kept; parent-opened",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "La Garita Mountains",
+  "place_type": "other",
+  "legacy_id": 741
+}

@@ -1,0 +1,19 @@
+{
+  "id": "55fc0e80-c8ee-481b-9c54-898a93932819",
+  "date": "2023-12-03",
+  "summary": "Exhausted dog with raw, painful paws on the Quandary Peak Trail; Summit County Rescue Group members assisted the owner in bringing the injured dog off the mountain.",
+  "location": "Quandary Peak Trail, Quandary Peak, near Breckenridge",
+  "county": "Summit",
+  "incident_type": "animal",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Summit County Rescue Group",
+  "source_urls": "https://www.newslocker.com/en-us/region/denver/crews-rescue-dog-from-14er-remind-pet-owners-to-consider-trail-dangers/",
+  "notes": "Inserted run 929. Date flagged approximate: inferred from the CBS4 Denver story (\"a dog was saved Sunday\") via the newslocker mirror whose assets are dated 2023/12/05; 2023-12-03 was the Sunday immediately prior. Source URL is the newslocker mirror of the CBS4 Denver piece (Matt Kroschel); SCRG member Helen Rowe quoted: \"We love dogs but our priority is always human rescues.\" Animal-rescue insert per the id 3291 (2023-07-06 Mt. Hope dog rescue) precedent.",
+  "peak": "Quandary Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3555
+}

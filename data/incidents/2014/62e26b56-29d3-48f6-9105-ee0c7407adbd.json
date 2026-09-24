@@ -1,0 +1,19 @@
+{
+  "id": "62e26b56-29d3-48f6-9105-ee0c7407adbd",
+  "date": "2014-06-28",
+  "summary": "Female tuber caught in a tree strainer about 1/4 mile east of N. Overland Trail on the Cache la Poudre River in NW Fort Collins; rescue swimmers, a boat and rope-rigging freed her; she was evaluated on scene and transported by ambulance to Poudre Valley Hospital.",
+  "location": "Cache la Poudre River ~1/4 mi E of N. Overland Trail, NW Fort Collins",
+  "county": "Larimer",
+  "incident_type": "other",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Larimer County Sheriff's Office; LCSO Emergency Services; Larimer County Dive Rescue Team; Poudre Valley Hospital EMS",
+  "source_urls": "https://northfortynews.com/category/news/trapped-poudre-river-tuber-rescued-near-overland-trail/",
+  "notes": "DATE APPROXIMATE — article carries no explicit date; pinned to search-index last-updated metadata (2014-06-28); article says 'today' and 'reported just after noon'. Run 651.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Cache la Poudre River",
+  "place_type": "river",
+  "legacy_id": 3133
+}

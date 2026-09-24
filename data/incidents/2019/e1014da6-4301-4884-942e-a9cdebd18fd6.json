@@ -1,0 +1,19 @@
+{
+  "id": "e1014da6-4301-4884-942e-a9cdebd18fd6",
+  "date": "2019-08-15",
+  "summary": "37-year-old woman canyoneering in Oak Creek Canyon fell ~20 ft in a remote area 2.5 miles up the canyon, suffering back, rib and elbow injuries; wheeled-litter evacuation down-trail to a waiting ambulance.",
+  "location": "Oak Creek Canyon",
+  "county": "Ouray",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Ouray Mountain Rescue Team",
+  "source_urls": "https://www.ouraymountainrescue.com/new-page-1-1",
+  "notes": "Team called out 2:30 p.m.; first team reached patient ~4:45; packaged with pain meds and oxygen, down-trail evacuation completed in ~1 hr.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Oak Creek Canyon",
+  "place_type": "canyon",
+  "legacy_id": 2184
+}

@@ -1,0 +1,19 @@
+{
+  "id": "70446243-e8d1-423e-bb75-f4c24aac61fd",
+  "date": "2023-05-01",
+  "summary": "Two stranded male parties hiking Mt Bierstadt",
+  "location": "Mt Bierstadt",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2024/01/2023-Missions-Website.pdf",
+  "notes": "ART mission 2023-021.",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1203
+}

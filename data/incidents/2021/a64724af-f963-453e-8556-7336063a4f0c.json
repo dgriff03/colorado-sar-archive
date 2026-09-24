@@ -1,0 +1,19 @@
+{
+  "id": "a64724af-f963-453e-8556-7336063a4f0c",
+  "date": "2021-02-16",
+  "summary": "Two snowmobilers were caught in an avalanche west of Ruby Mountain southeast of Rand; one was partially buried and one was buried and killed.",
+  "location": "West of Ruby Mountain, southeast of Rand",
+  "county": "Jackson",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "http://classic.avalanche.state.co.us/caic/acc/acc_co.php",
+  "notes": "CAIC classic 2020-21 season table row: 'West of Ruby Mountain, southeast of Rand | 2 snowmobilers caught, 1 partially buried, 1 buried and killed'.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Ruby Mountain",
+  "place_type": "peak",
+  "legacy_id": 2585
+}

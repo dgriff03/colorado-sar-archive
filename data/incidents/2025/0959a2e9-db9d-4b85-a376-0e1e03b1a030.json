@@ -1,0 +1,19 @@
+{
+  "id": "0959a2e9-db9d-4b85-a376-0e1e03b1a030",
+  "date": "2025-05-23",
+  "summary": "Two lost motorists in a 4WD vehicle reported lost somewhere on the Grand Mesa; Mesa County SAR located them near Coon Creek Reservoir Number 4 and rescued both men.",
+  "location": "Grand Mesa, Coon Creek Reservoir #4, Mesa County",
+  "county": "Mesa",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Mesa County Sheriff's Office, Mesa County Search and Rescue",
+  "source_urls": "https://crimewatch.net/us/co/mesa/sheriff/134177/post/mesa-county-sheriffs-office-responds-seven-search-and-rescue-calls-over-memorial-day",
+  "notes": "Reported ~7:50am May 23, 2025.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Coon Creek Reservoir",
+  "place_type": "reservoir",
+  "legacy_id": 1575
+}

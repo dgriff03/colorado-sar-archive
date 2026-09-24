@@ -1,0 +1,19 @@
+{
+  "id": "43fc309c-4503-4a90-a144-a51fb57093c1",
+  "date": "2018-09-15",
+  "summary": "Ill hiker on Kit Carson; National Guard hoist successful, transferred to Flight for Life at Westcliffe",
+  "location": "Kit Carson",
+  "county": "Saguache",
+  "incident_type": "medical",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alamosa Volunteer SAR / Saguache County SAR (+ CO National Guard, Flight for Life)",
+  "source_urls": "https://www.avsar.us/missions-from-2018/",
+  "notes": "Saturday-verified; AVSAR mutual-aid to Saguache County SAR; 2 Blackhawks attempted hoist; run 804",
+  "peak": "Kit Carson Peak",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3325
+}

@@ -1,0 +1,19 @@
+{
+  "id": "0d3827dc-1e81-4710-aa4d-dd0e769cf400",
+  "date": "2014-06-10",
+  "summary": "Van Hodges, 48, of Enid, Oklahoma, died after being ejected from a commercial Royal George Rafting raft that hit rough water near the Salt Lick Recreation Site (U.S. 50 mile marker 259) in Bighorn Sheep Canyon; he was one of five people thrown from the seven-person raft",
+  "location": "Salt Lick Recreation Site, U.S. 50 mile marker 259, Bighorn Sheep Canyon",
+  "county": "Fremont",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Royal George Rafting trip party; local emergency responders (not named in source)",
+  "source_urls": "https://www.themountainmail.com/news/article_0c1a6d40-0e8d-11e4-8d9c-0017a43b2370.html",
+  "notes": "Mountain Mail 'River claims six lives' 2014 season roundup parent-opened this run; first of the six accidents, 'June 10'.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Bighorn Sheep Canyon",
+  "place_type": "canyon",
+  "legacy_id": 2986
+}

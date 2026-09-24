@@ -1,0 +1,19 @@
+{
+  "id": "d190ec4c-c417-447c-aaa4-5939ed7795f7",
+  "date": "2010-07-28",
+  "summary": "Provide search dog to Lake County for search on Mt Massive (10-58)",
+  "location": "Mt Massive",
+  "county": "Lake",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team; Lake County SAR",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf|http://sardoc.org/cms/wp-content/uploads/2011/01/PublicSummaryFinal.pdf",
+  "notes": "ART mission 10-58. Provided search dog; subject details not stated; victim count estimated.",
+  "peak": "Mount Massive",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 66
+}

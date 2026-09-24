@@ -1,0 +1,19 @@
+{
+  "id": "91410c89-3e13-4003-98fc-5e83eabb5bef",
+  "date": "2020-09-25",
+  "summary": "Jeffry Deardorff, 72, of Hartsel, died in a ~1,000-foot fall while descending Crestone Needle after summiting ~11 a.m. Friday; Custer County SAR began searching Sunday with a Flight for Life helicopter and spotted the body ~1:15 p.m. at the base of Crestone Peak near Cottonwood Lake; no suspicious circumstances.",
+  "location": "Crestone Needle descent / base of Crestone Peak near Cottonwood Lake",
+  "county": "Saguache",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Custer County SAR; Custer County Sheriff's Office; Flight for Life",
+  "source_urls": "https://www.themountainmail.com/news/article_6e171fb4-01ea-11eb-92e7-131c324f7f93.html",
+  "notes": "Incident date pinned to Friday 2020-09-25 via Custer County SAR 14ers.com post (\"summit ... approximately noon Friday (9/25/20)\") + Saturday 2020-09-26 search start and Sunday 2020-09-27 body recovery in the Mountain Mail article; Saguache County is the incident county (Crestone Needle in Saguache County), Custer County SAR ran the response (Custer County access point).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Cottonwood Lake",
+  "place_type": "lake",
+  "legacy_id": 3021
+}

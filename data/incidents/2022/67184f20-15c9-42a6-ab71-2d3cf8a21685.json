@@ -1,0 +1,19 @@
+{
+  "id": "67184f20-15c9-42a6-ab71-2d3cf8a21685",
+  "date": "2022-08-24",
+  "summary": "Assist to Rocky Mountain Rescue Group in search for a missing 82-year-old woman in the Brainard Lake area",
+  "location": "Brainard Lake",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Rocky Mountain Rescue Group",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2023/01/2022-Missions-Website.pdf",
+  "notes": "ART mission 2022-086.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Brainard Lake",
+  "place_type": "lake",
+  "legacy_id": 1135
+}

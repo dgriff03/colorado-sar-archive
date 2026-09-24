@@ -1,0 +1,19 @@
+{
+  "id": "cd480af4-2970-490c-bf0e-cfe4b2215ecf",
+  "date": "2011-06-28",
+  "summary": "71-year-old man fishing on the Taylor River did not return home; reported missing Tuesday afternoon. WSC SAR dog team and Crested Butte SAR searched Tuesday evening, resumed Wednesday morning, and found his body near Lodgepole Campground around 11 a.m.",
+  "location": "Taylor River near Lodgepole Campground",
+  "county": "Gunnison",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Western State College SAR, Crested Butte SAR",
+  "source_urls": "https://crestedbuttenews.com/2011/06/body-recovered-from-taylor-river-wednesday-morning/|https://crestedbuttenews.com/2011/07/local-search-and-rescue-teams-having-busy-summer/",
+  "notes": "Name withheld at press time; cause undetermined. Body found Wed 2011-06-29; incident date pinned to report day Tue 2011-06-28. CBN 2011-07 'busy summer' feature mentions this mission (searched for a man missing in the Taylor River).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Taylor River",
+  "place_type": "river",
+  "legacy_id": 2892
+}

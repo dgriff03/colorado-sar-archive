@@ -1,0 +1,19 @@
+{
+  "id": "0385ac01-9c8f-409d-bf06-dbce68c327a0",
+  "date": "2012-07-03",
+  "summary": "Search for a missing 57-year-old woman in the Golden area; outcome not stated (12-37).",
+  "location": "Golden area",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/category/recent-missions/jefferson-county/page/38/",
+  "notes": "Alpine Rescue Team mission 12-37; paged 07/03/12 20:08.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Golden",
+  "place_type": "town",
+  "legacy_id": 2205
+}

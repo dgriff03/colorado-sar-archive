@@ -1,0 +1,19 @@
+{
+  "id": "90a4e5ab-3d47-4c71-84ea-31b4024d0268",
+  "date": "2018-07-11",
+  "summary": "Stranded dirt-bike rider in the Taylor Park area; Western Mountain Search and Rescue engaged around 9:00 p.m. and escorted the party out of the wilderness by 5:00 a.m. the following morning.",
+  "location": "Taylor Park area",
+  "county": "Gunnison",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Western Mountain Search and Rescue; Gunnison County Sheriff Office",
+  "source_urls": "https://gunnisoncounty.org/Archive/ViewFile/Item/2892",
+  "notes": "GCSO weekly blotter entry 07/11/18 (parent-opened run 615); escort completed 5:00 a.m. 2018-07-12. Fills thin year 2018 for Gunnison.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Taylor Park",
+  "place_type": "park",
+  "legacy_id": 3061
+}

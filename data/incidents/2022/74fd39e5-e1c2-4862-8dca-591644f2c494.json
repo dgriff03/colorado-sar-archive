@@ -1,0 +1,19 @@
+{
+  "id": "74fd39e5-e1c2-4862-8dca-591644f2c494",
+  "date": "2022-09-12",
+  "summary": "Vehicle left Rim Rock Drive near the Coke Ovens Overlook with two 28-year-old occupants; one was found deceased at the scene and the other was transported to St. Mary's Hospital; Mesa County Sheriff's Technical Rescue Team and CareFlight responded.",
+  "location": "Rim Rock Drive near Coke Ovens Overlook",
+  "county": "Mesa",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 2,
+  "responding_agency": "NPS; Colorado State Patrol; Lower Valley FD; Mesa County Sheriff's Office; Mesa County Sheriff's Technical Rescue Team; CareFlight; Mesa County Coroner",
+  "source_urls": "http://npshistory.com/morningreport/incidents/colm.htm",
+  "notes": "One deceased, one injured; cause under investigation.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Rim Rock Drive",
+  "place_type": "road",
+  "legacy_id": 2790
+}

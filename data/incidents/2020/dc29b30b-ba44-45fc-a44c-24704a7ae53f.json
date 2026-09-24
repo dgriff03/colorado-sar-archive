@@ -1,0 +1,19 @@
+{
+  "id": "dc29b30b-ba44-45fc-a44c-24704a7ae53f",
+  "date": "2020-06-03",
+  "summary": "UNC student Kian \"Alex\" Malone jumped 86-90 ft from a cliff into the swimming hole at Paradise Cove (Guffey Gorge BLM day-use area, near Guffey); hit the water knees-then-head-first, was knocked unconscious and sank. Three Western Colorado University rugby players (all former high-school lifeguards) dove in, located him after several attempts, towed him ashore and rolled him to his side without CPR due to a suspected neck injury; he regained consciousness coughing up water. First responders treated him on scene and he was flown by medical helicopter to UCHealth Memorial Hospital Trauma Center in Colorado Springs with lung contusions consistent with near drowning; he walked out the next day and has since fully recovered.",
+  "location": "Paradise Cove (Guffey Gorge), near Guffey",
+  "county": "Park",
+  "incident_type": "other",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "first responders + medical helicopter (UCHealth Memorial Hospital, Colorado Springs)",
+  "source_urls": "https://crestedbuttenews.com/2020/11/rescue-at-paradise-cove-binds-rugby-players/",
+  "notes": "2020-06-03 weekday-verified Wednesday; CBN Nov-2020 feature (Western Colorado University byline); bystander-rescuers were rugby players/lifeguards; Malone is type-1 diabetic with a heart condition (per article); water-recreation incident, other/injury per id-2481/3557 precedent",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Paradise Cove",
+  "place_type": "other",
+  "legacy_id": 3564
+}

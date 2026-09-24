@@ -1,0 +1,19 @@
+{
+  "id": "93fccf51-25de-4d9d-975f-74b63c86bcda",
+  "date": "2024-01-27",
+  "summary": "Three overdue parties in the Stapleton Drive area",
+  "location": "Stapleton Drive",
+  "county": "",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 3,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "Location unverified; ART mission 2024-006.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "ONE_LINER",
+  "place": "Stapleton Drive",
+  "place_type": "road",
+  "legacy_id": 1328
+}

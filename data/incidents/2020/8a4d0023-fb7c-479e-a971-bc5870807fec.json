@@ -1,0 +1,19 @@
+{
+  "id": "8a4d0023-fb7c-479e-a971-bc5870807fec",
+  "date": "2020-09-05",
+  "summary": "Annie Weinmann slipped while soloing the North Chimney approach to D7 (5.11c) on the Diamond, Longs Peak's East Face; she slid down snow into the talus field, suffering two fractured ribs, a pneumothorax, a T6 compression fracture, a deep eyebrow laceration (7 stitches), a sprained ankle, and a likely mild concussion. A companion who is an EMT gave first aid until an RMNP ranger team arrived; she was flown by helicopter to the hospital.",
+  "location": "North Chimney approach to D7, the Diamond, East Face, Longs Peak",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park rangers",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201215881|https://www.climbing.com/skills/200-foot-fall-on-north-chimney-longs-peak?scope=anon",
+  "notes": "AAC Accidents in North American Climbing, climb year 2020 (opened run 599): first-person account; date 2020-09-05 (verified Saturday). Boulder = East Face inference, consistent with id 3002. | Weinmann first-person account (climbing.com): 200-ft unroped fall in North Chimney, RMNP ranger team ~90 min, fentanyl/oxygen, helicopter evac to St. Anthony Trauma center, injuries incl. fractured ribs, T6 compression fracture, ankle sprain, concussion",
+  "peak": "Longs Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3033
+}

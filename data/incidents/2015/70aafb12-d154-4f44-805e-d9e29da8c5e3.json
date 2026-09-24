@@ -1,0 +1,19 @@
+{
+  "id": "70aafb12-d154-4f44-805e-d9e29da8c5e3",
+  "date": "2015-08-29",
+  "summary": "Two overdue hikers in the Grays and Torreys area",
+  "location": "Grays and Torreys area",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-96.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Grays and Torreys",
+  "place_type": "other",
+  "legacy_id": 2024
+}

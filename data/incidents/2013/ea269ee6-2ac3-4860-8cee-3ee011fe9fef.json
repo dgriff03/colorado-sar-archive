@@ -1,0 +1,19 @@
+{
+  "id": "ea269ee6-2ac3-4860-8cee-3ee011fe9fef",
+  "date": "2013-08-10",
+  "summary": "Search for an overdue mountain biker in the Pine Valley Ranch area (13-64).",
+  "location": "Pine Valley Ranch",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/category/recent-missions/jefferson-county/page/36/",
+  "notes": "Alpine Rescue Team mission 13-64; paged 08/10/13 22:22. Outcome unreported; recorded as rescued-uninjured per convention.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Pine Valley Ranch Park",
+  "place_type": "park",
+  "legacy_id": 2223
+}

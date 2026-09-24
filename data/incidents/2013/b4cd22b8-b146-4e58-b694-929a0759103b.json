@@ -1,0 +1,19 @@
+{
+  "id": "b4cd22b8-b146-4e58-b694-929a0759103b",
+  "date": "2013-01-29",
+  "summary": "Backcountry skier triggered a slide on Red Lady Bowl on Tuesday Jan 29 and self-extricated; he walked roughly 300 yards down to meet an ambulance and was reported to have potentially serious injuries; 911 call came in around 3 p.m. in blowing snow and low visibility",
+  "location": "Red Lady Bowl",
+  "county": "Gunnison",
+  "incident_type": "avalanche",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Crested Butte Search and Rescue + Crested Butte EMS",
+  "source_urls": "https://crestedbuttenews.com/2013/01/skier-self-extricates-from-slide-on-red-lady/",
+  "notes": "Crested Butte News 2013-01-30; CBSAR president Nicholas Kempin was patrolling and did not respond directly; skier walked to the ambulance on his own",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Red Lady Bowl",
+  "place_type": "other",
+  "legacy_id": 2245
+}

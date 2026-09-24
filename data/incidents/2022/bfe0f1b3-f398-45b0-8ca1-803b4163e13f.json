@@ -1,0 +1,19 @@
+{
+  "id": "bfe0f1b3-f398-45b0-8ca1-803b4163e13f",
+  "date": "2022-12-07",
+  "summary": "Overdue snowmobiler in the Jones Pass area",
+  "location": "Jones Pass",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2023/01/2022-Missions-Website.pdf",
+  "notes": "Final outcome not stated in log; ART mission 2022-115.",
+  "peak": "Jones Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1169
+}

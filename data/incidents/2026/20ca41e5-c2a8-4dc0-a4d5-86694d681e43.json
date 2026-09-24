@@ -1,0 +1,19 @@
+{
+  "id": "20ca41e5-c2a8-4dc0-a4d5-86694d681e43",
+  "date": "2026-07-12",
+  "summary": "Hiker with a knee injury just below Broken Hand Pass; overnight litter evacuation with mutual aid from Chaffee County SAR South and Flight for Life (4 technical members plus 125 lb of gear flown in while 15 ground members hiked in); all parties out of the field by 0600 the next day.",
+  "location": "Broken Hand Pass, Sangre de Cristo Range",
+  "county": "Custer",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Custer County Search and Rescue; Chaffee County Search and Rescue - South; Flight for Life Colorado",
+  "source_urls": "https://www.facebook.com/CusterSAR/posts/pfbid02GkaYhnVL1Lkg7QoPZQCypdW5pH5RvksmofZVJqQ1h6rhU6FzJ89AZYMVZ5GX5HS4l",
+  "notes": "Incident date per page post of 2026-07-14; subject was an experienced 14er climber carrying emergency gear (bivy, headlamp, inReach) which sustained her through the ~48-hour ordeal; injury mechanism not stated",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Broken Hand Pass",
+  "place_type": "pass",
+  "legacy_id": 1721
+}

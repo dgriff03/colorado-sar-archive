@@ -1,0 +1,19 @@
+{
+  "id": "ba79aa42-3f2c-4c2c-bdd3-a87af0057d96",
+  "date": "2012-09-08",
+  "summary": "Alpine assisted Summit County SAR with a search for two missing hunters in the Eagles Nest Wilderness area (Alpine mission 2012-85)",
+  "location": "Eagles Nest Wilderness area, Summit County",
+  "county": "Summit",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team (assisting Summit County SAR)",
+  "source_urls": "https://alpinerescueteam.org/category/mesa-county/summit-county/page/2/",
+  "notes": "One-liner from the Alpine Summit County assist archive (paged 11:09); outcome not published, recorded as rescued-uninjured per the one-liner-search convention.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Eagles Nest Wilderness",
+  "place_type": "wilderness",
+  "legacy_id": 2514
+}

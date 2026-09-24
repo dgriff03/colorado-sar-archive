@@ -1,0 +1,19 @@
+{
+  "id": "889d008d-34e3-41ab-83d3-0f2b17857ee6",
+  "date": "2015-03-05",
+  "summary": "Backcountry tourer caught, partially buried and injured in an avalanche on Pitkin Creek in the Gore Range.",
+  "location": "Pitkin Creek, Gore Range",
+  "county": "Eagle",
+  "incident_type": "avalanche",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "CO Army National Guard HAATS; Vail Mountain Rescue Group",
+  "source_urls": "https://classic.avalanche.state.co.us/caic/acc/acc_co.php|https://snowbrains.com/avalanche-breaks-skiers-leg-vail-co/",
+  "notes": "MERGE run 522: SnowBrains 2015-03-06 re-report of Vail Daily story (opened this run; Thursday 2015-03-05, 9 a.m. Pitkin Creek area near Vail; three skiers in 30s caught, one broke leg, HAATS Blackhawk helo rescue) — same incident; county set to Eagle, agency set per HAATS + Vail Daily VMRG account",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Pitkin Creek",
+  "place_type": "creek",
+  "legacy_id": 2473
+}

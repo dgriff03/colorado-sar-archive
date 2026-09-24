@@ -1,0 +1,19 @@
+{
+  "id": "b310fc5a-99f7-4308-b329-d968e7695f37",
+  "date": "2022-07-17",
+  "summary": "38-year-old woman having medical issues near the summit of Mount Bierstadt",
+  "location": "Mt Bierstadt",
+  "county": "Clear Creek",
+  "incident_type": "medical",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2023/01/2022-Missions-Website.pdf",
+  "notes": "ART mission 2022-057.",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1106
+}

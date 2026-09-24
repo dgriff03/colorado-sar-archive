@@ -1,0 +1,19 @@
+{
+  "id": "9f4ebd15-7334-4408-8501-a30cb3389d8d",
+  "date": "2019-07-09",
+  "summary": "Three women hiking the Capitol Creek Loop activated a locator beacon near Avalanche Lake; a 24-year-old with a leg injury and her two companions were airlifted by a HAATS helicopter; the injured hiker was evaluated and released at Aspen/Pitkin County Airport",
+  "location": "Avalanche Lake, Maroon Bells-Snowmass Wilderness",
+  "county": "Pitkin",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 3,
+  "responding_agency": "Mountain Rescue Aspen, Colorado Army National Guard HAATS, Aspen Ambulance, Pitkin County Sheriff",
+  "source_urls": "https://snowbrains.com/hikers-rescued-aspen-beacon-raise-alarm/",
+  "notes": "18 volunteers involved; injury mechanism not reported in opened source; article published ~July 11, 2019 describes the 'Tuesday' event (July 9)",
+  "peak": "Capitol Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 673
+}

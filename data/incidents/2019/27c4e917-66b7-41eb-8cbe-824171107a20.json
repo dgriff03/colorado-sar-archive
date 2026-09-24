@@ -1,0 +1,19 @@
+{
+  "id": "27c4e917-66b7-41eb-8cbe-824171107a20",
+  "date": "2019-03-04",
+  "summary": "Assist RMNP with search of missing 70 YOM in Glacier Gorge trail area, Larimer, days 1-3 (2019-15, 2019-16, 2019-18)",
+  "location": "Glacier Gorge trail area",
+  "county": "Larimer",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team; Rocky Mountain National Park",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2020/01/2019-Missions-Website.pdf",
+  "notes": "ART missions 2019-15 (3/4, assisting 3/5), 2019-16 (3/5, assisting 3/6), 2019-18 (3/8, assisting 3/9, asterisk). Outcome not stated.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Glacier Gorge Trail",
+  "place_type": "trail",
+  "legacy_id": 627
+}

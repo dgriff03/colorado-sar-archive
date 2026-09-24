@@ -1,0 +1,19 @@
+{
+  "id": "77331408-2ef6-4c4d-8bfb-32c3399bd92a",
+  "date": "2015-05-25",
+  "summary": "Stranded family in the Mount Bierstadt area (Code 3 page)",
+  "location": "Mount Bierstadt area",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-20. Family size unstated in one-liner; recorded as 1",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1974
+}

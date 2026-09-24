@@ -1,0 +1,19 @@
+{
+  "id": "c4ab7797-0730-4de5-96d2-d3fff5926dc9",
+  "date": "2022-07-17",
+  "summary": "Two experienced backcountry skiers overdue in the Gore Range spent a night out after cell phone and InReach batteries died; caught between ascending a ridge in a lightning storm or descending unknown rough terrain. SCRG found them uninjured and they walked out on their own.",
+  "location": "Gore Range, Colorado",
+  "county": "Summit",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Summit County Rescue Group",
+  "source_urls": "https://snowbrains.com/backcountry-skiers-spend-night-before-rescue/",
+  "notes": "Added run 771 (SnowBrains chunk); Sunday-verified 2022-07-17; incident called in July 17, pair rescued next day.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Gore Range",
+  "place_type": "other",
+  "legacy_id": 3286
+}

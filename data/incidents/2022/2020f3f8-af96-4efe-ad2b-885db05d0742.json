@@ -1,0 +1,19 @@
+{
+  "id": "2020f3f8-af96-4efe-ad2b-885db05d0742",
+  "date": "2022-07-03",
+  "summary": "33-year-old male stuck hiker on the west side of Mt. Toll, Indian Peaks Wilderness; fell ~15 ft into a slick near-vertical gully while traversing Mt. Toll on a Brainard Lake/Mt. Audubon/Pawnee Pass loop; minor injuries; called 911 ~12:50 p.m.; GCSAR requested Boulder County assistance after thunderstorms grounded helicopter; RMRG hiked in from Brainard Lake, fixed ropes and descended ~600 ft of steep rock; harnessed and belayed him to the ridge; reached the Continental Divide ~3:15 a.m. July 4; evaluated and hiked out; ~18-hour rescue; BCSO case #22-03123",
+  "location": "west side of Mt. Toll, Indian Peaks Wilderness",
+  "county": "Grand",
+  "incident_type": "fall",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office, Grand County SAR, Rocky Mountain Rescue Group, Flight for Life Colorado, Medevac",
+  "source_urls": "https://www.themtnear.com/stories/teams-work-through-the-night-to-rescue-hiker-on-mt-toll,9269|https://bouldercounty.gov/news/teams-work-through-the-night-to-rescue-stuck-hiker-on-mt-toll/",
+  "notes": "incident in Grand County; Boulder County assisted because thunderstorms over the divide grounded helicopter insertion | BCSO release case 22-03123 appended (merged run 526): hiker in Grand County, rescue staged from Boulder side via Brainard Lake; ~18-hr effort, minor injuries",
+  "peak": "Mount Audubon",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2652
+}

@@ -1,0 +1,19 @@
+{
+  "id": "a589b26f-1e8f-46d1-8b69-3bc5d88a0e63",
+  "date": "2023-02-25",
+  "summary": "Two backcountry skiers — James Sutton of Durango and Jurgen Montgomery of Pagosa Springs — caught, buried and killed in a skier-triggered avalanche in a burn area southeast of Vallecito Reservoir; Flight for Life helicopter spotted tracks entering the debris, ground crews recovered bodies ~3:36am; airbags equipped but neither deployed",
+  "location": "Southeast of Vallecito Reservoir",
+  "county": "La Plata",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 2,
+  "responding_agency": "La Plata County SAR + La Plata County Sheriff, Flight for Life, CAIC",
+  "source_urls": "https://www.advnture.com/news/colorado-rescuers-follow-tracks-to-find-backcountry-skiers-killed-in-avalanche|https://skitheworld.com/2023/02/two-skiers-killed-in-colorado-avalanche/\nhttps://pagosadailypost.com/2023/03/02/snowy-weekend-results-in-three-avalanche-deaths-in-southern-colorado/|https://unofficialnetworks.com/2023/02/27/avalanche-deaths-southwestern-colorado/",
+  "notes": "approx; left 7am Saturday, reported missing 9:18pm; buried ~4 ft deep",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Vallecito Reservoir",
+  "place_type": "reservoir",
+  "legacy_id": 1189
+}

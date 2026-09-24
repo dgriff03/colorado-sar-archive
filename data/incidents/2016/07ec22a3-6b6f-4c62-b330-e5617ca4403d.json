@@ -1,0 +1,19 @@
+{
+  "id": "07ec22a3-6b6f-4c62-b330-e5617ca4403d",
+  "date": "2016-08-20",
+  "summary": "23-year-old male with altitude sickness on Mount Bierstadt (Code 3 page)",
+  "location": "Mount Bierstadt",
+  "county": "Clear Creek",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-89. Log date printed '08/20616', read as 08/20/16",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2105
+}

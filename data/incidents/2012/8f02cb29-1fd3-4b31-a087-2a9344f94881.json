@@ -1,0 +1,19 @@
+{
+  "id": "8f02cb29-1fd3-4b31-a087-2a9344f94881",
+  "date": "2012-05-28",
+  "summary": "Marla Luckey, 31, set out on a run up the Red Creek Trail off Missionary Ridge around 11 a.m. Monday and failed to return; La Plata County Search & Rescue searched through the night across four trails; a dog-walker heard her calls for help ~12:30 p.m. Tuesday near Colvig Silver Camp; she was located shortly before 1 p.m. and walked down to her car, uninjured (basic running clothes, overnight temps in the 30s).",
+  "location": "Red Creek Trail off Missionary Ridge / near Colvig Silver Camp",
+  "county": "La Plata",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "La Plata County Search & Rescue",
+  "source_urls": "http://archives.durangotelegraph.com/archives/2012/may-31-2012/news/quick-and-dirty/",
+  "notes": "SNIPPET-SOURCED: archives.durangotelegraph.com page returns a ColdFusion stack-trace error on open (site-side, 7th failed check across runs 199/232/274/372/424/473/527); facts from the search-indexed full text of the May-31-2012 'Quick and Dirty' issue ('Runner found after night outside'); date corroborated by weekday check (2012-05-28 was Monday); full-page verification pending.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Red Creek Trail",
+  "place_type": "trail",
+  "legacy_id": 2849
+}

@@ -1,0 +1,19 @@
+{
+  "id": "c65857d5-731d-4259-94ca-2af21a9015f4",
+  "date": "2013-08-04",
+  "summary": "Search for overdue hiker on the Chicago Lakes Trail (Alpine mission 13-61)",
+  "location": "Chicago Lakes Trail",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/category/recent-missions/clear-creek-county/page/148/",
+  "notes": "Alpine Rescue Team Clear Creek County category mission-log archive (Alpine mission 13-61); one-line page alert, outcome detail unstated in post.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1839
+}

@@ -1,0 +1,19 @@
+{
+  "id": "d225f973-1a11-4a42-9879-5e27d9e9b340",
+  "date": "2023-12-18",
+  "summary": "Hunter lost when bad weather moved in; searchers used his rifle shots to pinpoint him; found safe at 2 am after an overnight search.",
+  "location": "Larimer County (location not specified)",
+  "county": "Larimer",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Larimer County Search and Rescue",
+  "source_urls": "https://www.facebook.com/lcsarinc/posts/pfbid02xny9TjwRzTgYtXAqZvMJbqGnWiRZHjpMRzxYX1t7nAQyZzzfpxY7qv63XaZnxUahl",
+  "notes": "Date approximate: post dated 2023-12-18 describes 'the other week'. ~2-mi hike-out + 1.5-hr ATV ride back to ops; teams home by 10 am.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3459
+}

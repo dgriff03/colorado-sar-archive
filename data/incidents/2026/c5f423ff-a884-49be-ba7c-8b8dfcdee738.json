@@ -1,0 +1,19 @@
+{
+  "id": "c5f423ff-a884-49be-ba7c-8b8dfcdee738",
+  "date": "2026-07-28",
+  "summary": "Climber on the downstream route of the Ouray Via Ferrata fell and injured an ankle, unable to complete the route; east-bank/west-bank rope coordination built a cross-haul system that extricated the patient to their friend.",
+  "location": "Ouray Via Ferrata, downstream route",
+  "county": "Ouray",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Ouray Mountain Rescue Team; Ouray County EMS",
+  "source_urls": "https://www.facebook.com/ouraymountainrescue/posts/pfbid0Awp72CoCYyPcA2tAJsxnFtQLdFiRMMHmTnkf9KvepvpByFwfGnz1LwbKCTaoawwol",
+  "notes": "",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Ouray Via Ferrata",
+  "place_type": "climbing_area",
+  "legacy_id": 3448
+}

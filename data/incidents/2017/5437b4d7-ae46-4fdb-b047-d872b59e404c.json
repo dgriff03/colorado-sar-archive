@@ -1,0 +1,19 @@
+{
+  "id": "5437b4d7-ae46-4fdb-b047-d872b59e404c",
+  "date": "2017-01-15",
+  "summary": "65-year-old man with Alzheimer’s reported missing in Grand Lake; two SARDOC dog teams were stood down en route when he was located deceased.",
+  "location": "Grand Lake",
+  "county": "Grand",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": null,
+  "source_urls": "https://sardoc.org/cms/wp-content/uploads/2011/01/2017SARDOCPublicMissionReports.pdf",
+  "notes": "Run-658 SARDOC chunk.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": "Grand Lake",
+  "place_type": "lake",
+  "legacy_id": 3151
+}

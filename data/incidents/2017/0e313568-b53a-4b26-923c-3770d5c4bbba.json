@@ -1,0 +1,19 @@
+{
+  "id": "0e313568-b53a-4b26-923c-3770d5c4bbba",
+  "date": "2017-01-01",
+  "summary": "Two separate fatal solo falls on the First Flatiron; exact dates not given.",
+  "location": "First Flatiron",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 2,
+  "responding_agency": "",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201214867",
+  "notes": "Two incidents in one article; exact dates not given; listed as first of year.",
+  "peak": "The Flatirons",
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 334
+}

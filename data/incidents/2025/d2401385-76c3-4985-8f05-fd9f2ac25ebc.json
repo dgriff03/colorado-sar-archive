@@ -1,0 +1,19 @@
+{
+  "id": "d2401385-76c3-4985-8f05-fd9f2ac25ebc",
+  "date": "2025-09-01",
+  "summary": "Injured male party on Grays and Torreys Peak",
+  "location": "Grays and Torreys",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf",
+  "notes": "Injury mechanism not stated in log; ART mission 2025-107.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Grays and Torreys",
+  "place_type": "other",
+  "legacy_id": 1650
+}

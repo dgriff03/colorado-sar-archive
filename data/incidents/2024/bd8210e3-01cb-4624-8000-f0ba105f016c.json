@@ -1,0 +1,19 @@
+{
+  "id": "bd8210e3-01cb-4624-8000-f0ba105f016c",
+  "date": "2024-10-06",
+  "summary": "Female hiker with cardiac issues on the Chief Mountain Trail",
+  "location": "Chief Mountain Trail",
+  "county": "Clear Creek",
+  "incident_type": "medical",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "ART mission 2024-146.",
+  "peak": "Chief Mountain",
+  "setting": "frontcountry",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1495
+}

@@ -1,0 +1,19 @@
+{
+  "id": "12ea40fb-4ab2-45f7-8e68-8eef952f25cc",
+  "date": "2016-02-15",
+  "summary": "Four hikers lost in whiteout conditions near the summit of Chief Mountain",
+  "location": "Chief Mountain (summit)",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 4,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-15.",
+  "peak": "Chief Mountain",
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2050
+}

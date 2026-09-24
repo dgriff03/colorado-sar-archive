@@ -1,0 +1,19 @@
+{
+  "id": "0525f7e8-eab4-4d89-8616-2fc0b8e6a50b",
+  "date": "2023-09-02",
+  "summary": "Lost hunters near Teal Lake",
+  "location": "Teal Lake, North Routt",
+  "county": "Routt",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Routt County Search and Rescue",
+  "source_urls": "https://myemail.constantcontact.com/Far-Routt-Newsletter.html?soid=1139552188087&aid=iB6ktta_Vyc",
+  "notes": "Q3 2023 newsletter; exact number not stated; victims estimated",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Teal Lake",
+  "place_type": "lake",
+  "legacy_id": 1280
+}

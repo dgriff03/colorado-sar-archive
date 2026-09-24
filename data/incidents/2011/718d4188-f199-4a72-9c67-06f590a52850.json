@@ -1,0 +1,19 @@
+{
+  "id": "718d4188-f199-4a72-9c67-06f590a52850",
+  "date": "2011-05-21",
+  "summary": "Joel Levenberg killed in avalanche on Torreys Peak; Clear Creek County Sheriff responders could not airlift due to weather",
+  "location": "Torreys Peak",
+  "county": "Clear Creek",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Clear Creek County Sheriff",
+  "source_urls": "https://100summits.com/articles/colorado-mountaineering-deaths/item/239-2011-colorado-mountaineering-deaths",
+  "notes": "",
+  "peak": "Torreys Peak",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 132
+}

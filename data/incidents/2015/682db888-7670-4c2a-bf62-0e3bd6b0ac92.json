@@ -1,0 +1,19 @@
+{
+  "id": "682db888-7670-4c2a-bf62-0e3bd6b0ac92",
+  "date": "2015-08-15",
+  "summary": "Overdue climber on Kit Carson Peak assisted by Saguache County SAR with CCSAR mutual aid",
+  "location": "Kit Carson Peak",
+  "county": "Saguache",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Saguache County SAR + Custer County SAR",
+  "source_urls": "https://custersar.org/hectic-weekend-for-local-sar-teams-in-the-sangres/",
+  "notes": "date estimated: from official combined report covering the Aug 14-16, 2015 weekend; details sparse",
+  "peak": "Kit Carson Peak",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 264
+}

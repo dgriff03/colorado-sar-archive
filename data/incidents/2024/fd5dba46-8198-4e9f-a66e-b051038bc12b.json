@@ -1,0 +1,19 @@
+{
+  "id": "fd5dba46-8198-4e9f-a66e-b051038bc12b",
+  "date": "2024-08-13",
+  "summary": "Stranded hiker in the Idledale area off Hwy 74",
+  "location": "Idledale",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "County unverified; ART mission 2024-099.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Idledale",
+  "place_type": "town",
+  "legacy_id": 1435
+}

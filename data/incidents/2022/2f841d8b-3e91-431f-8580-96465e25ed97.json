@@ -1,0 +1,19 @@
+{
+  "id": "2f841d8b-3e91-431f-8580-96465e25ed97",
+  "date": "2022-07-01",
+  "summary": "Adult male hiker collapsed on the Ruby Anthracite trail about 2.5 miles up while hiking with a partner; the partner attempted lifesaving efforts, then hiked out and drove to cell coverage to call for help; Crested Butte Search and Rescue hiked in with a wheel and litter to recover the deceased hiker",
+  "location": "Ruby Anthracite trail, ~2.5 miles up",
+  "county": "Gunnison",
+  "incident_type": "medical",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Crested Butte Search and Rescue",
+  "source_urls": "https://crestedbuttenews.com/2022/07/inexperienced-hiker-dies-after-fall-from-mount-crested-butte-cliffs/",
+  "notes": "Separate incident reported in the same CBN article; cause of collapse not reported.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Ruby Anthracite Trail",
+  "place_type": "trail",
+  "legacy_id": 2275
+}

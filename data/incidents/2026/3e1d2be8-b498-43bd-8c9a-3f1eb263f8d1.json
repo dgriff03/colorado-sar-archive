@@ -1,0 +1,19 @@
+{
+  "id": "3e1d2be8-b498-43bd-8c9a-3f1eb263f8d1",
+  "date": "2026-08-06",
+  "summary": "Paul Scanlon, 67, of Arvada drowned at Eleven Mile Reservoir when his kayak flipped in high winds ~3:30 p.m.; CPW officers pulled him out and performed CPR for over an hour; declared deceased ~4:30 p.m.; ill-fitting life jacket covered his face, contributing.",
+  "location": "Eleven Mile Reservoir, Eleven Mile State Park",
+  "county": "Park",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Colorado Parks and Wildlife; Hartsel Fire Department; South Park Ambulance; Flight for Life",
+  "source_urls": "https://cpw.state.co.us/news/08072026/cpw-recovers-adult-male-drowning-victim-eleven-mile-reservoir|https://people.com/2-men-drown-in-colorado-eleven-mile-reservoir-days-apart-12060997",
+  "notes": "Run 864: CPW release (parent-opened) + People writeup (parent-opened); identity via Park County Coroner's Office. Chunk: The Flume.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Eleven Mile Reservoir",
+  "place_type": "reservoir",
+  "legacy_id": 3384
+}

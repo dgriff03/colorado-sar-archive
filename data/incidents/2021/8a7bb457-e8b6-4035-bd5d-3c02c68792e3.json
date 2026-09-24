@@ -1,0 +1,19 @@
+{
+  "id": "8a7bb457-e8b6-4035-bd5d-3c02c68792e3",
+  "date": "2021-07-23",
+  "summary": "Party of 2 climbers descending Crestone Needle stranded after a fall injured one; both extracted",
+  "location": "Crestone Needle",
+  "county": "Custer",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 2,
+  "responding_agency": "Custer County SAR + DFPC Canon City Helitack + Saguache SAR",
+  "source_urls": "https://custersar.org/crestone-needle-stranded-and-injured-07-23-21/",
+  "notes": "One injured, one stranded; helicopter-inserted team",
+  "peak": "Crestone Needle",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 985
+}

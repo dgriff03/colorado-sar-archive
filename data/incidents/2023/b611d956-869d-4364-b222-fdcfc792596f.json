@@ -1,0 +1,19 @@
+{
+  "id": "b611d956-869d-4364-b222-fdcfc792596f",
+  "date": "2023-10-29",
+  "summary": "Out-of-state hunter developed severe high altitude sickness at a Conejos County wilderness trailhead during a snowstorm; Conejos County SO Sgt. Servando Moreno hiked ~2 miles in alone, found the delirious hunter walking away from the trailhead inadequately clothed, and with the hunting party's help escorted him back to the trailhead where an ambulance was waiting; Moreno received a Lifesaving Award for Heroic Actions.",
+  "location": "Conejos County wilderness trailhead",
+  "county": "Conejos",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Conejos County Sheriff's Office",
+  "source_urls": "https://conejoscounty.colorado.gov/sites/conejoscounty/files/documents/december_21_2023.pdf",
+  "notes": "Award presentation reported at the Dec 7, 2023 Board of County Commissioners meeting; incident date stated as Oct. 29; party provided the hunter with needed clothing layers; trail name not given.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2605
+}

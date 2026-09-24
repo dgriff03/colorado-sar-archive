@@ -1,0 +1,19 @@
+{
+  "id": "3232be83-ed4a-424e-98c2-cd0d017087af",
+  "date": "2023-07-29",
+  "summary": "Injured 12-year-old boy in the James Peak Lake area",
+  "location": "James Peak Lake",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2024/01/2023-Missions-Website.pdf",
+  "notes": "Log spells \"Jame Peak Lake\"; injury mechanism not stated; county unverified; ART mission 2023-069.",
+  "peak": "James Peak",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1256
+}

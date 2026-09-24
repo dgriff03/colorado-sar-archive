@@ -1,0 +1,19 @@
+{
+  "id": "e1eaae4c-3c4c-482d-afd4-60c247596f24",
+  "date": "2012-07-16",
+  "summary": "Search for lost party in a 4x4 in the Waldorf Mine area (Alpine mission 12-44)",
+  "location": "Waldorf Mine",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/category/recent-missions/clear-creek-county/page/160/",
+  "notes": "Alpine Rescue Team Clear Creek County category mission-log archive (Alpine mission 12-44); one-line page alert, outcome detail unstated in post.; party size unstated in post",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Waldorf Mine",
+  "place_type": "mine",
+  "legacy_id": 1761
+}

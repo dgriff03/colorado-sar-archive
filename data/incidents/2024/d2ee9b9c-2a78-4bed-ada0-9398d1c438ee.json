@@ -1,0 +1,19 @@
+{
+  "id": "d2ee9b9c-2a78-4bed-ada0-9398d1c438ee",
+  "date": "2024-09-07",
+  "summary": "Ill trail runner in the Bard Creek area",
+  "location": "Bard Creek",
+  "county": "Clear Creek",
+  "incident_type": "medical",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "County unverified; ART mission 2024-129.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "ONE_LINER",
+  "place": "Bard Creek",
+  "place_type": "creek",
+  "legacy_id": 1471
+}

@@ -1,0 +1,19 @@
+{
+  "id": "5a184998-e48f-4910-9d48-708e24f106e4",
+  "date": "2010-12-05",
+  "summary": "Avalanche in Dry Gulch area (10-109)",
+  "location": "Dry Gulch area",
+  "county": "Clear Creek",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf|https://www.powder.com/news/two-skiers-caught-one-killed-in-loveland-pass-avalanche",
+  "notes": "ART mission 10-109. Parent-opened Powder/AP account (2026-09-16): ~1 p.m. Sunday 2010-12-05 avalanche in the Dry Gulch area near I-70 and US 6, Clear Creek County; two backcountry skiers buried — Kyle Shellberg, 32, of Golden, killed (pronounced dead at scene); Justin Latici, 31, of Golden, injured (leg injury; dug himself out and performed CPR on Shellberg). Slide ~15 ft deep, 500 ft wide, ran ~200 yards. Alpine Rescue Team responded (Bill Barwick quoted). Outcome corrected run 679 (was injury/1 victim, assumed from Code 3 avalanche response).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Dry Gulch",
+  "place_type": "gulch",
+  "legacy_id": 120
+}

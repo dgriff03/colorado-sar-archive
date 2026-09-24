@@ -1,0 +1,19 @@
+{
+  "id": "18a1c122-adbf-4260-bce9-89337ca2abad",
+  "date": "2014-06-12",
+  "summary": "A climber in the San Miguel Mountains was saved by a search and rescue team; reported in the KVNF Regional Newscast of June 12, 2014 (details in the audio archive only)",
+  "location": "San Miguel Mountains",
+  "county": "San Miguel",
+  "incident_type": "other",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "San Miguel County SAR (inferred - Telluride-area agency; source names only 'search and rescue team')",
+  "source_urls": "https://www.kvnf.org/news/2014-06-12/kvnf-regional-newscast-thursday-june-12-2014",
+  "notes": "DATE APPROXIMATE - incident reported in the 2014-06-12 newscast ('Search and rescue team saves climber in San Miguel Mountains'); rescue occurred shortly before broadcast, likely 2014-06-10 to 2014-06-12. Parent-opened this run; resolves the standing KVNF June-2014 San Miguel Mountains lead.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "San Miguel Mountains",
+  "place_type": "other",
+  "legacy_id": 2973
+}

@@ -1,0 +1,19 @@
+{
+  "id": "a087efc1-9f3a-4351-a966-ce202743deaf",
+  "date": "2018-05-05",
+  "summary": "Serious traumatic head injury on the Manitou Incline. Assisted by AFA FD and Manitou Springs FD.",
+  "location": "Manitou Incline",
+  "county": "El Paso",
+  "incident_type": "injury",
+  "outcome": "assisted",
+  "victims": 1,
+  "responding_agency": "El Paso County SAR",
+  "source_urls": "https://www.facebook.com/epcsar/posts/pfbid0W9kyg4a6o9zA3hVHrxmKMaq1EN54tgJnguVLJ7jTu2EFvdXhVUySBqQjJ2nTu29el",
+  "notes": "Source: El Paso County SAR Facebook page. Two simultaneous missions in one post; this row is the Incline head injury.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Manitou Incline",
+  "place_type": "trail",
+  "legacy_id": 3657
+}

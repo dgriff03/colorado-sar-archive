@@ -1,0 +1,19 @@
+{
+  "id": "b17fa0c3-d6b6-4f52-a157-b3b1ef49fe65",
+  "date": "2014-10-19",
+  "summary": "A 65-year-old hiker accidentally fell 15-20 ft from the top of Mount Royal near Frisco onto a rock pile; more than two dozen Summit County Rescue Group members carried out a roughly four-hour litter evacuation with oxygen/IV care en route",
+  "location": "Mount Royal, Frisco",
+  "county": "Summit",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Summit County Rescue Group",
+  "source_urls": "https://vailchamber.org/2014/10/21/colorado-hiker-rescued-after-fall-off-mt-royal-in-frisco/",
+  "notes": "Incident date Sunday 2014-10-19 per the Vail Daily feed item reposted by Vail Chamber (Ben Trollinger); page carries only the lede, full story truncated. Summit 2014 thin year: 3rd row.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Mount Royal",
+  "place_type": "peak",
+  "legacy_id": 2742
+}

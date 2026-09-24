@@ -1,0 +1,19 @@
+{
+  "id": "b253f3c1-64b4-41c7-b679-8fdbecdb2866",
+  "date": "2021-10-18",
+  "summary": "Lost hiker on Mt. Elbert ignored SAR's repeated phone calls as unknown numbers; spent 24 hours lost and self-extracted to car",
+  "location": "Mt. Elbert, South Trail",
+  "county": "Lake",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Lake County SAR",
+  "source_urls": "https://www.2822news.com/news/lost-hiker-ignores-unknown-cellphone-calls-from-search-and-rescue-team/|https://www.advnture.com/news/lost-hiker-ignores-rescue-calls|https://www.kvnf.org/2021-10-26/a-lost-hiker-ignored-rescuers-phone-calls-thinking-they-were-spam|https://unofficialnetworks.com/2021/10/26/lost-co-hiker-ignored-calls/",
+  "notes": "Subject self-rescued Oct 19; SAR searched through the night",
+  "peak": "Mount Elbert",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1033
+}

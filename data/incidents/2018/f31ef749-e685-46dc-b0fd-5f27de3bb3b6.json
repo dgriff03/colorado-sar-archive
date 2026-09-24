@@ -1,0 +1,19 @@
+{
+  "id": "f31ef749-e685-46dc-b0fd-5f27de3bb3b6",
+  "date": "2018-09-15",
+  "summary": "74-year-old Grand Junction man suffered a life-threatening medical event (trauma not a factor) while climbing Telluride's Via Ferrata with his step-daughter; after completing 'the main event' section ~4 p.m. Saturday he sat on a narrow ledge and became unresponsive; his step-daughter started CPR and called 911; ~45 minutes of resuscitative efforts before he was pronounced dead ~4:45 p.m.; ~12 SAR volunteers executed a five-hour technical recovery mission",
+  "location": "Telluride Via Ferrata, 'the main event' section, east end of Telluride box canyon",
+  "county": "San Miguel",
+  "incident_type": "medical",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "San Miguel County SAR; Telluride Fire Protection District EMS; San Miguel County Sheriff's Office",
+  "source_urls": "https://www.sanmiguelcountyco.gov/CivicAlerts.aspx?AID=318&ARC=789",
+  "notes": "San Miguel County Sheriff news release (AID=318) dated 2018-09-16, parent-opened this run; incident date = the 'Saturday afternoon' before the Sept 16 release.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Telluride Via Ferrata",
+  "place_type": "climbing_area",
+  "legacy_id": 2972
+}

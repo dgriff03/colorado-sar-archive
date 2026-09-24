@@ -1,0 +1,19 @@
+{
+  "id": "6628a85b-369f-4abb-92c3-d3575e64d94e",
+  "date": "2015-04-14",
+  "summary": "Rescue of two climbers on Crestone Needle; Alpine assisting Custer County SAR",
+  "location": "Crestone Needle",
+  "county": "Custer",
+  "incident_type": "other",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team (assist to Custer County SAR)",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Mutual-aid assist.",
+  "peak": "Crestone Needle",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 232
+}

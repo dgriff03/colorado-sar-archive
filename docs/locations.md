@@ -64,7 +64,7 @@ ORDER BY records DESC;
 ## Potential duplicate reports
 
 Location consolidation does not merge incidents or imply that counts are unique
-rescues. `legacy-000287` and `legacy-002045` are a known possible St. Mary's
+rescues. `344f53fc-73b7-4ca3-8985-46dfa8997f6d` and `43388c0a-1a01-4d61-abfd-d82b17856aa2` are a known possible St. Mary's
 pair: the first record's notes explicitly say the same-event relationship is
 unconfirmed. Both remain intact pending source verification. Multi-day or
 multi-party reports need event-level review before any deletion or merge.

@@ -1,0 +1,19 @@
+{
+  "id": "e02159e8-1519-4c90-a4a2-2c9ce4fdbf5b",
+  "date": "2020-07-27",
+  "summary": "Two hikers overdue on the Mount Blanca Massif; last seen at the Holbrook Creek crossing 7/26 at 20:30 after separating from their party to camp another night at Lake Como. AVSAR paged ~15:30 sent two 4x4 truck teams up Lake Como Road through weather-caused rockslides; the hikers were found at Lake Como healthy and safe and reunited with family and friends at 20:55.",
+  "location": "Lake Como, Mount Blanca Massif",
+  "county": "Alamosa",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Alamosa Volunteer Search and Rescue; Alamosa County Sheriff",
+  "source_urls": "https://www.avsar.us/07-27-2020-overdue-hikers/",
+  "notes": "Parent-opened this run. Run 651.",
+  "peak": "Blanca Peak",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3137
+}

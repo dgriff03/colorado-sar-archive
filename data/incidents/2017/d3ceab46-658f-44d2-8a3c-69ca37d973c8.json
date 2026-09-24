@@ -1,0 +1,19 @@
+{
+  "id": "d3ceab46-658f-44d2-8a3c-69ca37d973c8",
+  "date": "2017-05-29",
+  "summary": "Two experienced climbers (one from California, one from Alabama) stranded in heavy snow about 300 feet below the Quandary Peak summit. Summit County Rescue Group reached the summit overnight but waited for dawn, then requested an Army National Guard Black Hawk hoist rescue; both climbers were in good shape",
+  "location": "Quandary Peak (14,253 ft), near Breckenridge",
+  "county": "Summit",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Summit County Rescue Group; Colorado Army National Guard; Mountain Rescue Aspen",
+  "source_urls": "https://www.armytimes.com/news/your-army/2017/05/31/national-guard-black-hawk-rescues-hikers-from-snowy-colorado-peak/|https://www.si.com/uncategorized/2017/05/31/ap-us-mountain-rescue-2nd-ld-writethru",
+  "notes": "AP story published May 31, 2017: SCRG notified ~8:00 p.m. Sunday May 28, 2017; first rescuers reached summit ~1:30 a.m. Monday but held position (wind chill ~6F, steep gorge separated them); Black Hawk from HAATS Gypsum picked up an MRA hoist-trained volunteer in Aspen before the hoist rescue Monday.",
+  "peak": "Quandary Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2417
+}

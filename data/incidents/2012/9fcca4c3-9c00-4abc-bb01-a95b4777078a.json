@@ -1,0 +1,19 @@
+{
+  "id": "9fcca4c3-9c00-4abc-bb01-a95b4777078a",
+  "date": "2012-02-18",
+  "summary": "64-year-old man snowshoeing with a family member collapsed about a third of a mile from the Green Mountain trailhead on a Saturday afternoon; Grand County Sheriff's Department received the cell-phone call. NPS RMNP rangers and area emergency personnel responded within minutes, provided advanced medical care, but were unable to revive him; pronounced dead at the scene.",
+  "location": "Green Mountain trailhead area, Rocky Mountain National Park",
+  "county": "Grand",
+  "incident_type": "medical",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "NPS Rocky Mountain National Park rangers; Grand County emergency services",
+  "source_urls": "http://npshistory.com/morningreport/2012/02-21.htm",
+  "notes": "NPS morning-report compendium entry dated Tue 2012-02-21 ('Visitor Dies While Snowshoeing In Park'); incident Saturday afternoon = 2012-02-18 (weekday-verified). Distinct from id 2798 (same-date Odessa Lake unconscious woman) in the same report. Victim name not published; URL parent-opened run 553.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Green Mountain Trailhead",
+  "place_type": "trailhead",
+  "legacy_id": 2939
+}

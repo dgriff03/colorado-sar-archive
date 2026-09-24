@@ -1,0 +1,19 @@
+{
+  "id": "02c81c8d-a325-411d-8d81-4d2d4b5e8c87",
+  "date": "2013-05-07",
+  "summary": "1982 Bell helicopter leased to SAM Surveying, doing pipeline survey work in Otero County, suffered a reported tail-rotor problem and spun into the ground ~3 miles south of County Road AA and County Road 33 south of La Junta; heavily damaged. Otero County SO received the 911 call ~12:00 pm; rescue workers removed three slightly injured occupants to ambulances, transported to Arkansas Valley Regional Medical Center in La Junta.",
+  "location": "South of La Junta, ~3 mi south of County Road AA and County Road 33 (private property)",
+  "county": "Otero",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 3,
+  "responding_agency": "Otero County Sheriff's Office; La Junta Rural Fire Department; Colorado State Patrol",
+  "source_urls": "https://archives.theprowersjournal.com/2013/05/helicopter-crash-south-of-la-junta/",
+  "notes": "RESOLVES the parked Otero 2013-05-07 helicopter-crash lead (Prowers Journal archive page failed to open tool-side at runs 778/797/837 — parent-opened run 858). Date weekday-verified: Tuesday 2013-05-07 MDT. Incident-type per the id-2620 single-engine-crash precedent (injury/injury).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "La Junta",
+  "place_type": "town",
+  "legacy_id": 3377
+}

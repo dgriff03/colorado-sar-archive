@@ -1,0 +1,19 @@
+{
+  "id": "133a2918-17dc-4828-a47e-3a0c28cccccc",
+  "date": "2019-07-26",
+  "summary": "Overdue hiker on Mt Bierstadt (2019-76)",
+  "location": "Mt Bierstadt",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2020/01/2019-Missions-Website.pdf",
+  "notes": "ART mission 2019-76. Outcome not stated in PDF; presumed rescued-uninjured.",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 689
+}

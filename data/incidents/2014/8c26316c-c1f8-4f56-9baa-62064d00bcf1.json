@@ -1,0 +1,19 @@
+{
+  "id": "8c26316c-c1f8-4f56-9baa-62064d00bcf1",
+  "date": "2014-10-19",
+  "summary": "Miscommunication caused approximately 60-foot fall on Iron Horse, Eldorado Canyon; major fractures; RMRG and helicopter.",
+  "location": "Eldorado Canyon, Iron Horse",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain Rescue Group, helicopter",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201213513|http://mra.org/wp-content/uploads/2016/05/2015SummerMeridian.pdf",
+  "notes": "MERGED 2026-09-11 (run 102): MRA Meridian Summer 2015 'Cliff Notes' case report by RMRG physician Alison Sheets (first on scene; paged just before 5 p.m.) — mid-wall litter loading with 1:1 raise from above, full-body vacuum splint, short vertical section + long scree descent, hand carry over the river to the ambulance, short drive to helicopter LZ, flight to a Denver level-1 trauma center; injuries: large scalp laceration, facial fractures, central cord contusion with ligamentous injury at C4-C5, L1 compression fracture, pelvic fracture, tibia/fibula fracture, calcaneus fracture; 1 wk ICU + 2 wk trauma + 3 wk Craig Hospital rehab; persistent neurologic deficit at 7 months.",
+  "peak": "Eldorado Canyon",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 222
+}

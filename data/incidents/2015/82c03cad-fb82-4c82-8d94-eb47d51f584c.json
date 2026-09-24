@@ -1,0 +1,19 @@
+{
+  "id": "82c03cad-fb82-4c82-8d94-eb47d51f584c",
+  "date": "2015-10-03",
+  "summary": "67-year-old Denver man died of an apparent medical condition at the Ute Canyon overlook on Colorado National Monument while riding alone in the Tour of the Moon event; spotted Saturday after he lost consciousness; a bystander and an off-duty paramedic attempted resuscitation; Mesa County Coroner's Office investigating cause of death",
+  "location": "Ute Canyon overlook, Colorado National Monument",
+  "county": "Mesa",
+  "incident_type": "medical",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "National Park Service (Mesa County Coroner's Office investigating)",
+  "source_urls": "https://www.cpr.org/2015/10/05/cyclists-body-found-at-ute-canyon-overlook/",
+  "notes": "Date from article text (spotted Saturday; 2015-10-03 was Saturday — verified); fills Mesa's zero-row year 2015; body-discovery row per index precedent (id 3135)",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Ute Canyon",
+  "place_type": "canyon",
+  "legacy_id": 3145
+}

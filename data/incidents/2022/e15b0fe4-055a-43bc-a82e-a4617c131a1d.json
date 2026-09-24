@@ -1,0 +1,19 @@
+{
+  "id": "e15b0fe4-055a-43bc-a82e-a4617c131a1d",
+  "date": "2022-09-17",
+  "summary": "A man died Saturday on Longs Peak; Rocky Mountain National Park rangers recovered his body about 5 p.m. Sunday above the Ledges section of the Keyhole Route, forcing a temporary closure of the route from the Keyhole 1.5 miles to the summit. Name not released.",
+  "location": "above the Ledges, Keyhole Route, Longs Peak, Rocky Mountain National Park",
+  "county": "Boulder",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park rangers",
+  "source_urls": "https://www.ndinsider.com/story/news/2022/09/19/rocky-mountain-national-park-longs-peak-body-recovered/69503156007/",
+  "notes": "ndinsider/Coloradoan (opened run 599): died Saturday 2022-09-17 (verified Saturday), body recovered Sunday ~5 p.m. above the Ledges. Circumstances of death not stated in source. Boulder = east-side inference (Ledges lie just past the Keyhole on the east/summit approach), flagged.",
+  "peak": "Longs Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3032
+}

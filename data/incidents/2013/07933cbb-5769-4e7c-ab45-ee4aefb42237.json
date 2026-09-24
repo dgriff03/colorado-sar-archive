@@ -1,0 +1,19 @@
+{
+  "id": "07933cbb-5769-4e7c-ab45-ee4aefb42237",
+  "date": "2013-12-11",
+  "summary": "Possible avalanche burial near Russell Peak (Alpine mission 13-99)",
+  "location": "Russell Peak",
+  "county": "Clear Creek",
+  "incident_type": "avalanche",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/category/recent-missions/clear-creek-county/page/146/",
+  "notes": "Alpine Rescue Team Clear Creek County category mission-log archive (Alpine mission 13-99); one-line page alert, outcome detail unstated in post.; burial unconfirmed in one-line post",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Russell Peak",
+  "place_type": "peak",
+  "legacy_id": 1858
+}

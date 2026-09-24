@@ -1,0 +1,19 @@
+{
+  "id": "93835a74-bae6-40da-b916-64ae0d9d4436",
+  "date": "2024-05-22",
+  "summary": "Search for an overdue camper near Bishop's Castle; good outcome.",
+  "location": "Near Bishop's Castle",
+  "county": "Custer",
+  "incident_type": "lost/stranded",
+  "outcome": "located uninjured",
+  "victims": 1,
+  "responding_agency": "Custer County SAR",
+  "source_urls": "https://www.facebook.com/CusterSAR/posts/pfbid02nQTcaGYX3zyHkbRYZZeyZuSspUHjpr8etHHSqAfMsgqHxUWYLz86153Mko76anKvl",
+  "notes": "Source: Custer County SAR Facebook page. Date approximate: post dated 2024-05-24 says incidents happened 'Wednesday into Thursday' (5/22-5/23); listed as 2024-05-22. Companion post also covers the Horn Peak ill hiker (id 1360).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Bishop's Castle",
+  "place_type": "other",
+  "legacy_id": 3719
+}

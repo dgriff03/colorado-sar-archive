@@ -1,0 +1,19 @@
+{
+  "id": "a06398e1-e991-48bb-9446-c8760e120aed",
+  "date": "2014-09-14",
+  "summary": "Two boys (11 and 12) hunting off Crown Point Road, Larimer County, were lost ~36 hours looking for a cabin; the family re-established contact and the boys walked back to camp ~2:30 p.m.",
+  "location": "Crown Point Road",
+  "county": "Larimer",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Larimer County SAR / SARDOC",
+  "source_urls": "http://sardoc.org/cms/wp-content/uploads/2011/01/100914PublicSARDOC-MISSION-REPORTS.pdf",
+  "notes": null,
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Crown Point Road",
+  "place_type": "road",
+  "legacy_id": 2931
+}

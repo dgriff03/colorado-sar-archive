@@ -1,0 +1,19 @@
+{
+  "id": "f6dfa19c-62ea-4ffd-90f4-086b4b82266d",
+  "date": "2018-07-07",
+  "summary": "Young man became ill at a campsite near Monarch Lake on the Cascade Creek Trail, unable to walk out; litter carry 1.3 miles to ambulance (10pm-2:30am) with GCEMS MMRT.",
+  "location": "Monarch Lake, Cascade Creek Trail",
+  "county": "Grand",
+  "incident_type": "medical",
+  "outcome": "evacuated by litter",
+  "victims": 1,
+  "responding_agency": "Grand County SAR",
+  "source_urls": "https://www.facebook.com/GCSAR/posts/pfbid02h5wY9jRCQYRgQyQiJCN6Fr8ZHHD61c3v5g8EqF5dKa3npWVPPfY9KbCuiQtwYiPHl",
+  "notes": "Source: Grand County SAR Facebook page.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Monarch Lake",
+  "place_type": "lake",
+  "legacy_id": 3646
+}

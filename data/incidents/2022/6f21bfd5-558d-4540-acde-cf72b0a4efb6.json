@@ -1,0 +1,19 @@
+{
+  "id": "6f21bfd5-558d-4540-acde-cf72b0a4efb6",
+  "date": "2022-06-15",
+  "summary": "Steve Midlarsky, 63, of Florida fell into the Roaring Fork River at the Devil's Punchbowl cliff-diving and swimming spot on Independence Pass near Aspen and was missing overnight; his body was recovered the next day",
+  "location": "Devil's Punchbowl, Roaring Fork River, Independence Pass, near Aspen",
+  "county": "Pitkin",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://www.cpr.org/2022/06/19/2-people-die-in-separate-river-accidents-in-western-colorado/",
+  "notes": "Reported via AP/CPR 2022-06-19: missing Wednesday 2022-06-15 after an accidental fall (fully clothed), body found Thursday by a search team. Responding agency not stated in the report.",
+  "peak": "Independence Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2234
+}

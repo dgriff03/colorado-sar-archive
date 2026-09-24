@@ -1,0 +1,19 @@
+{
+  "id": "71056705-3918-40b7-8349-157ee4819afd",
+  "date": "2017-09-30",
+  "summary": "64-year-old woman died in a bicycle accident during the Icon Eyecare Tour of the Moon ride (~2,800 riders); she lost control descending the east hill; the crash was unwitnessed and speed was not considered a factor; other riders were treated for hypothermia after a thunderstorm squall crossed the park.",
+  "location": "Rim Rock Drive (east hill)",
+  "county": "Mesa",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "NPS rangers",
+  "source_urls": "http://npshistory.com/morningreport/incidents/colm.htm",
+  "notes": "Sources cited in the compendium: CBS Denver and the Grand Junction Daily Sentinel.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Rim Rock Drive",
+  "place_type": "road",
+  "legacy_id": 2787
+}

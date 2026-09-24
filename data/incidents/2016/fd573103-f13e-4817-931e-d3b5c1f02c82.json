@@ -1,0 +1,19 @@
+{
+  "id": "fd573103-f13e-4817-931e-d3b5c1f02c82",
+  "date": "2016-01-01",
+  "summary": "Ice climber fell 15 feet in Dark Canyon, Raggeds Wilderness, when rappel anchor knot failed; crampon punctures in thigh; self-rescued.",
+  "location": "Dark Canyon, Raggeds Wilderness",
+  "county": "Pitkin",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201214376",
+  "notes": "Date approximate: early January 2016; listed as first of month. County Pitkin (south of Redstone).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Dark Canyon",
+  "place_type": "canyon",
+  "legacy_id": 283
+}

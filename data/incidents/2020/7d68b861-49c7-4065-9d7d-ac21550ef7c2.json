@@ -1,0 +1,19 @@
+{
+  "id": "7d68b861-49c7-4065-9d7d-ac21550ef7c2",
+  "date": "2020-09-05",
+  "summary": "Four climbers (two couples) stuck high on the southwest face of Avery Peak north of Gothic after calling for help Saturday evening. One couple climbed past the difficulties to the ridge and met the hasty team in Virginia Basin; the remaining couple was found on a small ledge about 50 ft below less-steep terrain, harnessed and belayed to the ridge. Mission completed about 3:45 a.m. Sunday; no injuries.",
+  "location": "Avery Peak (southwest face), north of Gothic",
+  "county": "Gunnison",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 4,
+  "responding_agency": "Crested Butte Mountain Rescue Team",
+  "source_urls": "https://crestedbuttenews.com/2020/09/backcountry-rescues-in-the-area-see-end-of-summer-flurry/",
+  "notes": "2020-09-05 per CBN: call Saturday evening, mission ended 3:45 a.m.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Avery Peak",
+  "place_type": "peak",
+  "legacy_id": 2815
+}

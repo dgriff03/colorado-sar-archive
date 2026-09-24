@@ -1,0 +1,19 @@
+{
+  "id": "1e955ef2-4e49-4a93-8833-920149d7880d",
+  "date": "2020-06-24",
+  "summary": "Courtney Henderson, 19, and Gavin Caruso were stranded by a thunderstorm near the summit of South Boulder Peak, then fell ~50 feet down a rock wall; Caruso died and Henderson suffered a broken C7 vertebra, broken first rib, and head laceration; ~25 Rocky Mountain Rescue volunteers and Flight for Life responded in an overnight technical evacuation.",
+  "location": "South Boulder Peak / Shadow Canyon",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 2,
+  "responding_agency": "Rocky Mountain Rescue Group (~25 rescuers), Flight for Life",
+  "source_urls": "https://www.backpacker.com/survival/out-alive-podcast/we-fell-down-the-mountain/|https://content.govdelivery.com/accounts/COBOULDER/bulletins/292a83e",
+  "notes": "Month-only date per source ('June of 2020'); placeholder 2020-06-01 per month-only convention. 1 fatality (Caruso), 1 injury (Henderson). Names widely published (Backpacker Out Alive podcast). | Run 668: date corrected 2020-06-01 -> 2020-06-24 per official BCSO release (case 20-2759, 'On June 24, shortly after 7:00 p.m.'); official release URL merged.",
+  "peak": "South Boulder Peak",
+  "setting": "frontcountry",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 788
+}

@@ -1,0 +1,19 @@
+{
+  "id": "52803d52-6bdd-4cc2-92a8-f170507805d0",
+  "date": "2023-08-03",
+  "summary": "Woman's lightweight folding kayak collapsed on a log in the Arkansas River about a mile below the Lake Pueblo dam near the Cottonwood Day Use area, trapping her foot; passing bicyclists called 911. CPW Ranger Daryl Seder donned a swiftwater rescue dry suit, attached a safety rope, swam to her and freed her foot; Pueblo West Fire Department pulled her to shore. A medical team checked her foot and ankle and she was able to leave on her own.",
+  "location": "Arkansas River ~1 mile below Lake Pueblo dam, near Cottonwood Day Use area",
+  "county": "Pueblo",
+  "incident_type": "other",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Colorado Parks & Wildlife; Pueblo West Fire Department",
+  "source_urls": "https://unofficialnetworks.com/2023/08/04/folding-kayak-rescue/",
+  "notes": "Run 843 Chunk B (Unofficial Networks). Article published 2023-08-04 reporting 'Thursday' = 2023-08-03 (Thursday-verified).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Arkansas River",
+  "place_type": "river",
+  "legacy_id": 3370
+}

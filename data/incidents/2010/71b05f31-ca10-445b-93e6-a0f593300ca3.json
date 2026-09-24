@@ -1,0 +1,19 @@
+{
+  "id": "71b05f31-ca10-445b-93e6-a0f593300ca3",
+  "date": "2010-08-04",
+  "summary": "Hiker struck by lightning on Longs Peak summit; survived with no memory of the incident",
+  "location": "Longs Peak summit",
+  "county": "Boulder",
+  "incident_type": "lightning",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://www.outsideonline.com/outdoor-adventure/climbing/hiker-struck-lightning-no-memory-incident/|https://npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "approx date MERGED run 353: NPS morning-report account corroborates date — report received Wed 2010-08-04, victim struck by lightning late Tue 2010-08-03; ~35-person rescue, medevac to St. Anthony Central.",
+  "peak": "Longs Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 70
+}

@@ -1,0 +1,19 @@
+{
+  "id": "30a2f0ea-3b4f-40a4-9ae0-3a7a33fefc5c",
+  "date": "2015-06-10",
+  "summary": "Injured 24-year-old woman in the Mount Falcon area",
+  "location": "Mount Falcon",
+  "county": "Jefferson",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Injury mechanism not specified in the log.",
+  "peak": "Mount Falcon",
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 239
+}

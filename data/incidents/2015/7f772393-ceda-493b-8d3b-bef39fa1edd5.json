@@ -1,0 +1,19 @@
+{
+  "id": "7f772393-ceda-493b-8d3b-bef39fa1edd5",
+  "date": "2015-03-21",
+  "summary": "A Denver man fell 60-100 ft while hiking Blodgett Peak; reported overdue around 4 p.m. Saturday by family; a 12-hour search by El Paso County SAR and Colorado Springs Fire (~36 responders) found him alive but unconscious around 3 a.m. Sunday; he died of his injuries by the time crews got him back to the trailhead parking lot.",
+  "location": "Blodgett Peak (off Woodmen Road), northwest Colorado Springs area",
+  "county": "El Paso",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "El Paso County Sheriff's Office / El Paso County Search and Rescue; Colorado Springs Fire Department",
+  "source_urls": "https://www.hmpgloballearningnetwork.com/site/emsworld/news/11893387/denver-hiker-killed-plunge-blodgett-peak",
+  "notes": "Gazette (Colorado Springs) story reprinted via EMS World, article dated 2015-03-23; incident/fall Saturday 2015-03-21, found ~3 a.m. Sunday 2015-03-22; victim name not released; terrain described as extremely treacherous; autopsy pending at time of writing; embeds CSFD and EPCSAR tweets dated 2015-03-22. Fills thin year 2015 for El Paso on the EPSO line.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Blodgett Peak",
+  "place_type": "peak",
+  "legacy_id": 2979
+}

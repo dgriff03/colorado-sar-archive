@@ -1,0 +1,19 @@
+{
+  "id": "cd93afa2-9035-4243-b155-175d35d1519d",
+  "date": "2020-04-07",
+  "summary": "Two snowmobilers triggered a D2 hard-slab avalanche in Mountain Boy Gulch south of Independence Pass; the caught rider was carried through trees and broke both legs; his companion splinted and evacuated him and Flight for Life airlifted him to a hospital.",
+  "location": "Mountain Boy Gulch, south of Independence Pass",
+  "county": "Lake",
+  "incident_type": "avalanche",
+  "outcome": "injury",
+  "victims": 2,
+  "responding_agency": "Flight for Life",
+  "source_urls": "http://classic.avalanche.state.co.us/caic/acc/acc_co.php|https://snowbrains.com/update-snowmobiler-broke-both-his-legs-in-independence-pass-co-avalanche-earlier-this-month1/",
+  "notes": "SnowBrains story (opened) quotes the full CAIC report: riders met at the Hwy 82 winter closure on the east side of Independence Pass, rode from the Brumley townsite into Mountain Boy Gulch; ~4 PM slide released above Rider 2, carried him through trees, both legs broken; Rider 1 splinted the legs, they self-evacuated by snowmobile, he called 911 after reaching cell service, Flight for Life landed on Hwy 82 and evacuated Rider 2. East side of Independence Pass / Brumley = Lake County; no county SAR team reported in the account.",
+  "peak": "Independence Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2546
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cafd7064-14eb-4e6c-bca7-6aaa975a8a18",
+  "date": "2019-07-18",
+  "summary": "Overdue hiker on Mt Evans (2019-73)",
+  "location": "Mt Evans",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2020/01/2019-Missions-Website.pdf",
+  "notes": "ART mission 2019-73. Outcome not stated in PDF; presumed rescued-uninjured.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 684
+}

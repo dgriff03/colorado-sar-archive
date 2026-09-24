@@ -1,0 +1,19 @@
+{
+  "id": "8e926bb2-55f4-417a-a1d6-598a550c146c",
+  "date": "2023-08-12",
+  "summary": "21-year-old female hiker died in a hiking incident near Flying Dutchman Ridge in Rocky Mountain National Park.",
+  "location": "Flying Dutchman Ridge, Rocky Mountain National Park",
+  "county": "Boulder",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Boulder County Coroner",
+  "source_urls": "https://bouldercounty.gov/news/hiker-identified-from-rocky-mountain-national-park-incident-on-08-12-2023/|https://www.nps.gov/romo/learn/news/two-separate-incidents-occurred-in-rocky-mountain-national-park-this-weekend.htm|https://www.nps.gov/romo/learn/news/recovery-efforts-have-been-completed-in-rocky-mountain-national-park-for-the-body-of-a-21-year-old-female-who-took-a-300-foot-fall-on-the-flying-dutchman-couloir.htm",
+  "notes": "Decedent identified as Jadyn Weiss, 21; coroner examination completed with cause and manner pending further investigation at time of release. Run-585 merge: NPS Aug-13-2023 release (parent-opened) corroborates — 21-yo female from Severance died in ~300-ft fall in the Flying Dutchman couloir (between Longs Peak and Mt. Meeker) Aug 12; 25-yo male critically injured, CANG hoist with RMRG assist, 31 people involved. Run-927 merge: NPS Aug-14-2023 recovery release (parent-opened) — body recovery completed Monday 2023-08-14 via Colorado Division of Fire Prevention and Control helicopter, flown to Upper Beaver Meadows, Boulder County Coroner.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Rocky Mountain National Park",
+  "place_type": "park",
+  "legacy_id": 1267
+}

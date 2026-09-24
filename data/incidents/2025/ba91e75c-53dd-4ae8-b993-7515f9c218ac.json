@@ -1,0 +1,19 @@
+{
+  "id": "ba91e75c-53dd-4ae8-b993-7515f9c218ac",
+  "date": "2025-02-09",
+  "summary": "Assist to Summit County (State BSAR Coordinator) for a stranded hiker on Quandary Peak",
+  "location": "Quandary Peak",
+  "county": "Summit",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Summit County SAR",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf",
+  "notes": "Log says \"Summit CO\"; ART mission 2025-012.",
+  "peak": "Quandary Peak",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1543
+}

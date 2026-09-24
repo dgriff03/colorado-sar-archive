@@ -1,0 +1,19 @@
+{
+  "id": "4a15201e-6635-43f4-99f9-67bcca95ba6d",
+  "date": "2017-04-12",
+  "summary": "25-year-old mountain biker crashed on the Walker Ranch Loop trail (~3/4 down from the trailhead), suffering hip and arm injuries and unable to move; found by two other riders who called 911; AMR drove directly to him, clear ~9:15 p.m.",
+  "location": "Walker Ranch Loop trail, southwestern Boulder County",
+  "county": "Boulder",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain Rescue Group + Coal Creek Canyon Fire + Rocky Mountain Fire + AMR + Boulder County Sheriff",
+  "source_urls": "https://content.govdelivery.com/accounts/COBOULDER/bulletins/193f8dd",
+  "notes": "BCSO case 17-2112. Victim identified in release as William Buckner. Incident type 'injury' per the mountain-biker precedent.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Walker Ranch Loop Trail",
+  "place_type": "trail",
+  "legacy_id": 3268
+}

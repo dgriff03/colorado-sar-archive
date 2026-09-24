@@ -1,0 +1,19 @@
+{
+  "id": "eccd7ed7-54fa-41ab-88bf-f99b7a605b72",
+  "date": "2015-12-26",
+  "summary": "Jeep with 2 motorists and a dog snowbound ~7 mi up the closed Cottonwood Pass road (Gypsum); evacuated to trailhead and transported to Edwards; out ~9:45 p.m.",
+  "location": "Cottonwood Pass (closed winter road), Gypsum",
+  "county": "Eagle",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Vail Mountain Rescue Group",
+  "source_urls": "https://www.vaildaily.com/news/december-tallies-11-rescue-missions-in-vail-valley/",
+  "notes": "Dec-2015 VMRG mission digest.",
+  "peak": "Cottonwood Pass",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3106
+}

@@ -1,0 +1,19 @@
+{
+  "id": "9c9a0c29-aa06-4e44-a8d7-86ac4f3e4b49",
+  "date": "2024-03-28",
+  "summary": "Backcountry skier triggered an avalanche in Silver Couloir on Buffalo Mountain and was swept ~2,000 ft down the slope out of sight of a companion, who began a transceiver search; skier deployed an avalanche airbag and activated a Garmin inReach; Summit County Rescue Group alerted 10:14 a.m., skied in on foot in high winds, placed the skier (believed mildly to moderately injured) in a toboggan and skied out; transported to hospital by ambulance",
+  "location": "Buffalo Mountain, Silver Couloir",
+  "county": "Summit",
+  "incident_type": "avalanche",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Summit County Rescue Group",
+  "source_urls": "https://www.advnture.com/news/colorado-skier-swept-2000-feet|https://www.summitfire.org/skier-goes-for-2-000-foot-ride-in-buffalo-mountain-avalanche",
+  "notes": "Date: the opened advnture.com story says 'On Thursday, March 28' -- 2024-03-28 was a Thursday (weekday-verified; article last-updated ~2024-04-03, 'last week' consistent). The report notes the avalanche itself was not substantial -- the ~2,000-ft vertical drop carried the skier over half a kilometer. Dedupe: no Buffalo Mountain/Silver Couloir rows in DB; no Summit 2024-03-25-31 rows. | Summit Fire & EMS District page (parent-opened 2026-09-17) corroborates the same incident: avalanche on Buffalo Mountain dragged a skier 2,000 feet down the Silver Couloir.",
+  "peak": "Buffalo Mountain",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2488
+}

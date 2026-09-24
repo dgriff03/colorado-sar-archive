@@ -1,0 +1,19 @@
+{
+  "id": "99f5f736-c9c0-4551-99f7-2a1b96c5f388",
+  "date": "2011-03-08",
+  "summary": "Snowboarder fully buried and skier partially buried in an avalanche in Waterfall Canyon, Ophir Valley; both survived.",
+  "location": "Waterfall Canyon, Ophir Valley",
+  "county": "San Miguel",
+  "incident_type": "avalanche",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "",
+  "source_urls": "https://classic.avalanche.state.co.us/caic/acc/acc_co.php",
+  "notes": "CAIC classic-table summary only; no SAR agency or victim identity published in sources found. Date weekday-verified Tuesday 2011-03-08 (run 477).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Waterfall Canyon",
+  "place_type": "canyon",
+  "legacy_id": 2772
+}

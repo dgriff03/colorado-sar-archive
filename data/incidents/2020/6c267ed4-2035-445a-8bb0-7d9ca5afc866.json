@@ -1,0 +1,19 @@
+{
+  "id": "6c267ed4-2035-445a-8bb0-7d9ca5afc866",
+  "date": "2020-10-13",
+  "summary": "Missing 76 YOF in Evergreen area (2020-121)",
+  "location": "Evergreen area",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2021/01/2020-Missions-Website.pdf",
+  "notes": "ART mission 2020-121. Asterisk in source; outcome not stated, presumed rescued-uninjured.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Evergreen",
+  "place_type": "town",
+  "legacy_id": 889
+}

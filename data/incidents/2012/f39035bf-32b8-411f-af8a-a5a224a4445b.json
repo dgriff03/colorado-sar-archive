@@ -1,0 +1,19 @@
+{
+  "id": "f39035bf-32b8-411f-af8a-a5a224a4445b",
+  "date": "2012-12-30",
+  "summary": "Patsy Hileman, 49, 26-year veteran of the Aspen Ski Patrol, killed in an avalanche at Snowmass (Ship's Prow Glade)",
+  "location": "Snowmass",
+  "county": "Pitkin",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Aspen Ski Patrol (fellow patrollers)",
+  "source_urls": "https://avalanche-center.org/Incidents/2012-13/|https://unofficialnetworks.com/2012/12/30/aspen-ski-patroller-dies-avalanche/|https://www.kvnf.org/news/2012-12-31/kvnf-local-newscast-monday-december-31-2012",
+  "notes": "Reported in avalanche-center 2012-13 season index; name not in opened source Run 509 UN merge (URL opened this run): victim identified as Patsy Hileman, 49, 26-year Aspen Ski Patrol veteran; swept off a cliff in a small slide in the Ship's Prow Glade, a permanently closed area at Snowmass; on duty and skiing alone; found by fellow patrollers at 1:23 p.m., pronounced dead at 1:37 p.m.\nMERGED run 912 (KVNF chunk): Dec-31-2012 KVNF newscast carried the 'Avalanche Claims Ski Patroller At Snowmass' headline — incident match parent-opened live; URL absent parent-verified.",
+  "peak": "Snowmass Mountain",
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 173
+}

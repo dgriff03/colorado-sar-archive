@@ -1,0 +1,19 @@
+{
+  "id": "bc5d5ef1-16d6-478b-bfe0-cc15e4c8032d",
+  "date": "2018-10-31",
+  "summary": "Assist RMRG with search for missing female hiker in Arapahoe Pass area (2018-121)",
+  "location": "Arapahoe Pass area",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team; Rocky Mountain Rescue Group",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2019/01/2018-Missions-Website.pdf",
+  "notes": "ART mission 2018-121. Asterisk in source.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Arapahoe Pass",
+  "place_type": "pass",
+  "legacy_id": 599
+}

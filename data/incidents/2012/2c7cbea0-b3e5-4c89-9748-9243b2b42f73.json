@@ -1,0 +1,19 @@
+{
+  "id": "2c7cbea0-b3e5-4c89-9748-9243b2b42f73",
+  "date": "2012-10-08",
+  "summary": "Code 3 rescue of a 10-year-old male in the Mt Evans area (Alpine mission 12-98)",
+  "location": "Mt Evans",
+  "county": "Clear Creek",
+  "incident_type": "other",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/category/recent-missions/clear-creek-county/page/155/",
+  "notes": "Alpine Rescue Team Clear Creek County category mission-log archive (Alpine mission 12-98); one-line page alert, outcome detail unstated in post.; nature of distress unspecified in one-line post",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1794
+}

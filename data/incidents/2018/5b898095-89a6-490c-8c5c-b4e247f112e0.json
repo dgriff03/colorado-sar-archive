@@ -1,0 +1,19 @@
+{
+  "id": "5b898095-89a6-490c-8c5c-b4e247f112e0",
+  "date": "2018-07-22",
+  "summary": "Assist RMRG with Tier III hoist rescue for injured party on Isabelle Glacier (2018-76)",
+  "location": "Isabelle Glacier",
+  "county": "Boulder",
+  "incident_type": "injury",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team; Rocky Mountain Rescue Group",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2019/01/2018-Missions-Website.pdf|https://www.themtnear.com/stories/sugarloaf-fire-sparked-by-lightning,4771",
+  "notes": "ART mission 2018-76.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Isabelle Glacier",
+  "place_type": "other",
+  "legacy_id": 551
+}

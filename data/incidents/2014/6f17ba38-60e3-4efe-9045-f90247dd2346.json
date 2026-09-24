@@ -1,0 +1,19 @@
+{
+  "id": "6f17ba38-60e3-4efe-9045-f90247dd2346",
+  "date": "2014-07-27",
+  "summary": "Search for three overdue parties in the Mt Evans area (Alpine mission 14-61)",
+  "location": "Mt Evans",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 3,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2015/01/2014-Missions-Website.pdf",
+  "notes": "Alpine Rescue Team 2014 annual mission summary PDF (one-line mission log; page date used as mission date).",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1908
+}

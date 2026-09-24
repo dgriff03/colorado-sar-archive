@@ -1,0 +1,19 @@
+{
+  "id": "093fc2de-c478-476f-91f0-703e9ca1b816",
+  "date": "2015-09-07",
+  "summary": "Overdue party on Mount Bierstadt",
+  "location": "Mount Bierstadt",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-102. Party size unstated; recorded as 1",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2028
+}

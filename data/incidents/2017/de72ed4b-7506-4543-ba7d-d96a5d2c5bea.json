@@ -1,0 +1,19 @@
+{
+  "id": "de72ed4b-7506-4543-ba7d-d96a5d2c5bea",
+  "date": "2017-07-30",
+  "summary": "Hiker injured with bear spray on Mt Evans (2017-75)",
+  "location": "Mt Evans",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2018/01/2017-Missions-Website.pdf",
+  "notes": "ART mission 2017-75. Bear spray injury.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 417
+}

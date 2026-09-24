@@ -1,0 +1,19 @@
+{
+  "id": "a3351448-75c5-4c1a-af9b-84e9df774da2",
+  "date": "2019-12-21",
+  "summary": "Fallen climber in Coal Creek Canyon, Jeffco (2019-134)",
+  "location": "Coal Creek Canyon",
+  "county": "Jefferson",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2020/01/2019-Missions-Website.pdf",
+  "notes": "ART mission 2019-134.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": "Coal Creek Canyon",
+  "place_type": "canyon",
+  "legacy_id": 749
+}

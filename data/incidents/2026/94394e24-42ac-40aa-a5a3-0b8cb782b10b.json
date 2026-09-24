@@ -1,0 +1,19 @@
+{
+  "id": "94394e24-42ac-40aa-a5a3-0b8cb782b10b",
+  "date": "2026-07-05",
+  "summary": "Climber found dead on Kiener's Route on Longs Peak; body recovered July 6 with helicopter support",
+  "location": "Kiener's Route, Longs Peak, RMNP",
+  "county": "Boulder",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "RMNP SAR, Teton County SAR helicopter",
+  "source_urls": "https://estesvalleyvoice.com/2026/07/08/coroner-identifies-longs-peak-climber-who-died-on-kieners-route/",
+  "notes": "Incident reported July 5; cause not released; county unverified",
+  "peak": "Longs Peak",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1717
+}

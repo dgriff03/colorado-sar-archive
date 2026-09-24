@@ -1,0 +1,19 @@
+{
+  "id": "6be1dc1d-8257-4d5d-a7ab-5a2920e8a861",
+  "date": "2024-09-05",
+  "summary": "28-year-old hiker took a small fall on the Ute Trail on the east side of Aspen Mountain, sustaining moderate non-life-threatening injuries; MRA and four other agencies carried the patient down to an awaiting ambulance.",
+  "location": "Ute Trail, east side of Aspen Mountain",
+  "county": "Pitkin",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Mountain Rescue Aspen",
+  "source_urls": "https://www.facebook.com/mountainrescueaspen/posts/pfbid02xNHcwwNNBDfkYSohdAUcy582Q1szvxurTZpCsffDrjkJTvrV8sakEJ1rCFSxeh2jl",
+  "notes": "Patient contact ~12:35 PM, transfer to ambulance 2:46 PM; 22 rescuers from five agencies in the field.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Ute Trail",
+  "place_type": "trail",
+  "legacy_id": 3462
+}

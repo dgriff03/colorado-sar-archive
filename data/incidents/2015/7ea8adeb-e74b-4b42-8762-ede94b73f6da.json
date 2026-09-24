@@ -1,0 +1,19 @@
+{
+  "id": "7ea8adeb-e74b-4b42-8762-ede94b73f6da",
+  "date": "2015-03-02",
+  "summary": "Vail Mountain Rescue Group rescued Ben Quinn from the Polar Star Hut area on New York Mountain",
+  "location": "Polar Star Hut, New York Mountain",
+  "county": "Eagle",
+  "incident_type": "other",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Vail Mountain Rescue Group",
+  "source_urls": "https://vailmountainrescue.org/",
+  "notes": "Run 945 VMRG chunk: VMRG homepage \"Rescue from Polar Star Hut\" blurb (parent-opened) describes the March 2, 2015 rescue of Ben Quinn on New York Mountain; mechanism unpinned (blurb + short video), coded other/rescued-uninjured pending further sourcing.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "New York Mountain",
+  "place_type": "peak",
+  "legacy_id": 3616
+}

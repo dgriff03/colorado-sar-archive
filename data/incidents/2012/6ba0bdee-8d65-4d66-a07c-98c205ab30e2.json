@@ -1,0 +1,19 @@
+{
+  "id": "6ba0bdee-8d65-4d66-a07c-98c205ab30e2",
+  "date": "2012-07-06",
+  "summary": "78-year-old Chicago man injured his ankle on the Estes Cone Trail; rangers notified at the Longs Peak Ranger Station about 1 p.m. reached him around 2:45 p.m., treated his injury on site, and assisted him on horseback to the trailhead; he then got himself to Estes Park Medical Center for treatment shortly after 5 p.m.",
+  "location": "Estes Cone Trail, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "NPS Rocky Mountain National Park rangers",
+  "source_urls": "http://npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "NPS morning-report compendium entry dated 2012-07-10.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Estes Cone Trail",
+  "place_type": "trail",
+  "legacy_id": 2801
+}

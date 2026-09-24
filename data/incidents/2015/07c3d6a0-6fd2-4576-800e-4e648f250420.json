@@ -1,0 +1,19 @@
+{
+  "id": "07c3d6a0-6fd2-4576-800e-4e648f250420",
+  "date": "2015-02-13",
+  "summary": "Overdue party on the Sawtooth in the Mount Evans area",
+  "location": "The Sawtooth, Mount Evans area",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-08.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1964
+}

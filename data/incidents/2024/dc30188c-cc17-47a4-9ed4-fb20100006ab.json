@@ -1,0 +1,19 @@
+{
+  "id": "dc30188c-cc17-47a4-9ed4-fb20100006ab",
+  "date": "2024-05-12",
+  "summary": "Diego Gutierrez Caraveo, 26, drowned while paddleboarding at Rifle Gap Reservoir; not wearing a personal flotation device or a leash and had reportedly consumed substances prior to recreating; fatality reported via the Garfield County coroner.",
+  "location": "Rifle Gap Reservoir",
+  "county": "Garfield",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Garfield County Coroner",
+  "source_urls": "https://soprissun.com/scuttlebutt-calendar-21/",
+  "notes": "Occurrence date Sunday 2024-05-12 (weekday-verified; Sopris Sun Scuttlebutt issue ~May 22/23, 2024 cites 'May 12'). Coroner-reported paddleboarding drowning companion case to the 2024-05-18 Harvey Gap drowning (id 2752).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Rifle Gap Reservoir",
+  "place_type": "reservoir",
+  "legacy_id": 3192
+}

@@ -1,0 +1,19 @@
+{
+  "id": "a0797830-9c42-448a-93b1-7454fa0d6c5d",
+  "date": "2011-10-15",
+  "summary": "Two overdue climbers unfamiliar with the descent in Eldorado Canyon; guided down uninjured by RMRG.",
+  "location": "Eldorado Canyon",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Rocky Mountain Rescue Group",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201205601",
+  "notes": "",
+  "peak": "Eldorado Canyon",
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 149
+}

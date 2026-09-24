@@ -1,0 +1,19 @@
+{
+  "id": "45c97fa7-9644-4824-ac3d-4be3d815c663",
+  "date": "2013-01-26",
+  "summary": "58-year-old hiker ('Bob') suffered cardiac arrest at the Manitou Incline summit after complaining of chest pains; two USAFA chemistry instructors (Maj. Thomas Heier, Capt. Benjamin Worker) plus ~20 bystanders performed prolonged CPR; EPCSAR arrived with an AED, delivered one shock, stabilized his pulse, stretchered him down to a SAR truck which met a rescue helicopter; he survived.",
+  "location": "Manitou Incline summit, Manitou Springs",
+  "county": "El Paso",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "El Paso County SAR",
+  "source_urls": "https://www.military.com/daily-news/2013/03/22/af-academy-instructors-save-hikers-life.html",
+  "notes": "Commendation Medals awarded 2013-03-18 to Heier and Worker; victim a triathlete with prior heart history, unacclimatized to altitude; fills El Paso zero-row year 2013 (2011/2017/2023 still zero-row).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Manitou Incline",
+  "place_type": "trail",
+  "legacy_id": 3205
+}

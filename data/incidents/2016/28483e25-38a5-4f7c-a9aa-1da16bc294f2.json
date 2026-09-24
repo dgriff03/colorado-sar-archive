@@ -1,0 +1,19 @@
+{
+  "id": "28483e25-38a5-4f7c-a9aa-1da16bc294f2",
+  "date": "2016-07-27",
+  "summary": "Ill 64-year-old male hiker in the Moffat Tunnel area, Gilpin County (Code 3 page)",
+  "location": "Moffat Tunnel area",
+  "county": "Gilpin",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-82.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Moffat Tunnel",
+  "place_type": "tunnel",
+  "legacy_id": 2101
+}

@@ -1,0 +1,19 @@
+{
+  "id": "8ae7e966-d7bd-4c85-8760-029585e9463b",
+  "date": "2024-07-01",
+  "summary": "Stranded hikers at the 4th of July Trail area; NFPD's Sherry Snyder and LtC Mandi Papich went up to help them.",
+  "location": "4th of July Trail area",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Nederland Fire Protection District",
+  "source_urls": "https://www.nfpd.org/files/599cc1d65/Chiefs+Board+report+08212024.pdf",
+  "notes": "DATE APPROXIMATE — month-pinned per run-800 NFPD convention; ~July 17–Aug 21, 2024 window of the Aug 21, 2024 report. Victim count unstated in report ('some stranded hikers'); 2 per the vague-plural convention (cf. ids 1774/1781). Distinct from id 3311 (2024-06-01 elderly male medical, Fourth of July Trail).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "4th of July Trail",
+  "place_type": "trail",
+  "legacy_id": 3352
+}

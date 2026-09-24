@@ -1,0 +1,19 @@
+{
+  "id": "9dc4214d-7fc5-403d-9071-0c771bb35bb9",
+  "date": "2012-08-17",
+  "summary": "Hiker became lost then fell in 5th-class terrain on 13,403' South Arapahoe Peak; his daughter also became cliffed out; both evacuated by vertical rope rescue",
+  "location": "13,403' South Arapahoe Peak, Indian Peaks",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 2,
+  "responding_agency": "Rocky Mountain Rescue Group (Boulder County SAR); Alpine Rescue Team (mutual aid)",
+  "source_urls": "https://internal.rockymountainrescue.org/2012NarrativeSummary.php|http://www.rockymountainrescue.org/rmrg-2012",
+  "notes": "Date basis: RMRG 2012 narrative lists this among 3 concurrent missions on a Friday afternoon in Aug 2012; Alpine mission log 2012-69 (missing mushroom hunter, Rollinsville, Fri 2012-08-17) matches the second concurrent mission, so 2012-08-17 assigned to all three. | run-886 merge: RMRG published 2012 account (Aug: South Arapahoe injured hiker + cliffed-out daughter) parent-verified live",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "South Arapahoe Peak",
+  "place_type": "peak",
+  "legacy_id": 1738
+}

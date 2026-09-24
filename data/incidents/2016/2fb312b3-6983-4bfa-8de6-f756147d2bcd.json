@@ -1,0 +1,19 @@
+{
+  "id": "2fb312b3-6983-4bfa-8de6-f756147d2bcd",
+  "date": "2016-10-25",
+  "summary": "Fatal likely climbing fall while alone in the Ironclads.",
+  "location": "The Ironclads",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201214371|https://www.cpr.org/2016/10/28/former-rocky-mountain-park-ranger-and-noted-rescuer-dies/",
+  "notes": "Run 817 merge: appended incident-specific source URL (parent-opened). Victim identified as Jim Detterline, 60, former RMNP ranger, found in climbing gear between rock formations outside Allenspark.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Ironclads",
+  "place_type": "other",
+  "legacy_id": 329
+}

@@ -1,0 +1,19 @@
+{
+  "id": "dd98fdf9-b4f1-41d9-9cdb-4e1a6a3b55c0",
+  "date": "2018-01-20",
+  "summary": "Injured climber lifted out of the canyon during the Ouray Ice Fest.",
+  "location": "Ouray Ice Park",
+  "county": "Ouray County",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Ouray Mountain Rescue Team",
+  "source_urls": "https://www.facebook.com/ouraymountainrescue/posts/pfbid0ksTGBr4ABanJVfQF25CX2W1cpnKBVv6aM59tBVkF4WFavWn4mtfcVxec3DfgQWD3l|https://www.facebook.com/ouraymountainrescue/posts/pfbid0mBFnTMMdBpsEeC4VhkzmdjqjmozyM2CGtQU2c6dLLdeC6c3bCageEz9THK81Qcmpl",
+  "notes": "Date approximate.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Ouray Ice Park",
+  "place_type": "park",
+  "legacy_id": 3592
+}

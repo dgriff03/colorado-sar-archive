@@ -1,0 +1,19 @@
+{
+  "id": "1901b180-6663-44e8-976f-7727ff39498d",
+  "date": "2023-01-22",
+  "summary": "Johnny Gaines, a Leadville local, was killed in a snowmobile crash near Turquoise Lake on Sunday afternoon; he collided with a tree at a crash site accessible only by foot or snow machine. The Lake County Sheriff's Office responded within minutes of a 911 call and emergency medical services arrived quickly, but Gaines was pronounced dead on-scene.",
+  "location": "Turquoise Lake",
+  "county": "Lake",
+  "incident_type": "vehicle",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Lake County Sheriff's Office; Lake County EMS",
+  "source_urls": "https://www.leadvilleherald.com/free_content/article_79c502ac-9d08-11ed-96d3-bb1ebb2bfc27.html",
+  "notes": "Coroner identified the deceased as Johnny Gaines. No SAR-team response documented in the Herald account — excluded-from-SAR-convention not applied: documented backcountry fatality with public reporting; first indexed Lake County 2023 row.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Turquoise Lake",
+  "place_type": "lake",
+  "legacy_id": 2663
+}

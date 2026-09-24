@@ -1,0 +1,19 @@
+{
+  "id": "d00848b4-5aea-4171-bd91-1fe18516e6ec",
+  "date": "2019-07-04",
+  "summary": "Matthew Spates, 26, of Fort Collins died after a tubing accident on the Poudre River near Lions Park; nine people with tied-together tubes were pulled from the water, and Spates passed away at 5:30 a.m. Friday July 5",
+  "location": "Poudre River near Lions Park, LaPorte",
+  "county": "Larimer",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Poudre Fire Authority",
+  "source_urls": "https://kool1079.com/fort-collins-man-dies-tubing-the-poudre-river-on-4th-of-july/",
+  "notes": "The tubes were tied together and snagged on a branch/strainer, entrapping the group; tubes were retail-store purchases not rated for the river. Recorded at the July 4 incident date; death at 5:30 a.m. Friday 2019-07-05.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Poudre River",
+  "place_type": "river",
+  "legacy_id": 2453
+}

@@ -1,0 +1,19 @@
+{
+  "id": "45c4d96b-69ac-4645-a679-bb4fc496da83",
+  "date": "2018-11-14",
+  "summary": "A 66-year-old man from the Front Range, last heard from on Nov 3 near a family-owned cabin property in the Steamboat Lake area of North Routt County, was reported missing on Nov 10 after his vehicle was found on the property. Routt County SAR searched through heavy snow on Nov 10-11 without success; a Classic Air Medical helicopter spotted the body on Nov 14 about 2,000 feet up a mountain across from the Steamboat Lake State Park visitors center, and SAR volunteers recovered it.",
+  "location": "Steamboat Lake area, North Routt County",
+  "county": "Routt",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Routt County Sheriff's Office; Routt County Search and Rescue; Classic Air Medical; Routt County Coroner",
+  "source_urls": "https://snowbrains.com/body-found-hiker-steamboat/",
+  "notes": "Date = body-discovery date 2018-11-14 (Wednesday) per the missing-person-found-dead convention (cf. id 2314); last heard from Sat 2018-11-03 (SnowBrains headline says Nov 4), reported missing Sat 2018-11-10. Cause of death pending coroner identification at story time.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Steamboat Lake",
+  "place_type": "lake",
+  "legacy_id": 2551
+}

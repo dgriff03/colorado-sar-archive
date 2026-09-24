@@ -1,0 +1,19 @@
+{
+  "id": "4112ce01-082f-4237-b01f-7b490d4340a3",
+  "date": "2011-07-22",
+  "summary": "Climber fell 30 feet on steep snow on the Lambslide/Broadway, Longs Peak, injuring shoulder; ranger simul-rappel and horse evacuation.",
+  "location": "Longs Peak, Lambslide/Broadway",
+  "county": "Larimer",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park ranger",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201205301|http://npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "NPS morning report account (filed Mon Jul 25, 2011 — 68 YOM Boulder man, 30-ft sliding fall near top of Lamb's Slide Friday afternoon, cell-phone call, tandem rappel/lowering to Mills Glacier, 10 rangers involved).",
+  "peak": "Longs Peak",
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 142
+}

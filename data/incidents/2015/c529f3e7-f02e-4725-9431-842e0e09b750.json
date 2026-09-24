@@ -1,0 +1,19 @@
+{
+  "id": "c529f3e7-f02e-4725-9431-842e0e09b750",
+  "date": "2015-08-17",
+  "summary": "Injured party on the north side of Mount Spaulding",
+  "location": "Mount Spaulding",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Injury mechanism not specified in the log.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Mount Spaulding",
+  "place_type": "peak",
+  "legacy_id": 266
+}

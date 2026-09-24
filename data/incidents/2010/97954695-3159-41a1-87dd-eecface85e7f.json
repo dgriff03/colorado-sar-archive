@@ -1,0 +1,19 @@
+{
+  "id": "97954695-3159-41a1-87dd-eecface85e7f",
+  "date": "2010-05-11",
+  "summary": "Overdue hikers on Grays and Torreys (10-23)",
+  "location": "Grays and Torreys",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-23. Victim count estimated from plural; outcome not stated, presumed rescued-uninjured.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Grays and Torreys",
+  "place_type": "other",
+  "legacy_id": 24
+}

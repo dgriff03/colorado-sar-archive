@@ -1,0 +1,19 @@
+{
+  "id": "8bc70d96-21c8-4ac0-98fd-1e404b4acb1d",
+  "date": "2016-05-20",
+  "summary": "Scrambler injured in a boulder field on the south side of Boulder Creek near the Boulder Falls parking area; RMRG secured the patient in a vacuum splint and litter and evacuated them down steep rocky terrain to an ambulance.",
+  "location": "Boulder Canyon, near Boulder Falls parking area",
+  "county": "Boulder",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain Rescue Group",
+  "source_urls": "http://www.rockymountainrescue.org/whats-new/2016/5/23/evacuation-of-injured-hiker-in-boulder-canyon",
+  "notes": "Injury cause not specified; patient was scrambling, not rock climbing; RMRG's 47th call of 2016.",
+  "peak": "Boulder Canyon",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 297
+}

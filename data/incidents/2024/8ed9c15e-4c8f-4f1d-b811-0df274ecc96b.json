@@ -1,0 +1,19 @@
+{
+  "id": "8ed9c15e-4c8f-4f1d-b811-0df274ecc96b",
+  "date": "2024-07-31",
+  "summary": "Injured male party in the Crater Lake area of Gilpin County",
+  "location": "Crater Lake",
+  "county": "Gilpin",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "County per log; injury mechanism not stated in log; ART mission 2024-087.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Crater Lake",
+  "place_type": "lake",
+  "legacy_id": 1423
+}

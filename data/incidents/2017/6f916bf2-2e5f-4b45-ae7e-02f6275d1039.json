@@ -1,0 +1,19 @@
+{
+  "id": "6f916bf2-2e5f-4b45-ae7e-02f6275d1039",
+  "date": "2017-01-12",
+  "summary": "Backcountry skier caught in an avalanche on the North Fork of Fish Creek drainage of Buffalo Mountain; partially buried and injured, non-critical.",
+  "location": "North Fork Fish Creek, Buffalo Mountain",
+  "county": "Summit",
+  "incident_type": "avalanche",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://classic.avalanche.state.co.us/caic/acc/acc_co.php",
+  "notes": "CAIC classic 2016-17 season table (opened run 152): 01/12, 1 skier caught, partially buried and injured, non-critical; date weekday-verified Thursday 2017-01-12.",
+  "peak": "Buffalo Mountain",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2423
+}

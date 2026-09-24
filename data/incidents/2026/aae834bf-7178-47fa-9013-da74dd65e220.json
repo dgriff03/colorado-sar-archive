@@ -1,0 +1,19 @@
+{
+  "id": "aae834bf-7178-47fa-9013-da74dd65e220",
+  "date": "2026-06-21",
+  "summary": "Woman hiking in Apex Park encountered a habituated black bear that grabbed her backpack and made contact with her leg, then followed her down the trail for more than 30 minutes despite hazing attempts with sticks, rocks, and loud noises; two other hikers joined in trying to scare the bear off. First reported bear attack of 2026 in Colorado.",
+  "location": "Enchanted Forest Trail, Apex Park, near Golden",
+  "county": "Jefferson",
+  "incident_type": "animal",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Colorado Parks and Wildlife",
+  "source_urls": "https://cpw.state.co.us/news/06222026/cpw-investigating-reported-bear-attack-jefferson-county|https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/colorado-bear-attack-apex-park-golden/|https://www.thegoldentranscript.com/news/golden-s-apex-park-closed-temporarily-after-bear-attack/article_8fb37ff3-3e29-4c0a-baa1-0614bf626a5e.html",
+  "notes": null,
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Apex Park",
+  "place_type": "park",
+  "legacy_id": 3639
+}

@@ -1,0 +1,19 @@
+{
+  "id": "f66da23e-bb18-48ee-b678-cb770dbd5575",
+  "date": "2023-06-24",
+  "summary": "Assist to Park County SAR for an injured 25-year-old male party on the Colorado Trail",
+  "location": "Colorado Trail",
+  "county": "Park",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Park County SAR",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2024/01/2023-Missions-Website.pdf",
+  "notes": "Injury mechanism not stated in log; ART mission 2023-041.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Colorado Trail",
+  "place_type": "trail",
+  "legacy_id": 1225
+}

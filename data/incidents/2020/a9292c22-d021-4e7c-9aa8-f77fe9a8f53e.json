@@ -1,0 +1,19 @@
+{
+  "id": "a9292c22-d021-4e7c-9aa8-f77fe9a8f53e",
+  "date": "2020-06-11",
+  "summary": "22-year-old man fell ~400 meters down the snowfield on the Juliet couloir while solo technical climbing Mt. Neva, striking rocks and suffering serious lower-body injuries; Black Hawk hoist rescue, flown to Boulder Airport and transported to a local hospital.",
+  "location": "Juliet couloir, Mt. Neva",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain Rescue Group",
+  "source_urls": "https://www.themtnear.com/stories/climber-rescued-near-mt-neva,6458",
+  "notes": "BCSO case #20-2565. 911/relay via handheld GPS SOS from family member; ground + Flight for Life response before Guard hoist; rescue took ~4 hours.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Mount Neva",
+  "place_type": "peak",
+  "legacy_id": 2631
+}

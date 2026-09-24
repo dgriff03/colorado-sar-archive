@@ -1,0 +1,19 @@
+{
+  "id": "98c5743a-3161-40f7-baee-c050967ea49e",
+  "date": "2013-06-29",
+  "summary": "Alpine members assisted Park Rangers with a 58-year-old woman with a broken arm (13-36); specific park not named.",
+  "location": "Jefferson County park (unspecified)",
+  "county": "Jefferson",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team (assisted Park Rangers)",
+  "source_urls": "https://www.alpinerescueteam.org/category/recent-missions/jefferson-county/page/36/",
+  "notes": "Alpine Rescue Team mission 13-36; 06/29/13 12:45. Agency assist; exact location unstated in log.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2217
+}

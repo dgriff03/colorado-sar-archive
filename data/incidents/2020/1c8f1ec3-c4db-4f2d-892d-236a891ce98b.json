@@ -1,0 +1,19 @@
+{
+  "id": "1c8f1ec3-c4db-4f2d-892d-236a891ce98b",
+  "date": "2020-10-30",
+  "summary": "49-year-old fell and was killed while unroped scrambling on the Second Flatiron; rangers attempted resuscitation.",
+  "location": "Second Flatiron",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Boulder Open Space and Mountain Parks rangers",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201215887",
+  "notes": "",
+  "peak": "The Flatirons",
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 895
+}

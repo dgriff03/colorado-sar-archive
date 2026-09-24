@@ -1,0 +1,19 @@
+{
+  "id": "ac38ba26-c79c-48c7-8a1a-ea06fc46cca7",
+  "date": "2010-07-11",
+  "summary": "Injured party in Elk Meadow area (10-50)",
+  "location": "Elk Meadow area",
+  "county": "Jefferson",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-50. Cause of injury not stated.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Elk Meadow Park",
+  "place_type": "park",
+  "legacy_id": 50
+}

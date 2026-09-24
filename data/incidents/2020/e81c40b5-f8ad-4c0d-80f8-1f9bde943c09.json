@@ -1,0 +1,19 @@
+{
+  "id": "e81c40b5-f8ad-4c0d-80f8-1f9bde943c09",
+  "date": "2020-08-20",
+  "summary": "Larimer County parks ranger reported missing ~9:18 p.m. during a strong wind event on Horsetooth Reservoir; his boat was found on the water with him gone; body recovered ~3:30 a.m. Aug 21 after an overnight multi-agency search",
+  "location": "Horsetooth Reservoir",
+  "county": "Larimer",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Larimer County Sheriff's Office; Larimer County Search and Rescue; Larimer County Dive Rescue Team; Poudre Fire Authority; Colorado State Patrol; Colorado Parks and Wildlife; Denver Police Department helicopter; Larimer County Dept. of Natural Resources",
+  "source_urls": "https://northfortynews.com/category/news/missing-ranger-found-at-horsetooth-reservoir/",
+  "notes": "Search launched Aug 20 night; body recovered from the water ~3:30 a.m. Fri Aug 21; coroner investigating cause, identity/manner release pending at publication.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Horsetooth Reservoir",
+  "place_type": "reservoir",
+  "legacy_id": 2560
+}

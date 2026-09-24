@@ -1,0 +1,19 @@
+{
+  "id": "3290177e-7972-40dc-a820-4d6823034c1b",
+  "date": "2016-04-02",
+  "summary": "Recovery in the Lookout Mountain area",
+  "location": "Lookout Mountain",
+  "county": "Jefferson",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Log does not detail the subject or cause.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": "Lookout Mountain",
+  "place_type": "peak",
+  "legacy_id": 293
+}

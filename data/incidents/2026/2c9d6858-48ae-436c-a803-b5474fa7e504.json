@@ -1,0 +1,19 @@
+{
+  "id": "2c9d6858-48ae-436c-a803-b5474fa7e504",
+  "date": "2026-05-30",
+  "summary": "Missing child; found.",
+  "location": "Douglas County",
+  "county": "Douglas",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Douglas County SAR",
+  "source_urls": "https://www.facebook.com/DouglasCountySearchAndRescue/posts/pfbid02hUWwvtwL65PCSFrJ6a3CCwfJr5hJ5925HXaruVGV6UzrRQEq63XZeCvXQ81PExHl",
+  "notes": "",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3638
+}

@@ -1,0 +1,19 @@
+{
+  "id": "537e51c4-25e4-41fe-987c-607fa6341add",
+  "date": "2021-04-04",
+  "summary": "Aircraft emergency beacon at Wigwam Trailhead led to plane crash response; assisted Jefferson County Sheriff, NTSB and FAA (Apr 4-5)",
+  "location": "Wigwam Trailhead",
+  "county": "Douglas",
+  "incident_type": "vehicle",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Jefferson County Sheriff's Office, NTSB, FAA",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2022/02/2021-Missions-Website.pdf",
+  "notes": "Aircraft crash; subject outcomes not stated in log; county per Wigwam Trail area; ART missions 2021-033, 2021-035, 2021-036.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Wigwam Trailhead",
+  "place_type": "trailhead",
+  "legacy_id": 939
+}

@@ -1,0 +1,19 @@
+{
+  "id": "1c0c7144-0f43-4053-bf9c-b87874933313",
+  "date": "2016-07-10",
+  "summary": "Sick 26-year-old male hiker on Kelso Ridge of Torrey's Peak (Code 3 page)",
+  "location": "Kelso Ridge (Torrey's Peak)",
+  "county": "Clear Creek",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-70.",
+  "peak": "Torreys Peak",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2092
+}

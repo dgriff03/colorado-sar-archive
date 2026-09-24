@@ -1,0 +1,19 @@
+{
+  "id": "47223005-e180-4f7f-8fc1-6d6cada4c2b1",
+  "date": "2018-06-10",
+  "summary": "Lost hiker near the Palmer Lake upper reservoir.",
+  "location": "Palmer Lake upper reservoir",
+  "county": "El Paso",
+  "incident_type": "lost/stranded",
+  "outcome": "search",
+  "victims": 1,
+  "responding_agency": "El Paso County SAR",
+  "source_urls": "https://www.facebook.com/epcsar/posts/pfbid02TH6vcLJkqEuS3zyybsVUX3vPFJffDxEX2wxtu92k5qHB9rDbKZPGRftGX1aKi4jAl",
+  "notes": "Source: El Paso County SAR Facebook page.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Palmer Lake",
+  "place_type": "lake",
+  "legacy_id": 3666
+}

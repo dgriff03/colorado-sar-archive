@@ -1,0 +1,19 @@
+{
+  "id": "8fea170a-47f7-4ecc-9cf5-31a22099d67b",
+  "date": "2013-12-29",
+  "summary": "James Bailey, 71, of Alamosa — missing hunter located by search plane after ~20 hours in a sub-freezing snowstorm near CR2 and CRX; transported to Prowers Medical Center for dehydration and exposure",
+  "location": "CR2 and CRX area, Prowers County",
+  "county": "Prowers",
+  "incident_type": "lost/stranded",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Prowers County Sheriff's Office (search crews + two search planes)",
+  "source_urls": "https://archives.theprowersjournal.com/2014/01/prowers-county-sheriffs-report-december-2013/",
+  "notes": "Run 673 backfill (county sheriff statewide sweep); incident 2013-12-29 (Sunday) per PCSO December-2013 monthly report; notified ~3am 12/29, located ~11:30am Sunday by plane; missing ~20 hrs through snowstorm; subagent snippet-corroborated from the 2013 annual summary page.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "County Road 2",
+  "place_type": "road",
+  "legacy_id": 3201
+}

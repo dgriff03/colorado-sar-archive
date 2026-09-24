@@ -1,0 +1,19 @@
+{
+  "id": "09bd2857-c945-452d-a24f-b1f8bc34f68f",
+  "date": "2020-01-28",
+  "summary": "Man and woman whose truck had been stuck on County Road 80C since Sunday morning (2020-01-26) were located by helicopter on Tuesday afternoon and safely evacuated, uninjured. LCSAR was mobilizing resources to assist when the helicopter found them.",
+  "location": "County Road 80C",
+  "county": "Larimer",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Larimer County Search and Rescue",
+  "source_urls": "https://www.facebook.com/lcsarinc/posts/pfbid036J4bRe5kJ4q85Bp4x8R6G98yCzk4XL2S4rmYBziFYnmh8tq9reEwfqdZyJn5hLiil",
+  "notes": "Date approximate: 2020-01-29 post and shared news link say the parties were found 'Tuesday afternoon' (2020-01-28) after being stuck since Sunday morning.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "County Road 80C",
+  "place_type": "road",
+  "legacy_id": 3533
+}

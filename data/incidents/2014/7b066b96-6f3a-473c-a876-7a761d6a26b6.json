@@ -1,0 +1,19 @@
+{
+  "id": "7b066b96-6f3a-473c-a876-7a761d6a26b6",
+  "date": "2014-03-22",
+  "summary": "Single-engine Socata TBM700 crashed into Ridgway Reservoir around 2 p.m. Saturday after going into a flat spin coming out of thick clouds, landing ~90 ft offshore in 60-90 ft of water; all 5 Alabama occupants killed (Jimmy L. Hill, 48; Katrina Vinzant Barksdale, 40; her sons Xander Barksdale, 8 and Kobe Barksdale, 11; her cousin Seth McDuffie, 14); wreckage and all bodies recovered March 27, 2014 by specialized dive teams and handed to the NTSB/FAA; Ouray County Emergency Operations Plan records 1,500+ labor hours and ~$75,000 recovery cost",
+  "location": "Ridgway Reservoir, Ridgway State Park",
+  "county": "Ouray",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 5,
+  "responding_agency": "Ouray County Sheriff's Office",
+  "source_urls": "http://www.coemergency.com/2014/03/news-release-3-ouray-county-plane-crash.html|https://espnwesterncolorado.com/ridgway-reservoir-plane-crash-victims-wreckage-recovered-photos/|https://ouraycountyco.gov/DocumentCenter/View/15722/2021-Updated-Ouray-County-Emergency-Operations-Plan-redline|http://npshistory.com/morningreport/incidents/cure.htm|http://sardoc.org/cms/wp-content/uploads/2011/01/100914PublicSARDOC-MISSION-REPORTS.pdf",
+  "notes": "Flight: Gadsden AL origin, Bartlesville OK stop, en route to Montrose. Eyewitness (Lena Martinez): plane popped out of clouds and went into a flat spin. NTSB preliminary: pilot reported plane in a spin before losing communication. Tail recovered Saturday; fuselage and victims recovered Thursday 3/27 by Beegles Aircraft Service divers (Greeley CO) + Inland Marine extraction of the 5,000-lb plane from ~60 ft of water + 3 ft of silt; Ridgway State Park campground/day facilities closed during the op. Curecanti dive team + NPS Submerged Resources Center assisted the recovery (VideoRay ROV/side-scan sonar wreckage mapping, safety vessel, post-recovery CSP hazmat cleanup) per the NPS morning-report 2014-04-01 entry. SARDOC 2014 report corroboration.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Ridgway Reservoir",
+  "place_type": "reservoir",
+  "legacy_id": 2420
+}

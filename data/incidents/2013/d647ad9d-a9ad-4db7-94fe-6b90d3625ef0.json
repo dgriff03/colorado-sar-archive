@@ -1,0 +1,19 @@
+{
+  "id": "d647ad9d-a9ad-4db7-94fe-6b90d3625ef0",
+  "date": "2013-09-17",
+  "summary": "Mark Stice disappeared during a South Colony Basin/Crestone-area trip; body not found after approximately 800 SAR hours",
+  "location": "South Colony Basin",
+  "county": "",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://100summits.com/articles/colorado-mountaineering-deaths/item/256-2013-colorado-mountaineering-deaths|https://www.cpr.org/2013/09/30/search-for-missing-hiker-suspended/",
+  "notes": "Death presumed; body unrecovered; county not verified Run 817 merge: appended incident-specific source URL (parent-opened). KRCC story: Custer County officials, vehicle at South Colony trailhead, ~800 man-hours, search suspended after 8 days.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "South Colony Basin",
+  "place_type": "other",
+  "legacy_id": 192
+}

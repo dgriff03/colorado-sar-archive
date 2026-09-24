@@ -1,0 +1,19 @@
+{
+  "id": "dac6e885-aa08-4593-8b2c-43fdea186097",
+  "date": "2025-06-22",
+  "summary": "Hiker with altitude sickness on Kelso Ridge of Torreys Peak",
+  "location": "Kelso Ridge (Torreys Peak)",
+  "county": "Clear Creek",
+  "incident_type": "medical",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf",
+  "notes": "ART mission 2025-055.",
+  "peak": "Torreys Peak",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1597
+}

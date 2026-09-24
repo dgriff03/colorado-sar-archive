@@ -1,0 +1,19 @@
+{
+  "id": "107082ad-3a4f-4667-b1a5-ae49443d7536",
+  "date": "2020-08-04",
+  "summary": "Two injured 16 YOMs on St Marys Glacier (2020-75)",
+  "location": "St Marys Glacier",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2021/01/2020-Missions-Website.pdf",
+  "notes": "ART mission 2020-75. Causes of injury not stated.",
+  "peak": "James Peak",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 838
+}

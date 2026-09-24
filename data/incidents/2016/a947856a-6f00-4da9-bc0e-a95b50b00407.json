@@ -1,0 +1,19 @@
+{
+  "id": "a947856a-6f00-4da9-bc0e-a95b50b00407",
+  "date": "2016-01-05",
+  "summary": "Logan Salviano, 25, a Vail resident and Two Elk Lodge employee, went missing while snowboarding at Vail Mountain on Tuesday; Vail ski patrol found his body Thursday in a tree well off an expert run on the mountain's front side near Chairs 3 and 4; the Eagle County coroner pronounced him dead and the sheriff's office ruled the death non-criminal, with autopsy pending",
+  "location": "Vail Mountain, front side, off expert run near Chairs 3 and 4",
+  "county": "Eagle",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Vail ski patrol; Eagle County Sheriff's Office / Eagle County Coroner",
+  "source_urls": "https://unofficialnetworks.com/2016/01/09/body-of-missing-snowboarder-found-at-vail/|https://cpr.org/2016/01/11/body-of-snowboarder-found-on-vail-mountain/",
+  "notes": "Tree-well snow-immersion death; gone missing Tue 2016-01-05, recovered Thu 2016-01-07; row date pinned to disappearance per index convention Run-927 merge: CPR report (parent-opened) — clean second source: identifies Logan Salviano, 25, Two Elk Lodge employee; last seen Tuesday, missing Wednesday, body found Thursday near a tree; ruled accident by Eagle County coroner Kara Bettis.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Vail Mountain",
+  "place_type": "ski_area",
+  "legacy_id": 3282
+}

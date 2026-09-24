@@ -1,0 +1,19 @@
+{
+  "id": "3e885848-ee23-459a-8c90-11c96f29f86b",
+  "date": "2023-09-10",
+  "summary": "Paul Gallenstein, 64, of Fort Collins was found dead on the Foothills Trail near Reservoir Ridge in the Horsetooth Reservoir area on the morning of Sept 10. The Larimer County Coroner determined he died from a gunshot injury; the Sheriff's Office continues to investigate the death as a potential homicide. Investigators initially conducted an extensive search with Investigations, Forensic Services, Emergency Services, K9 teams and drone operators; no weapon was located.",
+  "location": "Foothills Trail near Reservoir Ridge, Horsetooth Reservoir area",
+  "county": "Larimer",
+  "incident_type": "injury",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Larimer County Sheriff's Office",
+  "source_urls": "https://northfortynews.com/category/news/three-years-later-investigators-seek-answers-in-gallenstein-death/",
+  "notes": "LCSO renewed its public information appeal on the third anniversary (Sept 2026); family offering a $50,000 reward.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Foothills Trail",
+  "place_type": "trail",
+  "legacy_id": 2401
+}

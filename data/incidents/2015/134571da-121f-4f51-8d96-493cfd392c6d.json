@@ -1,0 +1,19 @@
+{
+  "id": "134571da-121f-4f51-8d96-493cfd392c6d",
+  "date": "2015-01-29",
+  "summary": "J.S. Jr., 34, of Cohoes, New York, found Jan 29 lying on a rock along the shoulder of the closed winter Trail Ridge Road after a winter attempt to walk the road (tennis shoes, carrying a grocery bag; had fled rangers on Jan 27); Flight for Life to Medical Center of the Rockies.",
+  "location": "Trail Ridge Road (closed winter), Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "lost/stranded",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "National Park Service",
+  "source_urls": "https://www.npshistory.com/morningreport/incidents/romo.htm|https://www.nationalparkstraveler.org/2015/01/update-new-yorker-who-thought-he-could-hike-across-trail-ridge-road-rocky-mountain-national-park-mis26222",
+  "notes": "NPS ROMO morning-report compendium entry.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Ridge Road",
+  "place_type": "road",
+  "legacy_id": 2851
+}

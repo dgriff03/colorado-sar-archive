@@ -1,0 +1,19 @@
+{
+  "id": "d4063dd6-53d7-42cd-bab4-b4cae6e640ff",
+  "date": "2012-09-29",
+  "summary": "50-year-old Colorado woman took a 40- to 50-foot fall on the north side of Deer Mountain while hiking with a family member; rangers reached her just after 8 p.m. and determined she did not survive; her body was found in steep, rocky terrain about three miles from the Deer Mountain trailhead, flown out the following afternoon, and turned over to the county coroner.",
+  "location": "North side of Deer Mountain, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "NPS Rocky Mountain National Park rangers",
+  "source_urls": "http://npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "NPS morning-report compendium entry dated 2012-10-03 (Saturday-verified).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Deer Mountain",
+  "place_type": "peak",
+  "legacy_id": 2802
+}

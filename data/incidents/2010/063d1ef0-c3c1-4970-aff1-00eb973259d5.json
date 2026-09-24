@@ -1,0 +1,19 @@
+{
+  "id": "063d1ef0-c3c1-4970-aff1-00eb973259d5",
+  "date": "2010-05-26",
+  "summary": "27-year-old woman from Golden severely injured when her car went off Bear Lake Road, rolled over and came to rest in Glacier Creek; extricated by rangers and Estes Park fire/dive team, airlifted to Medical Center of the Rockies; not wearing a seatbelt",
+  "location": "Bear Lake Road, Glacier Creek",
+  "county": "Larimer",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "RMNP rangers, Estes Park volunteer fire/dive team",
+  "source_urls": "https://npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "NPS morning report (reported 2010-05-28): crash occurred Wednesday afternoon; Colorado State Patrol assisting investigation; cause unknown",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Glacier Creek",
+  "place_type": "creek",
+  "legacy_id": 2618
+}

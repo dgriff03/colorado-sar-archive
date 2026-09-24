@@ -1,0 +1,19 @@
+{
+  "id": "0fe74ae1-ddbd-4de5-993e-c978ef040059",
+  "date": "2020-05-03",
+  "summary": "47-year-old Winter Park man seriously injured in an ATV rollover on CR 22 north of Kremmling; GCSAR staged an ATV evacuation but the patient was flown to Denver instead.",
+  "location": "CR 22 north of Kremmling, Grand County",
+  "county": "Grand",
+  "incident_type": "vehicle",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Grand County Search and Rescue",
+  "source_urls": "https://www.facebook.com/GCSAR/posts/pfbid08sFEiAVK9cbVPt2cz3Bwt6UE5cNnuz91EhPqzhb11TJ4oduwoHs2PD3vNy44JtUpl|https://www.facebook.com/GCSAR/posts/pfbid02yjuKKPVNUhUWrbFxj5HZfXPeHGFisAAkmiFfhr12PmLBVasAosKTcD6ysNaTx7Jxl",
+  "notes": "Two posts describe the same mission: an initial 'responding to ATV accident north of Kremmling' post (16:48 MDT 2020-05-03) and a detail post that evening (21:21 MDT) describing 'today's mission' as the ATV rollover. Grand County EMS drove the rough road to the site; patient flown to Denver. Team's first mission under COVID protocols.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "County Road 22",
+  "place_type": "road",
+  "legacy_id": 3541
+}

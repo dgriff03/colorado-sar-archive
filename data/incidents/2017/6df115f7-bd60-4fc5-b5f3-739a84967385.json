@@ -1,0 +1,19 @@
+{
+  "id": "6df115f7-bd60-4fc5-b5f3-739a84967385",
+  "date": "2017-07-15",
+  "summary": "A 66-year-old Craig man on a two-person private trip in inflatable kayaks on the Yampa River hit a rock in Tepee Rapid and capsized; he wore a PFD but never resurfaced; body found at 11:40 a.m. Sunday July 16 about 3 miles downstream",
+  "location": "Tepee Rapid, Yampa River, Dinosaur National Monument",
+  "county": "Moffat",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Dinosaur National Monument staff; Moffat County Coroner",
+  "source_urls": "https://www.basinnow.com/kayaker-dies-in-dinosaur-national-monument/|https://www.nationalparkstraveler.org/2017/07/kayaker-drowns-yampa-river-dinosaur-national-monument|http://npshistory.com/morningreport/incidents/dino.htm|https://www.nps.gov/dino/learn/news/kayakerdiesonyampa.htm",
+  "notes": "Companion kayaked 24 miles downstream to Hells Canyon Ranch to report; Monument staff contacted ~9 p.m. Saturday; search launched Sunday morning; helicopter already on-site for a wildland fire assisted MERGED 2026-09-13 (run 391): NPT Teepee-Rapids account (same incident: 66-yo Craig man, 2-person private inflatable-kayak trip, ~2 p.m. Saturday capsize, body found Sunday 11:40 a.m. ~3 mi downstream, Moffat County Coroner) appended from search-index match. Run 648 merge: NPS dated news release (parent-opened; Michael Brinks, 2017-07-15, Tepee Rapid).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Yampa River",
+  "place_type": "river",
+  "legacy_id": 2240
+}

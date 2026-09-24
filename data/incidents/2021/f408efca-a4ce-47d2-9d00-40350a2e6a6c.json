@@ -1,0 +1,19 @@
+{
+  "id": "f408efca-a4ce-47d2-9d00-40350a2e6a6c",
+  "date": "2021-07-05",
+  "summary": "Experienced roped climber fell ~15 m in Cheyenne Canyon and died of injuries before rescuers could reach him.",
+  "location": "North Cheyenne Canyon, near Helen Hunt Falls",
+  "county": "El Paso",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Colorado Springs Fire Department",
+  "source_urls": "https://gripped.com/news/rock-climber-dies-in-colorados-cheyenne-canyon/",
+  "notes": "Fall reported Monday 2021-07-05; 911 call ~10:15am; rescuers rappelled from above but he was already deceased.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "North Cheyenne Canyon",
+  "place_type": "canyon",
+  "legacy_id": 977
+}

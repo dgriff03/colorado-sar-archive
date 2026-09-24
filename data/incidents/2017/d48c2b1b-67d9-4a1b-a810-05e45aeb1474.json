@@ -1,0 +1,19 @@
+{
+  "id": "d48c2b1b-67d9-4a1b-a810-05e45aeb1474",
+  "date": "2017-08-18",
+  "summary": "70-year-old man who had recently suffered a stroke, partially paralyzed and despondent, reported missing at Owl Creek Pass; two SARDOC dog teams responded and one located him deceased.",
+  "location": "Owl Creek Pass",
+  "county": "Gunnison",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": null,
+  "source_urls": "https://sardoc.org/cms/wp-content/uploads/2011/01/2017SARDOCPublicMissionReports.pdf",
+  "notes": "Run-658 SARDOC chunk.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": "Owl Creek Pass",
+  "place_type": "pass",
+  "legacy_id": 3160
+}

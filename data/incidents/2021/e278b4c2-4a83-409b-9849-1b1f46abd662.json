@@ -1,0 +1,19 @@
+{
+  "id": "e278b4c2-4a83-409b-9849-1b1f46abd662",
+  "date": "2021-12-04",
+  "summary": "28-year-old struck by microwave-sized falling rock at base of Tortoise Scute, Other Critters Crag, Clear Creek Canyon; died after being taken off life support.",
+  "location": "Clear Creek Canyon, Other Critters Crag",
+  "county": "Jefferson",
+  "incident_type": "rockfall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "not specified in source",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201216247.pdf|https://www.climbing.com/culture-climbing/a-climber-we-lost-cameron-maxwell-december-13/?scope=anon|https://unofficialnetworks.com/2021/12/06/his-helmet-was-a-life-saver-colorado-hiker-injured-in-rockfall/",
+  "notes": "Victim Cameron Maxwell, 28, of Loveland; rock fell from a route above moments after he finished his lead; wearing a helmet; died 2021-12-13.; Merged 2 reports (parts: aac, news-2020-2023); date per both sources. UN pre-death piece (published 2021-12-06, two days post-rescue) reported him alive/injured at rescue; DB outcome fatality per AAC (died 2021-12-13).",
+  "peak": "Clear Creek Canyon",
+  "setting": "frontcountry",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1039
+}

@@ -1,0 +1,19 @@
+{
+  "id": "1a3d9793-cab7-4c90-8f48-ea4cbc0cedde",
+  "date": "2023-12-30",
+  "summary": "Lost snowboarder near the Steamboat Resort boundary",
+  "location": "Steamboat Resort boundary",
+  "county": "Routt",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Routt County Search and Rescue",
+  "source_urls": "https://myemail.constantcontact.com/Far-Routt-Newsletter.html?soid=1139552188087&aid=WlJRvmEwh8U",
+  "notes": "Q4 2023 newsletter",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "ONE_LINER",
+  "place": "Steamboat Resort",
+  "place_type": "ski_area",
+  "legacy_id": 1319
+}

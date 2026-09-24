@@ -1,0 +1,19 @@
+{
+  "id": "aa713cca-6ccd-48d3-be51-b9f5d41a82d2",
+  "date": "2011-06-28",
+  "summary": "Man and woman in their 20s became disoriented while hiking near Lake Haiyaha in the Bear Lake area due to snow-covered trails; rangers tried to guide them with lights Tuesday night, advised them to stay put, and reached them at 7 a.m. Wednesday, escorting them out",
+  "location": "Near Lake Haiyaha, Bear Lake area, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "RMNP rangers",
+  "source_urls": "http://npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "One of three SAR operations reported Thu Jun 30, 2011. Date = the Tuesday-night call per the report; weekday-verified.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Rocky Mountain National Park",
+  "place_type": "park",
+  "legacy_id": 2674
+}

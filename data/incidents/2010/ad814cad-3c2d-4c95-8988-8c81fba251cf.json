@@ -1,0 +1,19 @@
+{
+  "id": "ad814cad-3c2d-4c95-8988-8c81fba251cf",
+  "date": "2010-08-28",
+  "summary": "Injured party on Bergen Peak (10-73)",
+  "location": "Bergen Peak",
+  "county": "Jefferson",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-73. Cause of injury not stated.",
+  "peak": "Bergen Peak",
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 85
+}

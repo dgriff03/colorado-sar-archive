@@ -1,0 +1,19 @@
+{
+  "id": "c15e4eea-ccd5-4280-873a-df503d023da9",
+  "date": "2023-02-05",
+  "summary": "Snowmobiler with a compound leg fracture near Whiskey Park",
+  "location": "Whiskey Park, North Routt",
+  "county": "Routt",
+  "incident_type": "vehicle",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Routt County Search and Rescue",
+  "source_urls": "https://myemail-api.constantcontact.com/Far-Routt-Newsletter.html?soid=1139552188087&aid=6c-JSsZsGRU",
+  "notes": "Q1 2023 newsletter",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "ONE_LINER",
+  "place": "Whiskey Park",
+  "place_type": "park",
+  "legacy_id": 1182
+}

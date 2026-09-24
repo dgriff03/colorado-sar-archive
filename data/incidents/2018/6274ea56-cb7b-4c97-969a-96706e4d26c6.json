@@ -1,0 +1,19 @@
+{
+  "id": "6274ea56-cb7b-4c97-969a-96706e4d26c6",
+  "date": "2018-07-28",
+  "summary": "Fainting/unconscious hiker about 1 mile up the Barr Trail.",
+  "location": "Barr Trail, ~1 mile up",
+  "county": "El Paso",
+  "incident_type": "medical",
+  "outcome": "assisted",
+  "victims": 1,
+  "responding_agency": "El Paso County SAR",
+  "source_urls": "https://www.facebook.com/epcsar/posts/pfbid022eXS9Ecrq99stVpAxQfAS5Snm8UdzNfomtvzmnVTTyqZ8Gw3cu2j9DSTU1ezkFzJl",
+  "notes": "Source: El Paso County SAR Facebook page.",
+  "peak": "Pikes Peak",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3673
+}

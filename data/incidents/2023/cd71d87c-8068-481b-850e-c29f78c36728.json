@@ -1,0 +1,19 @@
+{
+  "id": "cd71d87c-8068-481b-850e-c29f78c36728",
+  "date": "2023-03-17",
+  "summary": "Joel Shute, 36, of Glenwood Springs killed in a large avalanche near Chair Mountain in the Marble area; his body was located about 11:30 a.m. and recovered by helicopter by West Elk Search and Rescue with the Colorado Avalanche Information Center; a skier and a splitboarder were also caught in the same slide - the splitboarder hiked out to get help and the skier was rescued by helicopter, both injured and transported for medical treatment",
+  "location": "Chair Mountain, Marble area",
+  "county": "Gunnison",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 3,
+  "responding_agency": "West Elk Search and Rescue; Colorado Avalanche Information Center",
+  "source_urls": "https://crestedbuttenews.com/2023/03/regional-avalanches-over-the-weekend-claim-two-lives/|https://www.cpr.org/2023/03/19/colorado-skier-killed-two-others-injured-in-large-avalanche-in-gunnison-county/|https://heartoftherockiesradio.com/two-avalanche-related-fatalities-over-the-weekend/|https://snowbrains.com/powerful-avalanche-killed-skier-near-chair-mountain-marble-co-on-friday/|https://unofficialnetworks.com/2023/03/29/man-searching-for-dog-avalanche/|https://soprissun.com/joel-thomas-shute/",
+  "notes": "Date stated in article (Friday, March 17); ninth Colorado avalanche death of the 2022-23 season per article context [merge 2026-09-15 run616: HotRR corroborates — Friday-afternoon avalanche in upper Rapid Creek SW of Marble; two men extricated and transported; third man (Joel Thomas Shute, 36) recovered Saturday morning from ~4 ft of avalanche debris.] SnowBrains URL appended (run 691; parent-opened — upper Rapid Creek CAIC-detail account, matches Joel Shute Chair Mountain avalanche). | Merge run 929: UN story identifies survivor Jacob Dalbey (InReach SOS ~5:55pm 3/17, helo rescue ~1am 3/18); deceased companion recovered under 3 ft of debris 3/18; dog Ullr survived the slide.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Chair Mountain",
+  "place_type": "peak",
+  "legacy_id": 2405
+}

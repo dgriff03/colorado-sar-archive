@@ -1,0 +1,19 @@
+{
+  "id": "4861018c-98fd-49c0-ace4-ee74d01dd0eb",
+  "date": "2010-07-05",
+  "summary": "31-year-old woman with severe medical problems left a residence in the 600 block of Sunshine Canyon around 9 p.m. BCSO + crews searched ~90 minutes; a resident heard her yelling and RMRG rescued her; transported to Boulder Community Hospital.",
+  "location": "600 block of Sunshine Canyon",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff Office; Rocky Mountain Rescue Group",
+  "source_urls": "https://archives.boulderweekly.com/news/police-blotter-police-investigate-fatal-accident/",
+  "notes": "DATE APPROXIMATE — month/day per the blotter item; year inferred from the sequential weekly-blotter run with confirmed-2010 pages (not stated explicitly on the item).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Sunshine Canyon",
+  "place_type": "canyon",
+  "legacy_id": 3142
+}

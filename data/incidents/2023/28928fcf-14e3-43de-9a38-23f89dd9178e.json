@@ -1,0 +1,19 @@
+{
+  "id": "28928fcf-14e3-43de-9a38-23f89dd9178e",
+  "date": "2023-11-05",
+  "summary": "Assist to Rocky Mountain Rescue Group (Nov 6) for a missing female party in the Gross Dam area",
+  "location": "Gross Dam",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Rocky Mountain Rescue Group",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2024/01/2023-Missions-Website.pdf",
+  "notes": "Log dated 11/05; assist on 11/06; ART mission 2023-112.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Gross Dam",
+  "place_type": "other",
+  "legacy_id": 1309
+}

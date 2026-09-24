@@ -1,0 +1,19 @@
+{
+  "id": "6f8ade04-00d3-40a9-8939-68d12b65658e",
+  "date": "2014-05-31",
+  "summary": "39-year-old Grand Junction kayaker swept into a strainer and drowned on the Crystal River after his boat flipped while leading a kayaking group; his body went unfound for nearly two months until two Crested Butte kayakers, searching at the Gunnison County Sheriff's request, spotted the remains hung up on a bridge divider near Highway 133.",
+  "location": "Crystal River near Highway 133 bridge, ~4 miles south of the Gunnison/Pitkin county line",
+  "county": "Pitkin",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Gunnison County Sheriff's Office; Crested Butte Recovery Team (swift-water); Carbondale Fire Department",
+  "source_urls": "https://crestedbuttenews.com/2014/07/local-kayakers-find-body-of-grand-junction-boater/",
+  "notes": "Incident (drowning) 2014-05-31. Remains located 2014-07-26 ~2:45 p.m. by Milo Wynne and Scotty Mann after a ~4-hr kayak search; victim identified via Grand Junction Pathology as Uriah Shaffer. Recovery conducted by the Crested Butte Recovery Team and Carbondale Fire Department swift-water members; body taken to Grand Junction.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Crystal River",
+  "place_type": "river",
+  "legacy_id": 2368
+}

@@ -1,0 +1,19 @@
+{
+  "id": "e7ee8063-62f9-44c4-8b95-6549ceec20de",
+  "date": "2021-07-31",
+  "summary": "Assist to Park County SAR for a missing 24-year-old male party in the McCurdy Mountain area",
+  "location": "McCurdy Mountain",
+  "county": "Park",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Park County SAR",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2022/02/2021-Missions-Website.pdf",
+  "notes": "ART mission 2021-078.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "McCurdy Mountain",
+  "place_type": "peak",
+  "legacy_id": 990
+}

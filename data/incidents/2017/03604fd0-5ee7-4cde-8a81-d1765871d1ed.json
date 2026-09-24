@@ -1,0 +1,19 @@
+{
+  "id": "03604fd0-5ee7-4cde-8a81-d1765871d1ed",
+  "date": "2017-11-27",
+  "summary": "LCSAR responded to a morning call involving a young child fatality in Larimer County; mechanism and location not stated.",
+  "location": "Larimer County (unspecified)",
+  "county": "Larimer",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Larimer County SAR",
+  "source_urls": "https://www.facebook.com/lcsarinc/posts/pfbid02Y4pm5ibdgE1faNyP2KVAuwbeSHUHwvTYX2hedZKvwXCoZVB85PrREVKBoQZDRE6Bl",
+  "notes": "Source: Larimer County SAR Facebook page. Very sparse; mechanism/location unknown.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3680
+}

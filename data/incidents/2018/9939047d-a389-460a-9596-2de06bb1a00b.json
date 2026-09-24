@@ -1,0 +1,19 @@
+{
+  "id": "9939047d-a389-460a-9596-2de06bb1a00b",
+  "date": "2018-06-26",
+  "summary": "Response to cries for help at Witter Gulch/Hwy 103 (2018-53)",
+  "location": "Witter Gulch/Hwy 103",
+  "county": "Clear Creek",
+  "incident_type": "other",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2019/01/2018-Missions-Website.pdf",
+  "notes": "ART mission 2018-53. Victim count estimated; outcome not stated, presumed rescued-uninjured.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Witter Gulch",
+  "place_type": "gulch",
+  "legacy_id": 529
+}

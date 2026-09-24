@@ -1,0 +1,19 @@
+{
+  "id": "a54e9042-35c7-4c6a-96d8-e5ad62a978f9",
+  "date": "2017-05-12",
+  "summary": "Climber fell before clipping anchor on the Bastille, Eldorado Canyon; severe injuries; RMRG response.",
+  "location": "Eldorado Canyon, Bastille",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain Rescue Group",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201214864|http://www.rockymountainrescue.org/whats-new/2017/5/13/rescue-of-an-injured-rock-climber-eldorado-canyon|https://content.govdelivery.com/accounts/COBOULDER/bulletins/19a49c3",
+  "notes": "run 791 merge: official BCSO govdelivery release for the 2017-05-12 Bastille Crack fall (case 17-2755; 27yo male, anchor pulled on pitch 2, RMRG litter evac; adds skull-fracture/broken-arm-ribs detail + good-Samaritan belayer; medevac cancelled).",
+  "peak": "Eldorado Canyon",
+  "setting": "frontcountry",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 364
+}

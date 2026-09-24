@@ -1,0 +1,19 @@
+{
+  "id": "2d69db9a-a18a-4230-b96d-23bfa035d588",
+  "date": "2012-07-07",
+  "summary": "Injured party on Mt Bierstadt (Alpine mission 12-41)",
+  "location": "Mt Bierstadt",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/category/recent-missions/clear-creek-county/page/160/",
+  "notes": "Alpine Rescue Team Clear Creek County category mission-log archive (Alpine mission 12-41); one-line page alert, outcome detail unstated in post.",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1759
+}

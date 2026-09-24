@@ -1,0 +1,19 @@
+{
+  "id": "15bd57d6-beda-4a8f-9996-6cd230f486da",
+  "date": "2020-06-12",
+  "summary": "Injured skier on St Marys Glacier (2020-33)",
+  "location": "St Marys Glacier",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2021/01/2020-Missions-Website.pdf",
+  "notes": "ART mission 2020-33. Cause of injury not stated.",
+  "peak": "James Peak",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 792
+}

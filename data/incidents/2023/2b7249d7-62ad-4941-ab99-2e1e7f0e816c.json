@@ -1,0 +1,19 @@
+{
+  "id": "2b7249d7-62ad-4941-ab99-2e1e7f0e816c",
+  "date": "2023-08-27",
+  "summary": "Young USAFA man drove a GMC Canyon up the Mount Lincoln hiking trail, rear wheel slid off trail in a scree field; driver hiked down to Alma safely; Colorado 4x4 Rescue & Recovery attempted retrieval Aug 30 (8 volunteers, 132 hours, 1,480 miles) but terrain blocked it; tow company Mountain Recovery retrieved the truck Sept 1 with a tracked skid steer; driver cited for driving off designated routes",
+  "location": "Mount Lincoln hiking trail, near Alma",
+  "county": "Park",
+  "incident_type": "vehicle",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Colorado 4x4 Rescue & Recovery (coordinated with USFS, Park County Sheriff's Office)",
+  "source_urls": "https://www.theflume.com/news/article_31533c88-5d4b-11ee-8d15-4784ab72c42c.html",
+  "notes": "Driver uninjured, self-evacuated; vehicle/assist precedent ids 939/3346. Call received Sunday 2023-08-27 (weekday-verified).",
+  "peak": "Mount Lincoln",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3621
+}

@@ -1,0 +1,19 @@
+{
+  "id": "c387871c-2fa5-4809-b98f-2ca423f06ecf",
+  "date": "2020-06-12",
+  "summary": "Homer \"Jan\" Bower, 78, of Dillon, fell from his boat and drowned at Antero Reservoir; a nearby pontoon boat operator went ashore to call 911 instead of rendering aid; Hartsel Fire Department arrived within 15 minutes of the call but too late to save him; Park County Coroner investigated; water temperature below 50F.",
+  "location": "Antero Reservoir",
+  "county": "Park",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Hartsel Fire Protection District (Park County Coroner's Office investigated)",
+  "source_urls": "https://www.theflume.com/free_content/article_0dc00c76-b725-11ea-a169-139f7c82a564.html",
+  "notes": "Date 2020-06-12 (Friday) per Flume article text (\"Tragedy struck June 12\"; article UUID decodes to 2020-06-25). Drowning coded other per convention. Central dedupe: zero Bower tokens; Antero tokens only unrelated Mount Antero rows; Park 2020-05-01..2020-07-15 window holds only unrelated id 3296.",
+  "peak": "Mount Antero",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3407
+}

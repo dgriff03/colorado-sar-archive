@@ -1,0 +1,19 @@
+{
+  "id": "e4b826e1-5539-4790-b8d7-df400c7225de",
+  "date": "2026-07-26",
+  "summary": "Hiker in distress near the Platte River; found and OK.",
+  "location": "Near Platte River",
+  "county": "Douglas",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Douglas County SAR",
+  "source_urls": "https://www.facebook.com/DouglasCountySearchAndRescue/posts/pfbid0mYDvX2dFbVXsxWqJwZMRHwpZTE2QZy7dvXP9xVeyXshoJFpqBzQNjXYWWTYBGTjEl",
+  "notes": "",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "ONE_LINER",
+  "place": "Platte River",
+  "place_type": "river",
+  "legacy_id": 3627
+}

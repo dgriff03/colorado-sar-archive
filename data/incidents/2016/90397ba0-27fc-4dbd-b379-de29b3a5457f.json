@@ -1,0 +1,19 @@
+{
+  "id": "90397ba0-27fc-4dbd-b379-de29b3a5457f",
+  "date": "2016-03-26",
+  "summary": "Injured 34-year-old man, snowboarder near the summit of Loveland Pass",
+  "location": "Loveland Pass",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "",
+  "peak": "Loveland Pass",
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 292
+}

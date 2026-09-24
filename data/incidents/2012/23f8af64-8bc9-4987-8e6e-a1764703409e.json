@@ -1,0 +1,19 @@
+{
+  "id": "23f8af64-8bc9-4987-8e6e-a1764703409e",
+  "date": "2012-10-21",
+  "summary": "Search for overdue hunters in the Camp Rock area (Alpine mission 12-107)",
+  "location": "Camp Rock",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/category/recent-missions/clear-creek-county/page/154/",
+  "notes": "Alpine Rescue Team Clear Creek County category mission-log archive (Alpine mission 12-107); one-line page alert, outcome detail unstated in post.; plural in post, exact count unstated",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Camp Rock",
+  "place_type": "climbing_area",
+  "legacy_id": 1799
+}

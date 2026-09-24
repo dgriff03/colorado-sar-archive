@@ -1,0 +1,19 @@
+{
+  "id": "cd1ae793-127b-43e1-ad46-e8a708ce1c1a",
+  "date": "2014-12-04",
+  "summary": "21-year-old fell 25 ft onto solid rock while scrambling near Pilot Peak; Flight for Life nurse hiked in, then a Buckley AFB Blackhawk hoisted the litter patient and he was flown to Penrose Hospital",
+  "location": "Pilot Peak near Lake George",
+  "county": "Park",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Park County SAR + Lake George Fire, Ute Pass Ambulance, Flight for Life, Buckley AFB Blackhawk",
+  "source_urls": "https://www.theflume.com/free_content/article_d089579a-824b-11e4-b659-232a30ae859b.html",
+  "notes": "approx; Thursday Dec 4 (2014); elbow/hip/rib injuries; full recovery expected",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Pilot Peak",
+  "place_type": "peak",
+  "legacy_id": 225
+}

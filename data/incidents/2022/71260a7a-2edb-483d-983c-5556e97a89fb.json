@@ -1,0 +1,19 @@
+{
+  "id": "71260a7a-2edb-483d-983c-5556e97a89fb",
+  "date": "2022-05-21",
+  "summary": "Backcountry skier fell ~2 miles up the Cathedral Lake Trail southwest of Aspen, critically injured and unresponsive; Mountain Rescue Aspen ground teams plus a HAATS helicopter responded, hoisting the skier ~3:00 p.m. to Aspen-Pitkin County Airport, then Aspen Ambulance to Aspen Valley Hospital.",
+  "location": "Cathedral Lake Trail (~2 miles up), southwest of Aspen",
+  "county": "Pitkin",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Mountain Rescue Aspen / Pitkin County Sheriff's Office (HAATS, Aspen Ambulance assisted)",
+  "source_urls": "https://dailycoloradonews.com/unresponsive-backcountry-skier-critically-injured-in-fall-rescued-by-helicopter/",
+  "notes": "Content-farm reprint of the Pitkin County Sheriff's Office press release (machine-translated); incident details consistent across three site pages quoting the same release. 2022-05-21 = Saturday.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Cathedral Lake Trail",
+  "place_type": "trail",
+  "legacy_id": 3206
+}

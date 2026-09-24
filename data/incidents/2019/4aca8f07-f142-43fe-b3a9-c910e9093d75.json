@@ -1,0 +1,19 @@
+{
+  "id": "4aca8f07-f142-43fe-b3a9-c910e9093d75",
+  "date": "2019-06-28",
+  "summary": "Tayler Esslinger, 26, an Eagle County Sheriff's detention deputy and Gypsum volunteer firefighter, went missing in the early hours of June 25, 2019 after heading into the mountains; a major multi-day ground and air search led by the Eagle County Sheriff's Office located his black Dodge pickup by air on the morning of June 28, and he was found deceased inside it in a rural part of Garfield County.",
+  "location": "Rural Garfield County",
+  "county": "Garfield",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Eagle County Sheriff's Office; Colorado National Guard HAATS; Colorado Division of Fire Prevention and Control; community volunteers",
+  "source_urls": "https://www.firerescue1.com/fallen-firefighters/articles/colo-firefighter-found-dead-inside-truck-YCaBDUM8qdJSOwbp/ ; https://www.gofundme.com/f/tayler-esslinger",
+  "notes": "Missing since early hours of Tue 2019-06-25; truck found by air Fri morning 2019-06-28. Major search June 27 involved ~75 community members in ground searches plus helicopters from Colorado Division of Fire Prevention and Control, Multi-Mission Aircraft, and Colorado National Guard HAATS. Cause of death not publicly released; sheriff's office referred public to suicide-prevention resources.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2537
+}

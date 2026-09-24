@@ -1,0 +1,19 @@
+{
+  "id": "00e2d1eb-8ccb-4988-ad2d-b8036a96a6a8",
+  "date": "2014-09-24",
+  "summary": "Injured 21-year-old man, fall victim 2 miles west of Morrison off Hwy 74",
+  "location": "near Morrison (Hwy 74)",
+  "county": "Jefferson",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2015/01/2014-Missions-Website.pdf",
+  "notes": "",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Morrison",
+  "place_type": "town",
+  "legacy_id": 219
+}

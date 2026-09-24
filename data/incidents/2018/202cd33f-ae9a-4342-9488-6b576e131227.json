@@ -1,0 +1,19 @@
+{
+  "id": "202cd33f-ae9a-4342-9488-6b576e131227",
+  "date": "2018-09-13",
+  "summary": "Missing 28 YOM in Red Rocks Park, Jeffco (2018-105)",
+  "location": "Red Rocks Park",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2019/01/2018-Missions-Website.pdf",
+  "notes": "ART mission 2018-105. Outcome not stated in PDF; presumed rescued-uninjured.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Red Rocks Park",
+  "place_type": "park",
+  "legacy_id": 583
+}

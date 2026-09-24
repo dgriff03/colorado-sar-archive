@@ -1,0 +1,19 @@
+{
+  "id": "0a8f7087-5344-40c1-95da-dfa1f01cb623",
+  "date": "2020-08-05",
+  "summary": "55-year-old female hiker from Longmont suffered chest pain near the Arapahoe Pass Trail / Diamond Lake Trail turnoff; litter-carried to the Fourth of July Trailhead and transported to Boulder by AMR after a ~2-hour rescue",
+  "location": "Diamond Lake area, Arapahoe Pass Trail-Diamond Lake Trail turnoff, Indian Peaks Wilderness",
+  "county": "Boulder",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office; Nederland Fire Protection District; Rocky Mountain Rescue Group; American Medical Response; U.S. Forest Service",
+  "source_urls": "https://www.themtnear.com/stories/female-hiker-rescued-from-diamond-lake,6586",
+  "notes": "BCSO case #20-3447; reported 1:31 p.m. via radio relayed by a USFS employee who hiked out to the trailhead",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Arapahoe Pass Trail",
+  "place_type": "trail",
+  "legacy_id": 3230
+}

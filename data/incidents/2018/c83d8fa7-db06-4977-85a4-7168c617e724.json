@@ -1,0 +1,19 @@
+{
+  "id": "c83d8fa7-db06-4977-85a4-7168c617e724",
+  "date": "2018-07-08",
+  "summary": "Evacuated hiker with possible broken ankle on the Barr Trail. Joint rescue with Manitou Springs FD.",
+  "location": "Barr Trail",
+  "county": "El Paso",
+  "incident_type": "injury",
+  "outcome": "evacuated",
+  "victims": 1,
+  "responding_agency": "El Paso County SAR",
+  "source_urls": "https://www.facebook.com/epcsar/posts/pfbid02JqBnnQCt1VE65PSbh3r237BaJAbiMLbG9pJ4j8NndAVprxhPM6nwwpGGYbggzAZAl",
+  "notes": "Source: El Paso County SAR Facebook page.",
+  "peak": "Pikes Peak",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3672
+}

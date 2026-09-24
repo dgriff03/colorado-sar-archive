@@ -1,0 +1,19 @@
+{
+  "id": "ea197d58-89bb-4b21-b35e-affe3aa688db",
+  "date": "2016-05-18",
+  "summary": "Single-engine Cessna P210 crashed in field ~3 mi north of Hwy 96 northeast of Sheridan Lake; pilot John Lee Stubblefield (64) died; passenger (wife) injured; wreckage located after multi-agency air/ground search",
+  "location": "Field ~3 mi north of Hwy 96, northeast of Sheridan Lake",
+  "county": "Kiowa",
+  "incident_type": "injury",
+  "outcome": "fatality",
+  "victims": 2,
+  "responding_agency": "Kiowa County Sheriff's Office; Kiowa Fire Department; Colorado State Patrol; Civil Air Patrol; Colorado Army National Guard",
+  "source_urls": "http://www.coemergency.com/2016/05/news-release-from-kiowa-county-sheriff.html",
+  "notes": "Pilot killed; passenger injured and life-flighted to Colorado Springs. Official sheriff news release.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Hwy 96",
+  "place_type": "road",
+  "legacy_id": 296
+}

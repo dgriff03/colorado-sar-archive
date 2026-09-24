@@ -1,0 +1,19 @@
+{
+  "id": "50c45284-eda2-4767-a4b5-0fdc353435e1",
+  "date": "2015-09-25",
+  "summary": "Climber fell on ledge on Astro Dog, Black Canyon, breaking ankle; self-extracted.",
+  "location": "Black Canyon, Astro Dog",
+  "county": "Montrose",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201213712",
+  "notes": "",
+  "peak": "Black Canyon of the Gunnison",
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 278
+}

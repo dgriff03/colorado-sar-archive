@@ -1,0 +1,19 @@
+{
+  "id": "a39358e1-362c-42de-b6e8-1595853ee7ce",
+  "date": "2019-08-23",
+  "summary": "Woman reported wandering in the Imogene Pass basin after an ATV accident; treated at the scene, packaged into a litter and carried to an awaiting ambulance at Camp Bird Mine.",
+  "location": "Imogene Pass basin",
+  "county": "Ouray",
+  "incident_type": "vehicle",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Ouray Mountain Rescue Team",
+  "source_urls": "https://www.ouraymountainrescue.com/new-page-1-1",
+  "notes": "Team lieutenant responded 2:45 p.m. near the pass summit; ATV and additional personnel followed.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Imogene Pass",
+  "place_type": "pass",
+  "legacy_id": 2186
+}

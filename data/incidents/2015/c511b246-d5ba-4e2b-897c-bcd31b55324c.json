@@ -1,0 +1,19 @@
+{
+  "id": "c511b246-d5ba-4e2b-897c-bcd31b55324c",
+  "date": "2015-07-04",
+  "summary": "Vail Mountain Rescue Group dispatched team members to carry out an injured hiker in the Missouri Lakes backcountry; the hiker was evacuated to an ambulance and all team members were out of the field by 8:30 p.m.",
+  "location": "Missouri Lakes backcountry",
+  "county": "Eagle",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Vail Mountain Rescue Group",
+  "source_urls": "https://vailchamber.org/2015/09/03/julyaugust-vail-mountain-rescue-missions/",
+  "notes": "Vail Daily feed (Edward Stoner) via Vail Chamber Jul/Aug 2015 mission roundup; VMRG dispatched 6 p.m. July 4; injury mechanism unreported in source",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Missouri Lakes",
+  "place_type": "lake",
+  "legacy_id": 2607
+}

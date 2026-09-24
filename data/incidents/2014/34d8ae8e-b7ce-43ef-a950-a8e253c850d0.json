@@ -1,0 +1,19 @@
+{
+  "id": "34d8ae8e-b7ce-43ef-a950-a8e253c850d0",
+  "date": "2014-03-14",
+  "summary": "Injured skier in the Loveland Pass area",
+  "location": "Loveland Pass",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2015/01/2014-Missions-Website.pdf",
+  "notes": "Injury mechanism not specified in the log.",
+  "peak": "Loveland Pass",
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 198
+}

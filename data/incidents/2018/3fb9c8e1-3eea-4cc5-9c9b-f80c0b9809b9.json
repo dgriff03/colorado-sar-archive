@@ -1,0 +1,19 @@
+{
+  "id": "3fb9c8e1-3eea-4cc5-9c9b-f80c0b9809b9",
+  "date": "2018-04-04",
+  "summary": "Four recently retired railroaders from Lincoln, Nebraska, high-centered their Jeep Wrangler in 3-4 ft of snow on a trail west of Idaho Springs around 2pm; after failed self-digs and calls to local authorities, team met at Kum & Go Idaho Springs and reached them at 6:45pm, winched out and led down the mountain after dark",
+  "location": "trail west of Idaho Springs, near Georgetown/Hwy 103 junction",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 4,
+  "responding_agency": "Colorado 4x4 Rescue and Recovery; Clear Creek County Sheriff's Office",
+  "source_urls": "https://www.co4x4rnr.org/20180410_idaho-springs/",
+  "notes": "Client story says \"April 4th, 2018\" explicitly. Four 2WD-era retired railroaders facing a long cold night in the mountains. Sheriff referred them to the volunteer team.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Hwy 103",
+  "place_type": "road",
+  "legacy_id": 2268
+}

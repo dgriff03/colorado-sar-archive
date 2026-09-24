@@ -1,0 +1,19 @@
+{
+  "id": "8de88d64-c3bd-4a94-88b1-72a97bdf8743",
+  "date": "2018-04-29",
+  "summary": "Assist Ouray County SAR with dog team for search of missing 70 YOM (2018-24)",
+  "location": "Ouray County",
+  "county": "Ouray",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team; Ouray County SAR",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2019/01/2018-Missions-Website.pdf|http://sardoc.org/cms/wp-content/uploads/2011/01/2018SARDOCPublicSearchSummaries123118.pdf|http://sardoc.org/cms/wp-content/uploads/2011/01/0718SARDOCPublicSearchSummaries.pdf",
+  "notes": "ART mission 2018-24. Provided dog team; exact location not stated. SARDOC 2018 public mission summaries (parent-opened this run): four SARDOC dog teams searched both sides of FS 402 on 4/29-4/30 for the missing 70s male; no clues found; Ouray Mountain Rescue and the Montrose Posse also searched. Subject remains unlocated.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 502
+}

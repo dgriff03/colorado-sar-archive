@@ -1,0 +1,19 @@
+{
+  "id": "a16267e1-7d5d-472e-b2b8-0d811f3b0e7e",
+  "date": "2024-09-30",
+  "summary": "Hiker attempting the unmarked Hell Roaring Ridge route near Capitol Lake set out Sunday and camped in the area; became cliffed out in the morning, unable to proceed up or down; contacted a friend via Garmin inReach, who alerted rescuers; Mountain Rescue Aspen team established contact and determined the hiker could shelter in place; reached by 12 p.m. Monday using GPS coordinates and local knowledge; uninjured and assisted back to the trailhead.",
+  "location": "Hell Roaring Ridge / Capitol Lake, near Capitol Peak",
+  "county": "Pitkin",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Mountain Rescue Aspen / Pitkin County Sheriff's Office",
+  "source_urls": "https://www.advnture.com/news/another-hiker-rescued-with-garmin-inreach|https://thenextsummit.org/stranded-hiker-rescued-by-sar-on-hell-roaring-ridge-near-capitol-lake/",
+  "notes": "Date pinned: article published ~2024-10-03 with story framing \"the call came in on Monday morning\" after a Sunday set-out → Monday 2024-09-30, weekday-verified. | 2026-09-15 run 617: thenextsummit.org writeup corroborates — MRA located the hiker ~1 mi north of Capitol Lake via GPS ~noon, uninjured, escorted back to Capitol Lake Trailhead by afternoon (URL parent-opened this run).",
+  "peak": "Capitol Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2667
+}

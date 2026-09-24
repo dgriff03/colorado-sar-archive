@@ -1,0 +1,19 @@
+{
+  "id": "e47788c0-2804-4525-bbea-5c05c4f6d49c",
+  "date": "2022-08-27",
+  "summary": "Unidentified man killed in speed-flying canopy crash above Breckenridge; launched from Peak 6 at Breckenridge Ski Resort; reported missing Saturday morning by a friend; found by Summit County Rescue Group with helicopter assistance, canopy entangled with the broken-off top of a tree; name not released",
+  "location": "Peak 6, Breckenridge Ski Resort",
+  "county": "Summit",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Summit County Rescue Group",
+  "source_urls": "https://www.cpr.org/2022/08/28/man-killed-in-colorado-mountains-after-speed-flying-crash/",
+  "notes": "Date approximate: article published 2022-08-28, victim reported missing Saturday morning; crash likely Friday or Saturday - 2022-08-27 used. Speed-flying = canopy descent, recorded as incident_type=other. Run 880.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Breckenridge Ski Resort",
+  "place_type": "ski_area",
+  "legacy_id": 3406
+}

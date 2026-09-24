@@ -1,0 +1,19 @@
+{
+  "id": "61dc41fe-2670-4b5e-b81e-4eba5111d271",
+  "date": "2017-08-20",
+  "summary": "A 28-year-old male climber from Kennesaw, Georgia, took a 15-ft fall onto a ledge ~700 ft up the Petit Grepon climbing route (~12,200 ft), sustaining numerous blunt-force injuries; five unaffiliated climbers lowered him ~600 ft. RMNP SAR reached him at 5 p.m., a park paramedic provided advanced medical care, and the man and rescuers spent the night on a ledge ~20 ft above the talus slope. Monday 6:30 a.m. RMNP SAR with Rocky Mountain Rescue conducted a ~1,000-ft technical rope lower to Sky Pond; he was flown by Flight for Life to Boulder Community Hospital at ~10:15 a.m.",
+  "location": "Petit Grepon",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park Search and Rescue; Rocky Mountain Rescue; Flight for Life",
+  "source_urls": "https://www.nps.gov/romo/learn/news/pr_man_rescued_from_petit_grepon.htm",
+  "notes": "2017-08-20 was a Sunday (weekday-verified); the man was part of a three-climber group.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Rocky Mountain National Park",
+  "place_type": "park",
+  "legacy_id": 2821
+}

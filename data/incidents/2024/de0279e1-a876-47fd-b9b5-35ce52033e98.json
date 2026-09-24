@@ -1,0 +1,19 @@
+{
+  "id": "de0279e1-a876-47fd-b9b5-35ce52033e98",
+  "date": "2024-10-01",
+  "summary": "Solo male hiker fell while hiking on La Plata Peak, sustaining severe injuries and unable to hike down; Chaffee County Sheriff's Deputy Donnie Smith (ex-CCSAR North volunteer) helicoptered to the summit area late at night, stabilized the man and stayed overnight with him in freezing temperatures above 13,000 ft until he was airlifted at daybreak, which saved his life.",
+  "location": "La Plata Peak",
+  "county": "Chaffee",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Chaffee County Sheriff's Office / Chaffee County Search and Rescue (North); helicopter",
+  "source_urls": "https://www.justice.gov/usao-co/pr/chaffee-county-sheriffs-deputy-honored-united-states-attorney-district-colorado|https://heartoftherockiesradio.com/chaffee-county-sheriff-recognizes-multiple-deputies-with-professional-honors/",
+  "notes": "Date approximate: October 2024; listed as first of month. Source is the DOJ 'Hometown Hero' press release (Deputy Donnie Smith honored) which dates the rescue to 'In October 2024, late at night'. Run 794: merged HotRR corroborating URL.",
+  "peak": "La Plata Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3227
+}

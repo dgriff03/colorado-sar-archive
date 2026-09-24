@@ -1,0 +1,19 @@
+{
+  "id": "c7f17721-a975-4264-935f-b0ad9519a7db",
+  "date": "2016-04-09",
+  "summary": "Missing 11-year-old male in the Richmond Hill area off Highway 285",
+  "location": "Richmond Hill (off Hwy 285)",
+  "county": "",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-25. County ambiguous in one-liner; left blank",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Richmond Hill",
+  "place_type": "other",
+  "legacy_id": 2057
+}

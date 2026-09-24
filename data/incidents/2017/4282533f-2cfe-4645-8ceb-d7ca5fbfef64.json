@@ -1,0 +1,19 @@
+{
+  "id": "4282533f-2cfe-4645-8ceb-d7ca5fbfef64",
+  "date": "2017-08-11",
+  "summary": "Steve Elliott, 60, of Rockwell, Texas became overdue on a solo Longs Peak ascent via Clark's Arrow and the Loft Route in stormy weather with icy routes; reported overdue Saturday morning August 12 and found at 1:15 PM at the base of Clark's Arrow with hypothermia and exposure-related injuries.",
+  "location": "Base of Clark's Arrow, Longs Peak, Rocky Mountain National Park",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park Search and Rescue; Flight for Life; Northern Colorado Medivac",
+  "source_urls": "https://snowbrains.com/missing-hiker-found-rocky-mountain-national-park/|https://www.nps.gov/romo/learn/news/pr_search_in_longs_peak_area.htm",
+  "notes": "NPS release dated 2017-08-12 says Elliott began the ascent Friday 2017-08-11; row date is the incident-start date. Name widely published.",
+  "peak": "Longs Peak",
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2706
+}

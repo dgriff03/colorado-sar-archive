@@ -1,0 +1,19 @@
+{
+  "id": "63ae913c-7433-4cfe-bb08-ee369b6e3e98",
+  "date": "2016-07-23",
+  "summary": "Leader fell on Potholes, Garden of the Gods, with rope behind leg; dislocated ankle; ambulance response.",
+  "location": "Garden of the Gods, Potholes",
+  "county": "El Paso",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Ambulance",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201214374",
+  "notes": "",
+  "peak": "Garden of the Gods",
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 315
+}

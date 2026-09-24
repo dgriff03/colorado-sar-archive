@@ -1,0 +1,19 @@
+{
+  "id": "2c695b16-1bf1-454b-9428-f46c8cc003c2",
+  "date": "2017-07-24",
+  "summary": "Hiker collapsed on Mt Bierstadt trail (2017-73)",
+  "location": "Mt Bierstadt trail",
+  "county": "Clear Creek",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2018/01/2017-Missions-Website.pdf",
+  "notes": "ART mission 2017-73.",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 413
+}

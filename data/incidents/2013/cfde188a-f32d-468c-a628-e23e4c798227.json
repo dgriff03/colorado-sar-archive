@@ -1,0 +1,19 @@
+{
+  "id": "cfde188a-f32d-468c-a628-e23e4c798227",
+  "date": "2013-03-17",
+  "summary": "Climber fell approximately 30 feet in Eldorado Canyon, sustaining minor injuries; multi-agency response.",
+  "location": "Eldorado Canyon",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff, Rocky Mountain Rescue Group, Rocky Mountain Fire",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201213022",
+  "notes": "",
+  "peak": "Eldorado Canyon",
+  "setting": "frontcountry",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 177
+}

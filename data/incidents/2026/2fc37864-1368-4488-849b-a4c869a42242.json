@@ -1,0 +1,19 @@
+{
+  "id": "2fc37864-1368-4488-849b-a4c869a42242",
+  "date": "2026-06-27",
+  "summary": "Largest mass evacuation in Mesa County SAR history: ~120 boaters plus six dogs evacuated overnight from the Colorado River between the Loma Boat Launch and Westwater, Utah, as the Snyder Fire burned toward the Ruby-Horsethief section; 11-hour operation launched ~4:30 p.m. Saturday after a separated rafting group was reported; jet-boat scouting, Union Pacific hi-rail rail vehicles and BLM ranger fire overwatch used after the river proved too shallow for rescue boats; no injuries among evacuees.",
+  "location": "Colorado River, Ruby-Horsethief section (Loma Boat Launch to Westwater UT)",
+  "county": "Mesa",
+  "incident_type": "injury",
+  "outcome": "rescued-uninjured",
+  "victims": 120,
+  "responding_agency": "Mesa County Search and Rescue; Mesa County Sheriff Office; Union Pacific Emergency Operations Center; BLM rangers; Grand Valley Transit Authority",
+  "source_urls": "https://www.cpr.org/2026/06/29/mesa-county-boater-rescue/|https://www.usatoday.com/story/news/nation/2026/06/29/western-wildfires-colorado-river-rafters-evacuated/90736672007/|https://gray-kjct-prod.cdn.arcpublishing.com/2026/06/28/video-more-than-100-campers-evacuated-near-mack-due-expanding-snyder-fire/",
+  "notes": "MCSO reported 123 people evacuated; CPR reported 120 boaters, six dogs and one cat. Three wildland firefighters were killed in the broader Snyder Fire complex (Knowles Fire portion) — separate incident, not SAR subjects.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Colorado River",
+  "place_type": "river",
+  "legacy_id": 2535
+}

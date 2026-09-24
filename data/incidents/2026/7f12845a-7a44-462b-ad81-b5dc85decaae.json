@@ -1,0 +1,19 @@
+{
+  "id": "7f12845a-7a44-462b-ad81-b5dc85decaae",
+  "date": "2026-07-11",
+  "summary": "Assist to Douglas County SAR with a carryout of an unresponsive hiker in the Waterton Canyon area",
+  "location": "Waterton Canyon",
+  "county": "Douglas",
+  "incident_type": "medical",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Douglas County SAR + Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/2026-076-assist-to-douglas-county-sar-with-a-carryout-of-a-unresponsive-hiker-in-the-waterton-canyon-area/",
+  "notes": "Alpine assist log; condition and outcome not stated",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Waterton Canyon",
+  "place_type": "canyon",
+  "legacy_id": 1719
+}

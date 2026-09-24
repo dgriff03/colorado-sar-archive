@@ -1,0 +1,19 @@
+{
+  "id": "3177e64c-b95d-422e-86d9-9468418e489d",
+  "date": "2010-11-22",
+  "summary": "Wolf Creek Ski Area ski patrol supervisor killed in in-bounds avalanche",
+  "location": "Wolf Creek Ski Area",
+  "county": "Mineral",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Wolf Creek Ski Patrol",
+  "source_urls": "https://www.laketahoenews.net/2010/11/avalanche-kills-ski-patrol-director-in-colorado/|https://www.powder.com/news/wolf-creek-fatality",
+  "notes": " Merge run-577: corroborating powder.com report of the 2010-11-22 Glory Hole avalanche that killed ski patrol director Scott Kay (Mineral County SAR / coroner response; CAIC workplace-accident investigation).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Wolf Creek Ski Area",
+  "place_type": "ski_area",
+  "legacy_id": 118
+}

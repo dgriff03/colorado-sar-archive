@@ -1,0 +1,19 @@
+{
+  "id": "f685ac79-bfd6-4fbb-b93e-625a5d973195",
+  "date": "2026-08-19",
+  "summary": "Missing endangered subject in Highlands Ranch; second of two nearly simultaneous overnight activations; positive outcome.",
+  "location": "Highlands Ranch",
+  "county": "Douglas",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Douglas County SAR; Douglas County Sheriff's Office",
+  "source_urls": "https://www.facebook.com/DouglasCountySearchAndRescue/posts/pfbid02ZX2PnjrmcUfeTSd5JpJxuqM19cE6wfSUrWQQriJEtU9brG826QZf1EabqBReEveql",
+  "notes": "Date approximate: mission ran overnight Aug 19-20, 2026; listed as Aug 19.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Highlands Ranch",
+  "place_type": "town",
+  "legacy_id": 3624
+}

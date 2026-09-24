@@ -1,0 +1,19 @@
+{
+  "id": "0e657a00-d284-4089-9baf-9d008eb274bc",
+  "date": "2013-01-13",
+  "summary": "Skier killed in avalanche near Marble",
+  "location": "near Marble",
+  "county": "Gunnison",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Crested Butte Search and Rescue + Western State Colorado University SAR + Gunnison County Sheriff",
+  "source_urls": "https://avalanche-center.org/Incidents/2012-13/|https://crestedbuttenews.com/2013/01/summit-county-skier-caught-in-avalanche/|https://www.kvnf.org/news/2013-01-15/avalanche-takes-second-life-this-season|https://unofficialnetworks.com/2013/01/14/avalanche-death-2013/|https://www.cpr.org/2013/01/15/second-avalanche-related-death-in-as-many-weeks/",
+  "notes": "Reported in avalanche-center 2012-13 season index; name not in opened source MERGE 2026-09-11 (run 34): Crested Butte News detail — James Lindenblatt, 37, Summit County, skiing with three friends in Raspberry Creek drainage, Raggeds Wilderness; fourth skier triggered a soft slab on a steep westerly aspect of Marble Peak Ridge Sunday afternoon and was buried/killed; companions located and dug him out but he was deceased; 8 Crested Butte SAR + 4 Western State Colorado University SAR assessed with CAIC forecasters; unstable conditions forced a Monday helicopter body recovery arranged by the Gunnison County Sheriff. [merge run-605: KVNF page corroborates same incident] Run-927 merge: CPR/AP-wire report (parent-opened, same Aspen Public Radio wire as KVNF story) — adds Gunnison County Undersheriff Randy Barnes detail: recovery of Lindenblatt's body \"extreme and dangerous,\" three to four ridges south and west of Marble.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Raspberry Creek",
+  "place_type": "creek",
+  "legacy_id": 174
+}

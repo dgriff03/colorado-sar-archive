@@ -1,0 +1,19 @@
+{
+  "id": "400b23db-22d7-4786-8a48-96616adb63ad",
+  "date": "2016-07-31",
+  "summary": "Injured mountain biker in the Deer Creek Canyon area",
+  "location": "Deer Creek Canyon",
+  "county": "Jefferson",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-85.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Deer Creek Canyon",
+  "place_type": "canyon",
+  "legacy_id": 2102
+}

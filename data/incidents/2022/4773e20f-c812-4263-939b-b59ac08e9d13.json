@@ -1,0 +1,19 @@
+{
+  "id": "4773e20f-c812-4263-939b-b59ac08e9d13",
+  "date": "2022-07-17",
+  "summary": "A Cessna P337 crashed near the 10000 block of Lefthand Canyon Drive and was destroyed, sparking the Spring Gulch Fire (~0.5 acre in heavy timber, contained with brush-truck lines and helicopter water drops); an evacuation warning was issued for areas near Gold Hill and Ward. Four occupants were killed.",
+  "location": "Lefthand Canyon Drive",
+  "county": "Boulder",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 4,
+  "responding_agency": "Boulder County Sheriff's Office; Boulder County Coroner's Office; Rocky Mountain Rescue Group; Gold Hill Fire Protection District; Indian Peaks Fire Protection District; Lefthand Fire Protection District; Boulder Mountain Fire Protection District; Boulder Emergency Squad; U.S. Forest Service; American Medical Response; Colorado Division of Fire Prevention and Control; NTSB; FAA",
+  "source_urls": "http://themtnear.com/stories/plane-crash-caused-small-fire-in-lefthand-canyon,9312",
+  "notes": "BCSO case #22-03376. 2022-07-17 was a Sunday, weekday-verified. NTSB/FAA investigation.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Lefthand Canyon Drive",
+  "place_type": "road",
+  "legacy_id": 2760
+}

@@ -1,0 +1,19 @@
+{
+  "id": "9f64b881-7e4b-4934-9643-14b574133560",
+  "date": "2013-09-17",
+  "summary": "Two women waving red scarves were spotted outside Jamestown from a Colorado Army National Guard Blackhawk during a flood search on Tuesday, September 17, 2013; Staff Sgt. Jose Pantoja was lowered by winch and hoisted both women into the helicopter, which then dropped them at the Boulder airport",
+  "location": "outside Jamestown",
+  "county": "Boulder",
+  "incident_type": "other",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Colorado Army National Guard",
+  "source_urls": "https://weather.com/news/news/colorado-flooding-update-rescues-continue-20130916",
+  "notes": "Date inferred: the Weather.com report describes 'Tuesday' searches; 2013-09-17 was the Tuesday in question (article updated 2013-09-17/18); spotter Sgt. 1st Class Keith Bart; September 2013 Front Range flood",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Jamestown",
+  "place_type": "town",
+  "legacy_id": 2301
+}

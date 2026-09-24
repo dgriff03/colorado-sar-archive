@@ -1,0 +1,19 @@
+{
+  "id": "bed82321-4d7b-489f-b55a-c2afb23125af",
+  "date": "2016-01-11",
+  "summary": "Two missing climbers in the Cathedral Spires area near Pine",
+  "location": "Cathedral Spires (near Pine)",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-01.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Cathedral Spires",
+  "place_type": "climbing_area",
+  "legacy_id": 2044
+}

@@ -1,0 +1,19 @@
+{
+  "id": "73f199e6-a38b-4675-9776-8a7516f27921",
+  "date": "2017-06-24",
+  "summary": "A 15-year-old girl fell into the St. Vrain River in the Wild Basin area and was carried about 50 yards downstream, over an eight-foot waterfall and through rapids, before bystanders and family pulled her out ahead of rangers. She suffered leg injuries and was carried on a wheeled litter to the Wild Basin trailhead, then taken by ambulance to Estes Park Medical Center.",
+  "location": "St. Vrain River, Wild Basin area",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "RMNP rangers",
+  "source_urls": "http://npshistory.com/morningreport/incidents/romo.htm|https://www.nps.gov/romo/learn/news/pr_multiple_incidents_including_highline_rescue-_today.htm",
+  "notes": "NPS morning-report compendium entry (npshistory.com romo.htm), parent-opened and verified at run 580.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "St. Vrain River",
+  "place_type": "river",
+  "legacy_id": 2993
+}

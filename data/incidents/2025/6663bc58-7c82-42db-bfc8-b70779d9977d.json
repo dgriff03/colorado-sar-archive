@@ -1,0 +1,19 @@
+{
+  "id": "6663bc58-7c82-42db-bfc8-b70779d9977d",
+  "date": "2025-07-17",
+  "summary": "Search for a missing 28-year-old woman in the Lookout Mountain area (Days 1-2)",
+  "location": "Lookout Mountain",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf",
+  "notes": "Final outcome not stated in log; ART missions 2025-071, 2025-072 merged.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Lookout Mountain",
+  "place_type": "peak",
+  "legacy_id": 1615
+}

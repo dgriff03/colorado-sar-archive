@@ -1,0 +1,19 @@
+{
+  "id": "38e4d13a-e881-459d-8af1-6e6f783d559e",
+  "date": "2016-08-01",
+  "summary": "18-year-old woman injured after jumping into the lake in the St. Mary's Glacier area",
+  "location": "St. Mary's Glacier lake",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "",
+  "peak": "James Peak",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 319
+}

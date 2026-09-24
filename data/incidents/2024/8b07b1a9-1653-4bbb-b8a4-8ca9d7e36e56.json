@@ -1,0 +1,19 @@
+{
+  "id": "8b07b1a9-1653-4bbb-b8a4-8ca9d7e36e56",
+  "date": "2024-05-04",
+  "summary": "Injured 39-year-old female snowboarder on James Peak",
+  "location": "James Peak",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "Injury mechanism not stated in log; county unverified; ART mission 2024-033.",
+  "peak": "James Peak",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1356
+}

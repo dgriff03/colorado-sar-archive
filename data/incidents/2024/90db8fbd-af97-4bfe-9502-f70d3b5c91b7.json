@@ -1,0 +1,19 @@
+{
+  "id": "90db8fbd-af97-4bfe-9502-f70d3b5c91b7",
+  "date": "2024-08-31",
+  "summary": "Assist to Rocky Mountain National Park (State SAR Coordinator) for an injured 20-year-old man in the Red Mountain area",
+  "location": "Red Mountain",
+  "county": "",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Rocky Mountain National Park",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "County unverified; injury mechanism not stated in log; ART mission 2024-120.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Red Mountain",
+  "place_type": "peak",
+  "legacy_id": 1465
+}

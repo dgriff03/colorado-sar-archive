@@ -1,0 +1,19 @@
+{
+  "id": "b48da2ab-a285-4935-9778-190d9037cc9e",
+  "date": "2022-06-29",
+  "summary": "Sidhant Mahat, 26, an Ohio visitor staying in Gunnison, rode the Silver Queen chairlift up Mount Crested Butte alone on the afternoon of June 29 and fell from the cliffs on the front side of the mountain as a lightning storm rolled in; reported overdue at 12:30 a.m. June 30; a helicopter located his body below the cliffs above Lake Grant at ~1:05 p.m. June 30; ground team lowered him with ropes to the road above Lake Grant",
+  "location": "front-side cliffs of Mount Crested Butte, above Lake Grant",
+  "county": "Gunnison",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Crested Butte Search and Rescue; CareFlight 3 (Rifle)",
+  "source_urls": "https://crestedbuttenews.com/2022/07/inexperienced-hiker-dies-after-fall-from-mount-crested-butte-cliffs/",
+  "notes": "15 CBSAR members plus a drone in the search; coroner: death from traumatic injuries of the fall.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Crested Butte Mountain Resort",
+  "place_type": "ski_area",
+  "legacy_id": 2274
+}

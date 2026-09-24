@@ -1,0 +1,19 @@
+{
+  "id": "ed67d7e7-1b07-4b43-af3b-0c9717e06b82",
+  "date": "2025-10-08",
+  "summary": "Female party who fell down a cliff on Lookout Mountain",
+  "location": "Lookout Mountain",
+  "county": "Jefferson",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf",
+  "notes": "ART mission 2025-128.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": "Lookout Mountain",
+  "place_type": "peak",
+  "legacy_id": 1673
+}

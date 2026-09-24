@@ -1,0 +1,19 @@
+{
+  "id": "e9719f0a-7757-45c3-a892-c2c97c961fa2",
+  "date": "2014-01-07",
+  "summary": "74-year-old Fort Collins man suffered a cardiac emergency while snowshoeing near Mills Lake; his friends contacted park rangers by cell phone and began CPR but were unable to revive him; he was pronounced dead around 1 p.m.; park staff assisted by Larimer County Search and Rescue recovered his body and transferred it to the Larimer County Coroner.",
+  "location": "Mills Lake, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "medical",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "NPS Rocky Mountain National Park rangers; Larimer County Search and Rescue",
+  "source_urls": "http://npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "NPS morning-report compendium entry dated 2014-01-09 (Tuesday-verified).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Mills Lake",
+  "place_type": "lake",
+  "legacy_id": 2811
+}

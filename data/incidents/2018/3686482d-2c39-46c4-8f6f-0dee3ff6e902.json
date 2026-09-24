@@ -1,0 +1,19 @@
+{
+  "id": "3686482d-2c39-46c4-8f6f-0dee3ff6e902",
+  "date": "2018-08-09",
+  "summary": "AVSAR responded to an injured male hiker in the Hourglass couloir; his party of four was at the top of the Hourglass above the fixed ropes (~13,770 ft); AVSAR inserted teams by helicopter and 4x4, set a haul system to lower the subject and his party to the bottom of the Hourglass; all off the mountain by 20:22; the injured male refused all medical treatment from Alamosa EMS.",
+  "location": "Hourglass couloir, Little Bear Peak",
+  "county": "Alamosa",
+  "incident_type": "injury",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alamosa Volunteer SAR; REACH Air Medical",
+  "source_urls": "https://www.avsar.us/missions-from-2018/",
+  "notes": "From the AVSAR 2018 mission log; mechanism of injury unspecified in the log; patient-refusal, no transport.",
+  "peak": "Little Bear Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2956
+}

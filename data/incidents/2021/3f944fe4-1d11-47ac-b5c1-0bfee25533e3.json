@@ -1,0 +1,19 @@
+{
+  "id": "3f944fe4-1d11-47ac-b5c1-0bfee25533e3",
+  "date": "2021-06-02",
+  "summary": "Hiker in need of assistance at ~12,000 ft on the Little Horn Peak ridgeline; self-extracted while SAR monitored and fielded a team",
+  "location": "Little Horn Peak ridgeline",
+  "county": "Custer",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Custer County SAR",
+  "source_urls": "https://custersar.org/little-horn-peak-ridgeline-2021-01/",
+  "notes": "Self-extracted; SAR team fielded to ensure safe exit",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Little Horn Peak",
+  "place_type": "peak",
+  "legacy_id": 953
+}

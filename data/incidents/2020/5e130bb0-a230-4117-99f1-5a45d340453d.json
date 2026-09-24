@@ -1,0 +1,19 @@
+{
+  "id": "5e130bb0-a230-4117-99f1-5a45d340453d",
+  "date": "2020-07-27",
+  "summary": "Third-hand 911 report of an injured climber who took a serious fall in the Lower Lost Man / Turkey Rock boulderfield along Hwy 82. MRA and Pitkin County Sheriff deployed but found no one in distress; the caller located the climber, who admitted falling but reported 0/0 pain and declined aid. Companion admitted blowing the report out of proportion.",
+  "location": "Lower Lost Man / Turkey Rock area along State Highway 82",
+  "county": "Pitkin",
+  "incident_type": "fall",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Mountain Rescue Aspen",
+  "source_urls": "https://www.facebook.com/mountainrescueaspen/posts/pfbid0V8M5gsSJQUxLXvir5DLMk3VB3rEcLVK3bixK9Mzzbcnx3emJo7Ci7AKsnWVfSGbAl",
+  "notes": "False/third-hand report; indexed per unfounded-report precedent (id 2565, outcome=assist). Likely unfounded report (subject declined aid; companion admitted exaggeration); cf. id 2565 precedent for unfounded reports.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "State Highway 82",
+  "place_type": "road",
+  "legacy_id": 3489
+}

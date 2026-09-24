@@ -1,0 +1,19 @@
+{
+  "id": "c4202e58-a16b-46ae-888b-35c95af9aae1",
+  "date": "2015-01-08",
+  "summary": "Skier from Vail Mountain reported lost in the Lime Creek drainage at 5:30 p.m.; Vail Mountain Rescue Group dispatched five snowmobilers who found the skier unharmed",
+  "location": "Lime Creek drainage",
+  "county": "Eagle",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Vail Mountain Rescue Group",
+  "source_urls": "https://vailchamber.org/2015/04/07/vail-mountain-rescue-missions-in-january-february-and-march/",
+  "notes": "From the Vail Chamber/Vail Daily (Edward Stoner) roundup of VMRG Jan-Mar 2015 missions; page opened 2026-09-13.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Lime Creek",
+  "place_type": "creek",
+  "legacy_id": 2654
+}

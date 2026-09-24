@@ -1,0 +1,19 @@
+{
+  "id": "c46dfb74-303d-4f93-b2d0-31383c4fe96f",
+  "date": "2013-07-25",
+  "summary": "23-year-old woman took a 20-foot fall on the lower section of the White Whale route on The Left Book formation, Lumpy Ridge, seriously injuring her lower leg; rangers climbed to her location, provided advanced life support, and lowered her to the base of the route, then evacuated her by belayed low-angle litter lowering and wheeled litter to a ground ambulance at Black Canyon meadow; thunderstorms with rain and lightning precluded helicopter use.",
+  "location": "The Left Book formation, White Whale route, Lumpy Ridge, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "NPS Rocky Mountain National Park rangers",
+  "source_urls": "http://npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "NPS morning-report compendium entry dated 2013-08-01 (Thursday-verified); one of three simultaneous 2013-07-25 incidents.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Lumpy Ridge",
+  "place_type": "climbing_area",
+  "legacy_id": 2806
+}

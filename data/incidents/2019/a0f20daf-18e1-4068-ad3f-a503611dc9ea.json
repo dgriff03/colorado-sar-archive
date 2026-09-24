@@ -1,0 +1,19 @@
+{
+  "id": "a0f20daf-18e1-4068-ad3f-a503611dc9ea",
+  "date": "2019-06-21",
+  "summary": "Father and two teenage boys slid their Jeep off the Barbour Fork trail in the rain; wet and cold with no shelter since the Jeep was too precarious to shelter in, and the father's winch controller and survival bag had recently been stolen; Colorado 4x4 Rescue & Recovery volunteers responded, provided shelter and warmth, and recovered the Jeep back onto the trail.",
+  "location": "Barbour Fork trail",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 3,
+  "responding_agency": "Colorado 4x4 Rescue & Recovery",
+  "source_urls": "https://www.co4x4rnr.org/20190621_barbour-fork/",
+  "notes": "Date = the mission-report date (Friday 2019-06-21); incident occurred that day or shortly before. County per DB convention for the Barbour Forks area (Alpine one-liners).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Barbour Fork Trail",
+  "place_type": "trail",
+  "legacy_id": 2427
+}

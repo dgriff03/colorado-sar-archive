@@ -1,0 +1,19 @@
+{
+  "id": "2bfa16bc-8b0d-417b-b4c7-a32897c2c10c",
+  "date": "2026-08-04",
+  "summary": "Hiker with a medical issue and difficulty walking on the East Snowmass Creek Trail ~3 miles from the trailhead; MRA made contact ~2.35 miles in; subject walked with assistance, transferred to ATV, then to ambulance for Aspen Valley Health.",
+  "location": "East Snowmass Creek Trail, ~2.35 miles from trailhead",
+  "county": "Pitkin",
+  "incident_type": "medical",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Mountain Rescue Aspen",
+  "source_urls": "https://www.facebook.com/mountainrescueaspen/posts/pfbid02VRVR1m7TD8U54SyxPq3aULXDbDg9R2jaHnw1cpRXBkhT8MQL4rpU6Gz2nhHf4osGl",
+  "notes": "",
+  "peak": "Snowmass Mountain",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3436
+}

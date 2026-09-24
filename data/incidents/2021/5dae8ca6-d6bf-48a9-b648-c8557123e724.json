@@ -1,0 +1,19 @@
+{
+  "id": "5dae8ca6-d6bf-48a9-b648-c8557123e724",
+  "date": "2021-06-19",
+  "summary": "Climber fell several hundred feet from the summit ridge down the near-vertical east face of Pico Aislado; fatal",
+  "location": "Pico Aislado, Sangre de Cristos southeast of Crestone",
+  "county": "Saguache",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Saguache County SAR + Alamosa Volunteer SAR + others",
+  "source_urls": "https://www.avsar.us/06-19-20-saguache-county-mutual-aid-in-pico-aislado/",
+  "notes": "Body recovered June 21 by Alpine Rescue Team and Saguache SAR via helicopter",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Pico Aislado",
+  "place_type": "peak",
+  "legacy_id": 966
+}

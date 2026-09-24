@@ -1,0 +1,19 @@
+{
+  "id": "a405f6ce-8e33-4502-b7c7-3cf324a5c0bb",
+  "date": "2020-10-01",
+  "summary": "Routt County Search and Rescue tended to an injured bicyclist on the Flash of Gold trail on Buffalo Pass; the rescued man emailed the team the following Tuesday to thank the volunteers.",
+  "location": "Flash of Gold trail, Buffalo Pass",
+  "county": "Routt",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Routt County Search and Rescue",
+  "source_urls": "http://www.kathrynsreport.com/2020/10/quicksilver-sport-n2942a-fatal-accident.html",
+  "notes": "DATE PINNED: the Steamboat Pilot & Today obituary of RCSAR volunteer Mike Schlichtman (killed 2020-10-06 in an Indiana ultralight crash), quoted in full on this page, says he 'went out with the team on its most recent rescue mission Oct. 1' tending to the injured bicyclist; the rescued man's thank-you email went out 'Tuesday' (2020-10-06). 2020-10-01 was a Thursday (America/Denver). THINLY DOCUMENTED: single-sentence mention — merge a fuller source if one surfaces. Typing follows id 1285 (2023-09-18 Flash of Gold injured mountain biker: other/injury). Distinct from id 1285 and the 2024-10-03 Far Routt biker mission.",
+  "peak": "Buffalo Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2554
+}

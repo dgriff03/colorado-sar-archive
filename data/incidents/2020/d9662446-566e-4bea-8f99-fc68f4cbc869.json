@@ -1,0 +1,19 @@
+{
+  "id": "d9662446-566e-4bea-8f99-fc68f4cbc869",
+  "date": "2020-01-19",
+  "summary": "Backcountry climber caught, carried, and injured in an avalanche above Emerald Lake in Rocky Mountain National Park.",
+  "location": "Emerald Lake, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "avalanche",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "http://classic.avalanche.state.co.us/caic/acc/acc_co.php",
+  "notes": "CAIC classic 2019-20 season table row: \"Above Emerald Lake, Rocky Mountain National Park,\" 1 climber caught, carried, and injured. Emerald Lake is on the east (Bear Lake corridor) side of RMNP = Larimer County.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Emerald Lake",
+  "place_type": "lake",
+  "legacy_id": 2540
+}

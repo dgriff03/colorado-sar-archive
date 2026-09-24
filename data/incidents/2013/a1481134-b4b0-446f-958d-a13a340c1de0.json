@@ -1,0 +1,19 @@
+{
+  "id": "a1481134-b4b0-446f-958d-a13a340c1de0",
+  "date": "2013-08-18",
+  "summary": "Search for a 21-year-old woman missing since the previous afternoon near Mosca Pass in Great Sand Dunes National Park; last cell-phone contact near Mosca Pass suggested she was becoming disoriented. AVSAR assisted NPS and was requested for the Huerfano County side; she was located uninjured in Huerfano County by a Huerfano County firefighter and walked back to her car.",
+  "location": "Mosca Pass area, Great Sand Dunes National Park",
+  "county": "Huerfano",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alamosa Volunteer SAR (assist to National Park Service)",
+  "source_urls": "https://avsar.us/missions-from-2008-2015/",
+  "notes": "Subject from Minnesota; had seen a mountain lion and lost the trail trying to distance herself.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Mosca Pass",
+  "place_type": "pass",
+  "legacy_id": 2517
+}

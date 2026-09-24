@@ -1,0 +1,19 @@
+{
+  "id": "6cda3528-d70e-4bac-8403-4a9a4b8ac57b",
+  "date": "2017-09-15",
+  "summary": "60-year-old male hunter became ill at Behler Creek off Strawberry Creek Road after bagging an elk, before reaching his vehicle; another hunting party assisted and called 911; SAR led evacuation with MMRT/GCEMS to ambulance.",
+  "location": "Behler Creek, off Strawberry Creek Road",
+  "county": "Grand",
+  "incident_type": "medical",
+  "outcome": "evacuated",
+  "victims": 1,
+  "responding_agency": "Grand County SAR",
+  "source_urls": "https://www.facebook.com/GCSAR/posts/pfbid029MCpymMrjnj2jGwJXxtSaH46Hux88thKy1q5vyZMpPH25R5rBPPBPEK7W4HkxMMKl",
+  "notes": "Source: Grand County SAR Facebook page.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Behler Creek",
+  "place_type": "creek",
+  "legacy_id": 3651
+}

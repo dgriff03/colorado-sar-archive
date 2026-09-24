@@ -1,0 +1,19 @@
+{
+  "id": "622df6e2-046b-4f69-9470-6b328d44eb55",
+  "date": "2025-02-20",
+  "summary": "Snowboarder caught and buried in an avalanche on The Nose near Silverton while touring with a partner; hut staff saw the slide and helped with rescue, but the victim did not survive",
+  "location": "The Nose, Middle Fork of Mineral Creek",
+  "county": "San Juan",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "San Juan County SAR + San Juan County Sheriff, Silverton Medical Rescue, La Plata County SAR, Silverton Avalanche School, CAIC, Silverton Mountain helicopter",
+  "source_urls": "https://www.yardbarker.com/skiing/articles/colorado_snowboarder_killed_in_avalanche/s1_17376_41795315",
+  "notes": "approx; pair touring, skier escaped debris",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "The Nose",
+  "place_type": "climbing_area",
+  "legacy_id": 1551
+}

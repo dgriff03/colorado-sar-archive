@@ -1,0 +1,19 @@
+{
+  "id": "2d740d68-b3a1-4d9d-9c1a-73e5e219b0b1",
+  "date": "2016-09-04",
+  "summary": "Two Wyoming boys (12 and 9, from Lander and Pinedale) went missing near a family cabin at Wilderness Ranches ~35 miles northeast of Craig, last seen ~12-12:30 p.m. Sunday; family called the sheriff after their own search failed. Moffat County SO and five Moffat County SAR members (foot and horseback) ran a hasty search Sunday night with a Classic Air Medical helicopter grid search; on Monday a DFPC multi-mission aircraft flew an infrared search and Classic Air flew a second search. Blaine and Luke Tucker (Mountain Air Spray) spotted them at 4:50 p.m. Monday ~3 miles from the cabin; ground teams reunited them with family, no injuries.",
+  "location": "Wilderness Ranches (~35 mi NE of Craig)",
+  "county": "Moffat",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Moffat County Sheriff's Office; Moffat County Search & Rescue; Classic Air Medical; Colorado DFPC Multi-Mission Aircraft",
+  "source_urls": "https://mycountry955.com/two-wyoming-boys-reported-missing-in-colorado/",
+  "notes": "Incident date Sunday 2016-09-04; found Monday 2016-09-05. Article cites a Craig Daily Press original story; MCSO release corrects ages from 13/9 (original story) to 12/9.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Wilderness Ranches",
+  "place_type": "other",
+  "legacy_id": 3025
+}

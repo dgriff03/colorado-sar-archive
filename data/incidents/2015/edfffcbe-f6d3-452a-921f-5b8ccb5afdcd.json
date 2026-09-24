@@ -1,0 +1,19 @@
+{
+  "id": "edfffcbe-f6d3-452a-921f-5b8ccb5afdcd",
+  "date": "2015-07-26",
+  "summary": "Injured female party 4 miles up the Goose Creek Trailhead",
+  "location": "Goose Creek Trailhead area",
+  "county": "",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "County not stated in log.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Goose Creek Trailhead",
+  "place_type": "trailhead",
+  "legacy_id": 256
+}

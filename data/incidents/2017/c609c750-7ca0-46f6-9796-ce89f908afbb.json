@@ -1,0 +1,19 @@
+{
+  "id": "c609c750-7ca0-46f6-9796-ce89f908afbb",
+  "date": "2017-05-28",
+  "summary": "30-year-old Boulder County man fell 50+ ft down a rock wall while retrieving a dropped phone case from a ledge; stopped by a tree ~2:30 p.m.; full multi-agency technical rope rescue across the creek; non-life-threatening right shoulder injury",
+  "location": "Boulder Canyon, across the creek from Boulder Falls (Tornnere climbing tower)",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain Rescue Group; Boulder County Sheriff's Office; Nederland Police; AMR; Boulder Emergency Squad Dive Team; Boulder Fire; Sugarloaf Fire",
+  "source_urls": "https://www.themtnear.com/stories/climber-injured-in-50-foot-fall,3711",
+  "notes": "Story footer confirms originally published in the June 1, 2017 print edition",
+  "peak": "Boulder Canyon",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2846
+}

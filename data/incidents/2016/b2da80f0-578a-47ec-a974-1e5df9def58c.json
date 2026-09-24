@@ -1,0 +1,19 @@
+{
+  "id": "b2da80f0-578a-47ec-a974-1e5df9def58c",
+  "date": "2016-09-27",
+  "summary": "Missing female hiker in the Mount Evans area",
+  "location": "Mount Evans area",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-128.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2135
+}

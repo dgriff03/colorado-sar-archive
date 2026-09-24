@@ -1,0 +1,19 @@
+{
+  "id": "6aa874c8-c9e2-4196-9143-3da1d1e88495",
+  "date": "2020-06-28",
+  "summary": "Person fell on the Pikes Peak Highway; EPCSAR and Cascade Fire brought the injured party up to the road.",
+  "location": "Pikes Peak Highway",
+  "county": "El Paso",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "El Paso County Search and Rescue",
+  "source_urls": "https://www.facebook.com/epcsar/posts/pfbid02LXFmNDkzVAtDuxVPLpkuRVrQD2YUobwLwrcUTaikMbTP7KiSiqwWx1CcrZzxZVfql|https://www.facebook.com/epcsar/posts/pfbid02cJSFGaSNDpWWYUhj2bxEpf7bPctAzhKMiyBroA2m3VaE3hpxpDCWUUdA42Jsj8hRl",
+  "notes": "Two posts describe the same incident: 2020-06-28 19:36 MDT initial callout ('responding to a fall') and 2020-06-28 23:05 MDT mission recap; one insert with both permalinks.",
+  "peak": "Pikes Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3549
+}

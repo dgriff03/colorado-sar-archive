@@ -1,0 +1,19 @@
+{
+  "id": "e131bbbd-142e-4dae-85cc-f9e0e438927e",
+  "date": "2020-04-21",
+  "summary": "Kristen Major, 29, of Montrose reported missing after hiking in the Nucla area; reported at 10:30 p.m. Tuesday after failing to return; overnight search by Civil Air Patrol, MCSO Investigations, Colorado Parks and Wildlife, MCSO K-9 units, MCSO drones, and the Montrose County Sheriff's Posse; found safe the morning of 2020-04-22",
+  "location": "Nucla area",
+  "county": "Montrose",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Montrose County Sheriff's Office (+ Civil Air Patrol, CPW, Sheriff's Posse)",
+  "source_urls": "https://kekbfm.com/missing-29-year-old-hiker-last-seen-in-montrose/",
+  "notes": "Run 747 insert — Montrose County Sheriff blotter chunk; found safe 2020-04-22 morning per source update.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Nucla",
+  "place_type": "town",
+  "legacy_id": 3265
+}

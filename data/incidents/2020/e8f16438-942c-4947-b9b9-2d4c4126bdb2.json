@@ -1,0 +1,19 @@
+{
+  "id": "e8f16438-942c-4947-b9b9-2d4c4126bdb2",
+  "date": "2020-06-05",
+  "summary": "Injured hiker on the Sutton Mine trail; OMRT carried the patient by litter to a helicopter landing site in the first joint rescue with Montrose Helitack, after several days of training earlier in the year.",
+  "location": "Sutton Mine trail, Ouray County",
+  "county": "Ouray",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Ouray Mountain Rescue Team",
+  "source_urls": "https://www.facebook.com/ouraymountainrescue/posts/pfbid0v6ujD4ExJRMkNqmMfYAH7efHXT3WPpnM5a8kKJMAXAkt27FAiFd7pCtz6ouDxoEKl",
+  "notes": "Date approximate: post dated 2020-06-08 describes 'this past Friday'.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Sutton Mine Trail",
+  "place_type": "trail",
+  "legacy_id": 3513
+}

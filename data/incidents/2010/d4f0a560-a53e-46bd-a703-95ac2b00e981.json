@@ -1,0 +1,19 @@
+{
+  "id": "d4f0a560-a53e-46bd-a703-95ac2b00e981",
+  "date": "2010-10-10",
+  "summary": "Assist Vail Mountain Rescue with search in Mt of the Holy Cross area, days 3-5 (10-94, 10-95, 10-97)",
+  "location": "Mt of the Holy Cross area",
+  "county": "Eagle",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team; Vail Mountain Rescue",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART missions 10-94, 10-95 (10/10) and 10-97 (10/15); assisted 10/11, 10/12, 10/16 (search days 3-5). Victim count estimated.",
+  "peak": "Mount of the Holy Cross",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 105
+}

@@ -1,0 +1,19 @@
+{
+  "id": "865a4851-5c4d-44ba-b500-132936713dec",
+  "date": "2013-01-27",
+  "summary": "Backcountry skier caught and critically buried in an avalanche while ascending Kendall Mountain, southeast of Silverton.",
+  "location": "Kendall Mountain, southeast of Silverton",
+  "county": "San Juan",
+  "incident_type": "avalanche",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://classic.avalanche.state.co.us/caic/acc/acc_co.php",
+  "notes": "CAIC classic-table summary only; no SAR agency or victim identity published in sources found. Date weekday-verified Sunday 2013-01-27 (run 477).",
+  "peak": "Kendall Mountain",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2769
+}

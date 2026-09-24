@@ -1,0 +1,19 @@
+{
+  "id": "1ae718e4-e2f2-437a-a5b1-c4874f214663",
+  "date": "2011-06-16",
+  "summary": "30-year-old Toronto man bicycling on Trail Ridge Road about 1/4 mile east of Lava Cliffs was blown over by a thunderstorm gust exceeding 45 mph, suffering serious pelvis and head injuries despite wearing a helmet; he and his companion were also hypothermic; taken by ambulance to the Alpine Visitor Center where an air ambulance (in park on a training exercise) flew him to St. Anthony Hospital",
+  "location": "Trail Ridge Road near Lava Cliffs, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "RMNP rangers; Estes Park Medical Center ambulance; St. Anthony air ambulance",
+  "source_urls": "http://npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "Incident date pinned to Thu 2011-06-16: report filed Mon Jun 20 says the crash was \"last Thursday\". Weekday-verified.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Ridge Road",
+  "place_type": "road",
+  "legacy_id": 2672
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2cc07cb0-5969-40d4-be18-f1f1b2542cd3",
+  "date": "2019-04-14",
+  "summary": "Father (31) and his young daughter lost near the Red Canyon overlook area, Colorado National Monument; reported missing after calling a family member; NPS rangers, MCSO deputies, MCSAR ground team and CareFlight searched; found safe around 3 a.m. April 15, both uninjured.",
+  "location": "Red Canyon overlook area, Colorado National Monument",
+  "county": "Mesa",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Mesa County SO; Mesa County SAR Ground Team; NPS Rangers; CareFlight",
+  "source_urls": "https://kool1079.com/father-and-daughter-found-safe-on-colorado-national-monument/|https://cofiretech.gov/wp-content/uploads/tak-use-for-search-and-rescue.pdf",
+  "notes": "Mission request ~7:30 PM April 14 per the CO SAR after-action report (cofiretech.gov); KOOL 1079 places the lost-hiker report on April 15; date = mission request date; run 78 (Mesa CrimeWatch re-check). Corroborated by DFPC CoE TAK field report CoE-19-002.1 (April 2019 TAK support deployment documentation).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Red Canyon",
+  "place_type": "canyon",
+  "legacy_id": 2316
+}

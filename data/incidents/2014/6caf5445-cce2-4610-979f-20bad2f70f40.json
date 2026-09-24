@@ -1,0 +1,19 @@
+{
+  "id": "6caf5445-cce2-4610-979f-20bad2f70f40",
+  "date": "2014-07-26",
+  "summary": "Woman veteran hiker on a Huts for Vets group day hike rolled her ankle and somersaulted down a slope near Margy's Hut; severe ankle injury with tendons/ligaments torn and open wound; litter carry to hut then Flight for Life helicopter evac to hospital",
+  "location": "Sawmill Park trail near Margy's Hut, Hunter-Fryingpan Wilderness",
+  "county": "Pitkin",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Mountain Rescue Aspen + Flight for Life",
+  "source_urls": "https://aspenjournalism.org/anatomy-of-a-rescue-in-the-hunter-fryingpan-wilderness/",
+  "notes": "Victim Terri, participant in the first Huts for Vets women veterans program; a Mountain Rescue Aspen member on the 10th Mountain Huts crew was at the hut and initiated the rescue; published Aug 10, 2014 by Aspen Journalism in collaboration with The Aspen Times.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Sawmill Park Trail",
+  "place_type": "trail",
+  "legacy_id": 2200
+}

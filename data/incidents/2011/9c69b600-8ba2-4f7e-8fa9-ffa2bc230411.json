@@ -1,0 +1,19 @@
+{
+  "id": "9c69b600-8ba2-4f7e-8fa9-ffa2bc230411",
+  "date": "2011-07-16",
+  "summary": "Solo climber fell during descent of El Diente Peak, fracturing lower leg; spent night out with exposure; evacuated by sheriff's office and helicopter.",
+  "location": "El Diente Peak",
+  "county": "San Miguel",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "San Miguel County Sheriff's Office, helicopter",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201205202/Fall-on-Rock-Climbing-Alone-Darkness-Colorado-El-Diente-Peak",
+  "notes": "Saturday July 16 aligns with 2011.",
+  "peak": "El Diente Peak",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 140
+}

@@ -1,0 +1,19 @@
+{
+  "id": "6f52220e-18b6-4be4-a12e-f1b1b99eba51",
+  "date": "2022-04-19",
+  "summary": "Bobby Stringer, missing in the Phantom Canyon area since Feb. 21; remains found April 19 by BLM rangers conducting raptor counts and identified April 26 via autopsy",
+  "location": "Phantom Canyon, near mile marker 10 on Fremont County Road 67",
+  "county": "Fremont",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Fremont County Search and Rescue; Fremont County Sheriff's Office; Fremont County Coroner's Office",
+  "source_urls": "https://www.themountainmail.com/news/article_f6386bb4-c697-11ec-bf14-0bcb1eb32a43.html",
+  "notes": "Recovery operation 2022-04-19; remains identified as Bobby Stringer after April 26 autopsy. Year pinned from the Mountain Mail 'reported Wednesday' = 2022-04-27. Date = recovery date per the missing-person-found-dead convention (ids 1308/2593/2712).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Phantom Canyon",
+  "place_type": "canyon",
+  "legacy_id": 3298
+}

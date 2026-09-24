@@ -1,0 +1,19 @@
+{
+  "id": "6587f6bf-6e0e-4cd1-b32e-16f562d521df",
+  "date": "2017-09-30",
+  "summary": "Personal emergency GPS beacon (Spot/InReach) fired inadvertently in owner's pack on Mt. Sneffels; false alarm.",
+  "location": "Mt. Sneffels",
+  "county": "Ouray County",
+  "incident_type": "other",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Ouray Mountain Rescue Team",
+  "source_urls": "https://www.facebook.com/ouraymountainrescue/posts/pfbid02xZRqAnYt4uvpPqjZzuNuRbar1DyMAUaxNEyiQc72yqvJNotugFJbSW15DCjJcUW4l",
+  "notes": "Date approximate.",
+  "peak": "Mount Sneffels",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3591
+}

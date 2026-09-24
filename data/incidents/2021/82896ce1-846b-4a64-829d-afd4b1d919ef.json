@@ -1,0 +1,19 @@
+{
+  "id": "82896ce1-846b-4a64-829d-afd4b1d919ef",
+  "date": "2021-07-26",
+  "summary": "Hiker took a 20-foot fall while rock scrambling near Balanced Rock in Rocky Mountain National Park; Colorado National Guard hoist to Med Evac; flown to MCR.",
+  "location": "Balanced Rock, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "National Park Service",
+  "source_urls": "https://www.npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "NPS ROMO morning-report compendium entry. \"Balanced Rock\" location ambiguous within RMNP; county Larimer tentative per report.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Rocky Mountain National Park",
+  "place_type": "park",
+  "legacy_id": 2866
+}

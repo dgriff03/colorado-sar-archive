@@ -1,0 +1,19 @@
+{
+  "id": "5711ef25-f3ea-44e2-8de0-595002cf61ec",
+  "date": "2020-04-10",
+  "summary": "Kristofer Busching, 32, of New York died instantly of blunt force trauma after falling 60-80 feet down a slickrock formation in Mee Canyon; he and a 31-year-old companion had been lost for days after a short hike in Knowles Canyon went wrong; the companion was rescued exhausted and dehydrated after signaling rescuers with a fire; their two dogs survived with injuries.",
+  "location": "Knowles Canyon / Mee Canyon, Rabbit Valley",
+  "county": "Mesa",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 2,
+  "responding_agency": "Mesa County Sheriff's Office, Mesa County Search and Rescue (~30 volunteers), Centurylink helicopter",
+  "source_urls": "https://95rockfm.com/lost-hikers-in-mesa-county-one-dies-and-one-rescued/|https://kool1079.com/lost-hikers-in-mesa-county-one-dies-and-one-rescued/|https://snowbrains.com/man-died-man-rescued-4-days-lost-colorado/",
+  "notes": "Date is the rescue/recovery report date (Friday, per MCSO; article updated 2020-04-13); the fatal fall occurred ~2.5 days after the pair began hiking earlier that week. 1 fatality; companion rescued. Name widely published.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Knowles Canyon",
+  "place_type": "canyon",
+  "legacy_id": 770
+}

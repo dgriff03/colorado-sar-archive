@@ -1,0 +1,19 @@
+{
+  "id": "0a229e87-07f3-48c5-9c01-5b805b9ad38b",
+  "date": "2024-12-08",
+  "summary": "Lost 10-year-old ATV rider stranded overnight in snowy Rampart Range; drone operator established speaker contact and dropped a care package until ground teams reached him",
+  "location": "Rampart Range",
+  "county": "Douglas",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Douglas County Search and Rescue + Douglas County Sheriff",
+  "source_urls": "https://www.foxweather.com/extreme-weather/rampart-range-colorado-child-search-rescue-douglas-county",
+  "notes": "approx; reported Sunday before Dec 11 2024 article; drone, ATV and ground search",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Rampart Range",
+  "place_type": "other",
+  "legacy_id": 1513
+}

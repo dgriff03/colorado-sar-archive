@@ -1,0 +1,19 @@
+{
+  "id": "d46c4092-911d-46fb-9c6c-d193a3c2f9fb",
+  "date": "2011-07-17",
+  "summary": "Mostafa Salehi died of cardiac arrest near the Quandary Peak summit",
+  "location": "Quandary Peak",
+  "county": "Summit",
+  "incident_type": "medical",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://100summits.com/articles/colorado-mountaineering-deaths/item/239-2011-colorado-mountaineering-deaths",
+  "notes": "",
+  "peak": "Quandary Peak",
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 141
+}

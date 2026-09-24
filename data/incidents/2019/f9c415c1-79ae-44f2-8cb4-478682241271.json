@@ -1,0 +1,19 @@
+{
+  "id": "f9c415c1-79ae-44f2-8cb4-478682241271",
+  "date": "2019-05-17",
+  "summary": "Paul Cuthbertson, 21, lifelong Eagle/Summit County local, died while skinning up to the Polar Star Inn (10th Mountain Division Hut Association backcountry lodge at 11,040 ft, west side of New York Mountain) to celebrate his 21st birthday with friends; left late Friday afternoon, apparently deviated from the usual route in snowy, windy conditions near 11,000 ft; friends went looking at first light Saturday morning; Vail Mountain Rescue and the Eagle County Sheriff's Office joined the search; Eagle County Coroner said cause pending autopsy.",
+  "location": "Polar Star Inn, west side of New York Mountain",
+  "county": "Eagle",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Vail Mountain Rescue, Eagle County Sheriff's Office",
+  "source_urls": "https://snowbrains.com/vail-local-died-backcountry-21st-birthday/|https://unofficialnetworks.com/2019/05/20/vail-local-dies-in-ski-accident-while-backcountry-skiing-to-birthday-party/",
+  "notes": "Run 748 SnowBrains chunk; both URLs parent-opened. Date 2019-05-17 = Friday (weekday-verified); UN article published Mon 2019-05-20 reports 'passed away Friday night' with friends searching 'at first light Saturday' -> the Friday before 5/20/2019. (Subagent proposed 2019-06-14 from page metadata; parent rejects — the dated 2019/05/20 UN corroboration pins May.) Dedupe clean: zero Cuthbertson/Polar Star hits for this incident (id 351 is a different 2017-03-20 Polar Star injury); zero Eagle rows 2019-05-15-19.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Polar Star Inn",
+  "place_type": "other",
+  "legacy_id": 3266
+}

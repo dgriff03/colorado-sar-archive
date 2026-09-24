@@ -1,0 +1,19 @@
+{
+  "id": "efce6bdf-8f83-4de6-b043-3dc9e0439795",
+  "date": "2021-07-04",
+  "summary": "Three people attempting waterfall jumps at Cascade Creek needed help getting out; La Plata County Search and Rescue assisted",
+  "location": "Cascade Creek waterfalls, San Juan National Forest",
+  "county": "La Plata",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 3,
+  "responding_agency": "La Plata County Search and Rescue",
+  "source_urls": "http://www.durangotelegraph.com/news/top-stories/who-ya-gonna-call/",
+  "notes": "Parent-opened run 660 (Durango Telegraph 'Who ya gonna call?', ~Sept 2021 — SB 21-245/Jan-2022 recommendation anchors the year; July 4, 2021 = Sunday). Incident is one line in a feature on SAR funding; no injury details given.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Cascade Creek Waterfalls",
+  "place_type": "waterfall",
+  "legacy_id": 3185
+}

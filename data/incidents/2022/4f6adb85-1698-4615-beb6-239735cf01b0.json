@@ -1,0 +1,19 @@
+{
+  "id": "4f6adb85-1698-4615-beb6-239735cf01b0",
+  "date": "2022-02-12",
+  "summary": "Skier stuck on a cliff edge above Berthoud Pass after initiating a small avalanche; GCSAR raising him by rope. About 10 SAR members in the field.",
+  "location": "Above Berthoud Pass",
+  "county": "Grand",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Grand County Search and Rescue",
+  "source_urls": "https://www.facebook.com/GCSAR/posts/pfbid0V8tkbtDB3myZxfTNXtxu3HXzUoDhLkHExDDfPD9unxLT5ELebEyjDhGDcZj2cjfJl",
+  "notes": "Posted in-progress; outcome inferred rescued-uninjured (extrication underway).",
+  "peak": "Berthoud Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3504
+}

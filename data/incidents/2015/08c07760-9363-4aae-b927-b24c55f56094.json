@@ -1,0 +1,19 @@
+{
+  "id": "08c07760-9363-4aae-b927-b24c55f56094",
+  "date": "2015-07-03",
+  "summary": "Two stranded hikers west of Tunnel 1 in Clear Creek Canyon",
+  "location": "Clear Creek Canyon (Tunnel 1)",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "",
+  "peak": "Clear Creek Canyon",
+  "setting": "frontcountry",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 243
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ed3f3b36-7bb7-4267-b3b5-f9180ed5db59",
+  "date": "2021-01-10",
+  "summary": "Injured skier in the Forest Lakes area near Moffat Tunnel",
+  "location": "Forest Lakes (near Moffat Tunnel)",
+  "county": "Gilpin",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2022/02/2021-Missions-Website.pdf|https://www.themtnear.com/stories/risky-rescue-ends-well,4334",
+  "notes": "ART mission 2021-006, paged 2021-01-10 14:29 for injured skier in Forest Lakes near Moffat Tunnel. 35-year-old Boulder resident fell skiing a snowdrift, briefly unconscious, then regained consciousness with multiple injuries and broken bones, unable to move. Multi-agency response (Alpine Rescue Team, Rocky Mountain Rescue, Timberline Fire, Gilpin SO/Public Works/Ambulance Authority, High Country Auxiliary); ~70 mph gusts grounded the helicopter; ~10-hour ground rescue; patient reached ~4:30 p.m., transported ~9:30 p.m. to St. Anthony's Hospital. Row date corrected 2021-01-06 -> 2021-01-10 at run 930 (Alpine PDF paged 01/10/21; Mountain-Ear says Sunday morning; 2021-01-10 was a Sunday; sequential mission numbering 2021-004=01/06, 2021-005=01/08, 2021-006=01/10).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Forest Lakes",
+  "place_type": "lake",
+  "legacy_id": 912
+}

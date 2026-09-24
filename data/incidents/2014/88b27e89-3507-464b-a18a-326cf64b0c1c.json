@@ -1,0 +1,19 @@
+{
+  "id": "88b27e89-3507-464b-a18a-326cf64b0c1c",
+  "date": "2014-09-01",
+  "summary": "Two ATV riders became separated from their group while descending from Lost Lake; Vail Mountain Rescue Group dispatched two team members, but the riders were reunited with their party while rescuers were en route; all out of the field by 6:30 p.m. without injury.",
+  "location": "Lost Lake",
+  "county": "Eagle",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Vail Mountain Rescue Group",
+  "source_urls": "https://vailchamber.org/2014/11/08/septemberoctober-vail-mountain-rescue-missions/",
+  "notes": "Run-577 insert: Edward Stoner/Vail Daily mission-digest repost (vailchamber.org), parent-opened this run; Sept./Oct. VMRG digest posted 2014-11-08.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Lost Lake",
+  "place_type": "lake",
+  "legacy_id": 2980
+}

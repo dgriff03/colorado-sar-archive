@@ -1,0 +1,19 @@
+{
+  "id": "eddba9b9-1b40-48cb-8d2e-74c9a53ad6da",
+  "date": "2023-05-03",
+  "summary": "71-year-old Boulder resident with a lower-leg injury found near Cadillac Crags after passing hikers heard faint calls for help around 4:30 p.m.; carried out on a litter to the Visitors Center by Mountain View Fire Protection District and Rocky Mountain Rescue Group in a rescue lasting about four hours; transported to a Boulder-area hospital with non-life-threatening injuries.",
+  "location": "Cadillac Crags, Eldorado State Park",
+  "county": "Boulder",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office; Rocky Mountain Rescue Group; Mountain View Fire Protection District; Eldorado State Park",
+  "source_urls": "https://bouldercounty.gov/news/hiker-evacuated-from-eldorado-state-park/|https://edition.pagesuite.com/tribune/article_popover.aspx?guid=390259c7-d8b5-403a-8dcf-ee5662a99bb6",
+  "notes": "BCSO case #23-02311. Sheriff press release date-pinned May 4, 2023; incident Wednesday May 3.",
+  "peak": "Eldorado Canyon",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3289
+}

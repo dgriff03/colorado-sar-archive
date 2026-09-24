@@ -1,0 +1,19 @@
+{
+  "id": "d599716c-b591-404b-a422-8aa4dc02ff83",
+  "date": "2015-10-15",
+  "summary": "16-year-old hunter with severe back injury on the north side of Grouse Mountain (11,900 ft), unable to walk; all-night litter carry-out to Meadow Mountain and ambulance to Vail Valley Medical Center.",
+  "location": "Grouse Mountain (north side, 11,900 ft), West Grouse Creek Trail / Minturn",
+  "county": "Eagle",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Vail Mountain Rescue Group + Eagle River Fire Protection District (wildland crew) + Eagle County Paramedic Services",
+  "source_urls": "https://www.vailvalleypartnership.com/2015/11/mountain-rescue-piney-river-ranch/",
+  "notes": "Date approximate: VVP \"Mountain Rescue — Piney River Ranch\" narrative (posted Nov 2015) places the mission \"in mid-October\"; exact date unrecoverable (backfill runs 23/26). Vail Dispatch ~6 p.m.: 16 YOM hunter unable to walk with severe back injury; hunting party had hiked 6.8 mi up West Grouse Creek Trail from Minturn trailhead; location fixed via SPOT beacon + cell phone position. 11-person hasty team accessed via Beaver Creek Ski Area to ski patrol HQ. SAR paramedic, IV pain meds, hypothermia bag + litter with wheel. Subject's father joined the carry; second 7-person team joined ~3 a.m.; reached vehicles 7 a.m.; UTV to Meadow Mountain; ambulance to Vail Valley Medical Center; field team out 8:30 a.m.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Grouse Mountain",
+  "place_type": "peak",
+  "legacy_id": 2288
+}

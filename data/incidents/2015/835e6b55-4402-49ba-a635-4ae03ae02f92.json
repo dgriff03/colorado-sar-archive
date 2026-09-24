@@ -1,0 +1,19 @@
+{
+  "id": "835e6b55-4402-49ba-a635-4ae03ae02f92",
+  "date": "2015-03-31",
+  "summary": "J.H., 28, of Boulder, took an 80- to 100-foot roped fall while ice climbing the Deep Freeze route above The Loch on Thatchtop Mountain; partner called for help; Flight for Life to St. Anthony's Hospital.",
+  "location": "Deep Freeze route, above The Loch, Thatchtop Mountain, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "National Park Service",
+  "source_urls": "https://www.npshistory.com/morningreport/incidents/romo.htm|https://www.nationalparkstraveler.org/2015/04/rescues-two-parks-illustrate-value-helicopters-remote-area-emergencies26453",
+  "notes": "NPS ROMO morning-report compendium entry. Run 713: NPT helicopter-rescues piece describing Heung's 80-100 ft roped fall on Deep Freeze/Thatchtop 2015-03-31 (names her as Janet Heung; parent-verified same incident).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Thatchtop Mountain",
+  "place_type": "peak",
+  "legacy_id": 2852
+}

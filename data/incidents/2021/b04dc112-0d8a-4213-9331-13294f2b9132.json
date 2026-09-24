@@ -1,0 +1,19 @@
+{
+  "id": "b04dc112-0d8a-4213-9331-13294f2b9132",
+  "date": "2021-07-18",
+  "summary": "Missing 18-year-old man whose vehicle was located in an area southeast of Bailey",
+  "location": "Bailey area",
+  "county": "Park",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2022/02/2021-Missions-Website.pdf",
+  "notes": "ART mission 2021-071. Outcome re-coded from rescued-uninjured to assist: log does not state the subject's final outcome.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Bailey",
+  "place_type": "town",
+  "legacy_id": 981
+}

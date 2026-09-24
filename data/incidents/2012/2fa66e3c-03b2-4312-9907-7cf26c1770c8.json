@@ -1,0 +1,19 @@
+{
+  "id": "2fa66e3c-03b2-4312-9907-7cf26c1770c8",
+  "date": "2012-06-23",
+  "summary": "Search for a missing party in the Lair of the Bear area; outcome not stated in Alpine mission log (12-31).",
+  "location": "Lair of the Bear",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/category/recent-missions/jefferson-county/page/39/",
+  "notes": "Alpine Rescue Team mission 12-31; paged 06/23/12 15:31. One-liner with unreported outcome recorded as rescued-uninjured per Alpine convention.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Lair of the Bear",
+  "place_type": "park",
+  "legacy_id": 2204
+}

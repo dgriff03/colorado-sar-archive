@@ -1,0 +1,19 @@
+{
+  "id": "2dbfd971-bed5-4ec3-80b0-a6ae8350f8bf",
+  "date": "2021-10-06",
+  "summary": "Scott Dewey (31) was found dead near Rincon Wall, apparently after an unroped free-solo fall; found unconscious, not breathing, with no pulse, and declared deceased that day.",
+  "location": "Rincon Wall, Eldorado Canyon",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://publications.americanalpineclub.org/articles/13201216244",
+  "notes": "ANAC 2022 edition (Pub 2022); incident date Oct 6 per article.",
+  "peak": "Eldorado Canyon",
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1028
+}

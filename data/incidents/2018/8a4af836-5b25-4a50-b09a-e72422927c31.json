@@ -1,0 +1,19 @@
+{
+  "id": "8a4af836-5b25-4a50-b09a-e72422927c31",
+  "date": "2018-12-28",
+  "summary": "Injured hiker at St Marys Lake (2018-134)",
+  "location": "St Marys Lake",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2019/01/2018-Missions-Website.pdf",
+  "notes": "ART mission 2018-134. Cause of injury not stated.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "St. Marys Lake",
+  "place_type": "lake",
+  "legacy_id": 611
+}

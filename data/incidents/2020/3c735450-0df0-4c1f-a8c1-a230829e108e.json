@@ -1,0 +1,19 @@
+{
+  "id": "3c735450-0df0-4c1f-a8c1-a230829e108e",
+  "date": "2020-04-05",
+  "summary": "Local couple ski touring with their dog on closed Vail Mountain, defying the uphill-travel ban, had an accident at the top of Born Free; the wife broke her leg; after ski patrol didn't answer, the husband dialed 911; a half-dozen VMRG volunteers responded (fall/injury, 1 victim, Eagle; Vail Mountain Rescue Group). DATE APPROXIMATE — the essay places this mission around the April-6 Meadow Mountain mission ('our second mission in two days'); exact day unstated; source: Ted Katauskas 5280 'Viral Overload' essay, parent-opened this run.",
+  "location": "Born Free, Vail Mountain",
+  "county": "Eagle",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Vail Mountain Rescue Group",
+  "source_urls": "https://5280.com/4-reflections-about-colorado-life-in-the-time-of-covid-19/",
+  "notes": "Run-658 VMRG chunk; date approximate per essay sequencing; curation pass may refine.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Vail Mountain",
+  "place_type": "peak",
+  "legacy_id": 3150
+}

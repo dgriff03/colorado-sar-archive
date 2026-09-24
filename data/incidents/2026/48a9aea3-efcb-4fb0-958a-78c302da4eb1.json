@@ -1,0 +1,19 @@
+{
+  "id": "48a9aea3-efcb-4fb0-958a-78c302da4eb1",
+  "date": "2026-08-16",
+  "summary": "28-year-old climber fell 500 feet on the Maroon Bells Traverse below the North Maroon summit and suffered severe injuries; stabilized by companions and rescuers before helicopter evacuation",
+  "location": "Maroon Bells Traverse, below North Maroon summit",
+  "county": "Pitkin",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Mountain Rescue Aspen, helicopter crew",
+  "source_urls": "https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/maroon-bells-traverse-fall/|https://krystal93.com/maroon-bells-climber-recounts-the-harrowing-500-foot-fall-that-nearly-took-his-life/|https://www.facebook.com/mountainrescueaspen/posts/pfbid02PQ1zbzKYb3BChWzPuJNrVKbC4RHcqrbGgb2zEn6bKGPHcBL6peAXKj2g59l",
+  "notes": "",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Maroon Bells Traverse",
+  "place_type": "climbing_area",
+  "legacy_id": 1729
+}

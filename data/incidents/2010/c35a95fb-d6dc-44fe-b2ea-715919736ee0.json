@@ -1,0 +1,19 @@
+{
+  "id": "c35a95fb-d6dc-44fe-b2ea-715919736ee0",
+  "date": "2010-08-29",
+  "summary": "Adult man drowned at 11 Mile Reservoir; dog-team information led to a diver find.",
+  "location": "11 Mile Reservoir",
+  "county": "Park",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": null,
+  "source_urls": "http://sardoc.org/cms/wp-content/uploads/2011/01/PublicSummaryFinal.pdf",
+  "notes": "Run-658 SARDOC chunk.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": "11 Mile Reservoir",
+  "place_type": "reservoir",
+  "legacy_id": 3178
+}

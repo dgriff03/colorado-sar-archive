@@ -1,0 +1,19 @@
+{
+  "id": "9f08e6fe-0627-4946-a78e-db38e3fb166c",
+  "date": "2023-07-10",
+  "summary": "22-year-old free solo climber fell 100 ft on First Flatiron and landed on a ledge; RMRG rappelled down and lowered the patient in a body splint to a hospital",
+  "location": "First Flatiron, Boulder",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain Rescue Group + Boulder County Sheriff",
+  "source_urls": "https://www.ems1.com/rescue/articles/colo-mountain-rescue-group-saves-free-solo-climber-after-100-foot-fall-p0JRtglhFDeD7ydq/",
+  "notes": "",
+  "peak": "The Flatirons",
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1236
+}

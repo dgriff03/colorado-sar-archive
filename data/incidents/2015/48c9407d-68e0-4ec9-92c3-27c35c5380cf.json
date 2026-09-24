@@ -1,0 +1,19 @@
+{
+  "id": "48c9407d-68e0-4ec9-92c3-27c35c5380cf",
+  "date": "2015-06-01",
+  "summary": "Stranded hiker along Highway 74 near Lair of the Bear campground",
+  "location": "Highway 74 near Lair of the Bear",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-22.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Highway 74",
+  "place_type": "road",
+  "legacy_id": 1975
+}

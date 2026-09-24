@@ -1,0 +1,19 @@
+{
+  "id": "622dd2c6-f859-4a04-bf29-24dc7e45c0ca",
+  "date": "2010-12-02",
+  "summary": "Skier caught, carried, and injured in an avalanche in Redwell Basin, Ruby Range.",
+  "location": "Redwell Basin, Ruby Range",
+  "county": "Gunnison",
+  "incident_type": "avalanche",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://classic.avalanche.state.co.us/caic/acc/acc_co.php",
+  "notes": "CAIC classic-table summary only; no SAR agency or victim identity published in sources found. Date weekday-verified Thursday 2010-12-02 (run 477).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Redwell Basin",
+  "place_type": "other",
+  "legacy_id": 2777
+}

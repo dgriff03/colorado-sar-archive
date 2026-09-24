@@ -1,0 +1,19 @@
+{
+  "id": "f3178347-71b0-45ad-9629-32b18fc51054",
+  "date": "2014-12-23",
+  "summary": "Search for a lost party in the Loch Lomond Lake area (Alpine mission 14-132)",
+  "location": "Loch Lomond Lake",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2015/01/2014-Missions-Website.pdf",
+  "notes": "Alpine Rescue Team 2014 annual mission summary PDF (one-line mission log; page date used as mission date).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Loch Lomond Lake",
+  "place_type": "lake",
+  "legacy_id": 1958
+}

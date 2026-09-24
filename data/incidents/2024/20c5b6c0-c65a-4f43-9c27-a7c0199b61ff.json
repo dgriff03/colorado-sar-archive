@@ -1,0 +1,19 @@
+{
+  "id": "20c5b6c0-c65a-4f43-9c27-a7c0199b61ff",
+  "date": "2024-06-04",
+  "summary": "Two stranded female hikers below the West Ridge on Mount Blue Sky",
+  "location": "Mt Blue Sky (West Ridge)",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "ART mission 2024-039.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1367
+}

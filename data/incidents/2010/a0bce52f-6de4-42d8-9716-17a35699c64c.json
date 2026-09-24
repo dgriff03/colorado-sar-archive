@@ -1,0 +1,19 @@
+{
+  "id": "a0bce52f-6de4-42d8-9716-17a35699c64c",
+  "date": "2010-11-20",
+  "summary": "Chris Pruchnic died in an ice-climbing incident on Thatchtop Mountain",
+  "location": "Thatchtop Mountain, Rocky Mountain National Park",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park",
+  "source_urls": "https://www.nps.gov/romo/learn/news/pr_climbing_fatality_allmixedup.htm|https://www.100summits.com/articles/colorado-mountaineering-deaths/2010/itemlist/tag/review|https://www.nationalparkstraveler.org/2010/11/climber-dies-backcountry-accident-rocky-mountain-national-park7260|http://npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "MERGED run 536: National Park Traveler write-up URL appended. Run 782: NPS incident-report archive (npshistory.com ROMO morning reports) entry 'Climber Killed In Fall On Thatchtop Mountain' (report 2010-11-22) confirms Saturday-afternoon fatality on All Mixed Up route above Mills Lake; technical rescue team + Rocky Mountain Rescue + Larimer County SAR responded.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Thatchtop Mountain",
+  "place_type": "peak",
+  "legacy_id": 116
+}

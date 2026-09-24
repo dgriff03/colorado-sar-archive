@@ -1,0 +1,19 @@
+{
+  "id": "c9f24933-272d-4c49-ab61-cd42bab7b699",
+  "date": "2015-09-05",
+  "summary": "Three stuck climbers near Tunnel 5 in Clear Creek Canyon",
+  "location": "Clear Creek Canyon (Tunnel 5)",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 3,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "",
+  "peak": "Clear Creek Canyon",
+  "setting": "frontcountry",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 272
+}

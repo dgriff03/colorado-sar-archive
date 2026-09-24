@@ -1,0 +1,19 @@
+{
+  "id": "ed810d10-73c0-4d3d-9879-e62144cd82e9",
+  "date": "2016-10-03",
+  "summary": "Three climbers — Alan Smith (42) of Glen Haven and Holmes and Austin Holmes (early 20s, not related) of Estes Park — spent an unplanned night on Kieners Route on Longs Peak; family notified rangers Oct 3 but initially declined assistance; after text contact Oct 4 showed them unprepared for the overnight, rangers launched a SAR mission, reached them at 2:50 p.m., performed technical rescues off Kieners Route and down the lower North Face to the Boulder Field, then walked them to the trailhead; all three uninjured but cold, dehydrated and tired.",
+  "location": "Kieners Route / North Face, Longs Peak",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 3,
+  "responding_agency": "Rocky Mountain National Park Search and Rescue",
+  "source_urls": "https://www.nps.gov/romo/learn/news/rescue-operations-underway-on-longs-peak.htm",
+  "notes": "Date = family-notification/search-initiation date Oct 3 (missing-report convention); technical rescue completed Oct 4. Parent-opened run 585.",
+  "peak": "Longs Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3009
+}

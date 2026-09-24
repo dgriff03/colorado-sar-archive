@@ -1,0 +1,19 @@
+{
+  "id": "97c0f89d-4bdb-4f08-ae95-56fb2a9c7b67",
+  "date": "2022-03-05",
+  "summary": "Lost/overdue male party in the Berthoud Pass area",
+  "location": "Berthoud Pass",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2023/01/2022-Missions-Website.pdf",
+  "notes": "Final outcome not stated in log; county unverified (pass straddles Clear Creek/Grand); ART mission 2022-012.",
+  "peak": "Berthoud Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1052
+}

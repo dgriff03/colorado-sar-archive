@@ -1,0 +1,19 @@
+{
+  "id": "14fbd593-fd43-4446-8d03-88695bf65bb3",
+  "date": "2010-06-10",
+  "summary": "Missing party in Juniper Pass area off Hwy 103 (10-33)",
+  "location": "Juniper Pass area off Hwy 103",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-33. Victim count estimated; outcome not stated, presumed rescued-uninjured.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Juniper Pass",
+  "place_type": "pass",
+  "legacy_id": 32
+}

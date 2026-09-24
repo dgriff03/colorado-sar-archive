@@ -1,0 +1,19 @@
+{
+  "id": "665c1da2-33fc-4ce9-9621-bf01322ea2f6",
+  "date": "2013-01-10",
+  "summary": "Code 3 response for injured parties in the Deer Creek Canyon area; victim count unstated (13-01).",
+  "location": "Deer Creek Canyon",
+  "county": "Jefferson",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/category/recent-missions/jefferson-county/page/37/",
+  "notes": "Alpine Rescue Team mission 13-01; paged 01/10/13 16:06. Victim count unstated, recorded as 1.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Deer Creek Canyon",
+  "place_type": "canyon",
+  "legacy_id": 2211
+}

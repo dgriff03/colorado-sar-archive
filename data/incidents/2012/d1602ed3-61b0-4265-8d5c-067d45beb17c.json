@@ -1,0 +1,19 @@
+{
+  "id": "d1602ed3-61b0-4265-8d5c-067d45beb17c",
+  "date": "2012-08-19",
+  "summary": "Injured female party near Mt Spalding (Alpine mission 12-72)",
+  "location": "Mt Spalding",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/category/recent-missions/clear-creek-county/page/157/",
+  "notes": "Alpine Rescue Team Clear Creek County category mission-log archive (Alpine mission 12-72); one-line page alert, outcome detail unstated in post.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Mount Spalding",
+  "place_type": "peak",
+  "legacy_id": 1779
+}

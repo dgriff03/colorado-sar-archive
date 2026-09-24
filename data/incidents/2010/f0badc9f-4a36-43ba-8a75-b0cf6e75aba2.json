@@ -1,0 +1,19 @@
+{
+  "id": "f0badc9f-4a36-43ba-8a75-b0cf6e75aba2",
+  "date": "2010-06-05",
+  "summary": "Adult woman drowned at Horsetooth Reservoir; SARDOC dog teams responded.",
+  "location": "Horsetooth Reservoir",
+  "county": "Larimer",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": null,
+  "source_urls": "http://sardoc.org/cms/wp-content/uploads/2011/01/PublicSummaryFinal.pdf",
+  "notes": "Run-658 SARDOC chunk.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": "Horsetooth Reservoir",
+  "place_type": "reservoir",
+  "legacy_id": 3168
+}

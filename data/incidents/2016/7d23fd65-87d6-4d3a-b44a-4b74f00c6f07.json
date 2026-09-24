@@ -1,0 +1,19 @@
+{
+  "id": "7d23fd65-87d6-4d3a-b44a-4b74f00c6f07",
+  "date": "2016-12-10",
+  "summary": "31-year-old female snowmobiler broke her leg below the Top of the World lookout in Washington Gulch after going off a blind drop, falling six to eight feet and landing on top of the sled; ~10 Crested Butte SAR members reached her at 2:24 p.m., packaged her on a Cascade toboggan then an enclosed toboggan for about a mile, and transferred her to an ambulance at 4:02 p.m. for transport to Gunnison Valley Hospital",
+  "location": "Washington Gulch, below Top of the World lookout",
+  "county": "Gunnison",
+  "incident_type": "vehicle",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Crested Butte Search and Rescue",
+  "source_urls": "https://crestedbuttenews.com/2016/12/cbsar-rescues-injured-snowmobiler-from-washington-gulch/",
+  "notes": "Date = the Saturday before the December 14, 2016 article (weekday-verified); ~8 companion snowmobilers dug out the sled and a patient platform; paramedic and nurse on scene",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Washington Gulch",
+  "place_type": "gulch",
+  "legacy_id": 2404
+}

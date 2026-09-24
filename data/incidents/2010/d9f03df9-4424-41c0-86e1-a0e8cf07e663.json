@@ -1,0 +1,19 @@
+{
+  "id": "d9f03df9-4424-41c0-86e1-a0e8cf07e663",
+  "date": "2010-08-21",
+  "summary": "Injured party near Abyss Lake on Mt Evans (10-71)",
+  "location": "Abyss Lake on Mt Evans",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-71. Cause of injury not stated.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 80
+}

@@ -61,7 +61,11 @@ def read_policy(root):
         pattern = r'(legacy-\d{6}|[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12})' if key == 'incident_ids' else r'[0-9a-f]{32}'
         if any(not re.fullmatch(pattern,v) for v in values):
             raise ValueError(f'Invalid {key} entry')
-    return dict(disallowed=normalized, **{key:set(excluded.get(key, [])) for key in ['incident_ids','domain_md5','url_md5']})
+    from id_aliases import id_aliases
+    aliases=id_aliases(root)
+    result=dict(disallowed=normalized, **{key:set(excluded.get(key, [])) for key in ['incident_ids','domain_md5','url_md5']})
+    result['incident_ids'].update(aliases[old] for old in excluded.get('incident_ids', []) if old in aliases)
+    return result
 
 
 def urls(record):
@@ -98,15 +102,23 @@ def exclusion_reason(record, policy):
 
 def publication_records(root, accepted):
     from merges import incident_merges
+    from id_aliases import id_aliases
     records = [r for _, r in accepted]
     merges = incident_merges(root, records)
     policy = read_policy(root)
+    aliases=id_aliases(root)
     excluded = {r['id'] for r in records if exclusion_reason(r, policy)}
+    excluded.update(aliases[old] for old in policy['incident_ids'] if old in aliases)
     # Removing any member removes the whole confirmed duplicate family;
     # neither an old alias nor the surviving ID can restore the same content.
     removed_targets = {merges[ident]['into'] if ident in merges else ident for ident in excluded}
     allowed_merges = {old:entry for old,entry in merges.items() if entry['into'] not in removed_targets}
     published = [r for r in records if r['id'] not in merges and r['id'] not in removed_targets]
+    published_ids={r['id'] for r in published}
+    for old, target in aliases.items():
+        canonical=merges[target]['into'] if target in merges else target
+        if canonical in published_ids:
+            allowed_merges[old]=dict(into=canonical,reason='Compatibility alias from original import ID to UUID')
     return published, allowed_merges
 
 

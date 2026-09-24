@@ -1,0 +1,19 @@
+{
+  "id": "3ff98a0c-30f9-407f-bb65-9c55f982bf5c",
+  "date": "2022-02-11",
+  "summary": "David Shier, 81, with medical issues/possible dementia, last seen ~11 a.m. Friday near County Road 20.2 by the Walmart in Trinidad; reported missing that afternoon when he failed to return home. On Saturday, Feb 12, an extensive multi-agency search -- vehicle, ATV, foot and K9 teams plus aerial -- by the Las Animas County Sheriff's Office with Trinidad Ambulance District, Colorado Parks & Wildlife, Huerfano County Sheriff's Office, Flight for Life, Stonewall/Fishers Peak/Hoehne fire departments, Colorado Search and Rescue, Las Animas County SAR, and Pinon Canyon personnel was unable to locate him. As of Feb 18 he was still missing; he was never found.",
+  "location": "County Road 20.2 / Walmart area, Trinidad",
+  "county": "Las Animas",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Las Animas County Sheriff's Office; Las Animas County SAR",
+  "source_urls": "https://crimewatch.net/us/co/las-animas/trinidad-pd/154886/cases/silver-alert-missing-person-david-shier|https://www.thevanishedpodcast.com/episodes/2025/6/16/episode-489-david-shier-part-1-a-walk-into-the-unknown",
+  "notes": "Date = missing date 2022-02-11 (Friday; major search Saturday 2022-02-12). Never located; case cold (The Vanished podcast, 2025). Outcome = fatality (presumed; never located) per index convention for never-located missing subjects (cf. id 1160). First indexed Las Animas County row.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "County Road 20",
+  "place_type": "road",
+  "legacy_id": 2693
+}

@@ -1,0 +1,19 @@
+{
+  "id": "09e3b2a6-7b68-4f0b-848a-a437bf3dac1b",
+  "date": "2019-03-12",
+  "summary": "Avalanche struck the home of Hinsdale County sheriff Justin Casey and his two daughters on County Road 30 in Lake City at ~6:40 a.m. Tuesday, destroying the home; all three injured (minor to critical); ~15 rescuers (SAR, police, fire, EMS, road-and-bridge) located and evacuated them within about an hour; a second avalanche on the same road before noon involved no one; Gunnison County sheriff + deputies drove in to assist; voluntary evacuations recommended county-wide",
+  "location": "County Road 30, Lake City",
+  "county": "Hinsdale",
+  "incident_type": "avalanche",
+  "outcome": "injury",
+  "victims": 3,
+  "responding_agency": "Hinsdale County SAR + law enforcement/fire/EMS; Gunnison County Sheriff's Office assisting",
+  "source_urls": "http://crestedbuttenews.com/2019/03/lake-city-avalanche-warrants-evacuations-help-from-gallowich/|https://classic.avalanche.state.co.us/caic/acc/acc_co.php",
+  "notes": "CBN article by Katherine Nettles; sheriff hospitalized in Gunnison; date weekday-verified Tuesday; RESOLVES the run-156/run-140 pending lead; date entered from the article (early morning of Tuesday, March 12, 2019)",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "County Road 30",
+  "place_type": "road",
+  "legacy_id": 2434
+}

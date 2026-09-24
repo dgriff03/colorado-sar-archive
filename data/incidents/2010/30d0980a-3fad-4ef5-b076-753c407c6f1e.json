@@ -1,0 +1,19 @@
+{
+  "id": "30d0980a-3fad-4ef5-b076-753c407c6f1e",
+  "date": "2010-10-31",
+  "summary": "Climber fell approximately 20 feet while scrambling to retrieve a stuck rappel rope on the Upper Bihedral Wall; arm, shoulder, and internal injuries; helicopter evacuation.",
+  "location": "Boulder Canyon, Upper Bihedral Wall",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain Rescue Group, helicopter",
+  "source_urls": "https://publications.americanalpineclub.org/articles/13201105700",
+  "notes": "",
+  "peak": "Boulder Canyon",
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 112
+}

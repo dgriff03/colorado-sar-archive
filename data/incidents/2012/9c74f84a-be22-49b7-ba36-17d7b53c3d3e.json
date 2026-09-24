@@ -1,0 +1,19 @@
+{
+  "id": "9c74f84a-be22-49b7-ba36-17d7b53c3d3e",
+  "date": "2012-07-05",
+  "summary": "W.P. III, 51, of Arvada became separated from his family near the Sandbeach Lake campground in the Wild Basin region and was reported missing around 3:30 p.m. Thursday; rangers found him about 5 p.m. Friday after hearing him blow a rescue whistle, dried and warmed him on scene, and he walked roughly four-and-a-half miles out with rangers to the trailhead, then was transported to Estes Park Medical Center for non-emergency care.",
+  "location": "Sandbeach Lake campground, Wild Basin, Rocky Mountain National Park",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "NPS Rocky Mountain National Park rangers",
+  "source_urls": "http://npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "NPS morning-report compendium entry dated 2012-07-10; date = day reported missing (found Friday 2012-07-06).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Sandbeach Lake Campground",
+  "place_type": "campground",
+  "legacy_id": 2800
+}

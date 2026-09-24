@@ -1,0 +1,19 @@
+{
+  "id": "4e22a851-e09a-4434-8e43-fc6138ad9448",
+  "date": "2010-07-08",
+  "summary": "Single-engine American Champion crashed in heavy timber near Milner Pass/upper Forest Canyon; pilot J.M., 54, and his daughter T.M., 18, both of Wisconsin walked away with minor injuries, built shelter from debris and lit signal fires; located via CAP ELT signals, flown out by Grand Teton helicopter",
+  "location": "Milner Pass, Forest Canyon",
+  "county": "Larimer",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 2,
+  "responding_agency": "RMNP rangers, Civil Air Patrol",
+  "source_urls": "https://npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "NPS morning report (reported 2010-07-12): crash Thursday; wings folded back, cockpit intact; FAA/NTSB investigating",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Milner Pass",
+  "place_type": "pass",
+  "legacy_id": 2620
+}

@@ -1,0 +1,19 @@
+{
+  "id": "960c988d-4b5d-41aa-a228-95967798c015",
+  "date": "2025-12-11",
+  "summary": "24-year-old climber overdue on the multi-pitch Naked Edge route (5.11b) in Eldorado Canyon State Park after depleting all headlamp batteries and draining his cell phone battery; family called 911 at ~1:49 a.m. Thursday; Boulder Police Department drone located him and Rocky Mountain Rescue Group assisted him down the technical descent in a ~6-hour operation.",
+  "location": "Naked Edge, Eldorado Canyon State Park",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain Rescue Group; Boulder Police Department (drone); Boulder County Communications Center",
+  "source_urls": "https://unofficialnetworks.com/2025/12/12/climber-rescued-after-night-lost-in-colorado-state-park/",
+  "notes": "Boulder County safety reminder: tell someone your outdoor plans, establish check-in procedures, bring appropriate equipment.",
+  "peak": "Eldorado Canyon",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2660
+}

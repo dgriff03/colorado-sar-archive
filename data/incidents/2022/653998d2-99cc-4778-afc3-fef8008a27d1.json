@@ -1,0 +1,19 @@
+{
+  "id": "653998d2-99cc-4778-afc3-fef8008a27d1",
+  "date": "2022-06-11",
+  "summary": "Injured male hiker in the Chief Mountain area",
+  "location": "Chief Mountain",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2023/01/2022-Missions-Website.pdf",
+  "notes": "Injury mechanism not stated in log; ART mission 2022-035.",
+  "peak": "Chief Mountain",
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1081
+}

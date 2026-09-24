@@ -1,0 +1,19 @@
+{
+  "id": "067d7600-93f9-471f-899b-b3ff87c69486",
+  "date": "2024-07-19",
+  "summary": "Sick hiker near the 4WD parking area on South Colony; assisted Friday afternoon.",
+  "location": "South Colony 4WD parking area",
+  "county": "Custer",
+  "incident_type": "medical",
+  "outcome": "assisted",
+  "victims": 1,
+  "responding_agency": "Custer County SAR",
+  "source_urls": "https://www.facebook.com/CusterSAR/posts/pfbid0diZjnP6Yz7jZC1MXBWCT57eonVxPkZkW95ehjUpMh4D3qk8Fr2fsnrUxEfF6TbdSl",
+  "notes": "Source: Custer County SAR Facebook page. Companion post also covers the 2024-07-20 injured hiker.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "South Colony",
+  "place_type": "trailhead",
+  "legacy_id": 3717
+}

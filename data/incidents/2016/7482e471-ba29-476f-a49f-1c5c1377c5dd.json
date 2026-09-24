@@ -1,0 +1,19 @@
+{
+  "id": "7482e471-ba29-476f-a49f-1c5c1377c5dd",
+  "date": "2016-02-28",
+  "summary": "Four missing parties (one adult and three children) in the Golden Watershed area",
+  "location": "Golden Watershed area",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 4,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-20.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Golden Watershed",
+  "place_type": "open_space",
+  "legacy_id": 2054
+}

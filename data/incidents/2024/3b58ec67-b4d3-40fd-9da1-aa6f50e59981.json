@@ -1,0 +1,19 @@
+{
+  "id": "3b58ec67-b4d3-40fd-9da1-aa6f50e59981",
+  "date": "2024-04-24",
+  "summary": "Injured climber in Clear Creek Canyon at the Cat Slab area",
+  "location": "Cat Slab (Clear Creek Canyon)",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "Injury mechanism not stated in log; ART mission 2024-031.",
+  "peak": "Clear Creek Canyon",
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1354
+}

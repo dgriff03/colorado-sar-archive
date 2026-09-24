@@ -1,0 +1,19 @@
+{
+  "id": "5c221487-1501-4b8a-94af-284e15950d88",
+  "date": "2016-01-21",
+  "summary": "Daniel Bradly (Brad) Sethness, 32, of Crested Butte, killed in an avalanche near the eastern flank of the south bowl of Ruby Mountain at treeline near Kebler Pass; the slide broke loose while the group used a snowmobile to tow a snowboarder off a jump, and Sethness was carried to a tree well; Irwin Guides and party members dug him out and continued CPR during transport to Gunnison Valley Hospital, where he died at ~10 p.m.",
+  "location": "near Crested Butte",
+  "county": "Gunnison",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Crested Butte Search and Rescue (standby); Irwin Guides; Crested Butte EMTs",
+  "source_urls": "https://avalanche-center.org/Incidents/2015-16/|https://crestedbuttenews.com/2016/01/avalanche-resulting-in-death-of-one/|https://classic.avalanche.state.co.us/caic/acc/acc_co.php|https://crestedbuttenews.com/2016/01/local-man-killed-in-avalanche-northwest-of-crested-butte/",
+  "notes": "Reported in avalanche-center 2015-16 season index Victim count corrected 2026-09-11: the CBN account (\"Avalanche resulting in death of one\") and KVNf both report a single victim; the avalanche-center index entry that read \"two killed\" was conflated. Slide ~2:00 p.m., avalanche danger Considerable (3). Run 61 CAIC merge: CAIC 2015-16 season table row — 2 caught, 1 partially buried uninjured, 1 fully buried and killed, Ruby Peak, Ruby Range west of Crested Butte.",
+  "peak": "Kebler Pass",
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 288
+}

@@ -1,0 +1,19 @@
+{
+  "id": "1efbe276-7ae7-4f96-80c2-a697c4e28e2d",
+  "date": "2020-06-07",
+  "summary": "Havili Aho, 26, of Colorado Springs died in a swimming accident at Lake Pueblo State Park; he was airlifted from the lake and pronounced dead at a local hospital, preliminary cause drowning",
+  "location": "Lake Pueblo State Park",
+  "county": "Pueblo",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Colorado Parks and Wildlife rangers; airlift crew; Pueblo County Coroner",
+  "source_urls": "https://www.beaconjournal.com/story/news/local/2020/06/09/pueblo-crime-beat-swimming-accident-claims-life/113439856/",
+  "notes": "Pueblo Chieftain/Beacon Journal crime-beat story dated 2020-06-09 ('On Sunday') parent-opened this run; incident date = the Sunday before publication, 2020-06-07. Zero Lake-Pueblo-2020 rows before insertion.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Lake Pueblo State Park",
+  "place_type": "lake",
+  "legacy_id": 2982
+}

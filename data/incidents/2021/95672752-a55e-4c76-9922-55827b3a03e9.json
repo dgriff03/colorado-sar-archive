@@ -1,0 +1,19 @@
+{
+  "id": "95672752-a55e-4c76-9922-55827b3a03e9",
+  "date": "2021-06-01",
+  "summary": "32-year-old male suffered a lower leg injury slipping and falling on snow near Loch Vale; RMNP hasty team reached him ~8:30 a.m. and a 20-member RMNP SAR litter team plus an Estes Park Health paramedic carried him out, arriving Glacier Gorge Trailhead ~3:40 p.m.; ambulance to Estes Park Health; neither patient in that day's two incidents wore traction devices",
+  "location": "Loch Vale, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park SAR",
+  "source_urls": "https://rockymountaindayhikes.com/rmnp-updates/archives/06-2021",
+  "notes": "SNIPPET-FREE: full RMNP News Release June-4-2021 text captured from the Rocky Mountain Day Hikes June-2021 archive open (2026-09-13); RMNP jurisdiction, coded Larimer per the RMNP-east-side convention.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Rocky Mountain National Park",
+  "place_type": "park",
+  "legacy_id": 2508
+}

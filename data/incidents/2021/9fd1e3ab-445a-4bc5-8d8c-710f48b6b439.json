@@ -1,0 +1,19 @@
+{
+  "id": "9fd1e3ab-445a-4bc5-8d8c-710f48b6b439",
+  "date": "2021-08-25",
+  "summary": "Subject at Macey Lake having a medical emergency; evacuated by Flight for Life",
+  "location": "Macey Lake",
+  "county": "Custer",
+  "incident_type": "medical",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Custer County SAR + Flight for Life",
+  "source_urls": "https://custersar.org/macey-lake-medical-mission/",
+  "notes": "Medical emergency; air evacuated to care",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Macey Lake",
+  "place_type": "lake",
+  "legacy_id": 1009
+}

@@ -1,0 +1,19 @@
+{
+  "id": "035470b4-e303-4b87-a90a-fb678ceec17d",
+  "date": "2010-06-26",
+  "summary": "68-year-old New Mexico woman killed when her SUV rolled over her on the Dunes Parking Lot entrance road: she leaned back into the driver's door to unlock the rear hatch, knocked the transmission into neutral, and the vehicle rolled backward; she fell from it and the front left tire rolled over her. Ranger + firefighter/EMT resuscitation efforts were unsuccessful.",
+  "location": "Dunes Parking Lot entrance road, Great Sand Dunes National Park",
+  "county": "Alamosa",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "NPS rangers + Bandelier Fire Module firefighter/EMTs; Colorado State Patrol (accident reconstruction)",
+  "source_urls": "http://npshistory.com/morningreport/incidents/grsa.htm",
+  "notes": "NPS morning-report compendium entry dated 2010-07-01; victim identified by initials M.A., 68, of Algodones, NM; her husband and two grandchildren were present and uninjured.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Great Sand Dunes National Park",
+  "place_type": "park",
+  "legacy_id": 2779
+}

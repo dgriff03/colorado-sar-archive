@@ -1,0 +1,19 @@
+{
+  "id": "85ea8085-9b8e-46f8-852a-7c270d3183af",
+  "date": "2025-09-06",
+  "summary": "Hiker with a lower leg injury near the summit of Mount Bierstadt airlifted by Flight for Life after multiple rescue deployment flights",
+  "location": "Mount Bierstadt (near summit)",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Flight For Life Colorado, Jeffcom 911",
+  "source_urls": "https://www.facebook.com/AlpineRescue/posts/pfbid02kSKYkAErAENPddbZAnHjCdP8A4aKkNKReSJJjXZW9Zp76DbaK9yk9CmhXJHEt65cl",
+  "notes": "Injury mechanism not specified; Saturday mission, posted 2025-09-07; same day the team raced Devil on the Divide",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1652
+}

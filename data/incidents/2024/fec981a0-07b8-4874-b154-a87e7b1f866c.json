@@ -1,0 +1,19 @@
+{
+  "id": "fec981a0-07b8-4874-b154-a87e7b1f866c",
+  "date": "2024-08-31",
+  "summary": "Assist to Grand County with two rescue techs for a stranded climber on Mount Toll",
+  "location": "Mount Toll",
+  "county": "Grand",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Grand County SAR",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "County unverified; ART mission 2024-119.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Mount Toll",
+  "place_type": "peak",
+  "legacy_id": 1464
+}

@@ -1,0 +1,19 @@
+{
+  "id": "d8f8b335-9a59-438e-91b6-d97278f63799",
+  "date": "2026-06-12",
+  "summary": "Lost hiker in the south Larkspur / Palmer Lake area; foot, K9, UAV and ATV teams; found and OK; mutual aid with El Paso County SAR and Palmer Lake Firefighters Association.",
+  "location": "South Larkspur / Palmer Lake area",
+  "county": "Douglas",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Douglas County SAR; El Paso County SAR; Palmer Lake Firefighters Association",
+  "source_urls": "https://www.facebook.com/DouglasCountySearchAndRescue/posts/pfbid027z8rPoHvkwNvXkR1w8gtZgmBvU4YzDBp6GGzjgo33bbrdSoraK83VdZnxAeBnEwPl",
+  "notes": "",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Larkspur",
+  "place_type": "town",
+  "legacy_id": 3635
+}

@@ -1,0 +1,19 @@
+{
+  "id": "f23a3c98-f699-4fbd-810b-7ae3dbe13d66",
+  "date": "2026-08-17",
+  "summary": "Adult male leaving a building laundry room at an apartment complex near Eagle-Vail was swiped by a female black bear, scratching his arm; he tripped and injured his foot while escaping; treated at a medical facility and released.",
+  "location": "Apartment complex near Eagle-Vail",
+  "county": "Eagle",
+  "incident_type": "animal",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Colorado Parks and Wildlife",
+  "source_urls": "https://cpw.state.co.us/news/08182026/cpw-responds-bear-attack-eagle-county",
+  "notes": "CPW 8/18/2026 release; sow with cubs suspected; bear trap set; drought/hyperphagia context; record 2026 bear year.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Eagle-Vail",
+  "place_type": "other",
+  "legacy_id": 3565
+}

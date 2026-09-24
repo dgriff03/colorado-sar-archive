@@ -1,0 +1,19 @@
+{
+  "id": "667bcd16-bdce-4e04-9433-faada30df0e9",
+  "date": "2016-02-14",
+  "summary": "Stranded snow machines in the Jones Pass area; two-day response",
+  "location": "Jones Pass area",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Alpine 2016 Missions PDF item 16-13/14. Assist to CCCSO day 1; rider count unstated, recorded as 1",
+  "peak": "Jones Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2049
+}

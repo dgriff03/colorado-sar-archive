@@ -1,0 +1,19 @@
+{
+  "id": "6d03faad-fd1e-4ed2-808d-03b52c9e4ead",
+  "date": "2018-02-25",
+  "summary": "Gabriel Wright, 47, of Telluride, a professional-level backcountry snowboarder, was found unresponsive and pulseless in Bear Creek backcountry below Nellie Mine on 2018-02-25; third of three descending ~2pm, he had an unwitnessed fatal event; friends performed CPR for at least 30 minutes without revival. Evidence suggested he clipped a rock at speed and struck a small log under the snow. SAR extricated the body by helicopter (assisted by Olathe Spray Helicopter); no avalanche was involved.",
+  "location": "Bear Creek backcountry, below Nellie Mine, Telluride",
+  "county": "San Miguel",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "San Miguel County Sheriff's Office SAR, Olathe Spray Helicopter",
+  "source_urls": "https://sanmiguelcountyco.gov/CivicAlerts.aspx?AID=258&ARC=650",
+  "notes": "Run 19 (San Miguel County SO news alerts). Release dated 2018-02-25. Victim 47-year-old Telluride man, professional-level backcountry boarder, third of three descending Nellie Mine ~2pm when he had an unwitnessed fatal event. Content read from search crawl of the alert page (browser.open unavailable this run). Run 236 re-check of the same sheriff release (AID=258&ARC=650) confirmed the victim's identity as 47-year-old Gabriel Wright of Telluride via the coroner's confirmation; summary enriched with name. No new row — already indexed.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Bear Creek",
+  "place_type": "creek",
+  "legacy_id": 2197
+}

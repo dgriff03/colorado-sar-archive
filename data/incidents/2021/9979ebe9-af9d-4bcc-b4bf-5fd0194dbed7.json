@@ -1,0 +1,19 @@
+{
+  "id": "9979ebe9-af9d-4bcc-b4bf-5fd0194dbed7",
+  "date": "2021-09-10",
+  "summary": "Hiker cliffed out just below the summit of Ellingwood Point called for help and stayed put overnight in contact with dispatch; an AVSAR hasty team made contact at first light and hiked him down to South Zapata Lake.",
+  "location": "Ellingwood Point (just below summit)",
+  "county": "Alamosa",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alamosa Volunteer Search & Rescue (AVSAR); Alamosa County Sheriff's Office; Care Connect Helicopter (La Junta)",
+  "source_urls": "https://www.avsar.us/09-10-11-cliffed-out-hiker-on-ellingwood-point/",
+  "notes": "AVSAR mission log 'Cliffed Out Hiker on Ellingwood Point - Sept. 10-11, 2021'; located via cell-phone signal; stayed put through a cold night, walked out to South Zapata Lake.",
+  "peak": "Ellingwood Point",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3022
+}

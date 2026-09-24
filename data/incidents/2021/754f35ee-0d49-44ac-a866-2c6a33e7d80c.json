@@ -1,0 +1,19 @@
+{
+  "id": "754f35ee-0d49-44ac-a866-2c6a33e7d80c",
+  "date": "2021-07-03",
+  "summary": "Two male climbers cliffed-out while descending Crestone Needle; technical rope rescue, then descended on their own",
+  "location": "Crestone Needle",
+  "county": "Custer",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Custer County SAR + Saguache SAR + DFPC Canon Helitack",
+  "source_urls": "https://custersar.org/missions-on-crestone-needle-and-crestone-peak/",
+  "notes": "Same-day dual missions on the Crestone group",
+  "peak": "Crestone Needle",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 972
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2eb653e7-0e52-4129-9f79-355b1d061f42",
+  "date": "2022-07-05",
+  "summary": "Disoriented Jeeper failed to reunite with his group at their campground and left his phone in Telluride. Four OMRT field teams deployed across the area between Camp Bird Road and Hwy 550; the Jeep was spotted stopped in construction on Hwy 550 near the Engineer Pass turnoff and the driver was identified uninjured.",
+  "location": "Between lower Camp Bird Road and Hwy 550",
+  "county": "Ouray",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Ouray Mountain Rescue Team",
+  "source_urls": "https://www.ouraymountainrescue.com/new-page-1",
+  "notes": "Driver had no phone; Jeep found in construction zone on Hwy 550.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Hwy 550",
+  "place_type": "road",
+  "legacy_id": 2161
+}

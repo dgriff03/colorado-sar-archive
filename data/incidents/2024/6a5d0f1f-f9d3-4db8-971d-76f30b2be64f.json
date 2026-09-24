@@ -1,0 +1,19 @@
+{
+  "id": "6a5d0f1f-f9d3-4db8-971d-76f30b2be64f",
+  "date": "2024-02-04",
+  "summary": "Avalanche on Russell Peak near Berthoud Pass",
+  "location": "Russell Peak (Berthoud Pass)",
+  "county": "Clear Creek",
+  "incident_type": "avalanche",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "Log spells \"Russel Peak\"; burial/subject not confirmed in log; ART mission 2024-008.",
+  "peak": "Berthoud Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1331
+}

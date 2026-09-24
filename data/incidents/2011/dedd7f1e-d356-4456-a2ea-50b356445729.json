@@ -1,0 +1,19 @@
+{
+  "id": "dedd7f1e-d356-4456-a2ea-50b356445729",
+  "date": "2011-06-30",
+  "summary": "Deanna Miller crushed by a toppled boulder during lightning weather on Mount Princeton",
+  "location": "Mount Princeton",
+  "county": "Chaffee",
+  "incident_type": "rockfall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://100summits.com/articles/colorado-mountaineering-deaths/item/239-2011-colorado-mountaineering-deaths|https://www.coloradocentralmagazine.com/regional-news-roundup-6/",
+  "notes": "Boulder toppled during lightning weather Merged run 611: Colorado Central Magazine regional roundup (parent-opened) corroborates June 30 death of Deanna Miller, 30, on Mt. Princeton — boulder tumbled onto her during a lightning storm; companion's CPR failed (citing the Pueblo Chieftain).",
+  "peak": "Mount Princeton",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 138
+}

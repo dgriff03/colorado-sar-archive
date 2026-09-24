@@ -1,0 +1,19 @@
+{
+  "id": "0941e1db-fe3f-4164-8178-15819bb04159",
+  "date": "2026-03-07",
+  "summary": "Two hikers forced to bivouac near the summit of 14,075-ft Mt. Columbia after windblown snow crystals blinded one of them; overnight ski/snowshoe rescue, both escorted off with minor injuries",
+  "location": "Mt. Columbia (14,075 ft)",
+  "county": "Chaffee",
+  "incident_type": "lost/stranded",
+  "outcome": "injury",
+  "victims": 2,
+  "responding_agency": "Chaffee County SAR North",
+  "source_urls": "https://thenextsummit.org/blown-snow-crystals-lead-to-overnight-rescue-on-14075-foot-mount-columbia/",
+  "notes": "Seven-hour overnight rescue; clear of field 4:28am",
+  "peak": "Mount Columbia",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1702
+}

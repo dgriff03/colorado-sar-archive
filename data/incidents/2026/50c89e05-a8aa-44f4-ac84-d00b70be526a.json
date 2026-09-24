@@ -1,0 +1,19 @@
+{
+  "id": "50c89e05-a8aa-44f4-ac84-d00b70be526a",
+  "date": "2026-02-13",
+  "summary": "Plane crash on Emerald Mountain; four fatalities",
+  "location": "Emerald Mountain",
+  "county": "Routt",
+  "incident_type": "vehicle",
+  "outcome": "fatality",
+  "victims": 4,
+  "responding_agency": "Routt County Search and Rescue",
+  "source_urls": "https://myemail.constantcontact.com/Far-Routt-Newsletter.html?soid=1139552188087&aid=GAA6PJ9k5IQ",
+  "notes": "Q1 2026 newsletter",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "ONE_LINER",
+  "place": "Emerald Mountain",
+  "place_type": "peak",
+  "legacy_id": 1698
+}

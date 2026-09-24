@@ -1,0 +1,19 @@
+{
+  "id": "be83955c-d5de-4b2a-b858-ccad82fce970",
+  "date": "2016-09-11",
+  "summary": "A 23-year-old woman suffered severe injuries after crashing her bike on the Betasso Loop trail. Rocky Mountain Rescue Group and Sugarloaf Fire responded, packaged her in a litter, and transported her to a helicopter landing zone just after noon for air-ambulance transfer. She was wearing a helmet at the time of the accident.",
+  "location": "Betasso Loop trail, Betasso Preserve, Boulder County",
+  "county": "Boulder",
+  "incident_type": "injury",
+  "outcome": "airlifted",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain Rescue Group",
+  "source_urls": "http://www.rockymountainrescue.org/whats-new/2016/9/14/transferring-an-injured-mountain-biker-into-an-air-ambulance",
+  "notes": "Resolves the standing 2016-09-11 dating lead (run 506). Date from RMRG's own dated report ('Sunday, September 11'; 2016-09-11 was Sunday).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3731
+}

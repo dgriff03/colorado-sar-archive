@@ -1,0 +1,19 @@
+{
+  "id": "38a8b3d2-8150-4e94-8edd-bfe395a79a62",
+  "date": "2021-08-19",
+  "summary": "Lost hikers in the Idaho Springs Reservoir area",
+  "location": "Idaho Springs Reservoir",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2022/02/2021-Missions-Website.pdf",
+  "notes": "Number of hikers not stated; ART mission 2021-091. Outcome re-coded from rescued-uninjured to assist: log does not state the subject's final outcome; number of subjects not stated, recorded as 1.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Idaho Springs Reservoir",
+  "place_type": "reservoir",
+  "legacy_id": 1003
+}

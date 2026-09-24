@@ -1,0 +1,19 @@
+{
+  "id": "707206b8-978f-4c89-bd91-8ce41e69f6e8",
+  "date": "2020-04-06",
+  "summary": "Overdue male skier in his fifties (local contractor's employee) who had texted his boss Saturday evening saying he was exhausted after skinning up Meadow Mountain and was going to hunker down in a snow cave for the night; more than 30 hours later he was still unheard from and his truck was still at the trailhead; 911 call came Monday morning; VMRG mustered three teams (snowmobiles to check three cabins, a drone crew, a K9 team) but before they deployed, an off-duty police officer skinning up the trail found the subject walking down, utterly spent but otherwise fine (lost/stranded, 1 victim, Eagle; Vail Mountain Rescue Group; 2020-04-06 = Monday, weekday-verified; source: Ted Katauskas 5280 'Viral Overload' essay, parent-opened this run — recovered working URL after the old 5280 link 404'd).",
+  "location": "Meadow Mountain (between Vail and Beaver Creek)",
+  "county": "Eagle",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Vail Mountain Rescue Group",
+  "source_urls": "https://5280.com/4-reflections-about-colorado-life-in-the-time-of-covid-19/",
+  "notes": "Run-658 VMRG chunk; closes the NEXT-VMRG Meadow Mountain 2020-04-06 lead (run 649).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Meadow Mountain",
+  "place_type": "peak",
+  "legacy_id": 3149
+}

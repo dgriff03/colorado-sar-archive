@@ -1,0 +1,19 @@
+{
+  "id": "94ad12a9-14fb-4af9-9bc1-b4e8c8d22211",
+  "date": "2017-03-05",
+  "summary": "Solo winter climber Ryan Montoya fell an estimated 1,000-2,000 feet from just below the Pyramid Peak summit after his foot punched through a cornice; he survived with a pelvis broken in three places and frostbitten fingers, dug snow caves during two unplanned nights out, and reached rescuers on the third day via the East Maroon Portal.",
+  "location": "Pyramid Peak, near summit / East Maroon Portal",
+  "county": "Pitkin",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://www.climbing.com/people/is-it-worth-it-climber-weighs-risks-after-massive-fall/ | https://facebook.com/groups/colorado14ers/permalink/7685777901450736/",
+  "notes": "Identified via the 2023-12-30 Colorado 14ers group thread; OP misremembered the peak as Capitol Peak and commenters corrected it to Pyramid Peak and named Montoya; solo winter attempt. | 2026-09-15: 14ers.com link removed per site ban; row retains other verified source(s).",
+  "peak": "Pyramid Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 345
+}

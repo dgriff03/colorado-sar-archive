@@ -1,0 +1,19 @@
+{
+  "id": "20a0c4f4-d6ac-4523-917b-1eba2c1b9060",
+  "date": "2019-06-06",
+  "summary": "Fatal 160-foot fall on Labby, Other Critters, Clear Creek Canyon, after belay miscommunication; Alpine Rescue Team, EMS, and sheriff response.",
+  "location": "Clear Creek Canyon, Other Critters/Labby",
+  "county": "Jefferson",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Clear Creek County EMS/Sheriff",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201215599",
+  "notes": "",
+  "peak": "Clear Creek Canyon",
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 652
+}

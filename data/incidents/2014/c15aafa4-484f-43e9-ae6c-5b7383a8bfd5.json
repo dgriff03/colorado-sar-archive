@@ -1,0 +1,19 @@
+{
+  "id": "c15aafa4-484f-43e9-ae6c-5b7383a8bfd5",
+  "date": "2014-09-21",
+  "summary": "Search for five stranded hikers in the Mt Bierstadt area (Alpine mission 14-104)",
+  "location": "Mt Bierstadt",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 5,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2015/01/2014-Missions-Website.pdf",
+  "notes": "Alpine Rescue Team 2014 annual mission summary PDF (one-line mission log; page date used as mission date).",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1940
+}

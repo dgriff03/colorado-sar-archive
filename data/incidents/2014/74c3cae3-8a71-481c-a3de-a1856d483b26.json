@@ -1,0 +1,19 @@
+{
+  "id": "74c3cae3-8a71-481c-a3de-a1856d483b26",
+  "date": "2014-05-04",
+  "summary": "Kristin Hopkins, 43, survived ~6 days upside-down in her wrecked car ~80 ft down an embankment, ~140 ft off U.S. Hwy 285 near mile marker 187.5 on the north side of Red Hill Pass; discovered ~2 p.m. Sunday May 4 by passersby (Hope and Andy Lombard of Fairplay); jaws-of-life extrication by North-West Fire; Flight for Life airlift to St. Anthony's Hospital (Lakewood); both feet amputated (crushed/trapped), head/face/chest/abdomen injuries, brain trauma, critical condition; reported missing to Douglas County SO April 29 (last seen April 27)",
+  "location": "Red Hill Pass, U.S. Highway 285 mile marker 187.5 (north side), Park County",
+  "county": "Park",
+  "incident_type": "vehicle",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Fairplay Police Department; North-West Fire; South Park Ambulance; Park County Sheriff's Office; Colorado State Patrol; Jefferson/Como Fire; Flight for Life",
+  "source_urls": "https://www.theflume.com/free_content/article_a6040094-d7a9-11e3-9a2f-0017a43b2370.html",
+  "notes": "Discovery/rescue date 2014-05-04 (Sunday-verified); crash occurred sometime after April 27 (last seen) — exact date unknown (article: 'unknown when the accident took place'); her umbrella messages read 'Six days without food and water...'. No SAR-team involvement — LE/fire/EMS response, consistent with DB vehicle rows without SAR involvement (e.g. id 3214 Rim Rock Drive, id 2392). Flume article parent-opened by parent before insert.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Red Hill Pass",
+  "place_type": "pass",
+  "legacy_id": 3344
+}

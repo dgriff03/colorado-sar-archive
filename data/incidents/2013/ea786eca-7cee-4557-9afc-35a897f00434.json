@@ -1,0 +1,19 @@
+{
+  "id": "ea786eca-7cee-4557-9afc-35a897f00434",
+  "date": "2013-06-29",
+  "summary": "Search for missing 15-year-old male in the Echo Lake area (Alpine mission 13-35)",
+  "location": "Echo Lake area",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/category/uncategorized/|https://alpinerescueteam.org/category/recent-missions/clear-creek-county/page/150/",
+  "notes": "One-line mission-log alert; outcome not reported in post | Merged 2026-09-10: Alpine Clear Creek County category archive (mission 13-35) confirms same incident; appended archive page URL.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1747
+}

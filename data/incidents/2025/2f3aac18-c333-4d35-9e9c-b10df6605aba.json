@@ -1,0 +1,19 @@
+{
+  "id": "2f3aac18-c333-4d35-9e9c-b10df6605aba",
+  "date": "2025-10-10",
+  "summary": "Lost male child in the Pine Valley Ranch area",
+  "location": "Pine Valley Ranch",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf",
+  "notes": "County unverified; ART mission 2025-129.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Pine Valley Ranch Park",
+  "place_type": "park",
+  "legacy_id": 1675
+}

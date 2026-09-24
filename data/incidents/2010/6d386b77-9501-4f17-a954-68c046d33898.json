@@ -1,0 +1,19 @@
+{
+  "id": "6d386b77-9501-4f17-a954-68c046d33898",
+  "date": "2010-06-10",
+  "summary": "Man fishing from his canoe on Marshall Lake capsized; found ~500 yards offshore clinging to the overturned canoe, waving for help. Rocky Mountain Fire performed a water rescue; paramedics found no injuries.",
+  "location": "Marshall Lake, 6600 block of Marshall Road",
+  "county": "Boulder",
+  "incident_type": "other",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office; Rocky Mountain Fire Rescue; Boulder Emergency Squad",
+  "source_urls": "https://archives.boulderweekly.com/news/police-blotter-canoe-save-me/",
+  "notes": "Date approximate: June 10 year era-pinned from the 2010 Boulder Weekly blotter cluster (no explicit year on page; adjacent June-5/May-26 items; Thursday June 10 = 2010-06-10). Type 'other' per DB canoe-incident convention (ids 160/353/2949/3153). Run 751 Boulder Weekly chunk; parent-opened.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Marshall Lake",
+  "place_type": "lake",
+  "legacy_id": 3273
+}

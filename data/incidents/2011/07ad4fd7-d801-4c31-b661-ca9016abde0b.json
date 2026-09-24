@@ -1,0 +1,19 @@
+{
+  "id": "07ad4fd7-d801-4c31-b661-ca9016abde0b",
+  "date": "2011-11-13",
+  "summary": "36-year-old woman fell while hiking the Ute Trail near Aspen with a friend; Mountain Rescue Aspen searched in the dark, carried her out with injuries and hypothermia, reaching the trailhead ~10 p.m.; taken to hospital.",
+  "location": "Ute Trail, Aspen",
+  "county": "Pitkin",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Pitkin County Sheriff's Office; Mountain Rescue Aspen",
+  "source_urls": "https://www.hmpgloballearningnetwork.com/site/emsworld/news/10450843/night-rescue-saves-injured-hiker-colorado",
+  "notes": "Friend called for help by cellphone; EMSWorld reprint of 2011 DenverChannel report.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Ute Trail",
+  "place_type": "trail",
+  "legacy_id": 3244
+}

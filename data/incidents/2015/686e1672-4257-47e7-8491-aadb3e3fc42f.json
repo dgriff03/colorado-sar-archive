@@ -1,0 +1,19 @@
+{
+  "id": "686e1672-4257-47e7-8491-aadb3e3fc42f",
+  "date": "2015-06-30",
+  "summary": "Overdue hiker on Torrey's Peak",
+  "location": "Torrey's Peak",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-40.",
+  "peak": "Torreys Peak",
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1986
+}

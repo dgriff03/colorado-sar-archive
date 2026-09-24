@@ -1,0 +1,19 @@
+{
+  "id": "30767e2a-77bd-435f-870a-544aab485a02",
+  "date": "2022-09-09",
+  "summary": "Deaf hunter on the Courthouse Trail from Cow Creek activated his SOS device, reporting dizziness and doubt he could reach his truck. Another hiker came across him and helped him on an hour-long hike to the trailhead; he was checked out and refused medical transport.",
+  "location": "Courthouse Trail from Cow Creek",
+  "county": "Ouray",
+  "incident_type": "medical",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Ouray Mountain Rescue Team",
+  "source_urls": "https://www.ouraymountainrescue.com/new-page-1",
+  "notes": "Medical episode; refused transport after assessment.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Courthouse Trail",
+  "place_type": "trail",
+  "legacy_id": 2168
+}

@@ -1,0 +1,19 @@
+{
+  "id": "a2a684f7-ee6a-4c6a-bf1a-9fa15445b9f0",
+  "date": "2022-07-06",
+  "summary": "Missing hikers along the Colorado Trail in Jefferson County",
+  "location": "Colorado Trail",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2023/01/2022-Missions-Website.pdf",
+  "notes": "Number of hikers not stated; recorded as 1; ART mission 2022-045.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Colorado Trail",
+  "place_type": "trail",
+  "legacy_id": 1092
+}

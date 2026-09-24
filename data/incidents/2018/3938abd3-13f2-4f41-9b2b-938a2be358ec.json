@@ -1,0 +1,19 @@
+{
+  "id": "3938abd3-13f2-4f41-9b2b-938a2be358ec",
+  "date": "2018-10-03",
+  "summary": "Two stuck climbers on Black Gold route near MM 259 on Hwy 6 (2018-111)",
+  "location": "Black Gold route near MM 259 on Hwy 6",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2019/01/2018-Missions-Website.pdf",
+  "notes": "ART mission 2018-111. Outcome not stated in PDF; presumed rescued-uninjured.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Black Gold",
+  "place_type": "climbing_area",
+  "legacy_id": 588
+}

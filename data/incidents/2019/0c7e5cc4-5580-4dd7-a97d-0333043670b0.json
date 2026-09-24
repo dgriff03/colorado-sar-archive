@@ -1,0 +1,19 @@
+{
+  "id": "0c7e5cc4-5580-4dd7-a97d-0333043670b0",
+  "date": "2019-07-10",
+  "summary": "61-year-old man fell about 200 feet while descending Maroon Peak with a four-person party; Mountain Rescue Aspen ground recovery and Colorado DFPC helicopter long-line extraction",
+  "location": "Maroon Peak",
+  "county": "Pitkin",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Mountain Rescue Aspen; Colorado DFPC helicopter",
+  "source_urls": "https://snowbrains.com/hiker-death-maroon-peak-colorado/|https://unofficialnetworks.com/2019/07/11/climber-death-maroon-peak/",
+  "notes": "Fall occurred Wednesday July 10 per July 11 report; first Aspen-area climbing death of the season",
+  "peak": "Maroon Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 676
+}

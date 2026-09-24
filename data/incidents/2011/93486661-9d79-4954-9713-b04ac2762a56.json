@@ -1,0 +1,19 @@
+{
+  "id": "93486661-9d79-4954-9713-b04ac2762a56",
+  "date": "2011-01-21",
+  "summary": "Van went airborne off Rim Rock Drive at mile marker 18 (east side), landing teetering on a rock pinnacle ~600 ft above the Red Canyon floor; driver extricated via 200-ft rope haul and flown by CareFlight to St. Mary's Hospital",
+  "location": "Rim Rock Drive, mile 18, Colorado National Monument",
+  "county": "Mesa",
+  "incident_type": "other",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "NPS rangers, Grand Junction Fire, Mesa County Technical Rescue, Glade Park VFD",
+  "source_urls": "https://www.firefighternation.com/leadership/driver-extricated-from-van-teetering-on-cliff-edge/",
+  "notes": "DATE APPROXIMATE — article gives only 'Jan. 21'; year ~2011 inferred from Chief Ranger Phil Akers' tenure. Thin-year hit. Incident-focused only.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Rim Rock Drive",
+  "place_type": "road",
+  "legacy_id": 2896
+}

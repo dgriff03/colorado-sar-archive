@@ -1,0 +1,19 @@
+{
+  "id": "1fb880d6-77a3-49be-9dc9-da2b6cbca136",
+  "date": "2013-06-08",
+  "summary": "Small plane crashed near the junction of the Medano Pass primitive road and Medano Lake Road in Great Sand Dunes National Park; pilot and one of two passengers killed, second passenger hospitalized. AVSAR assisted Saguache County SAR and the National Park Service with trailhead security and road control until FAA arrived; Flight for Life helicopters landed near the crash site, eliminating the need for a carry-out.",
+  "location": "Medano Lake area, Great Sand Dunes National Park",
+  "county": "Saguache",
+  "incident_type": "vehicle",
+  "outcome": "fatality",
+  "victims": 3,
+  "responding_agency": "Alamosa Volunteer SAR (assist to Saguache County SAR / National Park Service)",
+  "source_urls": "https://avsar.us/missions-from-2008-2015/|http://npshistory.com/morningreport/incidents/grsa.htm",
+  "notes": "AVSAR mission spanned 2013-06-08 to 2013-06-09. NPS morning report (2013-07-02 entry) confirms the pilot and one passenger were killed and the second passenger was hospitalized; NTSB/FAA investigated.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Medano Lake",
+  "place_type": "lake",
+  "legacy_id": 2515
+}

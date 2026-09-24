@@ -1,0 +1,19 @@
+{
+  "id": "7c3db055-63b1-47ff-812d-5c3baf63340a",
+  "date": "2025-06-08",
+  "summary": "Lost female party in the Carter Lake area of Gilpin County",
+  "location": "Carter Lake",
+  "county": "Gilpin",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf",
+  "notes": "County per log; ART mission 2025-048.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Carter Lake",
+  "place_type": "lake",
+  "legacy_id": 1586
+}

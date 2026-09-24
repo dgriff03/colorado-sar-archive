@@ -1,0 +1,19 @@
+{
+  "id": "b34694e5-6cc4-4136-a29d-64cb45822ef1",
+  "date": "2026-07-18",
+  "summary": "Climber on Quandary Peak's West Ridge fell ~30 ft then tumbled ~200 ft over sharp rock into a couloir; other hikers heard him calling for help; deputies and rescue group members shuttled partway by Flight for Life; National Guard Black Hawk hoisted him out to St. Anthony Summit Hospital with a broken leg and head injury",
+  "location": "Quandary Peak West Ridge",
+  "county": "Summit",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Summit County Rescue Group, Summit County Sheriff's Office, Flight for Life, CO Army National Guard",
+  "source_urls": "https://thenextsummit.org/quandary-peak-rescue-west-ridge-2026/|https://unofficialnetworks.com/2026/08/07/hiker-launches-fundraiser-search-and-rescue/",
+  "notes": "Occured three days after the July 15 east-ridge rescue in the same TNS article",
+  "peak": "Quandary Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1724
+}

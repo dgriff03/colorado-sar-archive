@@ -1,0 +1,19 @@
+{
+  "id": "3d1cf6f6-091e-4e00-941a-2e30398cc5f9",
+  "date": "2018-02-20",
+  "summary": "Two backcountry tourers were caught in an avalanche in \"Chute 4\" near Last Dollar Pass; one was fully buried, one partially buried, and one was injured.",
+  "location": "\"Chute 4\" near Last Dollar Pass",
+  "county": null,
+  "incident_type": "avalanche",
+  "outcome": "injury",
+  "victims": 2,
+  "responding_agency": null,
+  "source_urls": "https://classic.avalanche.state.co.us/caic/acc/acc_co.php",
+  "notes": "County left blank — CAIC one-liner ambiguous. Date Tuesday 2018-02-20.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Last Dollar Pass",
+  "place_type": "pass",
+  "legacy_id": 2446
+}

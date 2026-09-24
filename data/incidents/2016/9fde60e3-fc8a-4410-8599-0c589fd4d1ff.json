@@ -1,0 +1,19 @@
+{
+  "id": "9fde60e3-fc8a-4410-8599-0c589fd4d1ff",
+  "date": "2016-07-29",
+  "summary": "One injured and one stranded hiker near the summit of Torrey's Peak",
+  "location": "Torrey's Peak",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "One of the two victims was injured; the other was stranded. Injury mechanism not specified in the log.",
+  "peak": "Torreys Peak",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 317
+}

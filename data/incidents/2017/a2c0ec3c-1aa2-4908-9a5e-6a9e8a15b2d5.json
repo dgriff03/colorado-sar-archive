@@ -1,0 +1,19 @@
+{
+  "id": "a2c0ec3c-1aa2-4908-9a5e-6a9e8a15b2d5",
+  "date": "2017-06-24",
+  "summary": "An 18-year-old Kansas man rock-hopping on the Roaring River above the Alluvial Fan became stranded on the west side while family waited on the east side. Rangers judged the rescue complex enough to defer it overnight: he was given warm clothes, a sleeping bag and food, with a ranger staying across the river, and a highline operation Sunday morning brought him across by about 10:20 a.m.",
+  "location": "Roaring River above the Alluvial Fan",
+  "county": "Larimer",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "RMNP rangers; Estes Valley Fire Protection District dive/swiftwater team",
+  "source_urls": "http://npshistory.com/morningreport/incidents/romo.htm|https://www.nps.gov/romo/learn/news/pr_multiple_incidents_including_highline_rescue-_today.htm",
+  "notes": "NPS morning-report compendium entry (npshistory.com romo.htm), parent-opened and verified at run 580.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Roaring River",
+  "place_type": "river",
+  "legacy_id": 2992
+}

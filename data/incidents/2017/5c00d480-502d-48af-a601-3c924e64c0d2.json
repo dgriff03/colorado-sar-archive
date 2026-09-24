@@ -1,0 +1,19 @@
+{
+  "id": "5c00d480-502d-48af-a601-3c924e64c0d2",
+  "date": "2017-01-14",
+  "summary": "Five lost skiers near Chief Mtn (2017-03)",
+  "location": "Chief Mtn area",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 5,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2018/01/2017-Missions-Website.pdf",
+  "notes": "ART mission 2017-03. Outcome not stated in PDF; presumed rescued-uninjured.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Chief Mountain",
+  "place_type": "peak",
+  "legacy_id": 337
+}

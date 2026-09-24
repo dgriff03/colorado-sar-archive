@@ -1,0 +1,19 @@
+{
+  "id": "637311d4-4003-4cec-a67f-bcf78e9a2caa",
+  "date": "2015-12-17",
+  "summary": "Pair of snowmobilers on a self-guided Shrine Pass tour reported overdue by Nova Guides; located safe in Red Cliff after abandoning snowmobiles and walking out; out ~8:30 p.m.",
+  "location": "Shrine Pass / Red Cliff",
+  "county": "Eagle",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Vail Mountain Rescue Group",
+  "source_urls": "https://www.vaildaily.com/news/december-tallies-11-rescue-missions-in-vail-valley/",
+  "notes": "Dec-2015 VMRG mission digest; Nova Guides was the reporting party.",
+  "peak": "Shrine Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3105
+}

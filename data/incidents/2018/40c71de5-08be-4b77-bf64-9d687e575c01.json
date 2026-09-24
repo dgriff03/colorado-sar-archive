@@ -1,0 +1,19 @@
+{
+  "id": "40c71de5-08be-4b77-bf64-9d687e575c01",
+  "date": "2018-06-30",
+  "summary": "Brian Perri, 38, of Fort Collins went missing after summiting Mount Meeker on June 30; a 22.5-square-mile search used ground teams, dogs, helicopters and UAS; body found July 28 in steep terrain southwest of the summit",
+  "location": "Mount Meeker RMNP",
+  "county": "",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park SAR, Flight for Life, Larimer County SAR",
+  "source_urls": "https://www.nps.gov/romo/learn/news/body-found-believed-to-be-that-of-brian-perri.htm|https://snowbrains.com/colorado-man-missing-1-week-summiting-13916-mount-meeker-co/|https://www.nps.gov/romo/learn/news/recovery-efforts-completed-for-brian-perri.htm|https://www.nationalparkstraveler.org/2018/07/search-enters-day-three-missing-hiker-rocky-mountain-national-park|https://www.nationalparkstraveler.org/2018/11/longs-peak-popular-potentially-deadly-rocky-mountain-national-park-destination-2|https://www.nationalparkstraveler.org/2018/07/body-thought-be-missing-colorado-man-found-rocky-mountain-national-park|https://www.nationalparkstraveler.org/2018/07/man-who-went-missing-rocky-mountain-national-park-apparently-died-instantly-fall|https://www.nps.gov/romo/learn/news/update-on-today-s-search-efforts-for-missing-man-last-seen-on-mount-meeker.htm|https://www.facebook.com/lcsarinc/posts/pfbid02h7UAe6hqiyNwmm1PP24beuLhqNfQcEB54MLbCJjsqCis5MLNmjaf5ERAitgJuWrvl|https://www.facebook.com/lcsarinc/posts/pfbid0dZpyiw5Usk7ZtsGoXLqrjB7gz8hf7FvkhgYTyPjUVZshSEamZV3tJyiLvZmHqTW5l",
+  "notes": "Reported missing July 5 after texting a summit photo June 30; cause of death not stated in opened sources; county not verified MERGE run469: NPS July-31-2018 recovery release appended (body found by ranger responding to the separate Keplinger Couloir SPOT activation; 25-40 ft tumbling fall SW of Mount Meeker summit). | run-831 NPT corroboration URL appended (parent-opened). | run-831 NPT corroboration URL appended (parent-opened). 2026-09-22: merged LCSAR FB post permalink (LCSAR FB post: search for Brian Perri ongoing (Mount Meeker).).",
+  "peak": "Mount Meeker",
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 534
+}

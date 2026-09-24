@@ -1,0 +1,19 @@
+{
+  "id": "fd53f6d2-111e-4041-b88f-dbdfba32efeb",
+  "date": "2024-11-02",
+  "summary": "Solo hiker called for help near the summit of 14,075-ft Mount Columbia around 7:25 p.m., more than two hours after sunset; the subject reported being uninjured but extremely cold and unable to feel their feet, and was unprepared to spend the night on the mountain. CCSAR-N deployed a ground team with warming equipment and Flight for Life inserted a team member with warming supplies, but high winds ruled out a helicopter extraction; the inserted rescuer made contact and warmed the hiker, who was then walked out — mission complete 5:30 a.m. November 3.",
+  "location": "near the summit of Mt. Columbia (14,075 ft)",
+  "county": "Chaffee",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Chaffee County Search and Rescue North; Flight for Life",
+  "source_urls": "https://www.advnture.com/news/be-prepared-for-brutal-conditions-rescue-teams-aid-hiker-who-couldnt-feel-their-feet-on-frozen-colorado-summit-after-dark|https://unofficialnetworks.com/2024/11/05/solo-hiker-rescued-from-popular-colorado-14er/",
+  "notes": "Recorded at call date 2024-11-02 (Saturday, weekday-verified); mission completed 05:30 on 2024-11-03. Solo hiker identity not published. Cold-exposure/incipient frostbite but reported uninjured — classified rescued-uninjured. Surfaced via Mountain Mail rotation-chunk searches of Chaffee-area SAR stories (local MM coverage did not surface; both URLs opened this run).",
+  "peak": "Mount Columbia",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2589
+}

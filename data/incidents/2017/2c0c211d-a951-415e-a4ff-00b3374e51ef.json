@@ -1,0 +1,19 @@
+{
+  "id": "2c0c211d-a951-415e-a4ff-00b3374e51ef",
+  "date": "2017-12-14",
+  "summary": "Missing 87 YOM in Golden area; day 2 on 12/15; day 3 on 12/20 (2017-131, 2017-132, 2017-134)",
+  "location": "Golden area",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2018/01/2017-Missions-Website.pdf",
+  "notes": "ART missions 2017-131 (12/14), 2017-132 (12/15, day 2), 2017-134 (12/20, day 3). Outcome not stated; presumed rescued-uninjured.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Golden",
+  "place_type": "town",
+  "legacy_id": 479
+}

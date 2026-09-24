@@ -1,0 +1,19 @@
+{
+  "id": "8d09fbd4-0d0f-42d8-afee-e58026d16d3d",
+  "date": "2011-08-17",
+  "summary": "Michael Lepold died in a fall in the Kit Carson/Challenger area; Custer County SAR members found him after Saguache County notification",
+  "location": "Kit Carson/Challenger area",
+  "county": "Saguache",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Custer County Search and Rescue; Saguache County; Douglas County Search and Rescue",
+  "source_urls": "https://100summits.com/articles/colorado-mountaineering-deaths/item/239-2011-colorado-mountaineering-deaths|http://www.dcsarco.org/newsletters/DCSAR_NewsLetter_Q4_2011.pdf",
+  "notes": "County not verified MERGED run 94: DCSAR Belay On! (Nov 2011) \"710 Call Dispatch\" summer roundup lists \"recovery mission on Challenger Point in August, using winter gear and techniques\" — DCSAR assisted; corroborates Saguache County as mission county (county now set from \"not verified\").",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Kit Carson / Challenger",
+  "place_type": "other",
+  "legacy_id": 146
+}

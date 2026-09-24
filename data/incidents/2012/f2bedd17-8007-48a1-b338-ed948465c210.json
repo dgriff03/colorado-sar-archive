@@ -1,0 +1,19 @@
+{
+  "id": "f2bedd17-8007-48a1-b338-ed948465c210",
+  "date": "2012-04-04",
+  "summary": "39-year-old Indiana man fell about ten feet near Alberta Falls, suffering numerous traumatic injuries; park rangers and medics provided advanced medical care on scene, carried him by litter to Bear Lake Road, then ambulance; air ambulance flew him to Medical Center of the Rockies.",
+  "location": "Alberta Falls, Glacier Gorge, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "NPS Rocky Mountain National Park rangers/medics; Estes Park Medical Center ambulance; air ambulance",
+  "source_urls": "http://npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "NPS morning-report compendium entry dated 2012-04-06.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Alberta Falls",
+  "place_type": "waterfall",
+  "legacy_id": 2799
+}

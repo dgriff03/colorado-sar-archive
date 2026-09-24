@@ -1,0 +1,19 @@
+{
+  "id": "0060ce50-375e-477c-afea-5cda26a79fb1",
+  "date": "2010-07-11",
+  "summary": "Injured party in Three Sisters Park area (10-49)",
+  "location": "Three Sisters Park area",
+  "county": "Jefferson",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-49. Cause of injury not stated.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Three Sisters Park",
+  "place_type": "park",
+  "legacy_id": 51
+}

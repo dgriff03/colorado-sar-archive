@@ -1,0 +1,19 @@
+{
+  "id": "c69a7e79-692f-4027-83ec-6e119716ee6e",
+  "date": "2015-08-15",
+  "summary": "Sick 27-year-old male in the Silver Dollar Lakes area (Code 3 page)",
+  "location": "Silver Dollar Lakes",
+  "county": "Clear Creek",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-82.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Silver Dollar Lakes",
+  "place_type": "lake",
+  "legacy_id": 2012
+}

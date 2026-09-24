@@ -1,0 +1,19 @@
+{
+  "id": "23965a97-0031-4858-8711-9baac8c0551a",
+  "date": "2019-08-12",
+  "summary": "Beth Skelley, 56, of Lafayette died when a tree fell on her tent late Monday night on the Colorado Trail just under Grizzly Peak, northwest of Engineer Mountain, while hiking with two friends (unharmed); San Juan County and La Plata County SAR responded with Flight for Life air support, revival attempts failed, and her remains were transported out Tuesday.",
+  "location": "Colorado Trail, just under Grizzly Peak NW of Engineer Mountain",
+  "county": "San Juan",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "San Juan County SAR; La Plata County SAR; Flight for Life (Mercy Medical Center)",
+  "source_urls": "https://snowbrains.com/hiker-killed-tree-fell-tent-colorado/",
+  "notes": "2019-08-12 = Monday (weekday-verified); incident date per San Juan County SO statement; mined run 809 SnowBrains chunk.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Colorado Trail",
+  "place_type": "trail",
+  "legacy_id": 3334
+}

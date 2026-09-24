@@ -1,0 +1,19 @@
+{
+  "id": "bce9867e-52ea-4791-b33c-0cdeddf5e180",
+  "date": "2022-08-12",
+  "summary": "Lost mushroom hunter near Saint Charles Peak; found uninjured and walked out with ground teams",
+  "location": "Near Saint Charles Peak, Wet Mountains",
+  "county": "Custer",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Custer County SAR",
+  "source_urls": "https://custersar.org/5830-2/|https://www.facebook.com/CusterSAR/posts/pfbid0xLSAxMv4hmA4hR8dU9fZGu4CGRpMKJpNAh87BtPwMxvqsL4mH6GWh8hibDD6gEaAl",
+  "notes": "Out of water and cold; regained trail with teams",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Saint Charles Peak",
+  "place_type": "peak",
+  "legacy_id": 1124
+}

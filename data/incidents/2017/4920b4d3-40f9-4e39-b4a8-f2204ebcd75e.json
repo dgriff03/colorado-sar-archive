@@ -1,0 +1,19 @@
+{
+  "id": "4920b4d3-40f9-4e39-b4a8-f2204ebcd75e",
+  "date": "2017-06-28",
+  "summary": "Hiker fell 400 ft at St Marys Glacier; second hiker fell trying to reach injured friend (2017-49)",
+  "location": "St Marys Glacier",
+  "county": "Clear Creek",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2018/01/2017-Missions-Website.pdf",
+  "notes": "ART mission 2017-49.",
+  "peak": "James Peak",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 388
+}

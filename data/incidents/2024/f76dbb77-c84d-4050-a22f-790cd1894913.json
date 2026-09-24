@@ -1,0 +1,19 @@
+{
+  "id": "f76dbb77-c84d-4050-a22f-790cd1894913",
+  "date": "2024-06-10",
+  "summary": "A lone individual activated an emergency distress signal about five miles south of the lower South Fork creek trailhead and was trapped on the side of a mountain, unable to move up or down due to high, fast water. A four-man SAR team and a two-man ground team got within two miles of the GPS coordinates but could not cross the creek; a Classic Air Medical helicopter out of Los Alamos, NM searched two hours without locating him. A Flight for Life helicopter from Durango located him, dropped provisions for the night, and returned the next morning to extract him, completing the mission at 9:50 a.m.",
+  "location": "~5 mi south of the lower South Fork creek trailhead",
+  "county": "Conejos",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Conejos County Sheriff's Office; Conejos County Search and Rescue; USFS law enforcement; Classic Air Medical; Flight for Life",
+  "source_urls": "https://www.conejoscountycitizen.com/stories/high-water-stalls-rescue-brings-warnings,21810",
+  "notes": "Year inferred: June 10 fell on a Monday in 2024 (matching the article's notification-Monday / stalled-Monday / FFL-5:45-p.m. / extraction-Tuesday sequence), and the Citizen's story ID places it between its Feb-2024 and Jul-2024 stories. Recorded at the distress-signal date.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "South Fork Creek Trailhead",
+  "place_type": "trailhead",
+  "legacy_id": 2386
+}

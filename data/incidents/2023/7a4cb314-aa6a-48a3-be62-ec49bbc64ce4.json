@@ -1,0 +1,19 @@
+{
+  "id": "7a4cb314-aa6a-48a3-be62-ec49bbc64ce4",
+  "date": "2023-05-03",
+  "summary": "Edna Quintana, 55, last seen May 3, 2023 while rock hunting on foot near County Road 46AA in the Saguache area; CBI issued an endangered missing alert May 17, 2023 (medical issues, concern for her health); extensive multi-agency search by the Saguache County Sheriff's Office and the Colorado Bureau of Investigation; remains found by a hiker in a remote area of Saguache County on June 17, 2025, recovered with CBI crime-scene analysts and two cadaver-dog teams, identified by the El Paso County Coroner on June 25, 2025; cause of death under investigation",
+  "location": "County Road 46AA, Saguache area",
+  "county": "Saguache",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Saguache County Sheriff's Office; Colorado Bureau of Investigation",
+  "source_urls": "https://www.alamosacitizen.com/human-remains-found-in-saguache-county-officials-seek-publics-help/|http://www.alamosacitizen.com/remains-of-missing-woman-found-in-saguache-county/|https://cbi.colorado.gov/news-article/human-remains-found-in-remote-area-confirmed-to-be-edna-quintana|https://www.themountainmail.com/news/a-hiker-discovers-edna-quintanas-remains-in-saguache-county/article_4ff36581-7374-4ba9-9ee5-99dce0310049.html|https://www.montevistajournal.com/stories/remains-identified-as-edna-quintana-found-in-remote-saguache-county,91345|https://www.delnorteprospector.com/stories/remains-identified-as-edna-quintana-found-in-remote-saguache-county,91345",
+  "notes": "Row date is the last-seen date (2023-05-03, Wednesday). During the 2023 search, unrelated unidentified male skeletal remains were found ~2023-07-26 in the foothills west of Saguache Peak off CR 46AA (coroner case, not indexed). Inserted run 686. | run-694 merge: Mountain Mail 'Hiker discovers Edna Quintana's remains' (CBI June-27 release; remains found June 17, ID'd June 25 by El Paso Co coroner). | run 718: MVJ remains-ID piece merged (remains found 2025-06-17 by hiker; ID confirmed 2025-06-25 by El Paso County Coroner; parent-opened) | Merged 2026-09-17 (run 815): Del Norte Prospector sister-pub version of the same Valley Publishing story slug 91345 (Warwick quotes; Morphew clarification) appended to source_urls.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "County Road 46AA",
+  "place_type": "road",
+  "legacy_id": 3207
+}

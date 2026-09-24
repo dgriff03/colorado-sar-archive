@@ -1,0 +1,19 @@
+{
+  "id": "437128f1-0878-4053-8522-8dc4dd0f7310",
+  "date": "2014-08-09",
+  "summary": "Piper PA-28R-201 N3509M on an instructional mountain-flying flight from Steamboat Springs to Boulder impacted mountainous terrain ~12 miles southeast of Steamboat Springs near Rabbit Ears Pass (~9,100 ft); instructor William Earl Allen, 62, and student pilot Terry Stewart, 60, were fatally injured. An ALNOT was issued at 1720 when the flight was overdue; search initiated and the wreckage was located at 2146 the same day.",
+  "location": "near Rabbit Ears Pass, ~12 mi southeast of Steamboat Springs",
+  "county": "Routt",
+  "incident_type": "vehicle",
+  "outcome": "fatality",
+  "victims": 2,
+  "responding_agency": "",
+  "source_urls": "https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateFactualReport/89833/pdf",
+  "notes": "Fills Routt County's zero-row year 2014 (run 677). NTSB factual report CEN14FA414 parent-opened; responding agency unnamed in report (search initiated via ALNOT). Location coords 40.34111,-106.712776 (Routt side of Rabbit Ears Pass).",
+  "peak": "Rabbit Ears Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3203
+}

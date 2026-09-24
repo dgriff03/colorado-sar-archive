@@ -1,0 +1,19 @@
+{
+  "id": "44e4fc13-8117-43b2-9f8f-f16484e048f4",
+  "date": "2019-10-15",
+  "summary": "Man killed when his car went over the edge of Rim Rock Drive near the Cold Shivers Point overlook and plunged ~450 ft; an interagency SAR team spent about five hours extracting his body from the vehicle.",
+  "location": "Rim Rock Drive near Cold Shivers Point",
+  "county": "Mesa",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "NPS; Mesa County Sheriff's Office; Mesa County Search and Rescue (technical ropes/communications); Colorado State Patrol; Grand Junction FD; Glade Park VFD",
+  "source_urls": "http://npshistory.com/morningreport/incidents/colm.htm|https://www.nps.gov/colm/learn/news/rim-rock-drive-closure-december-2019.htm|http://npshistory.com/morningreport/2019/v3n36.pdf",
+  "notes": "Source cited in the compendium: OutThereColorado.com; cause under investigation. | Merged run 771: NPS COLM Dec-2019 Rim Rock closure release (David Russell vehicle removal; release pins incident to 2019-10-18 vs row date 2019-10-15 — curation date-pin review).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Rim Rock Drive",
+  "place_type": "road",
+  "legacy_id": 2788
+}

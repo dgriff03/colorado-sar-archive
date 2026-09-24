@@ -1,0 +1,19 @@
+{
+  "id": "b2a4a9b7-0f04-4700-8e09-a9304d9fae5e",
+  "date": "2025-07-06",
+  "summary": "Assist to Park County with a rescue of an injured 34-year-old man in the Lost Creek Wilderness area",
+  "location": "Lost Creek Wilderness",
+  "county": "Park",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Park County SAR",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf",
+  "notes": "Injury mechanism not stated in log; ART mission 2025-065.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Lost Creek Wilderness",
+  "place_type": "wilderness",
+  "legacy_id": 1607
+}

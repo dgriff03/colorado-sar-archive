@@ -1,0 +1,19 @@
+{
+  "id": "0ec74254-1550-4c21-b7e9-7a57bd6ff270",
+  "date": "2017-10-29",
+  "summary": "Missing 61 YOM in Pleasant Park area; day 2 on 11/3 (2017-118, 2017-121)",
+  "location": "Pleasant Park area",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2018/01/2017-Missions-Website.pdf",
+  "notes": "ART missions 2017-118 (10/29) and 2017-121 (11/3, day 2). Outcome not stated; presumed rescued-uninjured.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Pleasant Park",
+  "place_type": "park",
+  "legacy_id": 470
+}

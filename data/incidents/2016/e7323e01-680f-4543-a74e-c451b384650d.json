@@ -1,0 +1,19 @@
+{
+  "id": "e7323e01-680f-4543-a74e-c451b384650d",
+  "date": "2016-07-06",
+  "summary": "17-year-old boy went missing while swimming without a flotation device in the Colorado River near Grand Junction; a four-boat search (32 1/2 Road to 29 Road) transitioned to recovery the same evening.",
+  "location": "Colorado River, 32 1/2 Road to 29 Road, Grand Junction/Clifton area",
+  "county": "Mesa",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Mesa County Sheriff's Office; Colorado Parks and Wildlife; Grand Junction Police Department; Clifton Fire Department",
+  "source_urls": "https://kool1079.com/missing-teen-colorado-river/|https://kool1079.com/body-recovered-colorado-river-fruita/",
+  "notes": "Occurrence-date convention (go-missing date, cf. id 3216/3218). LINKAGE QUESTION (curation pass only): an unidentified male body recovered 2016-07-10 from the Colorado River between Fruita and the Loma boat launch (MCSO + Mesa County SAR + BLM + Lower Valley Fire + coroner recovery) may be the missing teen, but the July-10 article explicitly says identity is unconfirmed. Single row carries both facts; do not split without confirmation.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Colorado River",
+  "place_type": "river",
+  "legacy_id": 3239
+}

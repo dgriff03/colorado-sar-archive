@@ -1,0 +1,19 @@
+{
+  "id": "a4348112-1264-4e8f-bb19-b795c4838f15",
+  "date": "2016-07-24",
+  "summary": "Woman (~38) slipped on wet rocks at Zapata Falls, hip injury; 4-wheeler evac to SLV Health",
+  "location": "Zapata Falls",
+  "county": "Alamosa",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alamosa Volunteer SAR",
+  "source_urls": "https://www.avsar.us/missions-from-2016/",
+  "notes": "Sunday-verified (page: 'Sunday evening'); injured at base of the falls, EMTs rendered aid until 4-wheeler arrived; run 804",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Zapata Falls",
+  "place_type": "waterfall",
+  "legacy_id": 3317
+}

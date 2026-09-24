@@ -1,0 +1,19 @@
+{
+  "id": "70fd9526-98f4-4dbe-ae6b-cf67623eb025",
+  "date": "2024-04-21",
+  "summary": "Injured skier in the Torreys Peak area",
+  "location": "Torreys Peak",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "Injury mechanism not stated in log; ART mission 2024-030.",
+  "peak": "Torreys Peak",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1353
+}

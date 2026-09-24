@@ -1,0 +1,19 @@
+{
+  "id": "7db2e679-61f0-4ad6-9308-436c978277ff",
+  "date": "2019-07-14",
+  "summary": "A 36-year-old Denver man died after a direct lightning strike to his upper body on Bear Creek Trail near Boulder; his 37-year-old wife was injured by ancillary current; the man was airlifted to a hospital and pronounced dead",
+  "location": "Bear Creek Trail, Flagstaff Mountain",
+  "county": "Boulder",
+  "incident_type": "lightning",
+  "outcome": "fatality",
+  "victims": 2,
+  "responding_agency": "Boulder County Sheriff, Rocky Mountain Fire Protection District, Rocky Mountain Rescue, AMR Ambulance, Boulder Fire Department",
+  "source_urls": "https://www.cpr.org/2019/07/15/denver-man-dies-after-lightning-strikes-him-on-a-hike-near-boulder/",
+  "notes": "Two-hour rescue; bystander CPR and AED attempted on scene; victim briefly revived before dying at hospital; one fatality and one injured survivor",
+  "peak": "Flagstaff Mountain",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 680
+}

@@ -1,0 +1,19 @@
+{
+  "id": "71b96127-2592-41e8-9f38-27afba7c3faa",
+  "date": "2015-07-10",
+  "summary": "Possible severely injured hiker reported on Mt. Blanca via a 911-only cell phone (location unverifiable); AVSAR + Flight For Life searched peaks and ridges for two days with no sign of any subject; no matching vehicles or hikers found; search called off — likely unfounded report.",
+  "location": "Mt. Blanca",
+  "county": "Alamosa",
+  "incident_type": "injury",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alamosa Volunteer SAR / Flight For Life",
+  "source_urls": "https://www.avsar.us/missions-from-2008-2015/",
+  "notes": "Ambiguous-alert convention: coded assist; no confirmed subject.",
+  "peak": "Blanca Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2565
+}

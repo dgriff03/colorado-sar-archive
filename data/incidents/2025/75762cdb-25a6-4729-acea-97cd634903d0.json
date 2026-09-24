@@ -1,0 +1,19 @@
+{
+  "id": "75762cdb-25a6-4729-acea-97cd634903d0",
+  "date": "2025-05-03",
+  "summary": "Assist to Rocky Mountain National Park (State SAR Coordinator) for an injured hiker in the Ouzel Falls area",
+  "location": "Ouzel Falls",
+  "county": "",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Rocky Mountain National Park",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf",
+  "notes": "County unverified; injury mechanism not stated; ART mission 2025-037.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Ouzel Falls",
+  "place_type": "waterfall",
+  "legacy_id": 1569
+}

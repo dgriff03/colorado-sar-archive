@@ -1,0 +1,19 @@
+{
+  "id": "aaa9922b-0b2b-4e30-af57-a6e0ede7e34f",
+  "date": "2014-10-05",
+  "summary": "26-year-old man with a possible broken ankle after a 15-ft fall near the first tower, Mt. Blanca/Little Bear Peak; AVSAR deployed with Flight For Life; winds blocked the night evac so two rescuers and the patient sheltered at ~12,500 ft; a National Guard chopper flew them to Ft. Garland on Oct 6 and the patient went to SLV Health Center.",
+  "location": "Mt. Blanca / Little Bear Peak",
+  "county": "Alamosa",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alamosa Volunteer SAR / Flight For Life / National Guard",
+  "source_urls": "https://www.avsar.us/missions-from-2008-2015/",
+  "notes": "Two-day mission; date = mission start 2014-10-05.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Mount Blanca",
+  "place_type": "peak",
+  "legacy_id": 2569
+}

@@ -1,0 +1,19 @@
+{
+  "id": "900f9d5e-26d8-4178-98cd-05112f604e37",
+  "date": "2016-02-03",
+  "summary": "Pair of skiers lost after leaving Jay's Hut on Vail Pass; 4 rescuers located them and escorted them back to the hut; out ~10:45 p.m.",
+  "location": "Jay's Hut, Vail Pass",
+  "county": "Eagle",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Vail Mountain Rescue Group",
+  "source_urls": "https://www.vaildaily.com/news/vail-mountain-rescue-group-february-january-missions-digest/",
+  "notes": "Jan-Feb-2016 VMRG mission digest.",
+  "peak": "Vail Pass",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3113
+}

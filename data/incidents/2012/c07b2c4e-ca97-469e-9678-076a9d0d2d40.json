@@ -1,0 +1,19 @@
+{
+  "id": "c07b2c4e-ca97-469e-9678-076a9d0d2d40",
+  "date": "2012-02-18",
+  "summary": "54-year-old Estes Park woman did not return from a Saturday day trip into the park; family found her car at the Bear Lake lot, rangers searched through the night, and found her Sunday morning roughly three miles up the Odessa Lake trail on the north side of Flattop Mountain, breathing but unconscious and unresponsive; St. Anthony Flight for Life flew her to St. Anthony Hospital in Lakewood.",
+  "location": "Odessa Lake trail, north side of Flattop Mountain, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "NPS Rocky Mountain National Park rangers; St. Anthony Flight for Life",
+  "source_urls": "http://npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "NPS morning-report compendium entry dated 2012-02-21; date = day reported missing (found Sunday 2012-02-19).",
+  "peak": "Flattop Mountain",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2798
+}

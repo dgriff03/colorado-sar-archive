@@ -1,0 +1,19 @@
+{
+  "id": "4ea2608e-c1df-43bd-972f-cac59904fe5d",
+  "date": "2010-12-18",
+  "summary": "Assist El Paso SAR with mission in Pikes Peak area (10-111)",
+  "location": "Pikes Peak area",
+  "county": "El Paso",
+  "incident_type": "other",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team; El Paso County SAR",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-111. Mission type not stated; victim count estimated.",
+  "peak": "Pikes Peak",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 121
+}

@@ -1,0 +1,19 @@
+{
+  "id": "a41c2a56-b978-4d9d-ad1d-607a688a0be9",
+  "date": "2026-09-11",
+  "summary": "Woman bitten on the right forearm through her tent ~5:30 a.m. at Park Creek Campground (Rio Grande National Forest) near South Fork; puncture treated by EMS on scene with follow-up treatment at Rio Grande Hospital; offending bear not captured; campground closed for the season.",
+  "location": "Park Creek Campground, Rio Grande National Forest, near South Fork",
+  "county": "Rio Grande",
+  "incident_type": "animal",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Colorado Parks and Wildlife, EMS",
+  "source_urls": "https://cpw.state.co.us/news/09142026/cpws-southwest-region-responds-two-reported-bear-attacks-recent-days|https://people.com/colorado-wildlife-officials-report-2-separate-bear-attacks-in-just-one-weekend-12123490",
+  "notes": "CPW 9/14/2026 release; CPW's 10th confirmed bear attack of 2026 (most on record; attack = bodily injury by a bear).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Park Creek Campground",
+  "place_type": "campground",
+  "legacy_id": 3570
+}

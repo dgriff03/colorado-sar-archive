@@ -1,0 +1,19 @@
+{
+  "id": "5d1fa157-2fc7-4b91-aedf-1c8494048436",
+  "date": "2023-07-23",
+  "summary": "Swift water rescue in Clear Creek around mile marker 236 of I-70",
+  "location": "Clear Creek (I-70 MM236)",
+  "county": "Clear Creek",
+  "incident_type": "other",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2024/01/2023-Missions-Website.pdf",
+  "notes": "Number of subjects not stated; recorded as 1; ART mission 2023-062.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Clear Creek",
+  "place_type": "creek",
+  "legacy_id": 1248
+}

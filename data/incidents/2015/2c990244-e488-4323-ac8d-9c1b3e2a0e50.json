@@ -1,0 +1,19 @@
+{
+  "id": "2c990244-e488-4323-ac8d-9c1b3e2a0e50",
+  "date": "2015-08-01",
+  "summary": "Will Olson, 40, of Edwards died of blunt-force chest trauma in a mountain-bike crash ~11:50 a.m. during Stage 3 of the Big Mountain Enduro World Series; fellow riders began CPR, race medics, Mt. Crested Butte police, and Crested Butte SAR responded, a CareFlight paramedic pronounced him deceased on scene, and SAR carried him to the trailhead; the rest of the event was canceled",
+  "location": "Forest Service Trail 400, Star Pass (near Block and Tackle Trail), Crested Butte area",
+  "county": "Gunnison",
+  "incident_type": "injury",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Crested Butte SAR, CareFlight, Mt. Crested Butte PD, race medics",
+  "source_urls": "https://crestedbuttenews.com/2015/08/fatality-on-course-cancels-rest-of-crested-butte-big-mountain-enduro-event/",
+  "notes": "Parent-opened CBN article this run (run 698); 2015-08-01 Saturday verified via accidentdatacenter.com + VeloNews published 2015-08-02; inserted by run-698 Gunnison chunk.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Forest Service Trail 400",
+  "place_type": "trail",
+  "legacy_id": 3221
+}

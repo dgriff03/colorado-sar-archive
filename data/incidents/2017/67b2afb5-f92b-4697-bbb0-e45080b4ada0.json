@@ -1,0 +1,19 @@
+{
+  "id": "67b2afb5-f92b-4697-bbb0-e45080b4ada0",
+  "date": "2017-08-24",
+  "summary": "Sick hiker on Jones Pass (2017-97)",
+  "location": "Jones Pass",
+  "county": "Clear Creek",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2018/01/2017-Missions-Website.pdf",
+  "notes": "ART mission 2017-97.",
+  "peak": "Jones Pass",
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 444
+}

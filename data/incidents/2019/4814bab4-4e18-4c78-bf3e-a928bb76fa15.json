@@ -1,0 +1,19 @@
+{
+  "id": "4814bab4-4e18-4c78-bf3e-a928bb76fa15",
+  "date": "2019-04-07",
+  "summary": "Assist Indian Hills Fire for injured hiker at Mt Falcon, Jeffco (2019-25)",
+  "location": "Mt Falcon",
+  "county": "Jefferson",
+  "incident_type": "injury",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team; Indian Hills Fire",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2020/01/2019-Missions-Website.pdf",
+  "notes": "ART mission 2019-25.",
+  "peak": "Mount Falcon",
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 635
+}

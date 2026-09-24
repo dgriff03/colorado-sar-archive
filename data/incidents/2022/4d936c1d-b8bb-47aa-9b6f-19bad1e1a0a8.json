@@ -1,0 +1,19 @@
+{
+  "id": "4d936c1d-b8bb-47aa-9b6f-19bad1e1a0a8",
+  "date": "2022-12-13",
+  "summary": "Northeast Colorado blizzard: Colorado 4x4 Rescue & Recovery, requested by the Morgan County Undersheriff, ran 60 rescue calls over 5 operational periods (~24 hours) across Weld, Logan, Sedgwick, Morgan, and Washington counties with 24 personnel/9 teams, pulling stranded motorists from 50+ mph ground-blizzard conditions (5-15 ft drifts along the I-76 corridor) to warming shelters; abandoned vehicles checked/flagged for occupants; redeployed Friday evening into Logan County for additional stranded-motorist rescues.",
+  "location": "I-76 corridor, northeast Colorado",
+  "county": "Morgan",
+  "incident_type": "vehicle",
+  "outcome": "rescued-uninjured",
+  "victims": 60,
+  "responding_agency": "Colorado 4x4 Rescue and Recovery (requested by Morgan County Undersheriff)",
+  "source_urls": "https://www.co4x4rnr.org/mission-reports-neco-blizzard-response/",
+  "notes": "Victim count = 60 documented rescue calls, 1-4 occupants each (actual persons >=60). Operation spanned Mon 2022-12-12 (request) through Sat 2022-12-17 (second deployment); main push Tue 12/13-Wed 12/14. Counties served: Weld, Logan, Sedgwick, Morgan, Washington. In scope per id-3369/3345 mass vehicle-assist precedent.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "I-76",
+  "place_type": "road",
+  "legacy_id": 3388
+}

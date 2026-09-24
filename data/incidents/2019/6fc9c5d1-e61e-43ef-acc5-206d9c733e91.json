@@ -1,0 +1,19 @@
+{
+  "id": "6fc9c5d1-e61e-43ef-acc5-206d9c733e91",
+  "date": "2019-11-09",
+  "summary": "Unprotected 300-foot-high traverse fall on Black Gold, Creekside, Clear Creek Canyon; head, clavicle, and spine injuries; multi-agency response.",
+  "location": "Clear Creek Canyon, Creekside/Black Gold",
+  "county": "Jefferson",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Clear Creek Fire Authority",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201215602",
+  "notes": "",
+  "peak": "Clear Creek Canyon",
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 744
+}

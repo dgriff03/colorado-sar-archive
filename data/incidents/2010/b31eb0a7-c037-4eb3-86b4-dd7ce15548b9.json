@@ -1,0 +1,19 @@
+{
+  "id": "b31eb0a7-c037-4eb3-86b4-dd7ce15548b9",
+  "date": "2010-09-26",
+  "summary": "John Merrill died on El Diente",
+  "location": "El Diente",
+  "county": "Dolores",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://www.100summits.com/articles/colorado-mountaineering-deaths/2010/itemlist/tag/review",
+  "notes": "Incident type not stated in source",
+  "peak": "El Diente Peak",
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 98
+}

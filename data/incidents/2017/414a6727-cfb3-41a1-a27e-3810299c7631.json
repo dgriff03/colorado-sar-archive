@@ -1,0 +1,19 @@
+{
+  "id": "414a6727-cfb3-41a1-a27e-3810299c7631",
+  "date": "2017-09-09",
+  "summary": "Climber fell from anchor at Lemon Reservoir, sustaining severe injuries; local rescuers and Flight For Life response.",
+  "location": "Lemon Reservoir",
+  "county": "La Plata",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Local rescuers, Flight For Life",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201214556",
+  "notes": "",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Lemon Reservoir",
+  "place_type": "reservoir",
+  "legacy_id": 460
+}

@@ -1,0 +1,19 @@
+{
+  "id": "3a4312d5-061e-4cef-b76a-2c81db10e8b5",
+  "date": "2024-08-12",
+  "summary": "Successful rescue along the South Crestone Lake trail; AVSAR responded and Alamosa County Sheriff Robert Jackson confirmed a successful mission the same day",
+  "location": "South Crestone Lake trail",
+  "county": "Saguache",
+  "incident_type": "other",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alamosa Volunteer SAR (AVSAR)",
+  "source_urls": "https://www.montevistajournal.com/stories/annual-fundraiser-for-search-and-rescue-is-saturday,55568",
+  "notes": "Details sparse: only documented via Sheriff Jackson quote in an AVSAR fundraiser story published ~2024-08-15 (\"After a successful rescue along the South Crestone Lake trail on Aug. 12\"); incident nature, injury status, and subject details not published. Sheriff quoted in AVSAR context, implying AVSAR conducted the rescue. Victim count unstated; victims=1 per convention. Inserted run 190 after three runs held this lead pending; thin-detail row, incident nature = other. South Crestone Lake trail is in Saguache County (near Crestone).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "South Crestone Lake Trail",
+  "place_type": "trail",
+  "legacy_id": 2465
+}

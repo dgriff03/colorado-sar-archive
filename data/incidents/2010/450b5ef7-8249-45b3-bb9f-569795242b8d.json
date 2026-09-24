@@ -1,0 +1,19 @@
+{
+  "id": "450b5ef7-8249-45b3-bb9f-569795242b8d",
+  "date": "2010-03-13",
+  "summary": "Stranded climbers on Kelso Ridge of Torreys Peak (10-14)",
+  "location": "Kelso Ridge of Torreys Peak",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-14. Victim count estimated from plural; outcome not stated, presumed rescued-uninjured.",
+  "peak": "Torreys Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 14
+}

@@ -1,0 +1,19 @@
+{
+  "id": "7fabe793-4303-4ccf-b0da-af020a0c6b20",
+  "date": "2017-08-05",
+  "summary": "Injured hiker by lower Chicago Lake (2017-79)",
+  "location": "Lower Chicago Lake",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2018/01/2017-Missions-Website.pdf",
+  "notes": "ART mission 2017-79. Cause of injury not stated.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Lower Chicago Lake",
+  "place_type": "lake",
+  "legacy_id": 423
+}

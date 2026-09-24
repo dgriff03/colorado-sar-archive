@@ -1,0 +1,19 @@
+{
+  "id": "5df4ee83-5e68-4992-8ea0-5b2908575a9c",
+  "date": "2014-04-20",
+  "summary": "Search for an overdue hiker in the Grays and Torreys area (Alpine mission 14-19)",
+  "location": "Grays and Torreys",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2015/01/2014-Missions-Website.pdf",
+  "notes": "Alpine Rescue Team 2014 annual mission summary PDF (one-line mission log; page date used as mission date).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Grays and Torreys",
+  "place_type": "other",
+  "legacy_id": 1877
+}

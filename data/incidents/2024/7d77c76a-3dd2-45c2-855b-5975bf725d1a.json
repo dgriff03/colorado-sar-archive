@@ -1,0 +1,19 @@
+{
+  "id": "7d77c76a-3dd2-45c2-855b-5975bf725d1a",
+  "date": "2024-07-30",
+  "summary": "Injured party near the Fall River Reservoir",
+  "location": "Fall River Reservoir",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "Injury mechanism not stated in log; county unverified; ART mission 2024-084.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Fall River Reservoir",
+  "place_type": "reservoir",
+  "legacy_id": 1421
+}

@@ -1,0 +1,19 @@
+{
+  "id": "8c2c043e-5b1e-4066-8c5e-7b054774bfb3",
+  "date": "2020-07-02",
+  "summary": "911 call from a party on Thomas Lakes Trail reporting extreme upper belly pain. MRA deployed from Thomas Lakes trailhead and coordinated with Carbondale Rural Fire Protection District to bring the patient by ATV to a waiting ambulance.",
+  "location": "Thomas Lakes Trail",
+  "county": "Pitkin",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Mountain Rescue Aspen",
+  "source_urls": "https://www.facebook.com/mountainrescueaspen/posts/pfbid0TRWcpDmAPfQFfnctSP34PynNXhyFXBYcYgpm3BQpTQhmNG3zpaK2Chd4vfGnCRe6l",
+  "notes": "One of two separate rescues handled by MRA the same afternoon (see also the 4 Pass Loop overdue party). Medical outcome inferred (evacuated to ambulance).",
+  "peak": "Mount Sopris",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3520
+}

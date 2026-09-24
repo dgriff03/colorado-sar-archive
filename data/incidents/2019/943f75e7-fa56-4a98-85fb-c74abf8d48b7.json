@@ -1,0 +1,19 @@
+{
+  "id": "943f75e7-fa56-4a98-85fb-c74abf8d48b7",
+  "date": "2019-07-15",
+  "summary": "Jeep rollover on Italian Creek Road just below Old Italian Creek Road in mid-July; patient flown by helicopter from the bottom of Reno",
+  "location": "Italian Creek Road",
+  "county": "Gunnison",
+  "incident_type": "vehicle",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Crested Butte Mountain Rescue Team",
+  "source_urls": "https://crestedbuttenews.com/2019/08/cb-mountain-rescue-team-has-been-busy-this-summer/",
+  "notes": "DATE APPROXIMATE - CBN 2019-08 says only 'mid-July'; described alongside an ATV accident on Old Italian Creek Road (see id 2345).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Italian Creek Road",
+  "place_type": "road",
+  "legacy_id": 2346
+}

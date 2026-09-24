@@ -1,0 +1,19 @@
+{
+  "id": "1d1ab175-53ff-4964-b3ca-72d7194c60c5",
+  "date": "2020-07-12",
+  "summary": "55-year-old man from Estes Park took a 75-foot tumbling fall below the summit of McHenry Peak (west face, 12,900 ft); Colorado National Guard hoist; RMRG assisted; flown to St. Anthony.",
+  "location": "McHenry Peak, west face (12,900 ft), Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "National Park Service",
+  "source_urls": "https://www.npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "NPS ROMO morning-report compendium entry.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "McHenry Peak",
+  "place_type": "peak",
+  "legacy_id": 2862
+}

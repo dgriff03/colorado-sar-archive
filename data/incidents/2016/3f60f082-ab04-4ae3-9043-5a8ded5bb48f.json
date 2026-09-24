@@ -1,0 +1,19 @@
+{
+  "id": "3f60f082-ab04-4ae3-9043-5a8ded5bb48f",
+  "date": "2016-08-15",
+  "summary": "A 45-year-old U.S. citizen living in Paris fell while scrambling about 1,000 feet above Lake Haiyaha and had his leg pinned by a boulder; two partners could not free him; teams evacuated him by inflatable raft across the lake and wheeled litter to the trailhead, then by ambulance to Estes Park Medical Center",
+  "location": "Above Lake Haiyaha, Bear Lake corridor, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "NPS rangers, Larimer County Search and Rescue, Rocky Mountain Rescue",
+  "source_urls": "https://www.beaconjournal.com/story/sports/outdoors/2016/08/16/hiker-rescued-after-fall-rocky-mountain-national-park/88874214/|https://www.nps.gov/romo/learn/news/pr_rescue_operation_for_injured_man_near_lake_haiyaha.htm",
+  "notes": "Fall occurred Monday; rescue completed Tuesday afternoon with ~30 personnel NPS RMNP release (Aug 16, 2016): 45-yo U.S. citizen living in Paris; fell ~1,000 ft above Lake Haiyaha, leg pinned by boulder; ranger stayed overnight; low-angle scree evacuation, inflatable raft across lake, wheeled litter; reached trailhead ~3:30 p.m.; Estes Park Medical Center; Larimer County SAR + Rocky Mountain Rescue, 30 personnel. Primary-source upgrade from the syndicated beaconjournal URL.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Lake Haiyaha",
+  "place_type": "lake",
+  "legacy_id": 2814
+}

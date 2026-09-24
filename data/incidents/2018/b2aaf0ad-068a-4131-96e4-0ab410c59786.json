@@ -1,0 +1,19 @@
+{
+  "id": "b2aaf0ad-068a-4131-96e4-0ab410c59786",
+  "date": "2018-07-28",
+  "summary": "Injured mountain biker east of Estes Park (second mission same day); located, evacuated, hospitalized.",
+  "location": "east of Estes Park",
+  "county": "Larimer County",
+  "incident_type": "injury",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Larimer County Search and Rescue",
+  "source_urls": "https://www.facebook.com/lcsarinc/posts/pfbid0zDXx57ycdSAzFejEbsVdEev7esk58g3JBaMNrMNchRyQppRfn6RBCFBwQQposjrRl|https://www.facebook.com/lcsarinc/posts/pfbid0z3Nwmyhsoi8FkGEFiNmYce4yGXf9BxXkmQoaF5qi9Kb4CNuSgzAg43uYzLnZUAEPl",
+  "notes": "",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Estes Park",
+  "place_type": "town",
+  "legacy_id": 3598
+}

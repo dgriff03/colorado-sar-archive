@@ -1,0 +1,19 @@
+{
+  "id": "6e7605d4-fb99-4837-8cd5-eceb01fa9763",
+  "date": "2013-04-06",
+  "summary": "Unroped climber fell and was killed while preparing to clean/rappel on Levada, Canal Zone, Clear Creek Canyon.",
+  "location": "Clear Creek Canyon, Canal Zone/Levada",
+  "county": "Jefferson",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201213025|https://www.ems1.com/archive/articles/man-dies-after-rock-climbing-fall-in-colorado-DzWxqJ9Qe82GrAEu/",
+  "notes": " [run 659 merge] early AP news brief via ems1 (Golden FD, 60-ft fall ~20 mi west of Denver, Saturday ~1 p.m.) matches the AAC Levada analysis already on row.",
+  "peak": "Clear Creek Canyon",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 179
+}

@@ -1,0 +1,19 @@
+{
+  "id": "fad07262-4748-4b4f-9c45-a4fd1c346ef2",
+  "date": "2015-09-19",
+  "summary": "Climber fell from cliff edge on Batman Rock, RMNP; overnight technical rescue.",
+  "location": "Rocky Mountain National Park, Batman Rock",
+  "county": "Larimer",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201213799|https://www.nps.gov/romo/learn/news/pr_carry_out_of_injured_hiker_on_batman_rock_in_lumpy_ridge_area.htm",
+  "notes": "",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": "Rocky Mountain National Park",
+  "place_type": "park",
+  "legacy_id": 277
+}

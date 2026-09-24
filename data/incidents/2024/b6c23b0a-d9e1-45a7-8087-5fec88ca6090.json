@@ -1,0 +1,19 @@
+{
+  "id": "b6c23b0a-d9e1-45a7-8087-5fec88ca6090",
+  "date": "2024-09-30",
+  "summary": "32-year-old archery hunter dislocated his knee in a fall ~3 miles south of Pearl Lake; phoned his mother in North Routt, who walked into the North Routt Fire station ~12:45 p.m.; rescued by RCSAR, North Routt Fire, and Basic Air Medical",
+  "location": "~3 miles south of Pearl Lake",
+  "county": "Routt",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Routt County Search and Rescue; North Routt Fire; Basic Air Medical",
+  "source_urls": "https://jhb.news/colorado-hunter-rescued-after-fall-south-of-pearl-lake/?feed_id=259088&_unique_id=66feb2b2b4d22",
+  "notes": "Monday-afternoon incident per the Denver Post 2024-10-03 story mirrored at JHB News (parent-opened); previously parked as the dateless Pearl Lake lead.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Pearl Lake",
+  "place_type": "lake",
+  "legacy_id": 3255
+}

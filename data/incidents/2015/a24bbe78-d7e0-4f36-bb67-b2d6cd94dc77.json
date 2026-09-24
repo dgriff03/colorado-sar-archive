@@ -1,0 +1,19 @@
+{
+  "id": "a24bbe78-d7e0-4f36-bb67-b2d6cd94dc77",
+  "date": "2015-06-20",
+  "summary": "Alpine on standby to assist Summit County Rescue Group for an injured party on Quandary Peak (Alpine mission 2015-32)",
+  "location": "Quandary Peak, Summit County",
+  "county": "Summit",
+  "incident_type": "injury",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team (standby for Summit County Rescue Group)",
+  "source_urls": "https://alpinerescueteam.org/category/mesa-county/summit-county/page/2/",
+  "notes": "One-liner from the Alpine Summit County assist archive (paged 18:19); injury outcome not published. Recorded as assist per the ambiguous-alert convention.",
+  "peak": "Quandary Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2513
+}

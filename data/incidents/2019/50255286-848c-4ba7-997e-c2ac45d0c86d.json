@@ -1,0 +1,19 @@
+{
+  "id": "50255286-848c-4ba7-997e-c2ac45d0c86d",
+  "date": "2019-08-25",
+  "summary": "Overdue-hiker callout for a hiker whose plan was to summit Ellingwood Point and Blanca Peak by 14:00 and reach the Wetterhorn trailhead (approach unknown: Lake Como or Zapata); missed 21:00 check-in; AVSAR phone ping failed (phone off); deputies checked Zapata Falls and Lake Como Road trailheads with no vehicle found; subject texted his mother that he was okay but had no cell service; stand-down ~01:55 on 8/26",
+  "location": "Ellingwood Point / Blanca Peak (approach unknown)",
+  "county": "Alamosa",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alamosa Volunteer SAR + Alamosa County Sheriff's Office",
+  "source_urls": "https://www.avsar.us/08-25-2109-missing-person/",
+  "notes": "Run 612 Little Bear targeted fill; AVSAR mission page opened by parent this run (AVSAR's own slug typo '2109' for 2019); self-resolved stand-down, subject located alive; fills thin year 2019 for this line",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Blanca Group",
+  "place_type": "other",
+  "legacy_id": 3052
+}

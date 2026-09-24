@@ -1,0 +1,19 @@
+{
+  "id": "f892635a-3a1b-4c74-b977-bf05541fa886",
+  "date": "2017-08-03",
+  "summary": "Woman and her two daughters, ages 9 and 11, went missing while walking the Mesa Top Trail; a SARDOC trailing dog team worked five hours and trailed the trio eight miles before they were found at a house in Cedaredge.",
+  "location": "Mesa Top Trail",
+  "county": "Delta",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 3,
+  "responding_agency": null,
+  "source_urls": "https://sardoc.org/cms/wp-content/uploads/2011/01/2017SARDOCPublicMissionReports.pdf",
+  "notes": "Run-658 SARDOC chunk.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Top Trail",
+  "place_type": "trail",
+  "legacy_id": 3158
+}

@@ -1,0 +1,19 @@
+{
+  "id": "1df42841-a70e-4568-9127-f0862e0a6b2e",
+  "date": "2022-08-20",
+  "summary": "Lost mushroom hunter in the Old Squaw Pass area",
+  "location": "Old Squaw Pass",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2023/01/2022-Missions-Website.pdf",
+  "notes": "Final outcome not stated in log; ART mission 2022-082.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Old Squaw Pass",
+  "place_type": "pass",
+  "legacy_id": 1133
+}

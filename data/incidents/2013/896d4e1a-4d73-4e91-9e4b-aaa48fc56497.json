@@ -1,0 +1,19 @@
+{
+  "id": "896d4e1a-4d73-4e91-9e4b-aaa48fc56497",
+  "date": "2013-09-30",
+  "summary": "Massive rockslide (approx 100-ton boulders) buried a family of six at the Agnes Vaille Falls viewing area; five killed, one 13-year-old girl survived with a broken leg and was airlifted to a Denver hospital",
+  "location": "Agnes Vaille Falls, Chalk Creek Canyon, below Mount Princeton",
+  "county": "Chaffee",
+  "incident_type": "rockfall",
+  "outcome": "fatality",
+  "victims": 6,
+  "responding_agency": "Chaffee County Sheriff; U.S. Forest Service",
+  "source_urls": "https://www.ems1.com/fire-ems/articles/5-hikers-killed-by-colo-rock-slide-on-trail-MmXadhNKXfa5Sz0c/|https://en.wikipedia.org/wiki/Agnes_Vaille_Falls|https://www.themountainmail.com/free_content/agnes-vaille-falls-tragedy/article_28309c0e-2aa7-11e3-9e19-001a4bcf6878.html",
+  "notes": "5 fatalities; 1 injured survivor airlifted; bodies recovered a day later due to unstable conditions",
+  "peak": "Mount Princeton",
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 193
+}

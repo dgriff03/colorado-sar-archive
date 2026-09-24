@@ -1,0 +1,19 @@
+{
+  "id": "69c3ba0c-0ba7-44d8-98cb-4097bc690945",
+  "date": "2021-09-20",
+  "summary": "Two backcountry travelers lost the trail in snow and inclement weather; after a helicopter attempt was impossible due to weather, 11 GCSAR members hiked 14 miles to locate them and escorted them out to the trailhead overnight; the pair's dog Stella ran off during the night egress and was found and brought out by the team lead on Sept 25",
+  "location": "Jackson County backcountry",
+  "county": "Jackson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Grand County Search and Rescue (mutual aid)",
+  "source_urls": "https://www.grandcountysar.com/news/stella-the-dog-has-a-triumphant-return|https://www.facebook.com/GCSAR/posts/pfbid02gHR5LTLoZd5Vko4taVUKqPCoQBdrqXyDjuR4RvpsCLroPFovYxSNoEufiy2j8cWal|https://www.facebook.com/GCSAR/posts/pfbid02ezPVMDqdmyLdmeH2XTfoDrmXnerdvtqkbAM181zfaCeeusWMYMBhrVnjJDMF1Mjul",
+  "notes": "Mission date from GCSAR mission-update post (Sept 20; post images timestamped Sept 2021); dog-return detail Sept 25 same post; Jackson County per post 2026-09-20: merged GCSAR FB post permalink (GCSAR mutual-aid post for the 2021-09-20 Jackson County backpacker search; adds team post ). 2026-09-20: merged GCSAR FB post permalink (9NEWS Stella-the-dog story share; same mission as row 2253 (dog found Sept 25 after runnin).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2253
+}

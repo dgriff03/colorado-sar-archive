@@ -1,0 +1,19 @@
+{
+  "id": "04a6bb4c-359d-487d-856c-7052e2b3df77",
+  "date": "2017-07-25",
+  "summary": "Teen with high altitude pulmonary edema (HAPE) about 2.5 miles up the Buchanan/Cascade Trail; litter evacuation in rain to Monarch Lake with GCEMS.",
+  "location": "Buchanan/Cascade Trail",
+  "county": "Grand",
+  "incident_type": "medical",
+  "outcome": "evacuated by litter",
+  "victims": 1,
+  "responding_agency": "Grand County SAR",
+  "source_urls": "https://www.facebook.com/GCSAR/posts/pfbid03in1FDMfGpNGqR4MveMVzXmtzdZtARJnx4DMMBWjzAJBmz26oYy84ivrmMBxuQUdl",
+  "notes": "Source: Grand County SAR Facebook page.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Cascade Trail",
+  "place_type": "trail",
+  "legacy_id": 3653
+}

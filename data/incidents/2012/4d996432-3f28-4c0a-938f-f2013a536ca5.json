@@ -1,0 +1,19 @@
+{
+  "id": "4d996432-3f28-4c0a-938f-f2013a536ca5",
+  "date": "2012-08-17",
+  "summary": "Lost Korean-speaking mushroom hunter searched for and found uninjured",
+  "location": "Rollinsville area",
+  "county": "Gilpin",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain Rescue Group; Alpine Rescue Team (mutual aid)",
+  "source_urls": "https://internal.rockymountainrescue.org/2012NarrativeSummary.php|https://alpinerescueteam.org/team-paged-for-a-missing-60-yom-mushroom-hunter-in-the-rollinsville-area-gilpin-co/|http://www.rockymountainrescue.org/rmrg-2012",
+  "notes": "Alpine log 2012-69: paged 08/17/12 19:42 (a Friday) for missing 60 YOM mushroom hunter in Rollinsville area, Gilpin CO; matches RMRG's account of a Friday-afternoon concurrent search with Alpine mutual aid. MERGE (maintenance run 126): id 2378 (snippet-sourced 2012-08-17 Boulder mushroom-hunter row) = this incident (Alpine 2012-69 Rollinsville, Gilpin; concurrent with the South Arapahoe ops per RMRG 2012 summary) — duplicate deleted, URL + note folded in.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Rollinsville",
+  "place_type": "town",
+  "legacy_id": 1739
+}

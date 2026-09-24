@@ -1,0 +1,19 @@
+{
+  "id": "bad8a107-d3e0-4419-b83e-b614140b04b4",
+  "date": "2022-06-11",
+  "summary": "Jeff Higgins, 52, of Colorado Springs, died of heat-related illness after running out of water near mile marker 28 of the Palisade Plunge trail during record 102 degF heat; three other riders found him around 6:45 p.m. Saturday, had also run out of water and were treated for dehydration.",
+  "location": "Palisade Plunge trail, mile 28, near Grand Junction",
+  "county": "Mesa",
+  "incident_type": "medical",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Mesa County Sheriff's Office, Mesa County Search and Rescue, Palisade Fire Department, CareFlight",
+  "source_urls": "https://crimewatch.net/us/co/mesa/sheriff/134177/post/person-dies-palisade-plunge-trail|https://www.cpr.org/2022/06/15/cyclist-dies-after-running-out-of-water-during-heat-wave/",
+  "notes": "Victim name (Jeff Higgins) from later memorial-shelter coverage; memorial shade shelter built at his spot opened for the 2025 riding season.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Palisade Plunge Trail",
+  "place_type": "trail",
+  "legacy_id": 2283
+}

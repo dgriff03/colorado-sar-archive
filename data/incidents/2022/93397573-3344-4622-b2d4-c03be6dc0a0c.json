@@ -1,0 +1,19 @@
+{
+  "id": "93397573-3344-4622-b2d4-c03be6dc0a0c",
+  "date": "2022-09-09",
+  "summary": "Missing hunter in the Golden Watershed area",
+  "location": "Golden Watershed",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2023/01/2022-Missions-Website.pdf",
+  "notes": "County unverified; ART mission 2022-096.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": "Golden Watershed",
+  "place_type": "open_space",
+  "legacy_id": 1148
+}

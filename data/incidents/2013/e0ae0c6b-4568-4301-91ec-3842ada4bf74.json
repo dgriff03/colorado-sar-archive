@@ -1,0 +1,19 @@
+{
+  "id": "e0ae0c6b-4568-4301-91ec-3842ada4bf74",
+  "date": "2013-01-30",
+  "summary": "Search for overdue 27-year-old male on Mt Bierstadt (Alpine mission 13-02)",
+  "location": "Mt Bierstadt",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/category/recent-missions/clear-creek-county/page/153/",
+  "notes": "Alpine Rescue Team Clear Creek County category mission-log archive (Alpine mission 13-02); one-line page alert, outcome detail unstated in post.",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1808
+}

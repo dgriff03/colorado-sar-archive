@@ -1,0 +1,19 @@
+{
+  "id": "01751bc6-1929-4038-964f-aa0ede2faa21",
+  "date": "2019-12-21",
+  "summary": "Mike Marr suffered a spiral fracture skiing at ~12,500 ft on Mt. Elbert after hitting a rock; evacuated by Lake County SAR and sled team",
+  "location": "Mt. Elbert, ~12,500 ft",
+  "county": "Lake",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Lake County SAR + Flight for Life",
+  "source_urls": "https://rockytalkie.com/en-eu/blogs/rocky-talkie-blog/stranded-on-a-fourteener-with-a-spiral-fracture",
+  "notes": "Ski injury (not a fall on foot); hours-long winter evacuation",
+  "peak": "Mount Elbert",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 750
+}

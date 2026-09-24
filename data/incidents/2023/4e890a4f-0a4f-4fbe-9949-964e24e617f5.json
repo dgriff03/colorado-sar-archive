@@ -1,0 +1,19 @@
+{
+  "id": "4e890a4f-0a4f-4fbe-9949-964e24e617f5",
+  "date": "2023-12-01",
+  "summary": "NFPD mutual-aid response to Gordon Gulch, requested by Indian Peaks Fire, to assist a patient in status seizure; led by Capt. Faes",
+  "location": "Gordon Gulch",
+  "county": "Boulder",
+  "incident_type": "medical",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Nederland Fire Protection District (mutual aid requested by Indian Peaks Fire Protection District)",
+  "source_urls": "https://nfpd.specialdistrict.org/files/f8a222eb8/Chief+Board+Report+complete+122023.pdf",
+  "notes": "APPROXIMATE date: month-pinned to December 2023; packet report dated 12/20/2023 covers calls since the November board packet (~2023-11-16..12-20). Capt. Faes received a thank-you from Rick Dirr (Indian Peaks). Source: NFPD Monthly Report for Board of Directors, 'Calls of significance' section.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Gordon Gulch",
+  "place_type": "gulch",
+  "legacy_id": 3390
+}

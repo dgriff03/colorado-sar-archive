@@ -1,0 +1,19 @@
+{
+  "id": "e7c0a3de-4e11-4d65-b63e-e411378a7bfd",
+  "date": "2014-11-10",
+  "summary": "Search for a stranded party in the Jones Pass area (Alpine mission 14-118)",
+  "location": "Jones Pass",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2015/01/2014-Missions-Website.pdf",
+  "notes": "Alpine Rescue Team 2014 annual mission summary PDF (one-line mission log; page date used as mission date). subject count not stated in the log; recorded as 1",
+  "peak": "Jones Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1952
+}

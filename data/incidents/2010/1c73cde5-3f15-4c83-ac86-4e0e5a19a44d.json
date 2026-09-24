@@ -1,0 +1,19 @@
+{
+  "id": "1c73cde5-3f15-4c83-ac86-4e0e5a19a44d",
+  "date": "2010-08-08",
+  "summary": "Adult man and woman lost at night on Buffalo Mountain; they were located by a foot team.",
+  "location": "Buffalo Mountain",
+  "county": "Summit",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": null,
+  "source_urls": "http://sardoc.org/cms/wp-content/uploads/2011/01/PublicSummaryFinal.pdf",
+  "notes": "Run-658 SARDOC chunk.",
+  "peak": "Buffalo Mountain",
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3174
+}

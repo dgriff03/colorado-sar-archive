@@ -1,0 +1,19 @@
+{
+  "id": "f1562708-83c7-4609-9fdf-47f5ba13d616",
+  "date": "2017-06-30",
+  "summary": "74-year-old woman lost hiking at Greyrock Mountain; four teams deployed; summit team spotted her and walked her out; litter used for part of descent.",
+  "location": "Greyrock Mountain",
+  "county": "Larimer",
+  "incident_type": "lost/stranded",
+  "outcome": "located, walked out",
+  "victims": 1,
+  "responding_agency": "Larimer County SAR",
+  "source_urls": "https://www.facebook.com/lcsarinc/posts/pfbid025NzN2YNwjiVQ3toBrVxoh4SYR6BUVVSzuvqPqaadZBJVDQbj3CeKSnxsVu5bgZhGl",
+  "notes": "Source: Larimer County SAR Facebook page.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Greyrock Mountain",
+  "place_type": "peak",
+  "legacy_id": 3687
+}

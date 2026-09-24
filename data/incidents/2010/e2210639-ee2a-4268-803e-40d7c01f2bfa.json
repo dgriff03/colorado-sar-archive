@@ -1,0 +1,19 @@
+{
+  "id": "e2210639-ee2a-4268-803e-40d7c01f2bfa",
+  "date": "2010-08-05",
+  "summary": "Missing hiker on Mt. Lindsey; Costilla County SAR requested AVSAR leadership assistance; AVSAR supported with operations planning by phone only and deployed no personnel or resources; outcome of the operation was not reported to AVSAR.",
+  "location": "Mt. Lindsey",
+  "county": "Costilla",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Costilla County SAR",
+  "source_urls": "https://www.avsar.us/missions-from-2008-2015/",
+  "notes": "2010-08-05 Thursday-verified. AVSAR role was phone ops-planning support only (no AVSAR deployment); outcome not reported to AVSAR, so outcome=assist per row convention.",
+  "peak": "Mount Lindsey",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3259
+}

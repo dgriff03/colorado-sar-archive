@@ -1,0 +1,19 @@
+{
+  "id": "9cf480b5-e9e8-4962-b20e-0b5b7b4d089b",
+  "date": "2022-03-06",
+  "summary": "Backcountry skier caught, partially buried, and injured in an avalanche at the Diamond Peaks, Cameron Pass.",
+  "location": "Diamond Peaks, Cameron Pass",
+  "county": "Larimer",
+  "incident_type": "avalanche",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://classic.avalanche.state.co.us/caic/acc/acc_co.php",
+  "notes": "CAIC classic-table summary only; no SAR agency or victim identity published in sources found; county per the id-2547 Diamond Peak convention. Date weekday-verified Sunday 2022-03-06 (run 376).",
+  "peak": "Cameron Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2639
+}

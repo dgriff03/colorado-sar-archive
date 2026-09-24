@@ -1,0 +1,19 @@
+{
+  "id": "c1aef578-2eda-45e7-929f-a95b251435a1",
+  "date": "2012-09-15",
+  "summary": "Derek Kelley died in a 600- to 1000-foot fall after a loose boulder came free on North Maroon Peak",
+  "location": "North Maroon Peak",
+  "county": "Pitkin",
+  "incident_type": "rockfall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://100SUMMITS.COM/articles/colorado-mountaineering-deaths/item/255-2012-colorado-mountaineering-deaths|http://publications.americanalpineclub.org/articles/13201212445",
+  "notes": "Merged 2 reports (parts: aac, news-2010-2019); date per news report; AAC listed 2012-09-15.",
+  "peak": "North Maroon Peak",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 171
+}

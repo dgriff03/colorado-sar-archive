@@ -1,0 +1,19 @@
+{
+  "id": "66c4411b-886b-4d92-bbd9-f239705d82ac",
+  "date": "2017-10-07",
+  "summary": "Daniel Hohs, 31, bitten by a rattlesnake ~1 mile up the Mount Galbraith trail, Mount Galbraith Park, Golden; hiking companion called 911, off-duty doctor tended to him, Golden Gate Fire Protection District firefighters extracted him; transported to St. Anthony's Hospital, Lakewood, where he died later that afternoon",
+  "location": "Mount Galbraith Park, Mount Galbraith trail, Golden",
+  "county": "Jefferson",
+  "incident_type": "medical",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Golden Gate Fire Protection District",
+  "source_urls": "https://www.themtnear.com/stories/snakes-the-great-outdoors,4012",
+  "notes": "Run 915 insert — Mountain-Ear 2017 window chunk; named victim, exact date (Saturday-verified); spelled \"Hohs\" in Mountain-Ear, some other outlets spell \"Hoh\"; dedupe-clean (zero 2017-10-07 rows)",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Mount Galbraith Park",
+  "place_type": "park",
+  "legacy_id": 3474
+}

@@ -1,0 +1,19 @@
+{
+  "id": "1f15570b-98ae-4d70-a177-763de45627ca",
+  "date": "2016-08-12",
+  "summary": "Injured 23-year-old woman in the Mount Bierstadt area",
+  "location": "Mount Bierstadt",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "Injury mechanism not specified in the log.",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 324
+}

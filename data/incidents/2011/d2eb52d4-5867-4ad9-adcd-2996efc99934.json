@@ -1,0 +1,19 @@
+{
+  "id": "d2eb52d4-5867-4ad9-adcd-2996efc99934",
+  "date": "2011-06-28",
+  "summary": "18-year-old woman suffered an injured ankle near Ouzel Falls in the Wild Basin area on Tuesday evening; rangers were on scene by 9 p.m. and evacuated her by horse",
+  "location": "Near Ouzel Falls, Wild Basin, Rocky Mountain National Park",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "RMNP rangers",
+  "source_urls": "http://npshistory.com/morningreport/incidents/romo.htm",
+  "notes": "One of three SAR operations reported Thu Jun 30, 2011; the Tuesday-evening call; weekday-verified.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Rocky Mountain National Park",
+  "place_type": "park",
+  "legacy_id": 2675
+}

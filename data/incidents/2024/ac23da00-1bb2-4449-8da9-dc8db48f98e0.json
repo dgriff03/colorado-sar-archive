@@ -1,0 +1,19 @@
+{
+  "id": "ac23da00-1bb2-4449-8da9-dc8db48f98e0",
+  "date": "2024-03-20",
+  "summary": "Two hikers stuck and unable to continue on snow-buried Barr Trail after the March storm (~4 ft of snow); snowcat extraction in the dark, both returned to safety",
+  "location": "Barr Trail near Manitou Springs, Pikes Peak",
+  "county": "El Paso",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "El Paso County Search and Rescue",
+  "source_urls": "https://www.advnture.com/news/hikers-rescued-by-snow-cat-from-barr-trail|https://www.facebook.com/epcsar/posts/pfbid02ZMCCAKjYrmzHRvVHSAYGRYDx2Pu4CGAMMUkky82fiZAPpMWpNMtyz51cWfAxCcshl",
+  "notes": "Date approximate: advnture.com article (updated 2024-03-21) says the dispatch was 'yesterday morning' — 2024-03-20; second Barr Trail mission that week after the 2024-03-15 sick-hiker extraction. 2026-09-18: merged EPCSAR FB post (Barr Trail snowcat mission).",
+  "peak": "Pikes Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2279
+}

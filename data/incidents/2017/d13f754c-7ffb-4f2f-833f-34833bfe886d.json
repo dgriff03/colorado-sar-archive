@@ -1,0 +1,19 @@
+{
+  "id": "d13f754c-7ffb-4f2f-833f-34833bfe886d",
+  "date": "2017-08-27",
+  "summary": "Injured hiker on Mt Bierstadt (2017-102)",
+  "location": "Mt Bierstadt",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2018/01/2017-Missions-Website.pdf",
+  "notes": "ART mission 2017-102. Cause of injury not stated.",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 449
+}

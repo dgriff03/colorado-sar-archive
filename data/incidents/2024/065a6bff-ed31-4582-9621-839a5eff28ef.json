@@ -1,0 +1,19 @@
+{
+  "id": "065a6bff-ed31-4582-9621-839a5eff28ef",
+  "date": "2024-10-08",
+  "summary": "Catherine broke her ankle in two places on a steep, leaf-covered descent of the Gray Copper Trail about 1.5 miles from the trailhead; her party activated a ResQLink PLB and Ouray Search and Rescue responded, coordinating an evacuation with an ambulance meeting the party at the trailhead",
+  "location": "Gray Copper Trail, behind Red Mountain off U.S. 550",
+  "county": "Ouray",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Ouray Search and Rescue",
+  "source_urls": "https://www.acrartex.com/survivor-stories/emergency-rescue-on-gray-copper-trail-how-a-simple-device-averted-disaster/",
+  "notes": "First-hand dated survivor testimonial (five-woman party hiking in rain); PLB activation relayed via Air Force; victim surname not given",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Gray Copper Trail",
+  "place_type": "trail",
+  "legacy_id": 3336
+}

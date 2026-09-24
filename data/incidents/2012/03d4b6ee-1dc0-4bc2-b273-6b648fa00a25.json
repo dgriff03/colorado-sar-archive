@@ -1,0 +1,19 @@
+{
+  "id": "03d4b6ee-1dc0-4bc2-b273-6b648fa00a25",
+  "date": "2012-10-21",
+  "summary": "Search for 4 overdue hunters in the Jones Pass area (Alpine mission 12-106)",
+  "location": "Jones Pass",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 4,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/category/recent-missions/clear-creek-county/page/154/",
+  "notes": "Alpine Rescue Team Clear Creek County category mission-log archive (Alpine mission 12-106); one-line page alert, outcome detail unstated in post.",
+  "peak": "Jones Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1798
+}

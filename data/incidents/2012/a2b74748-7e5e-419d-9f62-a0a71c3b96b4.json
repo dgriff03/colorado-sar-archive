@@ -1,0 +1,19 @@
+{
+  "id": "a2b74748-7e5e-419d-9f62-a0a71c3b96b4",
+  "date": "2012-01-22",
+  "summary": "Taft Conlin, 13, killed in an inbounds avalanche at Prima Cornice, Vail; two other skiers caught (one grabbed a tree, one tumbled off a small cliff out of the debris)",
+  "location": "Prima Cornice, Vail",
+  "county": "Eagle",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 3,
+  "responding_agency": "Vail Ski Patrol",
+  "source_urls": "https://classic.avalanche.state.co.us/caic/acc/acc_co.php|https://unofficialnetworks.com/2012/06/05/forest-service-clears-vail-13yearold-boys-inbounds-avalanche-death-families-hugely-disappointed/|https://www.cpr.org/2018/06/21/jury-rules-in-favor-of-vail-resorts-in-case-of-13-year-old-skier-killed-in-avalanche/|http://archives2.realvail.com/article/1245/Officials-warn-of-widespread-dangerous-avalanche-conditions-in-wake-of-Vail-slide-death",
+  "notes": "Run 83 CAIC 2011-12 thin-year chunk. CAIC summary only; no SAR team response confirmed. Run 509 UN merge (URLs opened this run): ~1 p.m. Jan 22, 2012, inbounds Prima Cornice zone entered via the open lower gate; Conlin partially buried-critical against a tree, died of blunt-force trauma per the Eagle County coroner; White River National Forest investigation found no Vail negligence; wrongful-death trial covered in 2018. https://unofficialnetworks.com/2018/06/13/where-does-the-truth-lie-in-death-of-13-year-old-killed-by-avalanche-at-vail/ also merged (opened this run; CAIC accident/rescue summary). Run 817 merge: appended incident-specific source URL (parent-opened). 2018 court story corroborating the Jan-22-2012 in-bounds incident. | Merged 2026-09-17 (run 852, Vail Daily chunk): archives2.realvail.com ECSO press-release repost URL appended (parent-opened; quotes the 2012-01-22 Prima Cornice release naming Taft Conlin).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Prima Cornice",
+  "place_type": "other",
+  "legacy_id": 2325
+}

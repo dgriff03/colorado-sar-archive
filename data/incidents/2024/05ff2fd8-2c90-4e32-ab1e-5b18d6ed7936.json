@@ -1,0 +1,19 @@
+{
+  "id": "05ff2fd8-2c90-4e32-ab1e-5b18d6ed7936",
+  "date": "2024-09-27",
+  "summary": "Adult male fell at Zapata Falls, struck head on rock, died at scene",
+  "location": "Zapata Falls",
+  "county": "Alamosa",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "NPS staff (recovery) + Alamosa County Sheriff's Office + Alamosa EMS + Mosca Hooper Volunteer Fire Department",
+  "source_urls": "https://www.centerpostdispatch.com/stories/tragedy-at-zapata-falls,60789|http://npshistory.com/morningreport/incidents/grsa.htm",
+  "notes": "Year confirmed 2024 via the NPS morning-report compendium (2024-10-04 entry); NPS staff were involved in the recovery effort alongside Alamosa County SO, Alamosa EMS, and Mosca Hooper VFD.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Zapata Falls",
+  "place_type": "waterfall",
+  "legacy_id": 1486
+}

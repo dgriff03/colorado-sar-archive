@@ -1,0 +1,19 @@
+{
+  "id": "2e91f8c9-c2bb-4127-885f-93dee12e5392",
+  "date": "2024-07-23",
+  "summary": "Climber found dead Tuesday afternoon near Lone Eagle Peak in the Indian Peaks Wilderness",
+  "location": "Lone Eagle Peak, Indian Peaks Wilderness",
+  "county": "Grand",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Grand County Sheriff's Office",
+  "source_urls": "https://snowbrains.com/21-year-old-climber-falls-800-feet-to-death-near-telluride-co/",
+  "notes": "Reported in passing via Grand County Sheriff announcement; route included Brainard Lake, Pawnee Pass, Crater Lake, Apache Peak; circumstances not released",
+  "peak": "Lone Eagle Peak",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1413
+}

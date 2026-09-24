@@ -1,0 +1,19 @@
+{
+  "id": "e709686f-12e7-42c3-b070-e065be3d2b5f",
+  "date": "2024-09-16",
+  "summary": "Injured 56-year-old male hunter in the Hefferman Gulch area",
+  "location": "Hefferman Gulch",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "County unverified; injury mechanism not stated in log; ART mission 2024-134.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Hefferman Gulch",
+  "place_type": "gulch",
+  "legacy_id": 1478
+}

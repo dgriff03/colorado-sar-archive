@@ -1,0 +1,19 @@
+{
+  "id": "2d02c907-f606-4fed-9dc1-f9ab15200848",
+  "date": "2024-08-18",
+  "summary": "Assist to Eagle County (State SAR Coordinator) for an injured 28-year-old woman on Mount Holy Cross",
+  "location": "Mount Holy Cross",
+  "county": "Eagle",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Eagle County SAR",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "County unverified; injury mechanism not stated in log; ART mission 2024-106.",
+  "peak": "Mount of the Holy Cross",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1447
+}

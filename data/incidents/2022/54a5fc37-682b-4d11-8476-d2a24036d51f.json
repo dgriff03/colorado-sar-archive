@@ -1,0 +1,19 @@
+{
+  "id": "54a5fc37-682b-4d11-8476-d2a24036d51f",
+  "date": "2022-06-04",
+  "summary": "Assist to Rocky Mountain Rescue Group for an injured skier in Skywalker Couloir on South Arapahoe Peak",
+  "location": "Skywalker Couloir (South Arapahoe Peak)",
+  "county": "Boulder",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Rocky Mountain Rescue Group",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2023/01/2022-Missions-Website.pdf",
+  "notes": "County unverified; injury mechanism not stated in log; ART mission 2022-033.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "South Arapahoe Peak",
+  "place_type": "peak",
+  "legacy_id": 1079
+}

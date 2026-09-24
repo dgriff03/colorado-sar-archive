@@ -1,0 +1,19 @@
+{
+  "id": "ae2c61ae-5089-4aab-8885-34d8ff0b418f",
+  "date": "2017-05-01",
+  "summary": "66-year-old man from Craig drowned after his inflatable kayak capsized on a rock in Teepee Rapid (class II+) on the Yampa River; companion kayaked 24 miles downstream to Hells Canyon Ranch to report; NPS rangers searched by helicopter Sunday morning and recovered the body ~3 miles downstream",
+  "location": "Teepee Rapid, Yampa River, Dinosaur National Monument",
+  "county": "Moffat",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "NPS Dinosaur National Monument rangers",
+  "source_urls": "https://www.nationalparkstraveler.org/2017/07/kayaker-drowns-yampa-river-dinosaur-national-monument",
+  "notes": "DATE APPROXIMATE — month-only (May 2017); NPT republishes the NPS release: incident ~2 p.m. on a Saturday in May 2017 (exact Saturday unrecoverable); victim wore a PFD; identity withheld pending family notification; body transported to the Moffat County Coroner.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Yampa River",
+  "place_type": "river",
+  "legacy_id": 3204
+}

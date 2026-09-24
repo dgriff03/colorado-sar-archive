@@ -1,0 +1,19 @@
+{
+  "id": "1f8ea790-34a0-4c17-896c-b0e19158f692",
+  "date": "2022-07-17",
+  "summary": "Young woman mountain runner descending a scree field on Twin Peaks triggered a rock slide; a large rock slashed her left leg. After field treatment she descended to the trail and got to a hospital by private vehicle.",
+  "location": "Twin Peaks",
+  "county": "Ouray",
+  "incident_type": "rockfall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Ouray Mountain Rescue Team",
+  "source_urls": "https://www.ouraymountainrescue.com/new-page-1",
+  "notes": "Leg laceration from triggered rock slide; self-evacuated after treatment.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Twin Peaks",
+  "place_type": "peak",
+  "legacy_id": 2163
+}

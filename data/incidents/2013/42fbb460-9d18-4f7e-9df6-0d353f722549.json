@@ -1,0 +1,19 @@
+{
+  "id": "42fbb460-9d18-4f7e-9df6-0d353f722549",
+  "date": "2013-07-09",
+  "summary": "Injured party near Mt Goliath on Mt Evans (Alpine mission 13-43)",
+  "location": "Mt Evans, Mt Goliath",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/category/recent-missions/clear-creek-county/page/150/",
+  "notes": "Alpine Rescue Team Clear Creek County category mission-log archive (Alpine mission 13-43); one-line page alert, outcome detail unstated in post.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1828
+}

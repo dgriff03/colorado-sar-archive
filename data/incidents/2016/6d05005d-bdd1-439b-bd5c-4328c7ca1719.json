@@ -1,0 +1,19 @@
+{
+  "id": "6d05005d-bdd1-439b-bd5c-4328c7ca1719",
+  "date": "2016-02-28",
+  "summary": "Female snowmobiler with a back injury near Halfmoon Campground (Mt. of the Holy Cross Wilderness, outside Minturn); transported by VMRG snowmobile team and Eagle County paramedics to an ambulance at the base of Tigiwon Road; out ~8 p.m.",
+  "location": "Halfmoon Campground, Mt. of the Holy Cross Wilderness",
+  "county": "Eagle",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Vail Mountain Rescue Group + Eagle County Paramedic Services",
+  "source_urls": "https://www.vaildaily.com/news/vail-mountain-rescue-group-february-january-missions-digest/",
+  "notes": "Jan-Feb-2016 VMRG mission digest.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Halfmoon Campground",
+  "place_type": "campground",
+  "legacy_id": 3115
+}

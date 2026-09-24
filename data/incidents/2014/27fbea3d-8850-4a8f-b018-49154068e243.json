@@ -1,0 +1,19 @@
+{
+  "id": "27fbea3d-8850-4a8f-b018-49154068e243",
+  "date": "2014-08-16",
+  "summary": "Two stuck hikers near the summit of Torrey's Peak",
+  "location": "Torrey's Peak",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2015/01/2014-Missions-Website.pdf",
+  "notes": "",
+  "peak": "Torreys Peak",
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 214
+}

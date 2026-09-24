@@ -1,0 +1,19 @@
+{
+  "id": "b41680ea-8cb2-4e3c-8c5f-ff5dc216e206",
+  "date": "2020-02-17",
+  "summary": "Assist El Paso County SAR for search of missing 12 YOM child (2020-09)",
+  "location": "El Paso County",
+  "county": "El Paso",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team; El Paso County SAR",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2021/01/2020-Missions-Website.pdf",
+  "notes": "ART mission 2020-09. Exact location not stated; asterisk in source.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 762
+}

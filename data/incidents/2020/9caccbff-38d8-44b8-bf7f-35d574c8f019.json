@@ -1,0 +1,19 @@
+{
+  "id": "9caccbff-38d8-44b8-bf7f-35d574c8f019",
+  "date": "2020-05-26",
+  "summary": "Injured climber in Floyd Hill open space area (2020-28)",
+  "location": "Floyd Hill open space area",
+  "county": "Clear Creek",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2021/01/2020-Missions-Website.pdf",
+  "notes": "ART mission 2020-28. Mechanism not stated, presumed fall.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Floyd Hill",
+  "place_type": "other",
+  "legacy_id": 784
+}

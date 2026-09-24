@@ -1,0 +1,19 @@
+{
+  "id": "71919783-ed10-492e-a743-09583e87515b",
+  "date": "2015-08-09",
+  "summary": "Two lost parties in the Mount Evans / Abyss Lake area",
+  "location": "Mount Evans / Abyss Lake area",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2016/02/2015-Missions.pdf",
+  "notes": "Alpine 2015 Missions PDF item 15-78.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2008
+}

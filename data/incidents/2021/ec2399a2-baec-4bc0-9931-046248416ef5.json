@@ -1,0 +1,19 @@
+{
+  "id": "ec2399a2-baec-4bc0-9931-046248416ef5",
+  "date": "2021-09-11",
+  "summary": "44-year-old climber fell ~300 ft from the traverse between Crestone Peak and Crestone Needle; body spotted by helicopter and recovered by rope team.",
+  "location": "Traverse between Crestone Peak and Crestone Needle, Sangre de Cristo Range",
+  "county": "Saguache",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Custer County Search and Rescue; DFPC Canon City Helitack; Saguache County Search and Rescue",
+  "source_urls": "https://snowbrains.com/climber-killed-traverse-2-colorado-14ers/|https://heartoftherockiesradio.com/climber-dead-after-fall-in-custer-county/",
+  "notes": "Reported overdue 2021-09-11; spotted ~300 ft below traverse by aerial search; recovered 2021-09-12 by CCSAR technical rope team inserted by helicopter; identified as Jeremy Fuerst. HotRR: 44-year-old experienced climber, body ~300 ft below the traverse, recovered Sunday.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Crestone Traverse",
+  "place_type": "climbing_area",
+  "legacy_id": 1019
+}

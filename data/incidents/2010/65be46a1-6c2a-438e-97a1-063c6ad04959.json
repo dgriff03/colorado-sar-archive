@@ -1,0 +1,19 @@
+{
+  "id": "65be46a1-6c2a-438e-97a1-063c6ad04959",
+  "date": "2010-06-05",
+  "summary": "Female body recovered from the Horsetooth Supply Canal on the evening of June 5, 2010, after she fell into the canal near the 6200-block of North County Road 29; body found near Larimer County Road 25E and County Road 38E; apparent accidental drowning, identity and final cause pending with the coroner.",
+  "location": "Horsetooth Supply Canal (near LCR 25E / CR 38E)",
+  "county": "Larimer",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Larimer County Sheriff's Office (deputies, Emergency Services, Dive Team, Parks units); Loveland Fire and Rescue; Loveland Dive Team",
+  "source_urls": "https://forums.radioreference.com/threads/larimer-county-water-rescue-as-paged.182456/",
+  "notes": "LCSO press release dated 2010-06-05 (John Schulz, PIO) reposted in RadioReference thread; 2010-06-05 was a Saturday, verified.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Horsetooth Supply Canal",
+  "place_type": "other",
+  "legacy_id": 2715
+}

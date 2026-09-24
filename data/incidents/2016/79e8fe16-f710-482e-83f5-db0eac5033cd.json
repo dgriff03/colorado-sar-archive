@@ -1,0 +1,19 @@
+{
+  "id": "79e8fe16-f710-482e-83f5-db0eac5033cd",
+  "date": "2016-06-19",
+  "summary": "Injured 23-year-old man, skier in the St. Mary's Glacier area",
+  "location": "St. Mary's Glacier",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "",
+  "peak": "James Peak",
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 305
+}

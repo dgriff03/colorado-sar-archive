@@ -1,0 +1,19 @@
+{
+  "id": "8add9e98-4fb0-4eac-966a-7916f22656eb",
+  "date": "2010-09-05",
+  "summary": "Overdue hikers on Mt Evans (10-78)",
+  "location": "Mt Evans",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-78. Victim count estimated from plural; outcome not stated, presumed rescued-uninjured.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 89
+}

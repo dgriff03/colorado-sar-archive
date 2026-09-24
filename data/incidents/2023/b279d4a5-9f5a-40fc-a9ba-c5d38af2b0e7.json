@@ -1,0 +1,19 @@
+{
+  "id": "b279d4a5-9f5a-40fc-a9ba-c5d38af2b0e7",
+  "date": "2023-06-25",
+  "summary": "Emily, 29, died in a fall of roughly 100-150 ft from the Catwalk, the exposed ridge joining North Eolus to Mt. Eolus; her body slid another ~400 ft and was recovered at 37.62213/-107.61904; she was climbing solo",
+  "location": "Mount Eolus, Chicago Basin",
+  "county": "La Plata",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "La Plata County Search and Rescue",
+  "source_urls": "https://www.facebook.com/laplatacountysheriff/photos/on-62523-at-approximately-0747-hours-la-plata-county-sheriffs-office-was-notifie/659486089555717/",
+  "notes": "2026-09-15: 14ers.com forum link removed per site ban; replaced with La Plata County Sheriff Office public Facebook post (published 2026-06-30) stating SO notified 6/25/23 ~07:47 of deceased female hiker in Chicago Basin, likely fell from the Catwalk; recovery by La Plata County SAR (inserted by Flight for Life Lifeguard 5) with San Juan Mountain Rescue and Canon City Helitack assisting. Date corrected 2023-07-01 -> 2023-06-25 per official notification; wx re-pinned to corrected date. Victim died within seconds from a head injury per her brother.",
+  "peak": "Mount Eolus",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1228
+}

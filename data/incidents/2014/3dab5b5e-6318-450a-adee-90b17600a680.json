@@ -1,0 +1,19 @@
+{
+  "id": "3dab5b5e-6318-450a-adee-90b17600a680",
+  "date": "2014-06-24",
+  "summary": "Injured a party in the Georgetown Lake area (Alpine mission 14-41)",
+  "location": "Georgetown Lake",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2015/01/2014-Missions-Website.pdf",
+  "notes": "Alpine Rescue Team 2014 annual mission summary PDF (one-line mission log; page date used as mission date).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Georgetown Lake",
+  "place_type": "lake",
+  "legacy_id": 1894
+}

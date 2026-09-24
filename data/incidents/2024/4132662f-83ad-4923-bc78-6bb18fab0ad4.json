@@ -1,0 +1,19 @@
+{
+  "id": "4132662f-83ad-4923-bc78-6bb18fab0ad4",
+  "date": "2024-08-26",
+  "summary": "36-year-old hiker missing while hiking/camping near Lake Isabelle found dead Monday evening; body recovered Tuesday from remote rocky terrain",
+  "location": "Indian Peaks Wilderness near Lake Isabelle/Shoshoni Peak",
+  "county": "Boulder",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office Emergency Services, dog teams, helicopter",
+  "source_urls": "https://www.foxweather.com/lifestyle/colorado-indian-peak-wilderness-missing-hikers-dead|https://bouldercounty.gov/news/missing-hiker-near-lake-isabelle-located-deceased/|https://www.beaconjournal.com/story/news/nation/2024/08/28/colorado-hiker-death-lake-isabelle/74989671007/",
+  "notes": "Found Aug 26 after family reported him missing; recovered Aug 27; cause not stated, not suspicious; vehicle at Brainard Lake BCSO release detail: 36-year-old male overdue camper reported missing Mon 2024-08-26 11:30 a.m. at Lake Isabelle (Indian Peaks Wilderness, via Brainard Lake); vehicle in Brainard lot; body located ~5:30 p.m. near Shoshoni Peak via family reports + Garmin GPS data; recovered Aug 27 by RMRG + Colorado DFPC helicopter to Boulder County investigators/coroner; case 24-04366. [run 848 merge] beaconjournal.com Chieftain-hosted wire story of the same incident (BCSO details: 36-YO found dead near Shoshoni Peak/Lake Isabelle, recovered Tuesday by DFPC helicopter)",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Indian Peaks Wilderness",
+  "place_type": "wilderness",
+  "legacy_id": 1458
+}

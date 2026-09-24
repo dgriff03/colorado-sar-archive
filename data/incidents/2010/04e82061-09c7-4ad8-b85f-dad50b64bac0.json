@@ -1,0 +1,19 @@
+{
+  "id": "04e82061-09c7-4ad8-b85f-dad50b64bac0",
+  "date": "2010-05-21",
+  "summary": "Injured party caught in avalanche on Torreys Peak (10-26)",
+  "location": "Torreys Peak",
+  "county": "Clear Creek",
+  "incident_type": "avalanche",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-26.",
+  "peak": "Torreys Peak",
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 27
+}

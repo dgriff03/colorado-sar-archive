@@ -1,0 +1,19 @@
+{
+  "id": "83f0eac2-de02-4ccb-b55c-5e5ebfd7cca8",
+  "date": "2010-10-25",
+  "summary": "Overdue hiker on Torreys Peak (10-100)",
+  "location": "Torreys Peak",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-100. Outcome not stated in PDF; presumed rescued-uninjured.",
+  "peak": "Torreys Peak",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 109
+}

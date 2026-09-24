@@ -1,0 +1,19 @@
+{
+  "id": "2b0fdccc-2dbd-4a1b-ab33-e435e9b1d7c7",
+  "date": "2013-04-13",
+  "summary": "Search for overdue party on Mt Bierstadt (Alpine mission 13-06)",
+  "location": "Mt Bierstadt",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/category/recent-missions/clear-creek-county/page/153/",
+  "notes": "Alpine Rescue Team Clear Creek County category mission-log archive (Alpine mission 13-06); one-line page alert, outcome detail unstated in post.",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1811
+}

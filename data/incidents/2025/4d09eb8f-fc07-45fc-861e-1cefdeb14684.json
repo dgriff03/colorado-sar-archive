@@ -1,0 +1,19 @@
+{
+  "id": "4d09eb8f-fc07-45fc-861e-1cefdeb14684",
+  "date": "2025-10-18",
+  "summary": "Individual fell 100 feet on The Citadel above Herman Gulch; technical 4th-class terrain, high winds; patient hoisted by CO National Guard and Rocky Mountain Rescue Group",
+  "location": "The Citadel above Herman Gulch",
+  "county": "Clear Creek",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team, Flight For Life Colorado, Colorado Army National Guard, Rocky Mountain Rescue Group, Summit County Rescue Group, Park County SAR, Arapahoe Rescue Patrol, Douglas County SAR, Colorado Search and Rescue Association",
+  "source_urls": "https://www.facebook.com/AlpineRescue/posts/pfbid0m8J4vyD8QrB7MwFod5Sw4pCXaGP2PEsqaGuwLw7Uf7SXcqp6TaxAJXsckD6uNva2l",
+  "notes": "6 Flight For Life rescue deployment flights + ground teams from Herman Gulch; 'yesterday' per 2025-10-19 post; distinct from 2025-12-31 Citadel fatality",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "The Citadel",
+  "place_type": "climbing_area",
+  "legacy_id": 1678
+}

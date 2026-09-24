@@ -1,0 +1,19 @@
+{
+  "id": "fa598e31-fa49-4a37-9db2-58af8474f6a1",
+  "date": "2017-03-02",
+  "summary": "Backcountry skier suffered a knee injury on a slow twisting fall in the upper Bear Creek area; party traversed to the Wedding Chutes area where she was extracted by helicopter and transported by deputy to Telluride Regional Medical Center.",
+  "location": "Upper Bear Creek, Wedding Chutes area, Telluride",
+  "county": "San Miguel",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "San Miguel County Sheriff's Office SAR, Helitrax helicopter",
+  "source_urls": "https://sanmiguelcountyco.gov/CivicAlerts.aspx?AID=159&ARC=428",
+  "notes": "Run 19 (San Miguel County SO news alerts). Release dated 2017-03-02. 50-year-old woman from Vermont skiing with experienced backcountry skiers; no avalanche. Content read from search crawl of the alert page (browser.open unavailable this run). Full alert text opened 2026-09-11 (run 96): Helitrax flyover secured after Telluride Ski Patrol notified dispatch ~2 p.m.; patient and her party traversed to the Wedding Chutes area for the extrication; flown to Telluride Airport, then transported to Telluride Regional Medical Center by private vehicle (Telluride EMS rendezvous and additional SAR personnel stood down). Sheriff Masters called it the second backcountry reminder in two days (following the 2017-03-01 E Ticket avalanche).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Upper Bear Creek",
+  "place_type": "creek",
+  "legacy_id": 2199
+}

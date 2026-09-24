@@ -1,0 +1,19 @@
+{
+  "id": "242c2ac4-ab82-40b3-a19b-7e902b4258d0",
+  "date": "2021-05-10",
+  "summary": "Unidentified 33-year-old Durango man went missing while dirt biking in La Plata County on May 10, 2021; ~30 searchers, helicopters, a Colorado multi-mission aircraft, and canine units joined the search; a rescue canine found a body in Hermosa Creek near Jones Creek several days later; the body had not yet been recovered at publication due to ~600-ft steep terrain; coroner autopsy pending.",
+  "location": "Hermosa Creek near Jones Creek, north of Durango",
+  "county": "La Plata",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "La Plata County Search and Rescue; Colorado multi-mission aircraft",
+  "source_urls": "https://95rockfm.com/body-found-near-durango-believed-to-be-that-of-missing-man/",
+  "notes": "Identity withheld pending autopsy and next-of-kin notification at publication. LPCSAR president believed the man abandoned his motorcycle in Jones Creek and followed the creek on foot.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Hermosa Creek",
+  "place_type": "creek",
+  "legacy_id": 2358
+}

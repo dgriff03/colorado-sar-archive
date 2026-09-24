@@ -1,0 +1,19 @@
+{
+  "id": "f044aa62-f0bf-4dae-9a53-e2366de0616e",
+  "date": "2016-07-01",
+  "summary": "Overnight search for a missing mountain bike rider from the Sheep Creek Trailhead; rider self-exited onto County Road 18 after an overnight journey and was picked up by a deputy",
+  "location": "Sheep Creek Trailhead",
+  "county": "Park",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Park County SAR",
+  "source_urls": "https://www.theflume.com/news/article_d540cf68-6bd1-11e6-a6a4-8b8247bc52c4.html",
+  "notes": "Date approximate: late July 2016; listed as first of month. Subject self-rescued during the search.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Sheep Creek Trailhead",
+  "place_type": "trailhead",
+  "legacy_id": 2264
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ec065a13-39db-4e52-adf3-1633329a583f",
+  "date": "2020-08-29",
+  "summary": "Missing hiker on Mt Evans (2020-94)",
+  "location": "Mt Evans",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2021/01/2020-Missions-Website.pdf",
+  "notes": "ART mission 2020-94. Outcome not stated in PDF; presumed rescued-uninjured.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 858
+}

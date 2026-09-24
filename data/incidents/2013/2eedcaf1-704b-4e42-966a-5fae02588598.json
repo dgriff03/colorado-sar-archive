@@ -1,0 +1,19 @@
+{
+  "id": "2eedcaf1-704b-4e42-966a-5fae02588598",
+  "date": "2013-09-09",
+  "summary": "A visitor died by suicide in Colorado National Monument; NPS reported it as one of three visitor fatalities in September 2013 (the Sept 18 accidental ~400-ft fall near Cold Shivers Point Overlook and a Sept 18/19 single-vehicle accident), noting the park worked with the Mesa County Sheriff's Department on body recoveries",
+  "location": "Colorado National Monument",
+  "county": "Mesa",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "National Park Service; Mesa County Sheriff's Department",
+  "source_urls": "http://npshistory.com/morningreport/incidents/colm.htm",
+  "notes": "NPS Sept 24, 2013 incident report; specific location within the park not given; distinct from id 2785 (2013-09-18 accidental Cold Shivers Point fall)",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Colorado National Monument",
+  "place_type": "park",
+  "legacy_id": 3011
+}

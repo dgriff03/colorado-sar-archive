@@ -1,0 +1,19 @@
+{
+  "id": "9a7dc5aa-a071-4596-b451-08666f409529",
+  "date": "2017-07-29",
+  "summary": "Fisherman discovered skeletal remains along South Boulder Creek east of Gross Reservoir (Walker Ranch Open Space) on Saturday afternoon; recovery investigation launched Sunday by Boulder County Sheriff's Office, Boulder County Coroner's Office, and Front Range Rescue Dogs, with additional remains found dispersed by wildlife. Remains positively identified as Ryder Johnson of Boulder, missing since January 2016 when his car was found abandoned on Gross Dam Road; cause and manner of death pending.",
+  "location": "South Boulder Creek, east of Gross Reservoir (Walker Ranch Open Space)",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office; Boulder County Coroner's Office; Front Range Rescue Dogs",
+  "source_urls": "https://www.themtnear.com/stories/human-skeletal-remains-discovered-east-of-grossreservoir,3855",
+  "notes": "2017-07-29 = discovery date (Saturday, weekday-verified); recovery July 29-30. Sheriff case 17-4429; missing-person case 16-328. Resolves the long-pending Ryder Johnson lead (previously \"missing, never found\", uninsertable without an outcome/date). DNA showed the June-2016 Eldora snow-boot remains were NOT Johnson's.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "South Boulder Creek",
+  "place_type": "creek",
+  "legacy_id": 2912
+}

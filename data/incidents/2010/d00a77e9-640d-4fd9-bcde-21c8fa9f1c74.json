@@ -1,0 +1,19 @@
+{
+  "id": "d00a77e9-640d-4fd9-bcde-21c8fa9f1c74",
+  "date": "2010-04-20",
+  "summary": "Two Mexico City tourists hiking Mt. Sanitas west of Boulder were unprepared for how quickly it got dark and got lost; BCSO, Rocky Mountain Rescue, Boulder Rural Fire and Boulder Mountain Fire responded to a 911 call ~8:10 p.m.; they were found near the summit and led to safety without further incident",
+  "location": "Mt. Sanitas, west of Boulder",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Boulder County Sheriff's Office (with Rocky Mountain Rescue Group)",
+  "source_urls": "https://archives.boulderweekly.com/news/cosmic-brownie-call/",
+  "notes": "DATE PIN — BW police blotter (parent-opened run 632): 'April 20, at approximately 8:10 pm'; Tuesday-verified; Pridemark-era nails year as 2010; zero Boulder 2010-04-20 rows before insert. Distinct incident from the Red Rock Loop fall the same evening.",
+  "peak": "Mount Sanitas",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3081
+}

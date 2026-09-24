@@ -1,0 +1,19 @@
+{
+  "id": "70303af4-db41-4d66-a1f2-874b23f960fa",
+  "date": "2024-08-10",
+  "summary": "24-year-old male fell off his paddleboard at Carter Lake ~2:15 p.m., no life jacket, did not resurface; witnesses searched unsuccessfully; dive teams (Berthoud Fire, Loveland Fire Rescue Authority) located him in the water ~3:50 p.m., began first aid, transported to hospital where he was pronounced deceased",
+  "location": "Carter Lake",
+  "county": "Larimer",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Larimer County Sheriff's Office Emergency Services (+ Berthoud Fire Dept, Loveland Fire Rescue Authority, Thompson Valley EMS, Larimer County Rangers)",
+  "source_urls": "https://www.larimer.gov/spotlights/2024/08/11/carter-lake-paddleboarding-death|https://northfortynews.com/category/news/man-dies-in-paddleboarding-accident-at-carter-lake/",
+  "notes": "Victim unnamed at publication (24-year-old male per Coroner release \"Carter Lake Fatality – August 10, 2024\"); Coroner to release identity/cause later. [run 933]",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Carter Lake",
+  "place_type": "lake",
+  "legacy_id": 3557
+}

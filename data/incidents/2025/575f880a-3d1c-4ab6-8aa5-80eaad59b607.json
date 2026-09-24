@@ -1,0 +1,19 @@
+{
+  "id": "575f880a-3d1c-4ab6-8aa5-80eaad59b607",
+  "date": "2025-09-26",
+  "summary": "Overdue camper in the Barbour Forks Trailhead area",
+  "location": "Barbour Forks Trailhead",
+  "county": "",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf",
+  "notes": "Location unverified; ART mission 2025-123.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "ONE_LINER",
+  "place": "Barbour Forks Trailhead",
+  "place_type": "trailhead",
+  "legacy_id": 1669
+}

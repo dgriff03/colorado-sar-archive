@@ -1,0 +1,19 @@
+{
+  "id": "9229cc6c-67a6-4fac-8b6a-b865b3d90423",
+  "date": "2023-12-17",
+  "summary": "Injured snowmobiler on Rabbit Ears Pass. An RCSAR snowmobile team drove nearly 30 miles to the Dumont Lake trailhead; given the severity of the patient's injuries, Classic Air Medical responded to the scene and flew the patient to a front-range hospital for treatment.",
+  "location": "Rabbit Ears Pass, Dumont Lake trailhead",
+  "county": "Routt",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Routt County Search and Rescue; Classic Air Medical",
+  "source_urls": "https://myemail.constantcontact.com/Far-Routt-Newsletter.html?soid=1139552188087&aid=WlJRvmEwh8U",
+  "notes": "RCSAR Far Routt Newsletter, Winter Edition (January 2024) — \"3 Missions in 12 Hours\" (mission 2 of 3).",
+  "peak": "Rabbit Ears Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3480
+}

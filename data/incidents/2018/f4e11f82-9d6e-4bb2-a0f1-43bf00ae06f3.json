@@ -1,0 +1,19 @@
+{
+  "id": "f4e11f82-9d6e-4bb2-a0f1-43bf00ae06f3",
+  "date": "2018-07-30",
+  "summary": "Stranded hiker on Mt. Herman.",
+  "location": "Mt. Herman",
+  "county": "El Paso",
+  "incident_type": "lost/stranded",
+  "outcome": "assisted",
+  "victims": 1,
+  "responding_agency": "El Paso County SAR",
+  "source_urls": "https://www.facebook.com/epcsar/posts/pfbid0TC5duU8PQC2CRx8S4x87ceKf4ChXznYn9UBksP9eRkdsDTXf8fW25fqaZ5DpKGdJl",
+  "notes": "Source: El Paso County SAR Facebook page.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "ONE_LINER",
+  "place": "Mount Herman",
+  "place_type": "peak",
+  "legacy_id": 3674
+}

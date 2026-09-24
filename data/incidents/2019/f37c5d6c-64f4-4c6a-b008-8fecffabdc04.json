@@ -1,0 +1,19 @@
+{
+  "id": "f37c5d6c-64f4-4c6a-b008-8fecffabdc04",
+  "date": "2019-07-15",
+  "summary": "ATV accident on Old Italian Creek Road in mid-July; patient flown off Reno Divide by helicopter with Western State MRT and Crested Butte Fire/EMS assistance",
+  "location": "Old Italian Creek Road",
+  "county": "Gunnison",
+  "incident_type": "vehicle",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Crested Butte Mountain Rescue Team, Western State MRT, Crested Butte Fire/EMS",
+  "source_urls": "https://crestedbuttenews.com/2019/08/cb-mountain-rescue-team-has-been-busy-this-summer/",
+  "notes": "DATE APPROXIMATE - CBN 2019-08 says only 'mid-July'. The article describes this in the same item as a jeep rollover on Italian Creek Road just below (see id 2346); ambiguous whether one scene or two, recorded separately.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Old Italian Creek Road",
+  "place_type": "road",
+  "legacy_id": 2345
+}

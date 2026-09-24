@@ -1,0 +1,19 @@
+{
+  "id": "1e2d02f1-117a-46a6-adea-36dd9014fff0",
+  "date": "2014-07-08",
+  "summary": "Male in his mid-20s missing in Great Sand Dunes NP after separating from a hiking companion the day before; little food or water and not dressed for cold summer nights; AVSAR + NPS searched with air support planned for the next day; found safe at the Sand Dunes Oasis by an NPS ranger ~5:03 p.m.",
+  "location": "Great Sand Dunes NP",
+  "county": "Alamosa",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alamosa Volunteer SAR / NPS",
+  "source_urls": "https://www.avsar.us/missions-from-2008-2015/",
+  "notes": "Date = mission date; incident began ~0200 July 7, 2014.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Great Sand Dunes National Park",
+  "place_type": "park",
+  "legacy_id": 2572
+}

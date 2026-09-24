@@ -1,0 +1,19 @@
+{
+  "id": "2f8f4ee4-713a-4014-ada0-ba9fc711bffd",
+  "date": "2017-08-25",
+  "summary": "54-year-old male hiker (hometown unknown) suffered a leg injury above Black Lake; rangers plus five bystanders moved him to a nearby alpine meadow, from where he was flown at 3:45 p.m. by St. Anthony Flight for Life to Boulder Community Hospital",
+  "location": "above Black Lake, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park Search and Rescue",
+  "source_urls": "https://www.nps.gov/romo/learn/news/pr_numerous_incidents_over_the_last_five_days.htm",
+  "notes": "NPS release dated 2017-08-30 (Friday morning, August 25).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Black Lake",
+  "place_type": "lake",
+  "legacy_id": 3039
+}

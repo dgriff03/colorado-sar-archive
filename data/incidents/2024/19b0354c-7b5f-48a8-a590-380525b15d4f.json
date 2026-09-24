@@ -1,0 +1,19 @@
+{
+  "id": "19b0354c-7b5f-48a8-a590-380525b15d4f",
+  "date": "2024-08-16",
+  "summary": "Altitude-sick party on the East Ridge of Mt Bierstadt",
+  "location": "Mt Bierstadt (East Ridge)",
+  "county": "Clear Creek",
+  "incident_type": "medical",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "ART mission 2024-102.",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1442
+}

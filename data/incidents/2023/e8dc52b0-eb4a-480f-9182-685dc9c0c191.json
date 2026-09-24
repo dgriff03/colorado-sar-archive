@@ -1,0 +1,19 @@
+{
+  "id": "e8dc52b0-eb4a-480f-9182-685dc9c0c191",
+  "date": "2023-03-01",
+  "summary": "Snowboarder lost for more than 29 hours in the Nederland/Eldora area (mid-Feb–Mar 15, 2023 window); found and transported by NFPD.",
+  "location": "Nederland area",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Nederland Fire Protection District",
+  "source_urls": "https://www.themtnear.com/stories/nfpd-chief-resigns-search-for-new-chief-begins,10724",
+  "notes": "DATE APPROXIMATE — month-pinned; incident falls in the mid-Feb–Mar 15, 2023 window covered by the March 15, 2023 chief's report, recounted in the Mountain-Ear (the report PDF itself is not search-indexed). Location approximate — no precise location stated. No Feb–Mar 2023 Eldora/Nederland lost-snowboarder rows in DB (id 1324 is 2024-01-20, distinct).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Nederland",
+  "place_type": "town",
+  "legacy_id": 3353
+}

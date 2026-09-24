@@ -1,0 +1,19 @@
+{
+  "id": "f583482f-4430-4fb0-a3cd-10a605cc7e35",
+  "date": "2010-07-06",
+  "summary": "Climber rappelled off the end of the rope in Boulder Canyon, sustaining lower-leg and possible back injuries; transported across the creek.",
+  "location": "Boulder Canyon",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201104702",
+  "notes": "",
+  "peak": "Boulder Canyon",
+  "setting": "frontcountry",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 47
+}

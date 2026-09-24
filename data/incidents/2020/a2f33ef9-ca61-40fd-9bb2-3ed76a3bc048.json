@@ -1,0 +1,19 @@
+{
+  "id": "a2f33ef9-ca61-40fd-9bb2-3ed76a3bc048",
+  "date": "2020-04-15",
+  "summary": "30-year-old backcountry skier carried 1,800 ft by an avalanche in the 'Oh What Big Eyes You Have' couloir on Red Mountain and killed.",
+  "location": "North side of Red Mountain, Gore Range (Red Peak, ~12,885 ft), north of Silverthorne",
+  "county": "Summit",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 3,
+  "responding_agency": "Summit County Rescue Group; Summit County Sheriff; Summit County Coroner",
+  "source_urls": "https://backcountrymagazine.com/stories/experienced-skier-dies-in-colorado-avalanche-danger-elevated-across-the-west/|http://classic.avalanche.state.co.us/caic/acc/acc_co.php|http://unofficialnetworks.com/2020/04/16/colorado-backcountry-skier-avalanche-death/|https://snowbrains.com/backcountry-tourer-killed-in-colorado-avalanche-yesterday-5th-avalanche-fatality-in-co-this-season/|https://snowbrains.com/update-final-report-published-for-colorado-avalanche-that-killed-backcountry-tourer-on-april-15/",
+  "notes": "Aaron Wiener, 30, of Denver; party of three experienced backcountry skiers; triggered a small wind pocket; body recovery delayed to Friday due to weather/hazard; 5th CO avalanche fatality of the 2019-20 season. CAIC classic 2019-20 season table confirms: \"Point 12885 near Red Peak, west of Silverthorne,\" 2 tourers caught and carried, 1 killed; CAIC final report: Skier 1 swept the couloir length (~1,600 ft) and did not survive (Red Mountain/Red Peak naming both refer to the Gore Range near Silverthorne). UN Red Mountain avalanche-death account merged run 540. run 671: SnowBrains Red Mountain couloir article, parent-opened SnowBrains merge run 885: CAIC final report — skier-triggered wind-slab (SS-ASu-R2-D2-I); Skier 1 carried ~1,600 ft down the \"Oh What Big Eyes You Have\" couloir; body retrieved April 17 by SCRG/SCSO/Flight for Life.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Red Peak",
+  "place_type": "peak",
+  "legacy_id": 772
+}

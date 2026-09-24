@@ -1,0 +1,19 @@
+{
+  "id": "35d74f81-ca22-4b6d-88ba-d1c433b37634",
+  "date": "2023-02-14",
+  "summary": "Skier Carey M. Bare (72) of Chromo lost in blizzard near Trujillo Meadows/La Manga Pass; SPOT signal Feb 14; found next morning in a yurt, wet/cold and near-hypothermic; transported to hospital",
+  "location": "Trujillo Meadows area, La Manga Pass",
+  "county": "Conejos",
+  "incident_type": "lost/stranded",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Conejos County Sheriff's Office; Conejos County SAR; U.S. Forest Service",
+  "source_urls": "https://www.conejoscountycitizen.com/stories/ccso-chromo-man-found-alive-after-spending-night-in-blizzard-conditions,3613|https://alpha.creativecirclecdn.com/valley/files/20240412-132648-b42e89aba4b71e005b58a0830fe87d42.zip~2-22%20MVJ.pdf",
+  "notes": "Year uncertain: source dates only Feb 14-15; winter 2023-24 placement flagged. DATE CORRECTION run 693: 2024-02-15 -> 2023-02-14 (MVJ 2-22-2023 print PDF: SPOT signal 8:20 p.m. Feb 14, found alive Feb 15).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "La Manga Pass",
+  "place_type": "pass",
+  "legacy_id": 1334
+}

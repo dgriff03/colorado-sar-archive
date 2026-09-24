@@ -1,0 +1,19 @@
+{
+  "id": "05bc85c0-0b42-45d0-bbeb-fff5ea4a406a",
+  "date": "2021-07-03",
+  "summary": "Stranded hiker on cliffs above St Marys Lake",
+  "location": "St Marys Lake",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2022/02/2021-Missions-Website.pdf",
+  "notes": "ART mission 2021-066. Outcome re-coded from rescued-uninjured to assist: log does not state the subject's final outcome.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "St. Marys Lake",
+  "place_type": "lake",
+  "legacy_id": 975
+}

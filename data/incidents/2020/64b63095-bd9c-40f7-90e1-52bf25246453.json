@@ -1,0 +1,19 @@
+{
+  "id": "64b63095-bd9c-40f7-90e1-52bf25246453",
+  "date": "2020-07-06",
+  "summary": "Allen Ginsborg, 59, of Loveland reported missing after his family found his pickup truck at Lon Hagler Reservoir southwest of Loveland; multi-agency search Jul 6-8; body found dead Jul 10 ~1.5 mi east of the reservoir",
+  "location": "Lon Hagler Reservoir, southwest of Loveland",
+  "county": "Larimer",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Larimer County Sheriff's Office; Larimer County Search and Rescue; UCHealth Lifeline helicopter; Loveland Fire Rescue Authority; Colorado Parks and Wildlife; Larimer County Dive Rescue Team; Search and Rescue Dogs of the US",
+  "source_urls": "https://northfortynews.com/category/news/public-sought-out-to-help-locate-missing-person/|https://bizwest.com/2020/07/12/allen-ginsborg-developer-of-the-village-at-the-peaks-in-longmont-confirmed-dead/|https://www.facebook.com/lcsarinc/posts/pfbid0oSxiNq1RSbzY2apJRcrQGV9mt9G61xste8vcJogAfJZC8ywXseDCYZMo2DeirDgCl",
+  "notes": "Search agencies worked Jul 6-8 without locating him; body recovered Jul 10; cause of death not released at publication. 2026-09-20: merged LCSAR FB post permalink (LCSAR 2020-07-08 post on its ongoing search operations near Lon Hagler Reservoir; full-str).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Lon Hagler Reservoir",
+  "place_type": "reservoir",
+  "legacy_id": 2561
+}

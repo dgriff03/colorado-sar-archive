@@ -1,0 +1,19 @@
+{
+  "id": "a650a099-e28b-4079-b477-c3c961a0409f",
+  "date": "2022-03-10",
+  "summary": "A skier and a snowboarder, with their dog, triggered an avalanche on the northeast face of Mount Peck south of Monarch Crest around 4 p.m.; the skier deployed an airbag pack and was partially buried, the snowboarder was nearly fully buried but kept a hand above the snowpack and the skier dug her out. Both refused medical care and hiked out on their own; the dog was not recovered that day but was found alive near the top of Monarch Pass two days later and reunited with its owners.",
+  "location": "northeast face of Mount Peck, south of Monarch Crest",
+  "county": "Chaffee",
+  "incident_type": "avalanche",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Chaffee County SAR South",
+  "source_urls": "https://heartoftherockiesradio.com/search-and-rescue-responds-to-monarch-crest-avalanche/",
+  "notes": "Heart of the Rockies Radio (opened run 601): CCSAR-South paged out ~5:20 Thursday evening via a friend's text from the subjects. Date pinned 2022-03-10 (verified Thursday): SnowBrains/AAC 'Mid-Tour Change of Plans' accounts date the slide 'March 10th'/'March 10, 2022' (CAIC-credited; hard slab, 40-degree north-facing slope, broke 3-5 ft deep on facets buried by the Feb 21 storm). Humans uninjured.",
+  "peak": "Monarch Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3035
+}

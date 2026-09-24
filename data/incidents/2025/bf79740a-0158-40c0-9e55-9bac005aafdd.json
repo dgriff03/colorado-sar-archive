@@ -1,0 +1,19 @@
+{
+  "id": "bf79740a-0158-40c0-9e55-9bac005aafdd",
+  "date": "2025-07-29",
+  "summary": "Three-person climbing party ascending the bolted 5.7 sport route 'Hasta la Vista Amichi' (four pitches, 400 vertical ft) above Officer's Gulch on the west side of the Tenmile Range near Frisco when one climber fell and was pronounced deceased at the scene. The fallen climber (Rick Karden, 57, Summit teacher/author, per Krystal93; sheriff release withheld identity) had most of the group's gear, stranding the other two climbers; Summit County Sheriff's deputies and the Summit County Rescue Group evacuated the two uninjured survivors in a ~4-hour mission and recovered the body. Coroner to determine cause/manner.",
+  "location": "Hasta la Vista Amichi, above Officer's Gulch, Tenmile Range",
+  "county": "Summit",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 3,
+  "responding_agency": "Summit County Sheriff's Office; Summit County Rescue Group",
+  "source_urls": "https://summitsheriffcolorado.gov/news_detail_T2_R42.php|https://krystal93.com/rock-climber-killed-in-fall-above-officers-gulch-2-others-stranded/",
+  "notes": "Run 663 backfill insert (Summit Daily chunk); date 2025-07-29 pinned by official SCSO press release ('On July 29, 2025, at approximately 11:00 a.m.'); 2025-07-29 was a Tuesday; parks the run-640 blotter-derived '~Aug-2025 Officer's Gulch climbing-party fatality' lead (distinct from id 1281). Inserted per run-634 refinement (predates freshness-sweep window, no other lane captures 2025 incidents).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Officer's Gulch",
+  "place_type": "gulch",
+  "legacy_id": 3189
+}

@@ -1,0 +1,19 @@
+{
+  "id": "007cda1e-0c65-4290-a245-0d0e4509a256",
+  "date": "2022-03-17",
+  "summary": "29-year-old solo backcountry snowboarder caught, buried under ~6 ft of debris and killed in an avalanche south of Trout Lake.",
+  "location": "South of Trout Lake, ~13 miles south of Telluride (~5 miles SW of Ophir), North San Juan zone",
+  "county": "San Miguel",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "San Miguel County Sheriff; San Miguel County Search and Rescue; Helitrax (heli-ski operator)",
+  "source_urls": "https://snowbrains.com/solo-backcountry-snowboarder-killed-in-avalanche-south-of-telluride-co/|https://classic.avalanche.state.co.us/caic/acc/acc_co.php",
+  "notes": "Devin Overton, 29, of Telluride; Helitrax spotted single tracks entering the slide and did an aerial beacon search, landing to locate the victim; SAR flown in to recover the body; 13th US avalanche death of the winter. MERGE 2026-09-13 (run 376): classic-CAIC season-table URL appended; table locates the 03/17 solo-snowboarder fatality at Pilot Knob, east of Lizard Head Pass (vs the snowbrains south-of-Trout Lake account) — same incident, location cross-reference.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Trout Lake",
+  "place_type": "lake",
+  "legacy_id": 1056
+}

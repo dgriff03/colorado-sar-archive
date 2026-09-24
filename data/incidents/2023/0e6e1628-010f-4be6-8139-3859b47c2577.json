@@ -1,0 +1,19 @@
+{
+  "id": "0e6e1628-010f-4be6-8139-3859b47c2577",
+  "date": "2023-07-28",
+  "summary": "Tower rescue of one individual in the Thornton area",
+  "location": "Thornton",
+  "county": "Adams",
+  "incident_type": "other",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2024/01/2023-Missions-Website.pdf",
+  "notes": "County per Thornton location (unverified); ART mission 2023-064.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Thornton",
+  "place_type": "town",
+  "legacy_id": 1252
+}

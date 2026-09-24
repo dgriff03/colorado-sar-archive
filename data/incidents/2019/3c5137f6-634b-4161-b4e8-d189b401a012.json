@@ -1,0 +1,19 @@
+{
+  "id": "3c5137f6-634b-4161-b4e8-d189b401a012",
+  "date": "2019-08-19",
+  "summary": "72-year-old Montrose couple rolled their Jeep about 450 vertical feet off Tomboy Road near Royer Gulch (Imogene Pass area) en route to Telluride; multi-agency technical-rope rescue with rockfall threat (~35 people, ~5 hours) brought them out; both sustained multiple critical injuries, transported to Telluride Medical Center then flown by medical helicopter to St. Mary's Hospital in Grand Junction",
+  "location": "Tomboy Road near Royer Gulch, Imogene Pass area, en route to Telluride",
+  "county": "San Miguel",
+  "incident_type": "vehicle",
+  "outcome": "injury",
+  "victims": 2,
+  "responding_agency": "San Miguel County Sheriff's Office Search and Rescue",
+  "source_urls": "https://unofficialnetworks.com/2019/08/19/jeep-roll-telluride/",
+  "notes": "DATE APPROXIMATE: pin is the story publication date (Mon 2019-08-19); sheriff release states the incident occurred 'some time before' the 911 call, exact day unstated; source quotes the San Miguel County Sheriff release verbatim; run-948 insert via SMCSO news-alerts chunk",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Royer Gulch",
+  "place_type": "gulch",
+  "legacy_id": 3618
+}

@@ -1,0 +1,19 @@
+{
+  "id": "55fd0e44-d490-4a2f-bc7b-430bd6f45792",
+  "date": "2019-08-18",
+  "summary": "Injured hiker on St Marys Glacier trail (2019-94)",
+  "location": "St Marys Glacier trail",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2020/01/2019-Missions-Website.pdf",
+  "notes": "ART mission 2019-94. Cause of injury not stated.",
+  "peak": "James Peak",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 707
+}

@@ -1,0 +1,19 @@
+{
+  "id": "4885bfa1-a522-442b-83da-817197862907",
+  "date": "2019-08-17",
+  "summary": "Oklahoma couple's ATV went end-over-end ~300 ft down a gully after creeping over the edge of Corkscrew Pass road; both survived — wife litter-raised to the road and flown by helicopter, husband taken by ambulance.",
+  "location": "Corkscrew Pass",
+  "county": "Ouray",
+  "incident_type": "vehicle",
+  "outcome": "injury",
+  "victims": 2,
+  "responding_agency": "Ouray Mountain Rescue Team; medical helicopter",
+  "source_urls": "https://www.ouraymountainrescue.com/new-page-1-1",
+  "notes": "Saturday morning during monthly training so response was rapid. Five-point harnesses/roll cage credited for survival. Wife flown from Ironton staging area, husband to Montrose hospital.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Corkscrew Pass",
+  "place_type": "pass",
+  "legacy_id": 2185
+}

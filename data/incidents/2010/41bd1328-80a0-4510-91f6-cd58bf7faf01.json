@@ -1,0 +1,19 @@
+{
+  "id": "41bd1328-80a0-4510-91f6-cd58bf7faf01",
+  "date": "2010-08-12",
+  "summary": "Adult male climber on Mt. Bierstadt; he was located by a foot team.",
+  "location": "Mt. Bierstadt",
+  "county": "Park",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": null,
+  "source_urls": "http://sardoc.org/cms/wp-content/uploads/2011/01/PublicSummaryFinal.pdf",
+  "notes": "Run-658 SARDOC chunk.",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3175
+}

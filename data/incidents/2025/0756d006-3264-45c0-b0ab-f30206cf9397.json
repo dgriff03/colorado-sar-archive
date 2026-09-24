@@ -1,0 +1,19 @@
+{
+  "id": "0756d006-3264-45c0-b0ab-f30206cf9397",
+  "date": "2025-05-19",
+  "summary": "Michael Sanchez, 49, of Frisco died in a solo fall while scrambling the slick Falcon Ridge ridgeline on Wichita Mountain west of Frisco Main Street; Summit County Rescue Group recovered his body May 20",
+  "location": "Wichita Mountain (Falcon Ridge), Frisco",
+  "county": "Summit County",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Summit County Rescue Group, Summit County Sheriff's Office",
+  "source_urls": "https://krystal93.com/solo-hiker-dies-in-fall-on-snowy-ridgeline-west-of-frisco/",
+  "notes": "14ers forum thread 'Fatal Fall on Wichita (in Frisco)' not opened (browser tool failure); facts from local news",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Wichita Mountain",
+  "place_type": "peak",
+  "legacy_id": 1573
+}

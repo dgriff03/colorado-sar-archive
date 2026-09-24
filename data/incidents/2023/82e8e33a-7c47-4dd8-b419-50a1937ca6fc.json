@@ -1,0 +1,19 @@
+{
+  "id": "82e8e33a-7c47-4dd8-b419-50a1937ca6fc",
+  "date": "2023-05-21",
+  "summary": "A 37-year-old took a 30-foot fall while on rope on a mixed route on Taylor Peak. Northern Colorado Med Evac helped pinpoint the climber's location; a Colorado National Guard helicopter from Buckley Air Force Base hoisted the patient to Upper Beaver Meadows, with ground-ambulance transfer to Estes Park Health.",
+  "location": "Taylor Peak",
+  "county": "Larimer",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "RMNP SAR; Colorado National Guard; Northern Colorado Med Evac",
+  "source_urls": "http://npshistory.com/morningreport/incidents/romo.htm|https://www.nps.gov/romo/learn/news/incident-on-taylor-peak-in-rocky-mountain-national-park.htm",
+  "notes": "NPS morning-report compendium entry (npshistory.com romo.htm), parent-opened and verified at run 580.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Taylor Peak",
+  "place_type": "peak",
+  "legacy_id": 2999
+}

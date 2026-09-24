@@ -1,0 +1,19 @@
+{
+  "id": "b030d02f-2d00-4166-9dad-980e03598c6c",
+  "date": "2016-10-28",
+  "summary": "Fallen climber near Tunnel 2 in Clear Creek Canyon",
+  "location": "Clear Creek Canyon (Tunnel 2)",
+  "county": "Clear Creek",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2017/08/2016-Missions-Website.pdf",
+  "notes": "",
+  "peak": "Clear Creek Canyon",
+  "setting": "frontcountry",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 330
+}

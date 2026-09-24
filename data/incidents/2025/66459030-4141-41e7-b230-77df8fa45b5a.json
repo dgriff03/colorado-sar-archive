@@ -1,0 +1,19 @@
+{
+  "id": "66459030-4141-41e7-b230-77df8fa45b5a",
+  "date": "2025-04-27",
+  "summary": "Injured female skier in the Tuning Fork area of Torreys Peak",
+  "location": "Tuning Fork (Torreys Peak)",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2026/02/2025-Missions-Website.pdf",
+  "notes": "Log spells \"Tunning Fork\"; injury mechanism not stated; ART mission 2025-033.",
+  "peak": "Torreys Peak",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1568
+}

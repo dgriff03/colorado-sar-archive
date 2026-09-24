@@ -1,0 +1,19 @@
+{
+  "id": "d0732a20-42e9-4fb3-ae54-75309254c141",
+  "date": "2010-06-16",
+  "summary": "Two teenage girls reported as lost hikers at Grey Rock; SARDOC dog teams responded.",
+  "location": "Grey Rock",
+  "county": "Larimer",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 2,
+  "responding_agency": null,
+  "source_urls": "http://sardoc.org/cms/wp-content/uploads/2011/01/PublicSummaryFinal.pdf",
+  "notes": "Run-658 SARDOC chunk.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "ONE_LINER",
+  "place": "Grey Rock",
+  "place_type": "other",
+  "legacy_id": 3170
+}

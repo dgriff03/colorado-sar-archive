@@ -1,0 +1,19 @@
+{
+  "id": "34711a81-ca08-4add-9bbf-d6bd06278cee",
+  "date": "2018-09-01",
+  "summary": "A 54-year-old woman was thrown from a horse on Forest Service Trail 441 in the West Elk Wilderness west of Ohio Pass, dislocating her hip; officers, Western Mountain Rescue and EMS responded and she was airlifted to St. Mary's Hospital in Grand Junction.",
+  "location": "Forest Service Trail 441, West Elk Wilderness, west of Ohio Pass",
+  "county": "Gunnison",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Gunnison County Sheriff's Office; Western Mountain Rescue; EMS",
+  "source_urls": "https://gunnisoncounty.org/ArchiveCenter/ViewFile/Item/2944",
+  "notes": "Per-incident one-liner from the Gunnison County Sheriff's Office weekly press release (September 4, 2018 edition). Mined run 463.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Forest Service Trail 441",
+  "place_type": "trail",
+  "legacy_id": 2750
+}

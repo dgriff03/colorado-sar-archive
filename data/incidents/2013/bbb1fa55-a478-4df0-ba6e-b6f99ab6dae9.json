@@ -1,0 +1,19 @@
+{
+  "id": "bbb1fa55-a478-4df0-ba6e-b6f99ab6dae9",
+  "date": "2013-09-14",
+  "summary": "79-year-old Evelyn Starner of Cedar Cove was swept away when a wall of water and debris slammed into her Big Thompson Canyon home in the early hours of Saturday; an elderly neighbor tried to pull her from the river but could not; her body was found Saturday 2013-09-21 on the bank of the Big Thompson River",
+  "location": "Cedar Cove, Big Thompson Canyon",
+  "county": "Larimer",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Larimer County SAR teams",
+  "source_urls": "https://reason.com/2013/09/23/colo-flood-death-toll-rises-to-8/",
+  "notes": "Date approximate: incident in the early hours of 2013-09-14; reported missing and presumed dead 2013-09-15/16 as the unnamed 80-year-old Cedar Grove woman; body recovered 2013-09-21; Larimer County sheriff spokesman John Schulz; 8th confirmed flood fatality; September 2013 Front Range flood",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Big Thompson Canyon",
+  "place_type": "canyon",
+  "legacy_id": 2341
+}

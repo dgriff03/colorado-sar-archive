@@ -1,0 +1,19 @@
+{
+  "id": "5879791c-7eb8-4a6f-903c-d84d86d76c99",
+  "date": "2025-11-08",
+  "summary": "Hiker with possible acute mountain sickness on Devil's Playground Trail, Pikes Peak; evacuated to Flight for Life air ambulance",
+  "location": "Devil's Playground Trail, Pikes Peak",
+  "county": "Teller",
+  "incident_type": "medical",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Teller County SAR + El Paso County SAR + others",
+  "source_urls": "https://dev.dailydispatch.com/fire-news/colorado/hiker-with-mountain-sickness-rescued-from-devils-playground-trail-on-pikes-peak/",
+  "notes": "date estimated: 'Saturday night' per KOAA; published Nov 2025",
+  "peak": "Pikes Peak",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1688
+}

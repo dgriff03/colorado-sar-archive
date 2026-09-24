@@ -1,0 +1,19 @@
+{
+  "id": "f9bf5f67-1333-464b-be53-f1dbee6ee074",
+  "date": "2012-05-25",
+  "summary": "Jesse Peterson, 27, drowned and Natalie Brechtel, 28, was treated for moderate hypothermia after their canoe capsized on Willow Lake; neither wore a personal flotation device",
+  "location": "Willow Lake, Sangre de Cristo Mountains (near Crestone)",
+  "county": "Saguache",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 2,
+  "responding_agency": "Saguache County Sheriff Office; Saguache County Search and Rescue",
+  "source_urls": "https://sgbonline.com/outward-bound-refutes-media-reports-that-colorado-accident-involved-trainees/",
+  "notes": "Accident occurred the night of Fri May 25, 2012. Forum posters identify the pair as Outward Bound course participants. Per a forum SAR volunteer, the search for Peterson was suspended with family consent and the body had not surfaced as of May 30, 2012. Secondary URL surfaced via search and not opened this turn. Recreational lake drowning rather than a climbing fall; included given the SAR response. | 2026-09-15: 14ers.com link removed per site ban; row retains other verified source(s).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Willow Lake",
+  "place_type": "lake",
+  "legacy_id": 160
+}

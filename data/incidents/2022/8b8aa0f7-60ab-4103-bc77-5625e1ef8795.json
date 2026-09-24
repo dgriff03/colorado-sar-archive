@@ -1,0 +1,19 @@
+{
+  "id": "8b8aa0f7-60ab-4103-bc77-5625e1ef8795",
+  "date": "2022-08-14",
+  "summary": "54-year-old male hiker tripped while descending toward the trailhead in the area of Lake Isabelle, injuring his knee and unable to walk; Indian Peaks Fire Protection District and Rocky Mountain Rescue Group hiked in, provided medical care, packaged him in a full-body splint and litter, and evacuated him to the trailhead; AMR paramedics evaluated him and transported by ambulance to a local hospital.",
+  "location": "area of Lake Isabelle, Brainard Lake Recreation Area",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office; Indian Peaks Fire Protection District; Rocky Mountain Rescue Group; AMR Ambulance",
+  "source_urls": "https://www.themtnear.com/stories/injured-hiker-rescued-in-the-area-of-lake-isabelle,9461",
+  "notes": "BCSO case #22-03991",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Lake Isabelle",
+  "place_type": "lake",
+  "legacy_id": 3372
+}

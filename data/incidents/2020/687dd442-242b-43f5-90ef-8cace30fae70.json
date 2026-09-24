@@ -1,0 +1,19 @@
+{
+  "id": "687dd442-242b-43f5-90ef-8cace30fae70",
+  "date": "2020-12-18",
+  "summary": "Solo skier buried and killed in an avalanche on the northeast end of the Anthracite Range; found by two other skiers via transceiver.",
+  "location": "Anthracite Range (Friendly Finish area), west of Crested Butte",
+  "county": "Gunnison",
+  "incident_type": "avalanche",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Crested Butte Search and Rescue; Gunnison County (volunteers)",
+  "source_urls": "https://www.wcbe.org/2020-12-22/3-skiers-killed-in-colorado-avalanches-as-authorities-warn-of-weak-snowpack|https://crestedbuttenews.com/2020/12/local-backcountry-fixture-killed-in-anthracite-avalanche/|http://classic.avalanche.state.co.us/caic/acc/acc_co.php|https://unofficialnetworks.com/2020/12/20/backcountry-skier-killed-in-avalanche-near-crested-butte-co/|https://www.kvnf.org/news/2020-12-21/kvnf-regional-newscast-december-21-2020",
+  "notes": "Solo skier buried on Friday; two other skiers located him with a transceiver and pulled him out but he did not survive; CAIC reported weakest snowpack since 2012. CBN account: 15 CBSAR members responded Friday afternoon; victim located via transceiver and dug out by bystanders before the CBSAR field team arrived. Merged CAIC classic 2020-21 season table row. MERGE run 621: UN URL appended (parent-opened — solo skier buried and killed in Anthracite Range \"Friendly Finish\" area west of Crested Butte, Dec 18 2020; Crested Butte SAR facilitated recovery). merged KVNF regional newscast (Dec 21, 2020): 'Backcountry skier Jeff Schneider died in an avalanche Friday' (Friday = 2020-12-18).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Anthracite Range",
+  "place_type": "other",
+  "legacy_id": 905
+}

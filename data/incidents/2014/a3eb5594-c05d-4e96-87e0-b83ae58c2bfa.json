@@ -1,0 +1,19 @@
+{
+  "id": "a3eb5594-c05d-4e96-87e0-b83ae58c2bfa",
+  "date": "2014-08-18",
+  "summary": "16-year-old girl fell into a crevice on Horsetooth Rock around 7:30 a.m. Monday, breaking an ankle; she spent about 3 hours in the crevice, conscious and talking to rescuers; 40+ responders extracted her and took turns carrying her stretcher to a waiting medical helicopter",
+  "location": "Horsetooth Rock, Horsetooth Mountain Open Space, west of Fort Collins",
+  "county": "Larimer",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Poudre Fire Authority; Larimer County Search and Rescue volunteers",
+  "source_urls": "https://www.cpr.org/2014/08/18/teen-hiker-rescued-from-crevice-near-fort-collins/|https://www.ndinsider.com/story/news/local/fort-collins/2014/11/08/teens-recovery-horsetooth-fall-series-miracles/18740841/",
+  "notes": "CPR 2014-08-18; date weekday-verified Monday; 2.5-mi trail with rock scrambling near summit",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Horsetooth Rock",
+  "place_type": "other",
+  "legacy_id": 2455
+}

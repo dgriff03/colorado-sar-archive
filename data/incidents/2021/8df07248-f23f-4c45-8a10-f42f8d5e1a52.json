@@ -1,0 +1,19 @@
+{
+  "id": "8df07248-f23f-4c45-8a10-f42f8d5e1a52",
+  "date": "2021-04-16",
+  "summary": "Search for a missing 25-year-old woman in the Mt Falcon Park area",
+  "location": "Mt Falcon Park",
+  "county": "Jefferson",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2022/02/2021-Missions-Website.pdf",
+  "notes": "ART mission 2021-038. Outcome re-coded from rescued-uninjured to assist: log does not state the subject's final outcome.",
+  "peak": "Mount Falcon",
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 941
+}

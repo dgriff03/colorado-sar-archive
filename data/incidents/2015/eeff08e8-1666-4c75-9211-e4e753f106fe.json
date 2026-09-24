@@ -1,0 +1,19 @@
+{
+  "id": "eeff08e8-1666-4c75-9211-e4e753f106fe",
+  "date": "2015-07-12",
+  "summary": "Climber injured ankle in Red Gully, Crestone Peak; litter evacuation by Custer County SAR.",
+  "location": "Crestone Peak, Red Gully",
+  "county": "Custer",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Custer County SAR",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201214127",
+  "notes": "",
+  "peak": "Crestone Peak",
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 246
+}

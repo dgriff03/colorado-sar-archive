@@ -1,0 +1,19 @@
+{
+  "id": "3eadaad1-0b8d-4263-b572-83d30f5fd5fe",
+  "date": "2022-09-07",
+  "summary": "Three bighorn sheep hunters above 13,000 ft near Missouri Mountain; the successful shooter developed severe altitude sickness (repeated vomiting, blood-tinged) after butchering the kill; the party dropped into Iowa Gulch toward their truck and called 911. Three Chaffee County SAR South members hiked from the Missouri Gulch trailhead with oxygen while a helicopter with the team doctor circled for hours unable to land near the subjects (it eventually landed on Missouri Ridge ~13,000 ft and the doctor descended on foot). Ground team rendezvoused with the party near 11,000 ft after dark, administered oxygen, and assisted the four-hour nighttime descent, fording a knee-high river around midnight to the road and a waiting ambulance where EMTs treated the sick subject. No serious injuries.",
+  "location": "Iowa Gulch / Missouri Gulch, Missouri Mountain",
+  "county": "Chaffee",
+  "incident_type": "medical",
+  "outcome": "rescued-uninjured",
+  "victims": 3,
+  "responding_agency": "Chaffee County SAR South",
+  "source_urls": "http://coloradosar.org/anatomy-of-a-sar-mission-iowa-gulch/|https://camtorrens.com/2022/09/14/anatomy-of-a-sar-mission-iowa-gulch/",
+  "notes": "Date inferred: author's own site dates the write-up 2022-09-14 ('last week' mission); 2022 CO bighorn sheep rifle season opened Sept 6 (Day 1), mission the next morning, finished ~midnight Sept 7/8. One patient with altitude sickness (oxygen, EMT treatment), two companions assisted in descent. Story by CCSAR South member Cameron Torres.",
+  "peak": "Missouri Mountain",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 2249
+}

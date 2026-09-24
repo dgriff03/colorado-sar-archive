@@ -1,0 +1,19 @@
+{
+  "id": "68bcc473-1d75-4977-9771-9c126e39e541",
+  "date": "2023-07-27",
+  "summary": "Three parties on Mt Bierstadt that may be hypothermic",
+  "location": "Mt Bierstadt",
+  "county": "Clear Creek",
+  "incident_type": "medical",
+  "outcome": "assist",
+  "victims": 3,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2024/01/2023-Missions-Website.pdf",
+  "notes": "Hypothermia possible per log; ART mission 2023-063.",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1251
+}

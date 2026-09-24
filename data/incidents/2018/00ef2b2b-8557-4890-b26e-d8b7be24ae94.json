@@ -1,0 +1,19 @@
+{
+  "id": "00ef2b2b-8557-4890-b26e-d8b7be24ae94",
+  "date": "2018-09-29",
+  "summary": "Joshua Mason, 27, and Katie Davis, 28, of Denton, Texas, got lost after dark descending Jasper Peak in the Indian Peaks Wilderness following a late-start marriage-proposal hike from the Fourth of July Trailhead; a lone hiker led them to campers at Diamond Lake, where they were given water, food and shelter for altitude sickness and severe dehydration; a camper hiked to the trailhead, drove to Nederland and called 911 ~2 a.m. Sunday; Boulder County deputies, Nederland Fire and Rocky Mountain Rescue Group brought them down to the trailhead at sunrise.",
+  "location": "Jasper Peak / Diamond Lake, Indian Peaks Wilderness",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Boulder County Sheriff's Office; Nederland Fire Protection District; Rocky Mountain Rescue Group",
+  "source_urls": "http://unofficialnetworks.com/2018/10/01/texans-botched-proposal-hike-leads-to-rescue-near-boulder-co/",
+  "notes": "Run 509 (UN chunk): UN URL opened this run. Incident date 2018-09-29 (Saturday) pinned via the Daily Camera / tmj4 / ems1 retellings: couple flew in Friday, hiked from ~noon Saturday, 911 call ~2 a.m. Sunday 2018-09-30; weekday-verified. Genuinely unindexed: zero Jasper / Diamond Lake rows for 2018-09-28..10-02.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Diamond Lake",
+  "place_type": "lake",
+  "legacy_id": 2829
+}

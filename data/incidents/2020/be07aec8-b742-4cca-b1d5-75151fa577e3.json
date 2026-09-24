@@ -1,0 +1,19 @@
+{
+  "id": "be07aec8-b742-4cca-b1d5-75151fa577e3",
+  "date": "2020-05-16",
+  "summary": "EPCSAR responded with Manitou Springs Fire Department for a traumatic injury one mile up Barr Trail.",
+  "location": "Barr Trail, ~1 mi up",
+  "county": "El Paso",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "El Paso County Search and Rescue",
+  "source_urls": "https://www.facebook.com/epcsar/posts/pfbid02MLKpnogxT9dNGQuzns7hUNzWW49ENUJixrJ2ycE8MXDHUnAoQrtw3igFoCCBxZsZl",
+  "notes": "",
+  "peak": "Pikes Peak",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3551
+}

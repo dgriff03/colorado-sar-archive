@@ -1,0 +1,19 @@
+{
+  "id": "3a21bfc4-54cb-4b72-9636-afcc5a37bfeb",
+  "date": "2022-03-26",
+  "summary": "Climber leading the 'Purple Haze' route on the West Ridge of Eldorado Canyon fell when pieces of protection failed, including a fixed piton; RMRG evacuated the injured climber.",
+  "location": "Eldorado Canyon, West Ridge ('Purple Haze')",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain Rescue Group",
+  "source_urls": "http://www.rockymountainrescue.org/whats-new/2022/3/26/injured-climber-evacuation-eldorado-canyon-state-park",
+  "notes": "RMRG post dated 2022-03-26 describes the same-day mission.",
+  "peak": "Eldorado Canyon",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1059
+}

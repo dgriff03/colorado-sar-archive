@@ -1,0 +1,19 @@
+{
+  "id": "94097f43-4ae8-47f1-8303-0ed07dac29a0",
+  "date": "2019-07-29",
+  "summary": "Injured hiker on Chicago Lakes (2019-82)",
+  "location": "Chicago Lakes",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://www.alpinerescueteam.org/wp-content/uploads/2020/01/2019-Missions-Website.pdf",
+  "notes": "ART mission 2019-82. Cause of injury not stated.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 696
+}

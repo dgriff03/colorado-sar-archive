@@ -1,0 +1,19 @@
+{
+  "id": "3bc67f45-9436-43e2-9c99-ee0a042ac44d",
+  "date": "2024-10-13",
+  "summary": "Injured 76-year-old man near the Fire Lookout on Old Squaw Pass",
+  "location": "Old Squaw Pass",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "Injury mechanism not stated in log; ART mission 2024-150.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": "Old Squaw Pass",
+  "place_type": "pass",
+  "legacy_id": 1500
+}

@@ -1,0 +1,19 @@
+{
+  "id": "8a2c2cfa-06a8-4c9e-890c-9a2042c8c45c",
+  "date": "2022-09-23",
+  "summary": "Unresponsive male party on Mt Bierstadt",
+  "location": "Mt Bierstadt",
+  "county": "Clear Creek",
+  "incident_type": "medical",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2023/01/2022-Missions-Website.pdf",
+  "notes": "Subject unresponsive; final outcome not stated in log; ART mission 2022-104.",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1157
+}

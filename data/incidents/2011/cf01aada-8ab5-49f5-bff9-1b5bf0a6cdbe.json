@@ -1,0 +1,19 @@
+{
+  "id": "cf01aada-8ab5-49f5-bff9-1b5bf0a6cdbe",
+  "date": "2011-09-25",
+  "summary": "Wayne Kirkbride, subject of a Mount Antero missing-person search; Chaffee County SAR",
+  "location": "Mount Antero",
+  "county": "Chaffee",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Chaffee County Search and Rescue",
+  "source_urls": "https://100summits.com/articles/colorado-mountaineering-deaths/item/239-2011-colorado-mountaineering-deaths",
+  "notes": "",
+  "peak": "Mount Antero",
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 148
+}

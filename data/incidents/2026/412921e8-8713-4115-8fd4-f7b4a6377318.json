@@ -1,0 +1,19 @@
+{
+  "id": "412921e8-8713-4115-8fd4-f7b4a6377318",
+  "date": "2026-09-06",
+  "summary": "Woman hiking in the Crystal Lakes subdivision near Red Feather Lakes was knocked over by a bull moose around 2 p.m.; moose showed no aggression and did not trample her. Airlifted to a hospital due to the remoteness of the area; condition unknown.",
+  "location": "Crystal Lakes subdivision, near Red Feather Lakes",
+  "county": "Larimer",
+  "incident_type": "animal",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Colorado Parks and Wildlife, air ambulance",
+  "source_urls": "https://www.coloradoan.com/story/news/local/colorado/2026/09/08/woman-airlifted-to-hospital-after-moose-ran-her-over-in-colorado/91656548007/",
+  "notes": "CPW: first moose-human encounter in Northern Colorado in 2026; no dogs present",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Crystal Lakes",
+  "place_type": "lake",
+  "legacy_id": 2977
+}

@@ -1,0 +1,19 @@
+{
+  "id": "e3c32d0c-13ce-490b-9160-7dab913cd8d7",
+  "date": "2026-03-30",
+  "summary": "Climber fell ~25-30 ft from a rocky area in North Cheyenne Canon while securing himself (gear failed, no helmet), coming to rest >400 ft above the road; 911 call ~2:17 p.m. Monday; CSFD high-angle + heavy rescue teams treated critical injuries on scene, built a rope system and lowered him in a rescue basket for ~3 hours (drone aerial guidance, whole blood staged), then airlifted to a local hospital. His partner (the 911 caller) was unhurt.",
+  "location": "North Cheyenne Canon, >400 ft above road",
+  "county": "El Paso",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Colorado Springs Fire Department",
+  "source_urls": "https://foxnews.com/us/colorado-climber-plunges-30-feet-after-gear-failed-scaling-mountainside-rescuers-say",
+  "notes": "2026-03-30 = Monday (weekday-verified); KKTV 2026/03/31 corroboration. Run 640 EPSO chunk; parent-opened this run. Inserted in backfill per run-634 convention refinement: predates the daily freshness sweep's 30-day window and the 2026-09-14 one-time sweep's range; fully parent-verified; no other lane would capture it.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "North Cheyenne Canon",
+  "place_type": "canyon",
+  "legacy_id": 3091
+}

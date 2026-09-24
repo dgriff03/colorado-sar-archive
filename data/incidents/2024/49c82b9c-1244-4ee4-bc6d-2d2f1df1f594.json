@@ -1,0 +1,19 @@
+{
+  "id": "49c82b9c-1244-4ee4-bc6d-2d2f1df1f594",
+  "date": "2024-07-30",
+  "summary": "Two lost parties (ages 15 and 18), one possibly injured, in the Chinns Lake area",
+  "location": "Chinns Lake",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "County unverified; ART mission 2024-085.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Chinns Lake",
+  "place_type": "lake",
+  "legacy_id": 1420
+}

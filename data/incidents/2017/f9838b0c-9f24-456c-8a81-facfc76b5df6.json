@@ -1,0 +1,19 @@
+{
+  "id": "f9838b0c-9f24-456c-8a81-facfc76b5df6",
+  "date": "2017-03-27",
+  "summary": "Climber fell 70 feet to the ground on Rincon Wall, Eldorado Canyon; severe injuries.",
+  "location": "Eldorado Canyon, Rincon Wall",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "http://publications.americanalpineclub.org/articles/13201214866|http://www.rockymountainrescue.org/whats-new/2017/3/27/injured-climber-rescue-eldorado-canyon-state-park",
+  "notes": " Merge run 441: RMRG incident page (opened) adds detail — Rincon Wall below The Evictor, lead fall after pulling multiple pieces, 5:40 p.m. response, scree evacuation to ambulance ~7:45 p.m., RMRG + Rocky Mountain Fire + BCSO.",
+  "peak": "Eldorado Canyon",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 355
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aeef359b-7aee-4fa3-bf3d-4085327b39e0",
+  "date": "2024-12-16",
+  "summary": "Missing 65-year-old man in the Black Hawk area in Gilpin County",
+  "location": "Black Hawk",
+  "county": "Gilpin",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "County per log; ART mission 2024-166.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": "Black Hawk",
+  "place_type": "town",
+  "legacy_id": 1519
+}

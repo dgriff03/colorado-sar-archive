@@ -1,0 +1,19 @@
+{
+  "id": "572c7df1-ec34-4b33-96a9-ffa8d27cfde4",
+  "date": "2017-06-19",
+  "summary": "Jeep slid sideways near the end of a trail on a hillside, team winched it about 8 feet sideways up the hill over several hours with multiple re-riggings; recovered without a scratch",
+  "location": "trail near Idaho Springs",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Colorado 4x4 Rescue and Recovery",
+  "source_urls": "https://www.co4x4rnr.org/20170621_idaho-springs/",
+  "notes": "Date: report posted 2017-06-21 (Wednesday) says mission was \"Monday\" -> 2017-06-19. Double-header recovery with the Chevy pickup (separate row). Occupant count unstated; report says \"got them out\". 16-hour day for the volunteer, two separate winch teams.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Idaho Springs",
+  "place_type": "town",
+  "legacy_id": 2266
+}

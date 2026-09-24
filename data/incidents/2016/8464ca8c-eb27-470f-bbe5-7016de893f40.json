@@ -1,0 +1,19 @@
+{
+  "id": "8464ca8c-eb27-470f-bbe5-7016de893f40",
+  "date": "2016-07-20",
+  "summary": "Woman believed to have suffered heat stroke and a seizure ~3/4 mile into the steep Hanging Lake Trail; Garfield County SAR and Glenwood Springs Fire Department deployed mid-morning and brought her out for medical care.",
+  "location": "Hanging Lake Trail, Glenwood Canyon",
+  "county": "Garfield",
+  "incident_type": "medical",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Garfield County Search and Rescue; Glenwood Springs Fire Department",
+  "source_urls": "https://vailchamber.org/2016/07/21/woman-rescued-at-hanging-lake/",
+  "notes": "Date: mid-morning Wednesday per Vail Daily report published 2016-07-21 (Thursday) → 2016-07-20.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Hanging Lake Trail",
+  "place_type": "trail",
+  "legacy_id": 2492
+}

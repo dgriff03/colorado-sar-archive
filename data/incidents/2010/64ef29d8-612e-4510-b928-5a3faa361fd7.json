@@ -1,0 +1,19 @@
+{
+  "id": "64ef29d8-612e-4510-b928-5a3faa361fd7",
+  "date": "2010-01-27",
+  "summary": "Missing 25 YOM skiing in Chief Mountain area (10-04)",
+  "location": "Chief Mountain area",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-04. Outcome not stated in PDF; presumed rescued-uninjured.",
+  "peak": "Chief Mountain",
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3
+}

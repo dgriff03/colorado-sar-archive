@@ -1,0 +1,19 @@
+{
+  "id": "e3d6f47e-94b3-4664-a398-d0ba4be65360",
+  "date": "2010-11-18",
+  "summary": "Overdue snowmobiler in Jones Pass area (10-106)",
+  "location": "Jones Pass area",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "http://www.alpinerescueteam.org/wp-content/uploads/2012/02/2010-Missions-Website.pdf",
+  "notes": "ART mission 10-106. Outcome not stated in PDF; presumed rescued-uninjured.",
+  "peak": "Jones Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 115
+}

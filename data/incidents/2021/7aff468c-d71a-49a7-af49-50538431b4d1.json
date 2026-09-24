@@ -1,0 +1,19 @@
+{
+  "id": "7aff468c-d71a-49a7-af49-50538431b4d1",
+  "date": "2021-09-23",
+  "summary": "AVSAR team member struck in the right leg by a dislodged rock slab while searching a couloir on Gash Ridge, Blanca Peak, during the Vaughn Fetzer mission; extracted by helicopter, evaluated by EMS and Emergency Room physicians; search called off that day",
+  "location": "Gash Ridge couloir, Blanca Peak",
+  "county": "Alamosa",
+  "incident_type": "rockfall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Alamosa Volunteer Search and Rescue (helicopter extraction; EMS)",
+  "source_urls": "https://alpha.creativecirclecdn.com/valley/files/20240412-151359-5207728bde6417f22cb19f7d8031f1bb.zip~9-29%20MVJ.pdf",
+  "notes": "Run 673 backfill (Monte Vista Journal); AVSAR rescuer injury during the Vaughn Fetzer search (see id 2877); MVJ 9-29-2021 p. 7A states \"Thursday, Sept. 24\" — weekday/date mismatch, Thursday = 2021-09-23 (recorded date); parent-opened PDF.",
+  "peak": "Blanca Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 3202
+}

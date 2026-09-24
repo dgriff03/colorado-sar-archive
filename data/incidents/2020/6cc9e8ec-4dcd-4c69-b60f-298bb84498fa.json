@@ -1,0 +1,19 @@
+{
+  "id": "6cc9e8ec-4dcd-4c69-b60f-298bb84498fa",
+  "date": "2020-10-12",
+  "summary": "Assist Park County SAR for search of missing 70 YOF hiker on Meridian Trail (2020-120)",
+  "location": "Meridian Trail",
+  "county": "Park",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team; Park County SAR",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2021/01/2020-Missions-Website.pdf",
+  "notes": "ART mission 2020-120.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "BASIC_FACTS",
+  "place": "Meridian Trail",
+  "place_type": "trail",
+  "legacy_id": 888
+}

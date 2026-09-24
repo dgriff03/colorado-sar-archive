@@ -1,0 +1,19 @@
+{
+  "id": "1fa7f649-d88f-4bdd-a4d8-5ba3902e244a",
+  "date": "2019-02-28",
+  "summary": "James Pruitt, 70, left the Glacier Gorge parking lot for a day hike on Feb 28 and remained missing; a March 3-9 broad-scale search of ~15 square miles in chest-deep snow used numerous SAR teams, dogs and fixed-wing reconnaissance; search suspended",
+  "location": "Glacier Gorge / Bear Lake area, RMNP",
+  "county": "",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park SAR, multiple SAR teams",
+  "source_urls": "https://www.nps.gov/romo/learn/news/broad-scale-search-efforts-for-james-pruitt-suspended.htm",
+  "notes": "'assist' follows index convention for unresolved missing-person searches; subject still missing when suspended March 9; county not stated (Larimer side of RMNP)",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Bear Lake",
+  "place_type": "lake",
+  "legacy_id": 625
+}

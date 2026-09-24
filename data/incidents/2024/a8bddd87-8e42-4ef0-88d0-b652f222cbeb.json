@@ -1,0 +1,19 @@
+{
+  "id": "a8bddd87-8e42-4ef0-88d0-b652f222cbeb",
+  "date": "2024-08-12",
+  "summary": "Two overdue parties hiking Mount Sniktau",
+  "location": "Mt Sniktau",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/wp-content/uploads/2025/01/2024-Missions-Website.pdf",
+  "notes": "ART mission 2024-098.",
+  "peak": "Mount Sniktau",
+  "setting": "wilderness",
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null,
+  "legacy_id": 1433
+}
