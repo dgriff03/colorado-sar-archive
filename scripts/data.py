@@ -5,6 +5,7 @@ import sys
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from locations import location_group
 from merges import incident_merges
+from source_policy import read_policy, exclusion_reason, normalize_url, publication_records
 from duplicates import ensure_no_identical_submissions, find_candidates, markdown_report
 ROOT = Path(__file__).resolve().parents[1]
 COUNTIES = set(json.loads((ROOT/'config/counties.json').read_text())['counties'])
@@ -16,7 +17,7 @@ INCIDENT_TYPES = {'lost/stranded','injury','fall','medical','avalanche','vehicle
 NUMBER_FIELDS = []
 FIELDS = ['id','legacy_id'] + TEXT_FIELDS + ['victims','detail_score'] + NUMBER_FIELDS
 
-def validate(record, path, pending=False):
+def validate(record, path, pending=False, policy=None):
     if not isinstance(record, dict): raise ValueError(f'{path}: expected JSON object')
     if set(record) - set(FIELDS): raise ValueError(f'{path}: unknown fields {set(record)-set(FIELDS)}')
     ident = record.get('id','')
@@ -55,17 +56,23 @@ def validate(record, path, pending=False):
         for url in record['source_urls'].split('|'):
             parsed=urlparse(url.strip())
             if parsed.scheme not in ('https','http') or not parsed.hostname or parsed.username or parsed.password: raise ValueError(f'{path}: source must be an HTTP(S) URL')
+    if policy is not None and (pending or not ident.startswith('legacy-')):
+        for source in (record.get('source_urls') or '').split('|'):
+            if source.strip(): normalize_url(source)
+        reason=exclusion_reason(record, policy)
+        if reason: raise ValueError(f'{path}: submission blocked by source policy ({reason})')
     return record
 
 def read_records(root, include_pending=True, check_identical=True):
     accepted=[]; submissions=[]; seen=set()
+    policy=read_policy(root)
     groups=[(root/'data/incidents',accepted,False)]
     if include_pending: groups.append((root/'pending',submissions,True))
     for directory,items,is_pending in groups:
         for path in sorted(directory.rglob('*.json')):
             if path.is_symlink(): raise ValueError(f'{path}: symlinks not allowed')
             if path.stat().st_size > MAX_RECORD_BYTES: raise ValueError(f'{path}: record exceeds 64 KiB')
-            record=validate(json.loads(path.read_text()),path,is_pending)
+            record=validate(json.loads(path.read_text()),path,is_pending,policy if is_pending else None)
             if not is_pending and path.parent.name != record['date'][:4]: raise ValueError(f'{path}: wrong year directory')
             if record['id'] in seen: raise ValueError(f'{path}: duplicate ID')
             seen.add(record['id']); items.append((path,record))
@@ -89,8 +96,8 @@ def promote(root):
 
 def build(root):
     accepted,_=read_records(root)
-    merges=incident_merges(root, [r for _,r in accepted])
-    records=sorted((r for _,r in accepted if r['id'] not in merges),key=lambda r:(r['date'],r['id']),reverse=True)
+    published,merges=publication_records(root, accepted)
+    records=sorted(published,key=lambda r:(r['date'],r['id']),reverse=True)
     records=[dict(r, location_group=location_group(r), merged_ids=sorted(old for old, entry in merges.items() if entry['into']==r['id'])) for r in records]
     out=root/'public/data'; out.mkdir(parents=True,exist_ok=True)
     details=out/'incidents'; details.mkdir(exist_ok=True)
@@ -123,16 +130,28 @@ def build(root):
     print(f'Built index, details and SQLite for {len(records)} incidents')
 
 if __name__=='__main__':
-    parser=argparse.ArgumentParser(); parser.add_argument('command',choices=['validate','promote','build','new','duplicates']); parser.add_argument('--all', action='store_true'); parser.add_argument('--output', type=Path); args=parser.parse_args()
+    parser=argparse.ArgumentParser(); parser.add_argument('command',choices=['validate','promote','build','new','duplicates','exclusions']); parser.add_argument('--all', action='store_true'); parser.add_argument('--output', type=Path); args=parser.parse_args()
     try:
         if args.command=='validate':
-            a,p=read_records(ROOT); print(f'Valid: {len(a)} accepted, {len(p)} pending')
+            a,p=read_records(ROOT)
+            published,_=publication_records(ROOT,a)
+            print(f'Valid: {len(a)} accepted source records, {len(published)} publishable incidents, {len(p)} pending')
         elif args.command=='promote': promote(ROOT)
         elif args.command=='build': build(ROOT)
+        elif args.command=='exclusions':
+            a,_=read_records(ROOT, check_identical=False)
+            published,merges=publication_records(ROOT,a)
+            available={r['id'] for r in published} | set(merges)
+            policy=read_policy(ROOT)
+            report=json.dumps([dict(id=r['id'],reason=exclusion_reason(r,policy) or 'excluded duplicate family') for _,r in a if r['id'] not in available],indent=2)+'\n'
+            if args.output:
+                args.output.parent.mkdir(parents=True,exist_ok=True); args.output.write_text(report)
+            else: print(report,end='')
         elif args.command=='duplicates':
             a,p=read_records(ROOT, check_identical=False)
-            merges=incident_merges(ROOT, [r for _,r in a])
-            a=[(path,r) for path,r in a if r['id'] not in merges]
+            published,_=publication_records(ROOT,a)
+            published_ids={r['id'] for r in published}
+            a=[(path,r) for path,r in a if r['id'] in published_ids]
             matches=find_candidates(a,p,all_records=args.all)
             report=markdown_report(matches,ROOT,args.all)
             if args.output:

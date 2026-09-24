@@ -73,3 +73,13 @@ Retired detail URLs return the surviving record, and the website replaces the
 incident ID in the URL without adding a history entry. MCP `get_incident` also
 accepts retired IDs and returns the canonical link. Generated JSON includes
 `merged_ids`; SQLite exposes the equivalent `incident_aliases` table.
+
+## Source restrictions and removals
+
+Published snapshots exclude incidents matching the source-domain disallow list
+or reviewed incident-ID, URL-MD5 or domain-MD5 exclusions. Entire matching records
+and their duplicate families are withheld, including mixed-source incidents.
+These are publication controls, not proof that a source is inaccurate. The
+current disallow list includes 14ers.com and its subdomains. Counts can decrease
+when a reviewed removal is applied. Old removed links return not found; duplicate
+merge redirects apply only while the surviving incident remains publishable.

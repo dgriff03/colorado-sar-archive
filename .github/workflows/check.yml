@@ -20,6 +20,10 @@ jobs:
           python-version: '3.12'
       - run: npm ci
       - run: npm ci --prefix functions
+      - name: Validate submissions and source restrictions
+        run: python3 scripts/data.py validate
+      - name: Summarize publication exclusions
+        run: python3 scripts/data.py exclusions --output work/exclusions.json
       - name: Find duplicate candidates
         run: python3 scripts/data.py duplicates --all --output work/duplicate-candidates.md
       - name: Attach duplicate review summary
@@ -35,7 +39,6 @@ jobs:
           name: duplicate-review
           path: work/duplicate-candidates.md
           if-no-files-found: ignore
-      - run: npm run data:validate
       - run: npm test
       - run: npm run typecheck
       - run: npm run build

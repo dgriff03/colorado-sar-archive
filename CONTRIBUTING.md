@@ -172,3 +172,105 @@ The build excludes retired records from search, counts and the SQLite incidents
 table, while generating old-ID detail aliases and a SQLite `incident_aliases`
 table. Website and MCP links continue to resolve. Run the full data validation,
 test and build checks; update the location report when counts change.
+
+### Merge example
+
+After combining complementary facts and sources in `legacy-000537`, the actual
+Lone Eagle duplicate registry entry has this shape:
+
+```json
+{
+  "legacy-003648": {
+    "into": "legacy-000537",
+    "reason": "Confirmed same rescue; date disagreement documented in survivor notes."
+  }
+}
+```
+
+Add an entry to the existing object; do not replace other merges. A merge is
+for duplicate reports. A removal is a separate operation and must not redirect
+the requester's content to another copy.
+
+## Disallowed source domains
+
+`config/disallowed-domains.json` currently includes **14ers.com**. Do not submit
+reports sourced from that site, `www.14ers.com`, or any of its subdomains, even
+alongside an allowed source. Validation and promotion reject matching pending
+records. The check uses parsed hostnames, not substring matching; a domain in a
+URL's path or query does not make the host disallowed. It does not follow
+redirects, resolve shortlinks or inspect external pages: reviewers must check
+where a citation actually leads and must not use a proxy URL to bypass a rule.
+
+If a domain is disallowed after records were accepted, the publication build
+withholds those records (including mixed-source records); the original files
+remain in the repository until a maintainer removes or corrects them. Accepted
+records are not a way around the publication rule. Every contribution still
+needs independent source review.
+
+## Request or perform an incident removal
+
+Open a [minimal removal request](https://github.com/dgriff03/colorado-sar-archive/issues/new)
+with the incident ID or source domain and enough context for the maintainer to
+review it. Do not repeat sensitive personal information, medical details or
+article text in an issue or PR. Removal decisions and publication are handled
+by the maintainer.
+
+1. Add the incident's stable ID to `incident_ids` in `config/exclusions.json`.
+   Keep exclusions after deleting source files so the same ID cannot be re-added.
+2. To prevent a source from being reintroduced with a new incident ID, add its
+   normalized URL MD5 to `url_md5`. For a full-domain request, add the normalized
+   domain MD5 to `domain_md5`; this covers that hostname and its subdomains.
+   Use the helper below rather than hashing text by hand.
+3. For a removal from the repository's current tree, delete the affected JSON
+   files as part of the reviewed PR. If the incident was merged, include all IDs
+   in that duplicate family in `incident_ids`, preserve URL hashes for all its
+   sources, delete its retired and surviving files, and remove its now-obsolete
+   entries from `config/incident-merges.json`. Do not reuse any retired ID.
+   A temporary publication-only exclusion may retain source files, but that is
+   **not removal from the public repository**.
+4. Run the checks below, inspect the exclusion report and regenerated counts,
+   then have the maintainer merge and deploy both website and hosted MCP.
+
+```sh
+# Prints a fingerprint only; does not modify configuration.
+python3 scripts/source_policy.py domain example.org
+python3 scripts/source_policy.py url 'https://example.org/report?id=123'
+
+python3 scripts/data.py validate
+python3 scripts/data.py exclusions --output work/exclusions.json
+python3 scripts/data.py build
+python3 scripts/location-report.py > docs/location-review.md
+npm test
+npm run build
+npm run mcp:build
+```
+
+The exclusion file has three arrays, initially empty:
+
+```json
+{
+  "incident_ids": [],
+  "domain_md5": [],
+  "url_md5": []
+}
+```
+
+Domain normalization lowercases and IDNA-encodes the hostname, removes a leading
+`www.` and a trailing dot. Domain hashes match complete hostname labels and
+subdomains, not lookalike suffixes. URL normalization also equates HTTP/HTTPS,
+removes default ports and fragments, and uses `/` for an empty path. Path case
+and query strings remain significant; add alternate URL hashes or a domain
+hash when necessary. Use lowercase, 32-character MD5 digests. MD5 is an
+unsalted lookup fingerprint, **not encryption, anonymization, or proof of
+identity**; common domain names are easy to guess from hashes. Do not put a
+requester's personal details in the exclusion registry.
+
+A match withholds the **entire incident**, even if it has other allowed sources.
+Removing one member of a confirmed duplicate family withholds the whole family;
+old links cannot reveal the surviving copy. Builds prune stale detail files and
+omit affected rows and aliases from search, groups, JSON, SQLite, duplicate
+reports and the newly built MCP snapshot. Pending entries matching exclusions
+fail validation. The exclusion report contains IDs and reasons, not summaries
+or source text. An exclusion alone does not rewrite Git history or recall old
+downloads, forks, CI artifacts or deployed snapshots. Review those separately
+when handling a removal; changes reach the live services only after deployment.
