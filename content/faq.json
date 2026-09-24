@@ -26,5 +26,21 @@
   {
     "question": "Does this site use analytics?",
     "answer": "Google Analytics collection is currently paused while automatic URL tracking is disabled. The replacement configuration allows only coarse page names, without search queries, incident IDs, titles, hashes or referrers. It respects Do Not Track and Global Privacy Control. Search filters remain in shareable URLs, so avoid entering private information."
+  },
+  {
+    "question": "How do I report duplicate incidents?",
+    "answer": "Two reports about the same rescue should count as one incident. Share both stable IDs in an issue or follow the [merge instructions](https://github.com/dgriff03/colorado-sar-archive/blob/main/CONTRIBUTING.md#correct-a-confirmed-duplicate). Reviewed merges combine sources and preserve uncertainty; the old incident link resolves to the surviving record."
+  },
+  {
+    "question": "Can I request removal of an incident or a source domain?",
+    "answer": "Yes. Open a [minimal removal request](https://github.com/dgriff03/colorado-sar-archive/issues/new) with the incident ID or source domain and a brief explanation. Please do not post sensitive personal or medical information. The maintainer reviews requests and can exclude individual incidents, specific source URLs, or a full domain and its subdomains. An exclusion withholds the entire matching incident, including merged copies, from future website, database and MCP builds. See the [removal process](https://github.com/dgriff03/colorado-sar-archive/blob/main/CONTRIBUTING.md#request-or-perform-an-incident-removal). Live removal requires deployment; repository history and previously downloaded copies require separate handling."
+  },
+  {
+    "question": "Are any source domains disallowed?",
+    "answer": "Yes. Contributions may not cite **14ers.com** or its subdomains. Validation and promotion reject such submissions, including submissions that also cite other sources. Published snapshots also omit accepted records matching the domain restrictions or removal exclusions. Review the [source rules](https://github.com/dgriff03/colorado-sar-archive/blob/main/CONTRIBUTING.md#disallowed-source-domains). Do not substitute a shortlink or copied version to bypass a restriction."
+  },
+  {
+    "question": "Why are removal exclusions stored as MD5 hashes?",
+    "answer": "Domain and URL hashes let the build recognize excluded sources without listing their full addresses in that registry. They are lookup fingerprints, not encryption or guaranteed anonymity: a known domain can be guessed and hashed. Incident IDs are stored directly. The configuration and [normalization rules](https://github.com/dgriff03/colorado-sar-archive/blob/main/CONTRIBUTING.md#request-or-perform-an-incident-removal) are documented for contributors."
   }
 ]

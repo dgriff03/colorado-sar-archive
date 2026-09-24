@@ -182,6 +182,21 @@ supporting sources instead of creating a new incident. Keep its stable ID.
 See [CONTRIBUTING.md](CONTRIBUTING.md) for a complete example, field conventions,
 corrections, and review rules. Node is not required for entry-only contributions.
 
+### Merge duplicates or remove an incident
+
+For a confirmed duplicate, combine sources and details under one surviving ID,
+then add the retired ID to `config/incident-merges.json`. Old links keep working.
+Follow the [merge example](CONTRIBUTING.md#merge-example) and preserve conflicting facts.
+
+For a removal, use `config/exclusions.json` to exclude incident IDs, normalized
+source-URL MD5s or whole-domain MD5s. These prevent re-publication; deleting the
+source JSON and handling repository history are separate steps. Follow the
+[removal instructions](CONTRIBUTING.md#request-or-perform-an-incident-removal).
+
+**14ers.com and its subdomains are disallowed sources.** Contributions are
+validated against `config/disallowed-domains.json` and removal exclusions.
+A matching incident is withheld in full, even when it cites other sources.
+
 ### How duplicate review and publication work
 
 Identical pending content and duplicate IDs block validation. Similar titles,

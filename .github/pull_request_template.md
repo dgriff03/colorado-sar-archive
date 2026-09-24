@@ -31,4 +31,6 @@ For incident changes only (otherwise mark N/A in the review notes):
 - [ ] Dates refer to incidents, or uncertainty is explicit in notes.
 - [ ] Public sources support the summary; unknowns remain unknown.
 - [ ] I omitted weather fields, unnecessary identifiers and nonpublic information.
+- [ ] Sources pass the domain disallow list and removal exclusions; no alternate URLs bypass restrictions.
+- [ ] Merges/removals follow the contribution guide and document their impact on IDs and counts (or N/A).
 - [ ] No pending records were promoted by this PR.

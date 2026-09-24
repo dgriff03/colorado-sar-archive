@@ -2,12 +2,11 @@
 import json
 from pathlib import Path
 from locations import GROUPS, location_group
-from merges import incident_merges
+from source_policy import publication_records
 
 root = Path(__file__).resolve().parents[1]
-records = [json.loads(p.read_text()) for p in sorted((root/'data/incidents').glob('*/*.json'))]
-merges = incident_merges(root, records)
-records = [r for r in records if r['id'] not in merges]
+accepted = [(p, json.loads(p.read_text())) for p in sorted((root/'data/incidents').glob('*/*.json'))]
+records, _ = publication_records(root, accepted)
 norm = lambda value: (value or '').strip().casefold()
 before = {norm(r.get('location')) for r in records}
 after = {norm(location_group(r)) for r in records}
