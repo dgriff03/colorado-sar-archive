@@ -34,6 +34,7 @@ export function createExplorerNavigation(
   return {
     sync,
     navigate,
+    resolveIncident: (id: string) => navigate({ selected: id }, 'replace', !!port.historyState()?.sarOverlay),
     openIncident: (id: string) => navigate({ selected: id }, 'push', true),
     closeIncident: () => {
       if (port.historyState()?.sarOverlay) port.back();

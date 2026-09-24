@@ -43,9 +43,13 @@ export function useExplorer() {
     (id: string) => controller.current?.openIncident(id),
     [],
   );
+  const resolveIncident = useCallback(
+    (id: string) => controller.current?.resolveIncident(id),
+    [],
+  );
   const closeIncident = useCallback(
     () => controller.current?.closeIncident(),
     [],
   );
-  return { state, ready, navigate, openIncident, closeIncident };
+  return { state, ready, navigate, openIncident, closeIncident, resolveIncident };
 }

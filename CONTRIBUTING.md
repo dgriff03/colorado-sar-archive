@@ -157,3 +157,18 @@ Submitting a record does not resolve the pending dataset license. Do not submit
 content you are not entitled to contribute; source accessibility does not itself
 grant redistribution rights. A dataset license and any contributor rights policy
 require an explicit maintainer decision before being adopted.
+
+## Correct a confirmed duplicate
+
+Report both stable incident IDs and the source evidence in a PR. Preserve all
+source URLs and complementary details in the surviving record; explicitly note
+conflicting dates or outcomes instead of silently resolving uncertainty. Add
+an entry to `config/incident-merges.json` keyed by the retired ID with `into`
+(the surviving ID) and a nonempty `reason`. Keep the retired JSON unchanged for
+provenance. Never renumber IDs or automatically merge fuzzy matches. Merges
+must point directly to a surviving accepted record, with no chains or cycles.
+
+The build excludes retired records from search, counts and the SQLite incidents
+table, while generating old-ID detail aliases and a SQLite `incident_aliases`
+table. Website and MCP links continue to resolve. Run the full data validation,
+test and build checks; update the location report when counts change.

@@ -10,7 +10,8 @@ See [location curation](docs/locations.md) to extend the mappings.
 [Download SQLite](https://rescue.typetwo.dev/data/colorado-sar.db) ·
 [Connect Claude or Codex](https://rescue.typetwo.dev/mcp/)
 
-The initial collection contains **3,718 records from 2010–2026**. Coverage and
+The initial import contains **3,718 records from 2010–2026**; one confirmed
+duplicate has been consolidated, leaving **3,717 published incidents**. Coverage and
 source quality vary: counts describe this archive, not all rescues or geographic
 risk. Weather data is excluded. Code is [MIT licensed](LICENSE); incident data
 and linked source material are **not** covered by that license. Data licensing

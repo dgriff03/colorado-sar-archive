@@ -4,6 +4,7 @@ from pathlib import Path
 import sys
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from locations import location_group
+from merges import incident_merges
 from duplicates import ensure_no_identical_submissions, find_candidates, markdown_report
 ROOT = Path(__file__).resolve().parents[1]
 COUNTIES = set(json.loads((ROOT/'config/counties.json').read_text())['counties'])
@@ -70,6 +71,7 @@ def read_records(root, include_pending=True, check_identical=True):
             seen.add(record['id']); items.append((path,record))
     if check_identical:
         ensure_no_identical_submissions(accepted, submissions)
+    incident_merges(root, [r for _, r in accepted])
     return accepted,submissions
 
 def promote(root):
@@ -87,18 +89,22 @@ def promote(root):
 
 def build(root):
     accepted,_=read_records(root)
-    records=sorted((r for _,r in accepted),key=lambda r:(r['date'],r['id']),reverse=True)
-    records=[dict(r, location_group=location_group(r)) for r in records]
+    merges=incident_merges(root, [r for _,r in accepted])
+    records=sorted((r for _,r in accepted if r['id'] not in merges),key=lambda r:(r['date'],r['id']),reverse=True)
+    records=[dict(r, location_group=location_group(r), merged_ids=sorted(old for old, entry in merges.items() if entry['into']==r['id'])) for r in records]
     out=root/'public/data'; out.mkdir(parents=True,exist_ok=True)
     details=out/'incidents'; details.mkdir(exist_ok=True)
-    keep={r['id']+'.json' for r in records}
+    keep={r['id']+'.json' for r in records} | {old+'.json' for old in merges}
     for old in details.glob('*.json'):
         if old.name not in keep: old.unlink()
     index=[]
-    index_fields=['id','date','summary','location','county','incident_type','outcome','responding_agency','place','peak','notes','source_urls','victims','setting','place_type','location_group']
+    index_fields=['id','date','summary','location','county','incident_type','outcome','responding_agency','place','peak','notes','source_urls','victims','setting','place_type','location_group','merged_ids']
     for record in records:
         (details/(record['id']+'.json')).write_text(json.dumps(record,ensure_ascii=False,separators=(',',':'))+'\n')
         index.append({k:record.get(k) for k in index_fields})
+    by_id={r['id']:r for r in records}
+    for old, entry in merges.items():
+        (details/(old+'.json')).write_text(json.dumps(by_id[entry['into']],ensure_ascii=False,separators=(',',':'))+'\n')
     (out/'incidents.json').write_text(json.dumps(index,ensure_ascii=False,separators=(',',':'))+'\n')
     fd,tmp=tempfile.mkstemp(suffix='.db',dir=out); os.close(fd)
     try:
@@ -109,6 +115,8 @@ def build(root):
         db.execute('CREATE TABLE incidents ('+','.join(cols)+')')
         db.executemany('INSERT INTO incidents VALUES ('+','.join('?' for _ in export_fields)+')',[[r.get(k) for k in export_fields] for r in records])
         db.execute('CREATE INDEX idx_incidents_date ON incidents(date)'); db.execute('CREATE INDEX idx_incidents_county ON incidents(county)')
+        db.execute('CREATE TABLE incident_aliases (id TEXT PRIMARY KEY, canonical_id TEXT NOT NULL REFERENCES incidents(id), reason TEXT NOT NULL)')
+        db.executemany('INSERT INTO incident_aliases VALUES (?, ?, ?)', [(old, entry['into'], entry['reason']) for old, entry in merges.items()])
         db.commit(); db.close(); os.replace(tmp,out/'colorado-sar.db')
     finally:
         if os.path.exists(tmp): os.unlink(tmp)
@@ -123,6 +131,8 @@ if __name__=='__main__':
         elif args.command=='build': build(ROOT)
         elif args.command=='duplicates':
             a,p=read_records(ROOT, check_identical=False)
+            merges=incident_merges(ROOT, [r for _,r in a])
+            a=[(path,r) for path,r in a if r['id'] not in merges]
             matches=find_candidates(a,p,all_records=args.all)
             report=markdown_report(matches,ROOT,args.all)
             if args.output:
