@@ -1,0 +1,18 @@
+{
+  "id": "869e7861-8d30-4c60-a147-eaaebb553e0b",
+  "date": "2026-09-22",
+  "summary": "57-year-old hunter from Illinois became lost near the Jack Dickens Trail off JCR 12E, close to the Three Sisters Trailhead in the Rawah Wilderness; last texted his group at 3:21 p.m. saying he was lost and JCSO received the missing report that evening. Storm weather grounded air support and dark prevented a night search. On Sept 23, Jackson County SAR with Colorado Parks and Wildlife searched ~10 hours in snow/wind/cold with no find. On Sept 24, Larimer County SAR and Grand County SAR joined with air support; after several 911 calls from the hunter narrowed his location, air support spotted him ~1:00 p.m. He was found in good health after two nights out, crediting survival to staying calm, starting a fire, and his gear.",
+  "location": "Jack Dickens Trail near Three Sisters Trailhead, Rawah Wilderness",
+  "county": "Jackson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued",
+  "victims": 1,
+  "responding_agency": "Jackson County SAR; Colorado Parks and Wildlife; Larimer County SAR; Grand County SAR",
+  "source_urls": "https://northfortynews.com/category/news/hunter-survives-two-nights-in-rawah-wilderness-after-multi-agency-rescue/",
+  "notes": "Occurrence spans Sept 22 (report date used as occurrence date) through Sept 24 rescue; two nights in a September snowstorm.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
