@@ -1,0 +1,18 @@
+{
+  "id": "4904368d-2a26-48ba-9e56-13d3cefca3ae",
+  "date": "2017-07-02",
+  "summary": "50-year-old Montrose man suffered a fatal medical emergency while mountain biking with his wife on the Prospect Trail loop in the Telluride ski area (just east of the bottom of Lift 11); bystanders and fellow riders started CPR; San Miguel County Sheriff's deputies/SAR and Telluride EMS attempted resuscitation but were unable to revive him",
+  "location": "Prospect Trail loop, Telluride ski area",
+  "county": "San Miguel",
+  "incident_type": "medical",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "San Miguel County Sheriff's Office / SAR; Telluride EMS",
+  "source_urls": "https://www.sanmiguelcountyco.gov/CivicAlerts.aspx?AID=193&ARC=522",
+  "notes": "San Miguel County Sheriff's Office CivicAlert AID=193/ARC=522 — the agency's own news-alert release; parent-opened live and centrally deduped at run 959",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
