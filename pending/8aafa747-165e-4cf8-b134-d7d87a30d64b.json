@@ -1,0 +1,18 @@
+{
+  "id": "8aafa747-165e-4cf8-b134-d7d87a30d64b",
+  "date": "2023-02-15",
+  "summary": "Blizzard stranded motorists on Highway 40 (Utah border to Craig) and Highway 318 (Utah border to Maybell); Moffat County Search and Rescue and the Sheriff's Office located and retrieved stranded motorists on Highway 318 by snowcat; approximately 19 people and one dog transported to the Maybell Community Center, then relayed to Craig where overnight accommodations were arranged",
+  "location": "Highway 318, Utah border to Maybell (motorists retrieved on Hwy 318)",
+  "county": "Moffat",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 19,
+  "responding_agency": "Moffat County Search and Rescue; Moffat County Sheriff's Office",
+  "source_urls": "https://www.basinnow.com/snowcat-used-to-rescue-19-people-and-1-dog-stranded-in-moffat-county-blizzard/",
+  "notes": "Date pinned 2023-02-15 (Wednesday): story says \"Blizzard conditions in Moffat County on Wednesday\" with \"UPDATE 7AM Friday 02/17/2023\". One dog transported with the 19 people, not counted in victims. Run 961 chunk A (Moffat County Sheriff CrimeWatch). Parent-opened live.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
