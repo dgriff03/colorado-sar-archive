@@ -9,7 +9,7 @@
   "victims": 1,
   "responding_agency": "San Miguel County Sheriff's Office / SAR; Telluride EMS",
   "source_urls": "https://www.sanmiguelcountyco.gov/CivicAlerts.aspx?AID=193&ARC=522",
-  "notes": "San Miguel County Sheriff's Office CivicAlert AID=193/ARC=522 — the agency's own news-alert release; parent-opened live and centrally deduped at run 959",
+  "notes": "San Miguel County Sheriff’s Office news release dated July 2, 2017 (CivicAlert AID=193/ARC=522).",
   "peak": null,
   "setting": "frontcountry",
   "detail_score": "MECHANISM_SINGLE_SOURCE",
