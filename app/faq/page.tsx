@@ -1,14 +1,14 @@
-import type { Metadata } from 'next';
+import { pageMetadata } from '@/lib/metadata';
 import Markdown from 'react-markdown';
 import { ArrowLeft, ArrowUpRight } from 'lucide-react';
 import { Header } from '@/components/header';
 import faq from '@/content/faq.json';
-export const metadata: Metadata = {
-  alternates: { canonical: '/faq/' },
-  title: 'FAQ — Colorado SAR Archive',
-  description:
-    'About the Colorado search and rescue incident archive, its sources, and its limitations.',
-};
+export const metadata = pageMetadata(
+  'FAQ — Colorado SAR Archive',
+  'About the Colorado search and rescue incident archive, its sources, and its limitations.',
+  '/faq/',
+);
+
 export default function FAQ() {
   return (
     <>
@@ -19,14 +19,16 @@ export default function FAQ() {
         <p className="lede">
           The context behind the records. This page is a work in progress.
         </p>
-        {faq.filter((item) => (item.answer || '').trim()).map((item) => (
-          <section className="faq-item" key={item.question}>
-            <h2>{item.question}</h2>
-            <div className="faq-answer">
-              <Markdown skipHtml>{item.answer}</Markdown>
-            </div>
-          </section>
-        ))}
+        {faq
+          .filter((item) => (item.answer || '').trim())
+          .map((item) => (
+            <section className="faq-item" key={item.question}>
+              <h2>{item.question}</h2>
+              <div className="faq-answer">
+                <Markdown skipHtml>{item.answer}</Markdown>
+              </div>
+            </section>
+          ))}
         <section className="faq-item">
           <h2>Explore the project</h2>
           <p>

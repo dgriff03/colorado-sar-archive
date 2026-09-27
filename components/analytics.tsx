@@ -49,6 +49,7 @@ export function Analytics() {
       const script = document.createElement('script');
       script.id = 'sar-google-analytics';
       script.async = true;
+      script.referrerPolicy = 'no-referrer';
       script.src =
         'https://www.googletagmanager.com/gtag/js?id=' +
         encodeURIComponent(config.measurementId);

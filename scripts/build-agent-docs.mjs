@@ -29,3 +29,18 @@ console.log('Built Markdown FAQ and MCP guide');
 for (const file of ['llms.txt', 'data-guide.md']) {
   await writeFile(new URL(`public/${file}`, root), customize(await readFile(new URL(`content/${file}`, root), 'utf8')));
 }
+
+// Only canonical pages belong in the sitemap; filter and incident query URLs
+// resolve to the explorer and must not produce thousands of duplicate entries.
+const xml = (value) => value.replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;').replaceAll('"', '&quot;');
+await writeFile(new URL('public/robots.txt', root), `User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: ${siteUrl}/sitemap.xml
+`);
+await writeFile(new URL('public/sitemap.xml', root), `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${['/', '/faq/', '/mcp/'].map(path => `  <url><loc>${xml(siteUrl + path)}</loc></url>`).join('\n')}
+</urlset>
+`);
