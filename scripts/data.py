@@ -4,6 +4,7 @@ from pathlib import Path
 import sys
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from locations import location_group
+from places import location_places, CONFIG as PLACES_CONFIG
 from merges import incident_merges
 from id_aliases import id_aliases
 from source_policy import read_policy, exclusion_reason, normalize_url, publication_records
@@ -107,14 +108,14 @@ def build(root):
     records=sorted(published,key=lambda r:(r['date'],r['id']),reverse=True)
     aliases_by_id={}
     for old,entry in merges.items(): aliases_by_id.setdefault(entry['into'],[]).append(old)
-    records=[dict(r, location_group=location_group(r), merged_ids=sorted(aliases_by_id.get(r['id'],[]))) for r in records]
+    records=[dict(r, location_group=location_group(r), location_places=location_places(r), merged_ids=sorted(aliases_by_id.get(r['id'],[]))) for r in records]
     out=root/'public/data'; out.mkdir(parents=True,exist_ok=True)
     details=out/'incidents'; details.mkdir(exist_ok=True)
     keep={r['id']+'.json' for r in records} | {old+'.json' for old in merges}
     for old in details.glob('*.json'):
         if old.name not in keep: old.unlink()
     index=[]
-    index_fields=['id','date','summary','location','county','incident_type','outcome','responding_agency','place','peak','notes','source_urls','victims','setting','place_type','location_group','merged_ids','detail_score']
+    index_fields=['id','date','summary','location','county','incident_type','outcome','responding_agency','place','peak','notes','source_urls','victims','setting','place_type','location_group','location_places','merged_ids','detail_score']
     for record in records:
         (details/(record['id']+'.json')).write_text(json.dumps(record,ensure_ascii=False,separators=(',',':'))+'\n')
         index.append({k:record.get(k) for k in index_fields})
@@ -126,10 +127,12 @@ def build(root):
     try:
         db=sqlite3.connect(tmp)
         cols=['id TEXT PRIMARY KEY','legacy_id INTEGER']+[f'{k} TEXT' for k in TEXT_FIELDS]+['victims INTEGER','detail_score']+[f'{k} REAL' for k in NUMBER_FIELDS]
-        cols += ['location_group TEXT']
+        cols += ['location_group TEXT','location_places TEXT']
         export_fields = FIELDS + ['location_group']
         db.execute('CREATE TABLE incidents ('+','.join(cols)+')')
-        db.executemany('INSERT INTO incidents VALUES ('+','.join('?' for _ in export_fields)+')',[[r.get(k) for k in export_fields] for r in records])
+        db.executemany('INSERT INTO incidents VALUES ('+','.join('?' for _ in export_fields)+',?)',[[r.get(k) for k in export_fields]+[json.dumps(r['location_places'])] for r in records])
+        db.execute('CREATE TABLE places (id TEXT PRIMARY KEY, name TEXT NOT NULL, kind TEXT NOT NULL, parents TEXT NOT NULL, admin TEXT NOT NULL, nearby TEXT NOT NULL)')
+        db.executemany('INSERT INTO places VALUES (?, ?, ?, ?, ?, ?)', [(p['id'], p['name'], p['kind'], json.dumps(p.get('parents', [])), json.dumps(p.get('admin', [])), json.dumps(p.get('nearby', []))) for p in PLACES_CONFIG['places']])
         db.execute('CREATE INDEX idx_incidents_date ON incidents(date)'); db.execute('CREATE INDEX idx_incidents_county ON incidents(county)')
         db.execute('CREATE TABLE incident_aliases (id TEXT PRIMARY KEY, canonical_id TEXT NOT NULL REFERENCES incidents(id), reason TEXT NOT NULL)')
         db.executemany('INSERT INTO incident_aliases VALUES (?, ?, ?)', [(old, entry['into'], entry['reason']) for old, entry in merges.items()])

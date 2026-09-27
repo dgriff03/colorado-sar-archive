@@ -17,6 +17,7 @@ db=sqlite3.connect(out/'data/colorado-sar.db')
 assert db.execute('PRAGMA integrity_check').fetchone()[0]=='ok'
 assert {r[0] for r in db.execute('SELECT id FROM incidents')}=={r['id'] for r in expected}, 'SQLite IDs differ from source policy'
 assert all((out/'data/incidents'/(r['id']+'.json')).is_file() for r in records)
+assert all(isinstance(r.get('location_places'),list) for r in records), 'Index is missing location_places'
 aliases=db.execute('SELECT id, canonical_id FROM incident_aliases').fetchall()
 assert dict(aliases)=={old:entry['into'] for old,entry in expected_merges.items()}, 'SQLite aliases differ from source policy'
 for old, target in aliases:

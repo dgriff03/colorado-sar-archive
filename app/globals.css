@@ -1564,3 +1564,15 @@ body {
 
 .month-options { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .month-options .field-hint { grid-column: 1 / -1; }
+.nearby-results {
+  margin-top: 32px;
+}
+.nearby-results h3 {
+  font-size: 15px;
+  color: #17323c;
+}
+.nearby-results p {
+  font-size: 13px;
+  color: #63777e;
+  margin: 4px 0 12px;
+}

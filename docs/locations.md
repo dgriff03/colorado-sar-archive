@@ -61,6 +61,37 @@ GROUP BY location_group
 ORDER BY records DESC;
 ```
 
+## Place hierarchy
+
+`config/places.json` layers a reviewed hierarchy over the groups above, so a
+search for an area finds the named features inside it. Each place has an ID, a
+name, aliases, optional counties and relationships:
+
+- `parents`: places it is within. Searching "Maroon Bells" includes Maroon Peak,
+  North Maroon Peak, the Bells Traverse, Bell Cord, Maroon Valley, Maroon Lake and
+  the Maroon Bells Crater Lake.
+- `admin`: the wilderness or park it lies in. Searching the wilderness includes
+  everything inside it; searching the area does not include the whole wilderness.
+- `nearby`: shown as a separate "Nearby" list, not counted as a match (Pyramid
+  Peak and East Maroon Trail near the Bells; Capitol Creek near Capitol Peak).
+- `search_scope`: searching this place searches a larger area instead (Longs Peak
+  searches the Longs Peak area, including Chasm Lake, Mount Meeker and Mount Lady
+  Washington).
+- `location_group`: links a reviewed browsing area, so its exact aliases tag records.
+- `scoped_aliases`: short route names (K2, Knife Edge, Keyhole, Narrows, Diamond,
+  East Ridge, Red Gully, Traverse) that only count when a required place is also
+  named, so "Mt. Sneffels, the keyhole" is not tagged as Longs Peak.
+
+The build adds `location_places` (most specific IDs; ancestors are implied) to the
+index, details and SQLite (a JSON array, with a `places` table). Tags come from
+`location` and `place` only: names are normalized (case, Mt/Mount, St/Saint,
+apostrophes, punctuation, Mount Blue Sky = Mount Evans), matched as whole phrases,
+longest first, and must fit the record's county. The `peak` field is not used
+because it often names a nearby feature rather than the incident location.
+`stop_phrases` block misleading matches such as "Maroon Creek Bridge" on Highway 82.
+Validation rejects unknown references and cycles. Keep `normalize()` in
+`scripts/places.py` and `normalizePlaceName()` in `lib/places.ts` in sync.
+
 ## Potential duplicate reports
 
 Location consolidation does not merge incidents or imply that counts are unique
