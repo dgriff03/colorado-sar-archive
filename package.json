@@ -24,7 +24,8 @@
     "data:duplicates": "python3 scripts/data.py duplicates",
     "mcp": "node --experimental-strip-types mcp/server.ts",
     "mcp:build": "npm run data:build && node --experimental-strip-types scripts/build-mcp.mjs",
-    "docs:build": "node --experimental-strip-types scripts/build-agent-docs.mjs"
+    "docs:build": "node --experimental-strip-types scripts/build-agent-docs.mjs",
+    "analytics:check": "node scripts/check-analytics.mjs"
   },
   "dependencies": {
     "@base-ui/react": "1.7.0",
