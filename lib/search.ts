@@ -1,5 +1,6 @@
 import Fuse from 'fuse.js';
 import { agencyNames, agencyQuery } from './agencies.ts';
+import { resolvePlace } from './places.ts';
 import type { Incident } from './types';
 export const MAX_QUERY_LENGTH = 120;
 export type Filters = {
@@ -62,17 +63,32 @@ export function createSearch(records: Incident[]) {
     ignoreLocation: true,
     minMatchCharLength: 2,
   });
-  return (filters: Filters) => {
+  const run = (filters: Filters, nearby = false) => {
     const query = filters.q.trim().slice(0, MAX_QUERY_LENGTH);
     const location = normalizePlace(filters.location.slice(0, 300));
+    // A query naming a reviewed place matches records tagged with that place or
+    // anything inside it; untagged records still fall back to substring matching.
+    const scope = location
+      ? resolvePlace(filters.location.slice(0, 300))
+      : null;
+    if (nearby && !scope?.nearby.size) return [];
+    const tagged = (r: Incident, ids: Set<string>) =>
+      !!r.location_places?.some((id) => ids.has(id));
+    const substring = (r: Incident) =>
+      [r.location, r.location_group, r.county, r.place, r.peak].some(
+        (s) => s && normalizePlace(s).includes(location),
+      );
     const agency = agencyQuery(filters.agency);
     const months = filters.month === 'all' ? [] : filters.month.split(',');
     const types = filters.type === 'all' ? [] : filters.type.split(',');
     const matchesFilters = (r: Incident) =>
       (!location ||
-        [r.location, r.location_group, r.county, r.place, r.peak].some(
-          (s) => s && normalizePlace(s).includes(location),
-        )) &&
+        (nearby
+          ? tagged(r, scope!.nearby) && !tagged(r, scope!.inside)
+          : scope
+            ? tagged(r, scope.inside) ||
+              (!r.location_places?.length && substring(r))
+            : substring(r))) &&
       (!agency ||
         r.responding_agency?.toLocaleLowerCase().includes(agency) ||
         agencies.get(r)?.some((n) => n.includes(agency))) &&
@@ -118,6 +134,13 @@ export function createSearch(records: Incident[]) {
       );
     return result;
   };
+  const search = (filters: Filters) => run(filters);
+  /** Records at places reviewed as nearby the searched place, with the same filters. */
+  search.nearby = (filters: Filters) => run(filters, true);
+  /** The reviewed place a location query resolves to, if any. */
+  search.place = (location: string) =>
+    resolvePlace(location.slice(0, 300))?.place;
+  return search;
 }
 export const label = (s?: string | null) =>
   s?.trim()
