@@ -1,0 +1,18 @@
+{
+  "id": "c804411e-a536-4718-ad91-d75d5e2502f0",
+  "date": "2023-04-23",
+  "summary": "Injured skier with possible head injury on Quandary Peak; 911 call ~10:30 a.m. A Flight for Life helicopter diverted en route to Colorado Springs and airlifted the skier to a Denver hospital.",
+  "location": "Quandary Peak",
+  "county": "Summit",
+  "incident_type": "injury",
+  "outcome": "airlifted",
+  "victims": 1,
+  "responding_agency": "Summit County Rescue Group, Flight for Life",
+  "source_urls": "https://www.alpineinstitute.com/climbing-and-outdoor-news-from-here-and-abroad-4-27-2023/",
+  "notes": "SCRG spokesperson Anna DeBattiste; source is a 2023-04-27 Alpine Institute roundup quoting Summit Daily. Incident date Sunday 2023-04-23 weekday-verified.",
+  "peak": "Quandary Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
