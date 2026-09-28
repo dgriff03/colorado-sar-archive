@@ -34,6 +34,7 @@ class PlaceTests(unittest.TestCase):
 
     def test_county_scope_and_scoped_aliases(self):
         self.assertEqual(tags('Crater Lake', county='Gilpin'), [])
+        self.assertEqual(tags('Longs Peak', county='Eagle'), [])
         self.assertEqual(tags('K2 off Capitol Peak, Maroon Bells Wilderness Area'), ['capitol-k2'])
         self.assertEqual(tags('K2'), [])
         self.assertEqual(tags('Longs Peak, Keyhole Route', county='Boulder'), ['longs-keyhole'])

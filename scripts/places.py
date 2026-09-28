@@ -27,6 +27,9 @@ def _county_set(value):
 
 
 def _validate():
+    if len(PLACES) != len(CONFIG['places']): raise ValueError('Duplicate place id')
+    groups = [p['location_group'] for p in CONFIG['places'] if p.get('location_group')]
+    if len(set(groups)) != len(groups): raise ValueError('Duplicate location_group mapping')
     for place in CONFIG['places']:
         for key in ('parents', 'admin', 'nearby'):
             for ref in place.get(key, []):
@@ -84,7 +87,7 @@ def location_places(record):
     fits = lambda pid: not counties or not PLACES[pid].get('counties') or bool(counties & {c.lower() for c in PLACES[pid]['counties']})
     ids, scoped = set(), []
     group = location_group(record)
-    if group in BY_GROUP: ids.add(BY_GROUP[group])
+    if group in BY_GROUP and fits(BY_GROUP[group]): ids.add(BY_GROUP[group])
     for field in TAG_FIELDS:
         for key in _phrases(record.get(field) or ''):
             ids.update(pid for pid in ALIASES.get(key, []) if fits(pid))

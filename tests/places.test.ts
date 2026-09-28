@@ -79,3 +79,16 @@ test('TypeScript and Python place normalization agree', () => {
   ).toString();
   assert.deepEqual(samples.map(normalizePlaceName), JSON.parse(python));
 });
+
+test('hierarchy and nearby results respect other filters and remain disjoint', () => {
+  const run = createSearch([
+    { ...records[0], outcome: 'rescued', date: '2025-01-01' },
+    { ...records[4], outcome: 'rescued', date: '2025-01-02' },
+    { ...records[4], id: 'both', location_places: ['pyramid-peak', 'north-maroon-peak'], outcome: 'rescued', date: '2025-01-03' },
+    { ...records[4], id: 'excluded', outcome: 'fatality', date: '2025-02-01' },
+  ]);
+  const filters = {...defaults, location: 'Maroon Bells', month: '01', outcome: 'rescued'};
+  assert.deepEqual(ids(run(filters)), ['both', 'north']);
+  assert.deepEqual(ids(run.nearby(filters)), ['pyramid']);
+  assert.equal(run.nearby({...filters, year: '2024'}).length, 0);
+});

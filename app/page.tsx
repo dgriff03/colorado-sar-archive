@@ -913,7 +913,7 @@ export default function Home() {
                       </h3>
                       <p>
                         Reviewed as near {placeScope?.name}, but not inside it.
-                        {nearby.length > 20 ? ' Showing the 20 newest.' : ''}
+                        {nearby.length > 20 ? ' Showing the first 20 in the selected sort order.' : ''}
                       </p>
                       <div className="incident-list">
                         {nearby.slice(0, 20).map(incidentCard)}

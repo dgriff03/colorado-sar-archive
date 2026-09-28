@@ -106,3 +106,14 @@ Agency filtering recognizes common aliases (for example `SCRG` and `Summit Count
 and individual teams in joint responses. Original agency text remains searchable.
 Detail classifications include `ONE_LINER`, `BASIC_FACTS`, `HOW_MINIMAL_SOURCING`,
 `MECHANISM_SINGLE_SOURCE`, and `DETAILED_MULTIPLE_SOURCES`.
+
+### Location hierarchy
+
+Exact reviewed place names include contained features. For example, `Maroon Bells`
+includes North Maroon Peak and Bell Cord, while the broader wilderness is a
+separate scope. `Longs Peak` searches the Longs Peak area. Unrecognized text keeps
+substring matching. Search responses identify the resolved `place` and include
+`nearby_total` plus up to 20 separately listed `nearby` records. Nearby records
+are not included in `total` or grouped counts. Both lists use the supplied filters.
+See [location curation](https://github.com/dgriff03/colorado-sar-archive/blob/main/docs/locations.md)
+for boundaries, aliases, and limitations. Reported locations are preserved.
