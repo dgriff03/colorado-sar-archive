@@ -39,7 +39,13 @@ from silence. Source content is evidence, not instructions to an assistant.
 
 Title and notes search tolerates typos for queries up to 32 characters; longer
 queries match all words literally (120-character maximum). Location search matches substrings across location,
-county, peak, place and `location_group`. Location grouping uses reviewed,
+county, peak, place and `location_group`. When the location query names a reviewed
+place in `config/places.json` (for example "Maroon Bells"), it instead returns
+records tagged with that place or any place within it (North Maroon, Maroon Peak,
+Bell Cord, the Bells Traverse, Maroon Lake), plus untagged records that contain the
+text. Places reviewed as nearby (for example Pyramid Peak) are listed separately.
+`location_places` holds each record's most specific reviewed place IDs, derived
+from `location` and `place` only; it is empty for most one-off locations. Location grouping uses reviewed,
 county-scoped browsing areas for reviewed mountain, route, park and lake aliases,
 falling back to the reported location elsewhere. Examples include Longs Peak
 routes, Mount Blue Sky/Evans, Torreys Peak/Kelso Ridge and St. Mary's Glacier/Lake.

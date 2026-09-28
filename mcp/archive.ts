@@ -44,7 +44,7 @@ export function createArchiveServer(
       .max(300)
       .optional()
       .describe(
-        'Substring in reported location, normalized location group, county, place or peak',
+        'A reviewed place name (e.g. Maroon Bells) matches incidents at that place and places within it; other text is a substring of reported location, location group, county, place or peak',
       ),
     year: z.number().int().min(1900).max(2200).optional(),
     incident_type: z
@@ -101,8 +101,8 @@ export function createArchiveServer(
     setting?: string;
     place_type?: string;
   };
-  function matching(input: Input) {
-    return search({
+  function toFilters(input: Input) {
+    return {
       ...defaults,
       q: input.query || '',
       location: input.location || '',
@@ -121,7 +121,10 @@ export function createArchiveServer(
       detail: input.detail_level || 'all',
       setting: input.setting || 'all',
       placeType: input.place_type || 'all',
-    }).filter(
+    };
+  }
+  function matching(input: Input) {
+    return search(toFilters(input)).filter(
       (r) =>
         input.outcome === undefined ||
         groupValue(r.outcome) === groupValue(input.outcome),
@@ -150,8 +153,29 @@ export function createArchiveServer(
     },
     async (input) => {
       const matches = matching(input);
+      const place = input.location ? search.place(input.location) : undefined;
+      const nearby = place
+        ? search
+            .nearby(toFilters(input))
+            .filter(
+              (r) =>
+                input.outcome === undefined ||
+                groupValue(r.outcome) === groupValue(input.outcome),
+            )
+        : [];
       return result({
         total: matches.length,
+        ...(place && {
+          place: place.name,
+          nearby_total: nearby.length,
+          nearby: nearby.slice(0, 20).map((r) => ({
+            id: r.id,
+            date: r.date,
+            summary: r.summary,
+            location: r.location,
+            url: `${SITE_URL}/?incident=${encodeURIComponent(r.id)}`,
+          })),
+        }),
         offset: input.offset,
         next_offset:
           input.offset + input.limit < matches.length

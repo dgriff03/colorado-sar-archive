@@ -6,6 +6,7 @@ export type Incident = {
   summary: string;
   location: string | null;
   location_group?: string | null;
+  location_places?: string[];
   county: string | null;
   incident_type: string | null;
   outcome: string | null;

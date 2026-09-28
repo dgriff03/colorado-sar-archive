@@ -1,0 +1,2931 @@
+{
+  "_comment": "Reviewed place hierarchy for location search. Tags never change reported locations. parents = contained within (search for a parent includes it); admin = wilderness/park container; nearby = shown as a separate 'nearby' group; scoped_aliases only count when a required place is also named; location_group links a reviewed browsing area from location-groups.json.",
+  "stop_phrases": [
+    "Maroon Creek Bridge"
+  ],
+  "places": [
+    {
+      "id": "black-canyon-np",
+      "name": "Black Canyon of the Gunnison National Park",
+      "kind": "admin_area",
+      "counties": [
+        "Montrose"
+      ],
+      "aliases": [
+        "Black Canyon of the Gunnison National Park",
+        "Black Canyon National Park",
+        "Black Canyon of the Gunnison"
+      ]
+    },
+    {
+      "id": "chautauqua-park",
+      "name": "Chautauqua Park / Boulder Mountain Parks",
+      "kind": "admin_area",
+      "counties": [
+        "Boulder"
+      ],
+      "aliases": [
+        "Chautauqua Park",
+        "Chautauqua"
+      ]
+    },
+    {
+      "id": "collegiate-peaks-wilderness",
+      "name": "Collegiate Peaks Wilderness",
+      "kind": "admin_area",
+      "counties": [
+        "Chaffee",
+        "Pitkin",
+        "Gunnison"
+      ],
+      "aliases": [
+        "Collegiate Peaks Wilderness",
+        "Collegiate Peaks Wilderness Area"
+      ]
+    },
+    {
+      "id": "comanche-peak-wilderness",
+      "name": "Comanche Peak Wilderness",
+      "kind": "admin_area",
+      "counties": [
+        "Larimer"
+      ],
+      "aliases": [
+        "Comanche Peak Wilderness"
+      ]
+    },
+    {
+      "id": "eagles-nest-wilderness",
+      "name": "Eagles Nest Wilderness",
+      "kind": "admin_area",
+      "counties": [
+        "Summit",
+        "Eagle"
+      ],
+      "aliases": [
+        "Eagles Nest Wilderness",
+        "Eagles Nest Wilderness Area"
+      ]
+    },
+    {
+      "id": "eldorado-canyon-sp",
+      "name": "Eldorado Canyon State Park",
+      "kind": "admin_area",
+      "counties": [
+        "Boulder"
+      ],
+      "aliases": [
+        "Eldorado Canyon State Park",
+        "Eldorado State Park"
+      ]
+    },
+    {
+      "id": "eleven-mile-sp",
+      "name": "Eleven Mile State Park",
+      "kind": "admin_area",
+      "counties": [
+        "Park"
+      ],
+      "aliases": [
+        "Eleven Mile State Park",
+        "Elevenmile State Park"
+      ]
+    },
+    {
+      "id": "flat-tops-wilderness",
+      "name": "Flat Tops Wilderness",
+      "kind": "admin_area",
+      "counties": [
+        "Garfield",
+        "Rio Blanco"
+      ],
+      "aliases": [
+        "Flat Tops Wilderness",
+        "Flat Tops Wilderness Area",
+        "Flat Tops"
+      ]
+    },
+    {
+      "id": "garden-of-the-gods-park",
+      "name": "Garden of the Gods Park",
+      "kind": "admin_area",
+      "counties": [
+        "El Paso"
+      ],
+      "aliases": [
+        "Garden of the Gods",
+        "Garden of the Gods Park"
+      ]
+    },
+    {
+      "id": "golden-gate-canyon-sp",
+      "name": "Golden Gate Canyon State Park",
+      "kind": "admin_area",
+      "counties": [
+        "Jefferson",
+        "Gilpin"
+      ],
+      "aliases": [
+        "Golden Gate Canyon State Park"
+      ]
+    },
+    {
+      "id": "great-sand-dunes-np",
+      "name": "Great Sand Dunes National Park and Preserve",
+      "kind": "admin_area",
+      "counties": [
+        "Alamosa",
+        "Saguache"
+      ],
+      "aliases": [
+        "Great Sand Dunes National Park",
+        "Great Sand Dunes National Park and Preserve",
+        "Great Sand Dunes"
+      ]
+    },
+    {
+      "id": "holy-cross-wilderness",
+      "name": "Holy Cross Wilderness",
+      "kind": "admin_area",
+      "counties": [
+        "Eagle",
+        "Lake",
+        "Pitkin"
+      ],
+      "aliases": [
+        "Holy Cross Wilderness",
+        "Holy Cross Wilderness Area"
+      ]
+    },
+    {
+      "id": "hunter-fryingpan-wilderness",
+      "name": "Hunter-Fryingpan Wilderness",
+      "kind": "admin_area",
+      "counties": [
+        "Pitkin"
+      ],
+      "aliases": [
+        "Hunter-Fryingpan Wilderness",
+        "Hunter Fryingpan Wilderness"
+      ]
+    },
+    {
+      "id": "indian-peaks-wilderness",
+      "name": "Indian Peaks Wilderness",
+      "kind": "admin_area",
+      "counties": [
+        "Boulder",
+        "Grand"
+      ],
+      "aliases": [
+        "Indian Peaks Wilderness",
+        "Indian Peaks Wilderness Area",
+        "Indian Peaks"
+      ]
+    },
+    {
+      "id": "james-peak-wilderness",
+      "name": "James Peak Wilderness",
+      "kind": "admin_area",
+      "counties": [
+        "Clear Creek",
+        "Gilpin",
+        "Grand",
+        "Boulder"
+      ],
+      "aliases": [
+        "James Peak Wilderness",
+        "James Peak Wilderness Area"
+      ]
+    },
+    {
+      "id": "lake-pueblo-sp",
+      "name": "Lake Pueblo State Park",
+      "kind": "admin_area",
+      "counties": [
+        "Pueblo"
+      ],
+      "aliases": [
+        "Lake Pueblo State Park"
+      ]
+    },
+    {
+      "id": "lizard-head-wilderness",
+      "name": "Lizard Head Wilderness",
+      "kind": "admin_area",
+      "counties": [
+        "San Miguel",
+        "Dolores"
+      ],
+      "aliases": [
+        "Lizard Head Wilderness"
+      ]
+    },
+    {
+      "id": "lost-creek-wilderness",
+      "name": "Lost Creek Wilderness",
+      "kind": "admin_area",
+      "counties": [
+        "Park",
+        "Jefferson",
+        "Douglas"
+      ],
+      "aliases": [
+        "Lost Creek Wilderness",
+        "Lost Creek Wilderness Area"
+      ]
+    },
+    {
+      "id": "maroon-bells-snowmass-wilderness",
+      "name": "Maroon Bells-Snowmass Wilderness",
+      "kind": "admin_area",
+      "counties": [
+        "Pitkin",
+        "Gunnison"
+      ],
+      "aliases": [
+        "Maroon Bells-Snowmass Wilderness",
+        "Maroon Bells Snowmass Wilderness Area",
+        "Maroon Bells-Snowmass Wilderness Area",
+        "Maroon Bells Wilderness",
+        "Maroon Bells Wilderness Area",
+        "Maroon-Bells-Snowmass Wilderness"
+      ]
+    },
+    {
+      "id": "mount-blue-sky-wilderness",
+      "name": "Mount Blue Sky Wilderness",
+      "kind": "admin_area",
+      "counties": [
+        "Clear Creek",
+        "Park"
+      ],
+      "aliases": [
+        "Mount Evans Wilderness",
+        "Mount Blue Sky Wilderness",
+        "Mt Evans Wilderness Area",
+        "Mount Evans Wilderness Area"
+      ]
+    },
+    {
+      "id": "mount-falcon-park",
+      "name": "Mount Falcon Park",
+      "kind": "admin_area",
+      "counties": [
+        "Jefferson"
+      ]
+    },
+    {
+      "id": "mount-sneffels-wilderness",
+      "name": "Mount Sneffels Wilderness",
+      "kind": "admin_area",
+      "counties": [
+        "Ouray",
+        "San Miguel"
+      ],
+      "aliases": [
+        "Mount Sneffels Wilderness"
+      ]
+    },
+    {
+      "id": "mount-zirkel-wilderness",
+      "name": "Mount Zirkel Wilderness",
+      "kind": "admin_area",
+      "counties": [
+        "Routt",
+        "Jackson"
+      ],
+      "aliases": [
+        "Mount Zirkel Wilderness",
+        "Mt Zirkel Wilderness",
+        "Zirkel Wilderness"
+      ]
+    },
+    {
+      "id": "mueller-sp",
+      "name": "Mueller State Park",
+      "kind": "admin_area",
+      "counties": [
+        "Teller"
+      ],
+      "aliases": [
+        "Mueller State Park"
+      ]
+    },
+    {
+      "id": "never-summer-wilderness",
+      "name": "Never Summer Wilderness",
+      "kind": "admin_area",
+      "counties": [
+        "Grand",
+        "Jackson"
+      ],
+      "aliases": [
+        "Never Summer Wilderness"
+      ]
+    },
+    {
+      "id": "north-cheyenne-canon-park",
+      "name": "North Cheyenne Cañon Park",
+      "kind": "admin_area",
+      "counties": [
+        "El Paso"
+      ],
+      "aliases": [
+        "North Cheyenne Canon",
+        "North Cheyenne Cañon",
+        "North Cheyenne Canon Park",
+        "North Cheyenne Cañon Park"
+      ]
+    },
+    {
+      "id": "raggeds-wilderness",
+      "name": "Raggeds Wilderness",
+      "kind": "admin_area",
+      "counties": [
+        "Gunnison",
+        "Pitkin"
+      ],
+      "aliases": [
+        "Raggeds Wilderness"
+      ]
+    },
+    {
+      "id": "rawah-wilderness",
+      "name": "Rawah Wilderness",
+      "kind": "admin_area",
+      "counties": [
+        "Larimer",
+        "Jackson"
+      ],
+      "aliases": [
+        "Rawah Wilderness"
+      ]
+    },
+    {
+      "id": "rmnp",
+      "name": "Rocky Mountain National Park",
+      "kind": "admin_area",
+      "counties": [
+        "Larimer",
+        "Boulder",
+        "Grand"
+      ],
+      "aliases": [
+        "Rocky Mountain National Park",
+        "RMNP",
+        "Rocky Mountain NP"
+      ]
+    },
+    {
+      "id": "roxborough-sp",
+      "name": "Roxborough State Park",
+      "kind": "admin_area",
+      "counties": [
+        "Douglas"
+      ],
+      "aliases": [
+        "Roxborough State Park"
+      ]
+    },
+    {
+      "id": "sangre-de-cristo-wilderness",
+      "name": "Sangre de Cristo Wilderness",
+      "kind": "admin_area",
+      "counties": [
+        "Custer",
+        "Saguache",
+        "Alamosa",
+        "Huerfano",
+        "Fremont"
+      ],
+      "aliases": [
+        "Sangre de Cristo Wilderness",
+        "Sangre de Cristo Wilderness Area"
+      ]
+    },
+    {
+      "id": "staunton-sp",
+      "name": "Staunton State Park",
+      "kind": "admin_area",
+      "counties": [
+        "Jefferson",
+        "Park"
+      ],
+      "aliases": [
+        "Staunton State Park"
+      ]
+    },
+    {
+      "id": "uncompahgre-wilderness",
+      "name": "Uncompahgre Wilderness",
+      "kind": "admin_area",
+      "counties": [
+        "Hinsdale",
+        "Ouray"
+      ],
+      "aliases": [
+        "Uncompahgre Wilderness"
+      ]
+    },
+    {
+      "id": "weminuche-wilderness",
+      "name": "Weminuche Wilderness",
+      "kind": "admin_area",
+      "counties": [
+        "Hinsdale",
+        "La Plata",
+        "San Juan",
+        "Mineral",
+        "Rio Grande"
+      ],
+      "aliases": [
+        "Weminuche Wilderness",
+        "Weminuche Wilderness Area",
+        "Weminuche"
+      ]
+    },
+    {
+      "id": "elk-mountains",
+      "name": "Elk Mountains",
+      "kind": "place",
+      "counties": [
+        "Pitkin",
+        "Gunnison",
+        "Garfield",
+        "Mesa"
+      ],
+      "aliases": [
+        "Elk Mountains",
+        "Elk Range",
+        "Elks"
+      ]
+    },
+    {
+      "id": "front-range",
+      "name": "Front Range",
+      "kind": "place",
+      "aliases": [
+        "Front Range"
+      ]
+    },
+    {
+      "id": "gore-range",
+      "name": "Gore Range",
+      "kind": "place",
+      "aliases": [
+        "Gore Range"
+      ]
+    },
+    {
+      "id": "mosquito-range",
+      "name": "Mosquito Range",
+      "kind": "place",
+      "aliases": [
+        "Mosquito Range"
+      ]
+    },
+    {
+      "id": "san-juan-mountains",
+      "name": "San Juan Mountains",
+      "kind": "place",
+      "aliases": [
+        "San Juan Mountains",
+        "San Juans"
+      ]
+    },
+    {
+      "id": "sangre-de-cristo-range",
+      "name": "Sangre de Cristo Range",
+      "kind": "place",
+      "aliases": [
+        "Sangre de Cristo Range",
+        "Sangre de Cristo Mountains",
+        "Sangres",
+        "Sangre de Cristo"
+      ]
+    },
+    {
+      "id": "sawatch-range",
+      "name": "Sawatch Range",
+      "kind": "place",
+      "aliases": [
+        "Sawatch Range",
+        "Sawatch"
+      ]
+    },
+    {
+      "id": "tenmile-range",
+      "name": "Tenmile Range",
+      "kind": "place",
+      "aliases": [
+        "Tenmile Range",
+        "Ten Mile Range"
+      ]
+    },
+    {
+      "id": "adams-falls",
+      "name": "Adams Falls",
+      "kind": "place",
+      "parents": [
+        "front-range"
+      ],
+      "admin": [
+        "rmnp"
+      ],
+      "counties": [
+        "Larimer",
+        "Grand",
+        "Boulder"
+      ],
+      "aliases": [
+        "Adams Falls"
+      ]
+    },
+    {
+      "id": "aspen-highlands-backcountry",
+      "name": "Highland Bowl / Maroon Bowl / Desolation",
+      "kind": "place",
+      "parents": [
+        "elk-mountains"
+      ],
+      "counties": [
+        "Pitkin"
+      ],
+      "aliases": [
+        "Maroon Bowl",
+        "Highland Bowl",
+        "Desolation"
+      ]
+    },
+    {
+      "id": "barbour-forks",
+      "name": "Barbour Forks",
+      "kind": "place",
+      "location_group": "Barbour Forks",
+      "parents": [
+        "front-range"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "Barbour Forks"
+      ]
+    },
+    {
+      "id": "barr-trail",
+      "name": "Barr Trail",
+      "kind": "place",
+      "parents": [
+        "pikes-peak"
+      ],
+      "counties": [
+        "El Paso"
+      ],
+      "aliases": [
+        "Barr Trail",
+        "Barr Camp"
+      ]
+    },
+    {
+      "id": "bear-lake-rmnp",
+      "name": "Bear Lake (RMNP)",
+      "kind": "place",
+      "parents": [
+        "front-range"
+      ],
+      "admin": [
+        "rmnp"
+      ],
+      "counties": [
+        "Larimer",
+        "Grand",
+        "Boulder"
+      ],
+      "aliases": [
+        "Bear Lake",
+        "Bear Lake Road",
+        "Bear Lake Trailhead"
+      ]
+    },
+    {
+      "id": "bell-cord-couloir",
+      "name": "Bell Cord Couloir",
+      "kind": "place",
+      "parents": [
+        "maroon-bells-area"
+      ],
+      "counties": [
+        "Pitkin"
+      ],
+      "aliases": [
+        "Bell Cord Couloir",
+        "Bell Cord",
+        "Bell Chord Couloir",
+        "Bell Chord",
+        "Bellcord"
+      ]
+    },
+    {
+      "id": "bergen-peak",
+      "name": "Bergen Peak",
+      "kind": "place",
+      "location_group": "Bergen Peak",
+      "parents": [
+        "front-range"
+      ],
+      "counties": [
+        "Jefferson"
+      ],
+      "aliases": [
+        "Bergen Peak"
+      ]
+    },
+    {
+      "id": "berthoud-pass",
+      "name": "Berthoud Pass",
+      "kind": "place",
+      "location_group": "Berthoud Pass",
+      "parents": [
+        "front-range"
+      ],
+      "counties": [
+        "Clear Creek",
+        "Grand"
+      ],
+      "aliases": [
+        "Berthoud Pass"
+      ]
+    },
+    {
+      "id": "bierstadt-blue-sky-area",
+      "name": "Bierstadt / Blue Sky area",
+      "kind": "place",
+      "location_group": "Bierstadt / Blue Sky area",
+      "parents": [
+        "mount-blue-sky-massif"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "Mount Bierstadt / Mount Evans",
+        "Mount Evans / Mount Bierstadt",
+        "Bierstadt and Evans",
+        "Evans and Bierstadt"
+      ]
+    },
+    {
+      "id": "bierstadt-east-ridge",
+      "name": "East Ridge (Mount Bierstadt)",
+      "kind": "place",
+      "parents": [
+        "mount-bierstadt"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "scoped_aliases": [
+        {
+          "alias": "east ridge",
+          "requires": [
+            "mount-bierstadt"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blanca-massif",
+      "name": "Blanca Massif",
+      "kind": "place",
+      "parents": [
+        "sangre-de-cristo-range"
+      ],
+      "counties": [
+        "Alamosa",
+        "Costilla",
+        "Huerfano"
+      ],
+      "aliases": [
+        "Blanca Massif",
+        "Sierra Blanca"
+      ]
+    },
+    {
+      "id": "blanca-peak",
+      "name": "Blanca Peak",
+      "kind": "place",
+      "parents": [
+        "blanca-massif"
+      ],
+      "counties": [
+        "Alamosa",
+        "Costilla",
+        "Huerfano"
+      ],
+      "aliases": [
+        "Blanca Peak"
+      ]
+    },
+    {
+      "id": "boulder-canyon",
+      "name": "Boulder Canyon",
+      "kind": "place",
+      "parents": [
+        "front-range"
+      ],
+      "counties": [
+        "Boulder"
+      ],
+      "aliases": [
+        "Boulder Canyon"
+      ]
+    },
+    {
+      "id": "brainard-lake",
+      "name": "Brainard Lake",
+      "kind": "place",
+      "parents": [
+        "indian-peaks"
+      ],
+      "admin": [
+        "indian-peaks-wilderness"
+      ],
+      "counties": [
+        "Boulder"
+      ],
+      "aliases": [
+        "Brainard Lake"
+      ]
+    },
+    {
+      "id": "broken-hand-pass",
+      "name": "Broken Hand Pass",
+      "kind": "place",
+      "parents": [
+        "crestones"
+      ],
+      "admin": [
+        "sangre-de-cristo-wilderness"
+      ],
+      "counties": [
+        "Custer",
+        "Saguache"
+      ],
+      "aliases": [
+        "Broken Hand Pass"
+      ]
+    },
+    {
+      "id": "buckskin-pass",
+      "name": "Buckskin Pass",
+      "kind": "place",
+      "parents": [
+        "four-pass-loop"
+      ],
+      "admin": [
+        "maroon-bells-snowmass-wilderness"
+      ],
+      "counties": [
+        "Pitkin"
+      ],
+      "aliases": [
+        "Buckskin Pass"
+      ]
+    },
+    {
+      "id": "butler-gulch",
+      "name": "Butler Gulch",
+      "kind": "place",
+      "location_group": "Butler Gulch",
+      "parents": [
+        "front-range"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "Butler Gulch"
+      ]
+    },
+    {
+      "id": "capitol-creek",
+      "name": "Capitol Creek (valley / trail / road)",
+      "kind": "place",
+      "parents": [
+        "elk-mountains"
+      ],
+      "nearby": [
+        "capitol-peak"
+      ],
+      "counties": [
+        "Pitkin"
+      ],
+      "aliases": [
+        "Capitol Creek",
+        "Capitol Creek Trail",
+        "Capitol Creek Road",
+        "Capitol Creek Trailhead",
+        "Capitol Ditch Trail"
+      ]
+    },
+    {
+      "id": "capitol-k2",
+      "name": "K2 (Capitol Peak)",
+      "kind": "place",
+      "parents": [
+        "capitol-peak"
+      ],
+      "counties": [
+        "Pitkin"
+      ],
+      "scoped_aliases": [
+        {
+          "alias": "k2",
+          "requires": [
+            "capitol-peak"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "capitol-knife-edge",
+      "name": "Knife Edge (Capitol Peak)",
+      "kind": "place",
+      "parents": [
+        "capitol-peak"
+      ],
+      "counties": [
+        "Pitkin"
+      ],
+      "scoped_aliases": [
+        {
+          "alias": "knife edge",
+          "requires": [
+            "capitol-peak"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "capitol-peak",
+      "name": "Capitol Peak",
+      "kind": "place",
+      "location_group": "Capitol Peak",
+      "parents": [
+        "elk-mountains"
+      ],
+      "admin": [
+        "maroon-bells-snowmass-wilderness"
+      ],
+      "counties": [
+        "Pitkin"
+      ],
+      "aliases": [
+        "Capitol Peak",
+        "Capitol Lake"
+      ]
+    },
+    {
+      "id": "castle-peak-elk",
+      "name": "Castle Peak",
+      "kind": "place",
+      "parents": [
+        "elk-mountains"
+      ],
+      "counties": [
+        "Pitkin",
+        "Gunnison"
+      ],
+      "aliases": [
+        "Castle Peak"
+      ]
+    },
+    {
+      "id": "challenger-point",
+      "name": "Challenger Point",
+      "kind": "place",
+      "parents": [
+        "crestones"
+      ],
+      "admin": [
+        "sangre-de-cristo-wilderness"
+      ],
+      "counties": [
+        "Saguache",
+        "Custer"
+      ],
+      "aliases": [
+        "Challenger Point"
+      ]
+    },
+    {
+      "id": "chasm-lake",
+      "name": "Chasm Lake",
+      "kind": "place",
+      "parents": [
+        "rmnp-longs-area"
+      ],
+      "admin": [
+        "rmnp"
+      ],
+      "counties": [
+        "Boulder",
+        "Larimer"
+      ],
+      "aliases": [
+        "Chasm Lake"
+      ]
+    },
+    {
+      "id": "chicago-lakes",
+      "name": "Chicago Lakes",
+      "kind": "place",
+      "location_group": "Chicago Lakes",
+      "parents": [
+        "mount-blue-sky"
+      ],
+      "admin": [
+        "mount-blue-sky-wilderness"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "Chicago Lakes"
+      ]
+    },
+    {
+      "id": "chief-mountain",
+      "name": "Chief Mountain",
+      "kind": "place",
+      "location_group": "Chief Mountain",
+      "parents": [
+        "mount-blue-sky-massif"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "Chief Mountain"
+      ]
+    },
+    {
+      "id": "clear-creek-canyon",
+      "name": "Clear Creek Canyon",
+      "kind": "place",
+      "parents": [
+        "front-range"
+      ],
+      "counties": [
+        "Clear Creek",
+        "Jefferson"
+      ],
+      "aliases": [
+        "Clear Creek Canyon"
+      ]
+    },
+    {
+      "id": "conundrum",
+      "name": "Conundrum Peak / Creek / Hot Springs",
+      "kind": "place",
+      "parents": [
+        "elk-mountains"
+      ],
+      "admin": [
+        "maroon-bells-snowmass-wilderness"
+      ],
+      "counties": [
+        "Pitkin",
+        "Gunnison"
+      ],
+      "aliases": [
+        "Conundrum Peak",
+        "Conundrum Creek",
+        "Conundrum Hot Springs",
+        "Conundrum Creek Trail",
+        "Conundrum"
+      ]
+    },
+    {
+      "id": "crater-lake-maroon",
+      "name": "Crater Lake (Maroon Bells)",
+      "kind": "place",
+      "parents": [
+        "maroon-valley"
+      ],
+      "admin": [
+        "maroon-bells-snowmass-wilderness"
+      ],
+      "counties": [
+        "Pitkin"
+      ],
+      "aliases": [
+        "Crater Lake",
+        "Crater Lake Trail"
+      ]
+    },
+    {
+      "id": "crestone-needle",
+      "name": "Crestone Needle",
+      "kind": "place",
+      "location_group": "Crestone Needle",
+      "parents": [
+        "crestones"
+      ],
+      "admin": [
+        "sangre-de-cristo-wilderness"
+      ],
+      "counties": [
+        "Custer",
+        "Saguache"
+      ],
+      "aliases": [
+        "Crestone Needle"
+      ]
+    },
+    {
+      "id": "crestone-peak",
+      "name": "Crestone Peak",
+      "kind": "place",
+      "location_group": "Crestone Peak",
+      "parents": [
+        "crestones"
+      ],
+      "admin": [
+        "sangre-de-cristo-wilderness"
+      ],
+      "counties": [
+        "Custer",
+        "Saguache"
+      ],
+      "aliases": [
+        "Crestone Peak"
+      ]
+    },
+    {
+      "id": "crestone-red-gully",
+      "name": "Red Gully (Crestone Peak)",
+      "kind": "place",
+      "parents": [
+        "crestone-peak"
+      ],
+      "admin": [
+        "sangre-de-cristo-wilderness"
+      ],
+      "counties": [
+        "Custer",
+        "Saguache"
+      ],
+      "scoped_aliases": [
+        {
+          "alias": "red gully",
+          "requires": [
+            "crestone-peak"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "crestone-traverse",
+      "name": "Crestone Traverse",
+      "kind": "place",
+      "parents": [
+        "crestones"
+      ],
+      "admin": [
+        "sangre-de-cristo-wilderness"
+      ],
+      "counties": [
+        "Custer",
+        "Saguache"
+      ],
+      "aliases": [
+        "Crestone Traverse"
+      ],
+      "scoped_aliases": [
+        {
+          "alias": "traverse",
+          "requires": [
+            "crestone-peak",
+            "crestone-needle"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "crestones",
+      "name": "Crestone group",
+      "kind": "place",
+      "parents": [
+        "sangre-de-cristo-range"
+      ],
+      "counties": [
+        "Custer",
+        "Saguache"
+      ],
+      "aliases": [
+        "Crestones",
+        "Crestone Group"
+      ]
+    },
+    {
+      "id": "deer-creek-canyon-park",
+      "name": "Deer Creek Canyon Park",
+      "kind": "place",
+      "location_group": "Deer Creek Canyon Park",
+      "parents": [
+        "front-range"
+      ],
+      "counties": [
+        "Jefferson"
+      ],
+      "aliases": [
+        "Deer Creek Canyon Park",
+        "Deer Creek Canyon"
+      ]
+    },
+    {
+      "id": "east-maroon-trail",
+      "name": "East Maroon Trail",
+      "kind": "place",
+      "parents": [
+        "elk-mountains"
+      ],
+      "admin": [
+        "maroon-bells-snowmass-wilderness"
+      ],
+      "nearby": [
+        "maroon-bells-area"
+      ],
+      "counties": [
+        "Pitkin",
+        "Gunnison"
+      ],
+      "aliases": [
+        "East Maroon Trail",
+        "East Maroon Portal",
+        "East Maroon Pass",
+        "East Maroon Creek"
+      ]
+    },
+    {
+      "id": "echo-lake",
+      "name": "Echo Lake",
+      "kind": "place",
+      "location_group": "Echo Lake",
+      "parents": [
+        "mount-blue-sky-massif"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "Echo Lake"
+      ]
+    },
+    {
+      "id": "eldorado-canyon",
+      "name": "Eldorado Canyon",
+      "kind": "place",
+      "location_group": "Eldorado Canyon",
+      "parents": [
+        "front-range"
+      ],
+      "admin": [
+        "eldorado-canyon-sp"
+      ],
+      "counties": [
+        "Boulder"
+      ],
+      "aliases": [
+        "Eldorado Canyon"
+      ]
+    },
+    {
+      "id": "eleven-mile-reservoir",
+      "name": "Eleven Mile Reservoir",
+      "kind": "place",
+      "location_group": "Eleven Mile Reservoir",
+      "parents": [
+        "front-range"
+      ],
+      "admin": [
+        "eleven-mile-sp"
+      ],
+      "counties": [
+        "Park"
+      ],
+      "aliases": [
+        "Eleven Mile Reservoir",
+        "Elevenmile Reservoir"
+      ]
+    },
+    {
+      "id": "elk-snowmass-hagerman",
+      "name": "Hagerman Peak",
+      "kind": "place",
+      "parents": [
+        "elk-mountains"
+      ],
+      "admin": [
+        "maroon-bells-snowmass-wilderness"
+      ],
+      "counties": [
+        "Pitkin",
+        "Gunnison"
+      ],
+      "aliases": [
+        "Hagerman Peak"
+      ]
+    },
+    {
+      "id": "ellingwood-arete",
+      "name": "Ellingwood Arete",
+      "kind": "place",
+      "parents": [
+        "crestone-needle"
+      ],
+      "admin": [
+        "sangre-de-cristo-wilderness"
+      ],
+      "counties": [
+        "Custer",
+        "Saguache"
+      ],
+      "aliases": [
+        "Ellingwood Arete"
+      ]
+    },
+    {
+      "id": "ellingwood-point",
+      "name": "Ellingwood Point",
+      "kind": "place",
+      "parents": [
+        "blanca-massif"
+      ],
+      "counties": [
+        "Alamosa",
+        "Costilla",
+        "Huerfano"
+      ],
+      "aliases": [
+        "Ellingwood Point"
+      ]
+    },
+    {
+      "id": "emerald-lake-rmnp",
+      "name": "Emerald Lake (RMNP)",
+      "kind": "place",
+      "parents": [
+        "front-range"
+      ],
+      "admin": [
+        "rmnp"
+      ],
+      "counties": [
+        "Larimer",
+        "Grand",
+        "Boulder"
+      ],
+      "aliases": [
+        "Emerald Lake"
+      ]
+    },
+    {
+      "id": "fall-river-reservoir",
+      "name": "Fall River Reservoir",
+      "kind": "place",
+      "location_group": "Fall River Reservoir",
+      "parents": [
+        "front-range"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "Fall River Reservoir"
+      ]
+    },
+    {
+      "id": "first-flatiron",
+      "name": "First Flatiron",
+      "kind": "place",
+      "location_group": "First Flatiron",
+      "parents": [
+        "flatirons"
+      ],
+      "admin": [
+        "chautauqua-park"
+      ],
+      "counties": [
+        "Boulder"
+      ],
+      "aliases": [
+        "First Flatiron",
+        "1st Flatiron"
+      ]
+    },
+    {
+      "id": "flatirons",
+      "name": "The Flatirons",
+      "kind": "place",
+      "parents": [
+        "front-range"
+      ],
+      "admin": [
+        "chautauqua-park"
+      ],
+      "counties": [
+        "Boulder"
+      ],
+      "aliases": [
+        "Flatirons",
+        "The Flatirons"
+      ]
+    },
+    {
+      "id": "flattop-mountain-rmnp",
+      "name": "Flattop Mountain",
+      "kind": "place",
+      "parents": [
+        "front-range"
+      ],
+      "admin": [
+        "rmnp"
+      ],
+      "counties": [
+        "Larimer",
+        "Grand",
+        "Boulder"
+      ],
+      "aliases": [
+        "Flattop Mountain"
+      ]
+    },
+    {
+      "id": "four-pass-loop",
+      "name": "Four Pass Loop",
+      "kind": "place",
+      "parents": [
+        "elk-mountains"
+      ],
+      "admin": [
+        "maroon-bells-snowmass-wilderness"
+      ],
+      "counties": [
+        "Pitkin",
+        "Gunnison"
+      ],
+      "aliases": [
+        "Four Pass Loop",
+        "Four Passes Loop",
+        "4 Pass Loop"
+      ]
+    },
+    {
+      "id": "glacier-gorge",
+      "name": "Glacier Gorge",
+      "kind": "place",
+      "parents": [
+        "front-range"
+      ],
+      "admin": [
+        "rmnp"
+      ],
+      "counties": [
+        "Larimer",
+        "Grand",
+        "Boulder"
+      ],
+      "aliases": [
+        "Glacier Gorge"
+      ]
+    },
+    {
+      "id": "grand-couloir-maroon",
+      "name": "Grand Couloir (Maroon Bells)",
+      "kind": "place",
+      "parents": [
+        "maroon-bells-area"
+      ],
+      "counties": [
+        "Pitkin"
+      ],
+      "scoped_aliases": [
+        {
+          "alias": "grand couloir",
+          "requires": [
+            "maroon-bells-area",
+            "maroon-peak",
+            "north-maroon-peak"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grays-peak",
+      "name": "Grays Peak",
+      "kind": "place",
+      "location_group": "Grays Peak",
+      "parents": [
+        "grays-torreys-area"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "Grays Peak"
+      ]
+    },
+    {
+      "id": "grays-torreys-area",
+      "name": "Grays / Torreys area",
+      "kind": "place",
+      "location_group": "Grays / Torreys area",
+      "parents": [
+        "front-range"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "Grays and Torreys",
+        "Grays & Torreys",
+        "Grays/Torreys",
+        "Grays Torreys"
+      ]
+    },
+    {
+      "id": "green-mountain-boulder",
+      "name": "Green Mountain (Boulder)",
+      "kind": "place",
+      "parents": [
+        "flatirons"
+      ],
+      "counties": [
+        "Boulder"
+      ],
+      "aliases": [
+        "Green Mountain"
+      ]
+    },
+    {
+      "id": "greyrock-mountain",
+      "name": "Greyrock Mountain",
+      "kind": "place",
+      "location_group": "Greyrock Mountain",
+      "parents": [
+        "front-range"
+      ],
+      "counties": [
+        "Larimer"
+      ],
+      "aliases": [
+        "Greyrock Mountain",
+        "Greyrock"
+      ]
+    },
+    {
+      "id": "guanella-pass",
+      "name": "Guanella Pass",
+      "kind": "place",
+      "location_group": "Guanella Pass",
+      "parents": [
+        "front-range"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "Guanella Pass"
+      ]
+    },
+    {
+      "id": "hallett-peak",
+      "name": "Hallett Peak",
+      "kind": "place",
+      "parents": [
+        "front-range"
+      ],
+      "admin": [
+        "rmnp"
+      ],
+      "counties": [
+        "Larimer",
+        "Grand",
+        "Boulder"
+      ],
+      "aliases": [
+        "Hallett Peak"
+      ]
+    },
+    {
+      "id": "herman-gulch-lake",
+      "name": "Herman Gulch / Lake",
+      "kind": "place",
+      "location_group": "Herman Gulch / Lake",
+      "parents": [
+        "front-range"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "Herman Gulch",
+        "Hermans Gulch",
+        "Herman Lake",
+        "Hermans Lake"
+      ]
+    },
+    {
+      "id": "humboldt-peak",
+      "name": "Humboldt Peak",
+      "kind": "place",
+      "location_group": "Humboldt Peak",
+      "parents": [
+        "crestones"
+      ],
+      "admin": [
+        "sangre-de-cristo-wilderness"
+      ],
+      "counties": [
+        "Custer"
+      ],
+      "aliases": [
+        "Humboldt Peak"
+      ]
+    },
+    {
+      "id": "indian-peaks",
+      "name": "Indian Peaks",
+      "kind": "place",
+      "parents": [
+        "front-range"
+      ]
+    },
+    {
+      "id": "james-peak",
+      "name": "James Peak",
+      "kind": "place",
+      "parents": [
+        "front-range"
+      ],
+      "admin": [
+        "james-peak-wilderness"
+      ],
+      "counties": [
+        "Clear Creek",
+        "Gilpin",
+        "Grand"
+      ],
+      "aliases": [
+        "James Peak"
+      ]
+    },
+    {
+      "id": "jones-pass",
+      "name": "Jones Pass",
+      "kind": "place",
+      "location_group": "Jones Pass",
+      "parents": [
+        "front-range"
+      ],
+      "counties": [
+        "Clear Creek",
+        "Grand"
+      ],
+      "aliases": [
+        "Jones Pass"
+      ]
+    },
+    {
+      "id": "kelso-ridge",
+      "name": "Kelso Ridge (Torreys Peak)",
+      "kind": "place",
+      "parents": [
+        "torreys-peak"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "Kelso Ridge"
+      ],
+      "scoped_aliases": [
+        {
+          "alias": "knife edge",
+          "requires": [
+            "torreys-peak",
+            "kelso-ridge"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kit-carson-peak",
+      "name": "Kit Carson Peak",
+      "kind": "place",
+      "parents": [
+        "crestones"
+      ],
+      "admin": [
+        "sangre-de-cristo-wilderness"
+      ],
+      "counties": [
+        "Saguache",
+        "Custer"
+      ],
+      "aliases": [
+        "Kit Carson Peak",
+        "Kit Carson Pk",
+        "Kit Carson Mountain",
+        "Kit Carson"
+      ]
+    },
+    {
+      "id": "la-plata-peak",
+      "name": "La Plata Peak",
+      "kind": "place",
+      "location_group": "La Plata Peak",
+      "parents": [
+        "sawatch-range"
+      ],
+      "counties": [
+        "Chaffee",
+        "Lake"
+      ],
+      "aliases": [
+        "La Plata Peak"
+      ]
+    },
+    {
+      "id": "lake-como-road",
+      "name": "Lake Como Road",
+      "kind": "place",
+      "parents": [
+        "blanca-massif"
+      ],
+      "counties": [
+        "Alamosa",
+        "Costilla"
+      ],
+      "aliases": [
+        "Lake Como Road",
+        "Lake Como"
+      ]
+    },
+    {
+      "id": "little-bear-peak",
+      "name": "Little Bear Peak",
+      "kind": "place",
+      "parents": [
+        "blanca-massif"
+      ],
+      "counties": [
+        "Alamosa",
+        "Costilla"
+      ],
+      "aliases": [
+        "Little Bear Peak",
+        "Little Bear"
+      ]
+    },
+    {
+      "id": "loch-lomond",
+      "name": "Loch Lomond",
+      "kind": "place",
+      "location_group": "Loch Lomond",
+      "parents": [
+        "front-range"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "Loch Lomond"
+      ]
+    },
+    {
+      "id": "lone-eagle-peak",
+      "name": "Lone Eagle Peak",
+      "kind": "place",
+      "parents": [
+        "indian-peaks"
+      ],
+      "admin": [
+        "indian-peaks-wilderness"
+      ],
+      "counties": [
+        "Grand"
+      ],
+      "aliases": [
+        "Lone Eagle Peak"
+      ]
+    },
+    {
+      "id": "longs-diamond",
+      "name": "The Diamond (Longs Peak)",
+      "kind": "place",
+      "parents": [
+        "longs-peak"
+      ],
+      "admin": [
+        "rmnp"
+      ],
+      "counties": [
+        "Boulder",
+        "Larimer"
+      ],
+      "scoped_aliases": [
+        {
+          "alias": "diamond",
+          "requires": [
+            "longs-peak"
+          ]
+        },
+        {
+          "alias": "the diamond",
+          "requires": [
+            "longs-peak"
+          ]
+        },
+        {
+          "alias": "east face",
+          "requires": [
+            "longs-peak"
+          ]
+        },
+        {
+          "alias": "north chimney",
+          "requires": [
+            "longs-peak"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "longs-keyhole",
+      "name": "Keyhole Route (Longs Peak)",
+      "kind": "place",
+      "parents": [
+        "longs-peak"
+      ],
+      "admin": [
+        "rmnp"
+      ],
+      "counties": [
+        "Boulder",
+        "Larimer"
+      ],
+      "aliases": [
+        "Keyhole Route"
+      ],
+      "scoped_aliases": [
+        {
+          "alias": "keyhole",
+          "requires": [
+            "longs-peak"
+          ]
+        },
+        {
+          "alias": "narrows",
+          "requires": [
+            "longs-peak"
+          ]
+        },
+        {
+          "alias": "the ledges",
+          "requires": [
+            "longs-peak"
+          ]
+        },
+        {
+          "alias": "homestretch",
+          "requires": [
+            "longs-peak"
+          ]
+        },
+        {
+          "alias": "trough",
+          "requires": [
+            "longs-peak"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "longs-kieners",
+      "name": "Kieners Route (Longs Peak)",
+      "kind": "place",
+      "parents": [
+        "longs-peak"
+      ],
+      "admin": [
+        "rmnp"
+      ],
+      "counties": [
+        "Boulder",
+        "Larimer"
+      ],
+      "aliases": [
+        "Kieners Route",
+        "Kiener Route"
+      ]
+    },
+    {
+      "id": "longs-peak",
+      "name": "Longs Peak",
+      "kind": "place",
+      "location_group": "Longs Peak",
+      "parents": [
+        "rmnp-longs-area"
+      ],
+      "admin": [
+        "rmnp"
+      ],
+      "counties": [
+        "Boulder",
+        "Larimer"
+      ],
+      "aliases": [
+        "Longs Peak"
+      ],
+      "search_scope": "rmnp-longs-area"
+    },
+    {
+      "id": "longs-peak-trailhead",
+      "name": "Longs Peak Trailhead / Ranger Station",
+      "kind": "place",
+      "parents": [
+        "rmnp-longs-area"
+      ],
+      "admin": [
+        "rmnp"
+      ],
+      "counties": [
+        "Boulder",
+        "Larimer"
+      ],
+      "aliases": [
+        "Longs Peak Trailhead",
+        "Longs Peak Ranger Station",
+        "Longs Peak Campground"
+      ]
+    },
+    {
+      "id": "lookout-mountain",
+      "name": "Lookout Mountain",
+      "kind": "place",
+      "location_group": "Lookout Mountain",
+      "parents": [
+        "front-range"
+      ],
+      "counties": [
+        "Jefferson"
+      ],
+      "aliases": [
+        "Lookout Mountain"
+      ]
+    },
+    {
+      "id": "loveland-pass",
+      "name": "Loveland Pass",
+      "kind": "place",
+      "location_group": "Loveland Pass",
+      "parents": [
+        "front-range"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "Loveland Pass"
+      ]
+    },
+    {
+      "id": "lumpy-ridge",
+      "name": "Lumpy Ridge",
+      "kind": "place",
+      "parents": [
+        "front-range"
+      ],
+      "admin": [
+        "rmnp"
+      ],
+      "counties": [
+        "Larimer",
+        "Grand",
+        "Boulder"
+      ],
+      "aliases": [
+        "Lumpy Ridge"
+      ]
+    },
+    {
+      "id": "manitou-incline",
+      "name": "Manitou Incline",
+      "kind": "place",
+      "location_group": "Manitou Incline",
+      "parents": [
+        "pikes-peak-massif"
+      ],
+      "counties": [
+        "El Paso"
+      ],
+      "aliases": [
+        "Manitou Incline",
+        "The Incline"
+      ]
+    },
+    {
+      "id": "maroon-bells-area",
+      "name": "Maroon Bells area",
+      "kind": "place",
+      "parents": [
+        "elk-mountains"
+      ],
+      "admin": [
+        "maroon-bells-snowmass-wilderness"
+      ],
+      "counties": [
+        "Pitkin",
+        "Gunnison"
+      ],
+      "aliases": [
+        "Maroon Bells",
+        "The Bells",
+        "Maroon Bells area",
+        "Maroon Bells Scenic Area"
+      ]
+    },
+    {
+      "id": "maroon-bells-traverse",
+      "name": "Maroon Bells Traverse",
+      "kind": "place",
+      "parents": [
+        "maroon-bells-area"
+      ],
+      "counties": [
+        "Pitkin"
+      ],
+      "aliases": [
+        "Maroon Bells Traverse",
+        "Bells Traverse",
+        "Maroon Bells traverse"
+      ],
+      "scoped_aliases": [
+        {
+          "alias": "traverse",
+          "requires": [
+            "maroon-bells-area",
+            "maroon-peak",
+            "north-maroon-peak"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maroon-lake",
+      "name": "Maroon Lake",
+      "kind": "place",
+      "parents": [
+        "maroon-valley"
+      ],
+      "counties": [
+        "Pitkin"
+      ],
+      "aliases": [
+        "Maroon Lake",
+        "Maroon Lake Trailhead",
+        "Maroon Lake Scenic Trail"
+      ]
+    },
+    {
+      "id": "maroon-peak",
+      "name": "Maroon Peak",
+      "kind": "place",
+      "location_group": "Maroon Peak",
+      "parents": [
+        "maroon-bells-area"
+      ],
+      "admin": [
+        "maroon-bells-snowmass-wilderness"
+      ],
+      "counties": [
+        "Pitkin"
+      ],
+      "aliases": [
+        "Maroon Peak",
+        "South Maroon Peak",
+        "South Maroon",
+        "South Maroon Bell"
+      ]
+    },
+    {
+      "id": "maroon-valley",
+      "name": "Maroon Valley / Maroon Creek",
+      "kind": "place",
+      "parents": [
+        "maroon-bells-area"
+      ],
+      "counties": [
+        "Pitkin"
+      ],
+      "aliases": [
+        "Maroon Valley",
+        "Maroon Creek Valley",
+        "Maroon Creek Road",
+        "Maroon Creek"
+      ]
+    },
+    {
+      "id": "mills-lake",
+      "name": "Mills Lake",
+      "kind": "place",
+      "parents": [
+        "front-range"
+      ],
+      "admin": [
+        "rmnp"
+      ],
+      "counties": [
+        "Larimer",
+        "Grand",
+        "Boulder"
+      ],
+      "aliases": [
+        "Mills Lake"
+      ]
+    },
+    {
+      "id": "mount-bierstadt",
+      "name": "Mount Bierstadt",
+      "kind": "place",
+      "location_group": "Mount Bierstadt",
+      "parents": [
+        "bierstadt-blue-sky-area"
+      ],
+      "admin": [
+        "mount-blue-sky-wilderness"
+      ],
+      "counties": [
+        "Clear Creek",
+        "Park"
+      ],
+      "aliases": [
+        "Mount Bierstadt",
+        "Mt Beristdat"
+      ]
+    },
+    {
+      "id": "mount-blue-sky",
+      "name": "Mount Blue Sky",
+      "kind": "place",
+      "location_group": "Mount Blue Sky",
+      "parents": [
+        "bierstadt-blue-sky-area"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "Mount Blue Sky",
+        "Mount Evans",
+        "Mt Evans"
+      ]
+    },
+    {
+      "id": "mount-blue-sky-massif",
+      "name": "Mount Blue Sky / Evans massif",
+      "kind": "place",
+      "parents": [
+        "front-range"
+      ]
+    },
+    {
+      "id": "mount-elbert",
+      "name": "Mount Elbert",
+      "kind": "place",
+      "location_group": "Mount Elbert",
+      "parents": [
+        "sawatch-range"
+      ],
+      "counties": [
+        "Lake"
+      ],
+      "aliases": [
+        "Mount Elbert"
+      ]
+    },
+    {
+      "id": "mount-falcon",
+      "name": "Mount Falcon Park",
+      "kind": "place",
+      "location_group": "Mount Falcon Park",
+      "parents": [
+        "front-range"
+      ],
+      "admin": [
+        "mount-falcon-park"
+      ],
+      "counties": [
+        "Jefferson"
+      ],
+      "aliases": [
+        "Mount Falcon",
+        "Mount Falcon Park"
+      ]
+    },
+    {
+      "id": "mount-goliath",
+      "name": "Mount Goliath",
+      "kind": "place",
+      "location_group": "Mount Goliath",
+      "parents": [
+        "mount-blue-sky"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "Mount Goliath"
+      ]
+    },
+    {
+      "id": "mount-lady-washington",
+      "name": "Mount Lady Washington",
+      "kind": "place",
+      "parents": [
+        "rmnp-longs-area"
+      ],
+      "admin": [
+        "rmnp"
+      ],
+      "counties": [
+        "Boulder",
+        "Larimer"
+      ],
+      "aliases": [
+        "Mount Lady Washington",
+        "Lady Washington"
+      ]
+    },
+    {
+      "id": "mount-massive",
+      "name": "Mount Massive",
+      "kind": "place",
+      "location_group": "Mount Massive",
+      "parents": [
+        "sawatch-range"
+      ],
+      "counties": [
+        "Lake"
+      ],
+      "aliases": [
+        "Mount Massive"
+      ]
+    },
+    {
+      "id": "mount-meeker",
+      "name": "Mount Meeker",
+      "kind": "place",
+      "parents": [
+        "rmnp-longs-area"
+      ],
+      "admin": [
+        "rmnp"
+      ],
+      "counties": [
+        "Boulder",
+        "Larimer"
+      ],
+      "aliases": [
+        "Mount Meeker"
+      ]
+    },
+    {
+      "id": "mount-of-the-holy-cross",
+      "name": "Mount of the Holy Cross",
+      "kind": "place",
+      "location_group": "Mount of the Holy Cross",
+      "parents": [
+        "sawatch-range"
+      ],
+      "admin": [
+        "holy-cross-wilderness"
+      ],
+      "counties": [
+        "Eagle"
+      ],
+      "aliases": [
+        "Mount of the Holy Cross",
+        "Mount Holy Cross",
+        "Holy Cross"
+      ]
+    },
+    {
+      "id": "mount-princeton",
+      "name": "Mount Princeton",
+      "kind": "place",
+      "location_group": "Mount Princeton",
+      "parents": [
+        "sawatch-range"
+      ],
+      "counties": [
+        "Chaffee"
+      ],
+      "aliases": [
+        "Mount Princeton"
+      ]
+    },
+    {
+      "id": "mount-sherman",
+      "name": "Mount Sherman",
+      "kind": "place",
+      "location_group": "Mount Sherman",
+      "parents": [
+        "mosquito-range"
+      ],
+      "counties": [
+        "Park"
+      ],
+      "aliases": [
+        "Mount Sherman"
+      ]
+    },
+    {
+      "id": "mount-sneffels",
+      "name": "Mount Sneffels",
+      "kind": "place",
+      "location_group": "Mount Sneffels",
+      "parents": [
+        "san-juan-mountains"
+      ],
+      "admin": [
+        "mount-sneffels-wilderness"
+      ],
+      "counties": [
+        "Ouray"
+      ],
+      "aliases": [
+        "Mount Sneffels"
+      ]
+    },
+    {
+      "id": "mount-sniktau",
+      "name": "Mount Sniktau",
+      "kind": "place",
+      "location_group": "Mount Sniktau",
+      "parents": [
+        "front-range"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "Mount Sniktau"
+      ]
+    },
+    {
+      "id": "mount-spaulding",
+      "name": "Mount Spaulding",
+      "kind": "place",
+      "location_group": "Mount Spaulding",
+      "parents": [
+        "bierstadt-blue-sky-area"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "Mount Spaulding",
+        "Mount Spalding"
+      ]
+    },
+    {
+      "id": "mount-trelease",
+      "name": "Mount Trelease",
+      "kind": "place",
+      "location_group": "Mount Trelease",
+      "parents": [
+        "front-range"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "Mount Trelease"
+      ]
+    },
+    {
+      "id": "naked-edge",
+      "name": "The Naked Edge",
+      "kind": "place",
+      "parents": [
+        "redgarden-wall"
+      ],
+      "admin": [
+        "eldorado-canyon-sp"
+      ],
+      "counties": [
+        "Boulder"
+      ],
+      "aliases": [
+        "Naked Edge",
+        "The Naked Edge"
+      ]
+    },
+    {
+      "id": "north-maroon-peak",
+      "name": "North Maroon Peak",
+      "kind": "place",
+      "location_group": "North Maroon Peak",
+      "parents": [
+        "maroon-bells-area"
+      ],
+      "admin": [
+        "maroon-bells-snowmass-wilderness"
+      ],
+      "counties": [
+        "Pitkin"
+      ],
+      "aliases": [
+        "North Maroon Peak",
+        "North Maroon",
+        "North Maroon Bell"
+      ]
+    },
+    {
+      "id": "pikes-peak",
+      "name": "Pikes Peak",
+      "kind": "place",
+      "parents": [
+        "pikes-peak-massif"
+      ],
+      "counties": [
+        "El Paso",
+        "Teller"
+      ],
+      "aliases": [
+        "Pikes Peak",
+        "Pikes Peak Highway"
+      ]
+    },
+    {
+      "id": "pikes-peak-massif",
+      "name": "Pikes Peak massif",
+      "kind": "place",
+      "parents": [
+        "front-range"
+      ]
+    },
+    {
+      "id": "pyramid-peak",
+      "name": "Pyramid Peak",
+      "kind": "place",
+      "location_group": "Pyramid Peak",
+      "parents": [
+        "elk-mountains"
+      ],
+      "admin": [
+        "maroon-bells-snowmass-wilderness"
+      ],
+      "nearby": [
+        "maroon-bells-area"
+      ],
+      "counties": [
+        "Pitkin"
+      ],
+      "aliases": [
+        "Pyramid Peak"
+      ]
+    },
+    {
+      "id": "quandary-east-ridge",
+      "name": "East Ridge (Quandary Peak)",
+      "kind": "place",
+      "parents": [
+        "quandary-peak"
+      ],
+      "counties": [
+        "Summit"
+      ],
+      "scoped_aliases": [
+        {
+          "alias": "east ridge",
+          "requires": [
+            "quandary-peak"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quandary-peak",
+      "name": "Quandary Peak",
+      "kind": "place",
+      "location_group": "Quandary Peak",
+      "parents": [
+        "tenmile-range"
+      ],
+      "counties": [
+        "Summit"
+      ],
+      "aliases": [
+        "Quandary Peak",
+        "Quandary"
+      ]
+    },
+    {
+      "id": "redgarden-wall",
+      "name": "Redgarden Wall",
+      "kind": "place",
+      "parents": [
+        "eldorado-canyon"
+      ],
+      "admin": [
+        "eldorado-canyon-sp"
+      ],
+      "counties": [
+        "Boulder"
+      ],
+      "aliases": [
+        "Redgarden Wall",
+        "Red Garden Wall"
+      ]
+    },
+    {
+      "id": "rincon-wall",
+      "name": "Rincon Wall",
+      "kind": "place",
+      "parents": [
+        "eldorado-canyon"
+      ],
+      "admin": [
+        "eldorado-canyon-sp"
+      ],
+      "counties": [
+        "Boulder"
+      ],
+      "aliases": [
+        "Rincon Wall",
+        "Rincon"
+      ]
+    },
+    {
+      "id": "rmnp-longs-area",
+      "name": "Longs Peak area",
+      "kind": "place",
+      "parents": [
+        "front-range"
+      ],
+      "admin": [
+        "rmnp"
+      ],
+      "counties": [
+        "Boulder",
+        "Larimer"
+      ]
+    },
+    {
+      "id": "rollins-pass",
+      "name": "Rollins Pass",
+      "kind": "place",
+      "parents": [
+        "front-range"
+      ],
+      "counties": [
+        "Gilpin",
+        "Boulder",
+        "Grand"
+      ],
+      "aliases": [
+        "Rollins Pass",
+        "Rollins Pass Road"
+      ]
+    },
+    {
+      "id": "royal-arch",
+      "name": "Royal Arch",
+      "kind": "place",
+      "parents": [
+        "flatirons"
+      ],
+      "admin": [
+        "chautauqua-park"
+      ],
+      "counties": [
+        "Boulder"
+      ],
+      "aliases": [
+        "Royal Arch",
+        "Royal Arch Trail"
+      ]
+    },
+    {
+      "id": "sawtooth-ridge-bierstadt-blue-sky",
+      "name": "Sawtooth Ridge (Bierstadt / Blue Sky)",
+      "kind": "place",
+      "location_group": "Sawtooth Ridge (Bierstadt / Blue Sky)",
+      "parents": [
+        "bierstadt-blue-sky-area"
+      ],
+      "admin": [
+        "mount-blue-sky-wilderness"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "Sawtooth",
+        "The Sawtooth",
+        "Sawtooth Ridge"
+      ]
+    },
+    {
+      "id": "second-flatiron",
+      "name": "Second Flatiron",
+      "kind": "place",
+      "location_group": "Second Flatiron",
+      "parents": [
+        "flatirons"
+      ],
+      "admin": [
+        "chautauqua-park"
+      ],
+      "counties": [
+        "Boulder"
+      ],
+      "aliases": [
+        "Second Flatiron",
+        "2nd Flatiron"
+      ]
+    },
+    {
+      "id": "seven-bridges-trail",
+      "name": "Seven Bridges Trail",
+      "kind": "place",
+      "location_group": "Seven Bridges Trail",
+      "parents": [
+        "pikes-peak-massif"
+      ],
+      "admin": [
+        "north-cheyenne-canon-park"
+      ],
+      "counties": [
+        "El Paso"
+      ],
+      "aliases": [
+        "Seven Bridges Trail",
+        "Seven Bridges"
+      ]
+    },
+    {
+      "id": "silver-dollar-lake",
+      "name": "Silver Dollar Lake",
+      "kind": "place",
+      "location_group": "Silver Dollar Lake",
+      "parents": [
+        "guanella-pass"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "Silver Dollar Lake"
+      ]
+    },
+    {
+      "id": "sky-pond",
+      "name": "Sky Pond",
+      "kind": "place",
+      "parents": [
+        "front-range"
+      ],
+      "admin": [
+        "rmnp"
+      ],
+      "counties": [
+        "Larimer",
+        "Grand",
+        "Boulder"
+      ],
+      "aliases": [
+        "Sky Pond"
+      ]
+    },
+    {
+      "id": "snowmass-lake",
+      "name": "Snowmass Lake",
+      "kind": "place",
+      "parents": [
+        "snowmass-mountain"
+      ],
+      "admin": [
+        "maroon-bells-snowmass-wilderness"
+      ],
+      "counties": [
+        "Pitkin"
+      ],
+      "aliases": [
+        "Snowmass Lake"
+      ]
+    },
+    {
+      "id": "snowmass-mountain",
+      "name": "Snowmass Mountain",
+      "kind": "place",
+      "location_group": "Snowmass Mountain",
+      "parents": [
+        "elk-mountains"
+      ],
+      "admin": [
+        "maroon-bells-snowmass-wilderness"
+      ],
+      "counties": [
+        "Gunnison",
+        "Pitkin"
+      ],
+      "aliases": [
+        "Snowmass Mountain",
+        "Snowmass Peak"
+      ]
+    },
+    {
+      "id": "south-colony-lakes",
+      "name": "South Colony Lakes",
+      "kind": "place",
+      "parents": [
+        "crestones"
+      ],
+      "admin": [
+        "sangre-de-cristo-wilderness"
+      ],
+      "counties": [
+        "Custer"
+      ],
+      "aliases": [
+        "South Colony Lakes",
+        "South Colony Lake",
+        "South Colony"
+      ]
+    },
+    {
+      "id": "square-top-mountain",
+      "name": "Square Top Mountain",
+      "kind": "place",
+      "location_group": "Square Top Mountain",
+      "parents": [
+        "guanella-pass"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "Square Top Mountain",
+        "Square Top"
+      ]
+    },
+    {
+      "id": "st-marys-glacier-lake-area",
+      "name": "St. Mary's Glacier / Lake area",
+      "kind": "place",
+      "location_group": "St. Mary's Glacier / Lake area",
+      "parents": [
+        "front-range"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "St Marys Glacier",
+        "St Marys Lake",
+        "St Marys Glacier Lake",
+        "St Marys"
+      ]
+    },
+    {
+      "id": "summit-lake-mount-blue-sky",
+      "name": "Summit Lake (Mount Blue Sky)",
+      "kind": "place",
+      "location_group": "Summit Lake (Mount Blue Sky)",
+      "parents": [
+        "mount-blue-sky"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "Summit Lake"
+      ]
+    },
+    {
+      "id": "sundance-mountain",
+      "name": "Sundance Mountain",
+      "kind": "place",
+      "parents": [
+        "front-range"
+      ],
+      "admin": [
+        "rmnp"
+      ],
+      "counties": [
+        "Larimer",
+        "Grand",
+        "Boulder"
+      ],
+      "aliases": [
+        "Sundance Mountain"
+      ]
+    },
+    {
+      "id": "the-bastille",
+      "name": "The Bastille",
+      "kind": "place",
+      "parents": [
+        "eldorado-canyon"
+      ],
+      "admin": [
+        "eldorado-canyon-sp"
+      ],
+      "counties": [
+        "Boulder"
+      ],
+      "aliases": [
+        "Bastille",
+        "The Bastille"
+      ]
+    },
+    {
+      "id": "third-flatiron",
+      "name": "Third Flatiron",
+      "kind": "place",
+      "location_group": "Third Flatiron",
+      "parents": [
+        "flatirons"
+      ],
+      "admin": [
+        "chautauqua-park"
+      ],
+      "counties": [
+        "Boulder"
+      ],
+      "aliases": [
+        "Third Flatiron",
+        "3rd Flatiron"
+      ]
+    },
+    {
+      "id": "thunder-pyramid",
+      "name": "Thunder Pyramid",
+      "kind": "place",
+      "parents": [
+        "elk-mountains"
+      ],
+      "admin": [
+        "maroon-bells-snowmass-wilderness"
+      ],
+      "counties": [
+        "Pitkin"
+      ],
+      "aliases": [
+        "Thunder Pyramid"
+      ]
+    },
+    {
+      "id": "torreys-peak",
+      "name": "Torreys Peak",
+      "kind": "place",
+      "location_group": "Torreys Peak",
+      "parents": [
+        "grays-torreys-area"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "Torreys Peak",
+        "Torreys"
+      ]
+    },
+    {
+      "id": "waldorf-mine",
+      "name": "Waldorf Mine",
+      "kind": "place",
+      "location_group": "Waldorf Mine",
+      "parents": [
+        "front-range"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "Waldorf Mine",
+        "Waldorf"
+      ]
+    },
+    {
+      "id": "watrous-gulch",
+      "name": "Watrous Gulch",
+      "kind": "place",
+      "location_group": "Watrous Gulch",
+      "parents": [
+        "front-range"
+      ],
+      "counties": [
+        "Clear Creek"
+      ],
+      "aliases": [
+        "Watrous Gulch"
+      ]
+    },
+    {
+      "id": "west-maroon-trail",
+      "name": "West Maroon Trail / Pass",
+      "kind": "place",
+      "parents": [
+        "maroon-bells-area"
+      ],
+      "admin": [
+        "maroon-bells-snowmass-wilderness"
+      ],
+      "counties": [
+        "Pitkin",
+        "Gunnison"
+      ],
+      "aliases": [
+        "West Maroon Trail",
+        "West Maroon Pass",
+        "West Maroon Creek"
+      ]
+    },
+    {
+      "id": "wind-tower",
+      "name": "Wind Tower",
+      "kind": "place",
+      "parents": [
+        "eldorado-canyon"
+      ],
+      "admin": [
+        "eldorado-canyon-sp"
+      ],
+      "counties": [
+        "Boulder"
+      ],
+      "aliases": [
+        "Wind Tower"
+      ]
+    },
+    {
+      "id": "yellow-spur",
+      "name": "Yellow Spur",
+      "kind": "place",
+      "parents": [
+        "redgarden-wall"
+      ],
+      "admin": [
+        "eldorado-canyon-sp"
+      ],
+      "counties": [
+        "Boulder"
+      ],
+      "aliases": [
+        "Yellow Spur"
+      ]
+    },
+    {
+      "id": "ypsilon-mountain",
+      "name": "Ypsilon Mountain",
+      "kind": "place",
+      "parents": [
+        "front-range"
+      ],
+      "admin": [
+        "rmnp"
+      ],
+      "counties": [
+        "Larimer",
+        "Grand",
+        "Boulder"
+      ],
+      "aliases": [
+        "Ypsilon Mountain"
+      ]
+    },
+    {
+      "id": "zapata-falls",
+      "name": "Zapata Falls",
+      "kind": "place",
+      "parents": [
+        "blanca-massif"
+      ],
+      "counties": [
+        "Alamosa"
+      ],
+      "aliases": [
+        "Zapata Falls"
+      ]
+    }
+  ]
+}

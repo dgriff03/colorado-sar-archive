@@ -164,6 +164,63 @@ export default function Home() {
         : baseResults,
     [baseResults, drill, view],
   );
+  const placeScope = useMemo(
+    () => search.place(deferred.location),
+    [search, deferred.location],
+  );
+  const nearby = useMemo(
+    () =>
+      view === 'incidents' && !drill.length ? search.nearby(deferred) : [],
+    [search, deferred, view, drill],
+  );
+  const incidentCard = (r: Incident) => (
+    <article key={r.id} className="incident">
+      <div className="incident-date">
+        <span>{formatDate(r.date).split(',')[0]}</span>
+        <small>{r.date.slice(0, 4)}</small>
+      </div>
+      <div className="incident-main">
+        <div className="incident-tags">
+          <span
+            className={
+              'type-tag ' + (r.incident_type === 'avalanche' ? 'amber' : '')
+            }
+          >
+            {label(r.incident_type)}
+          </span>
+          <IncidentTags incident={r} />
+          <span>{r.county || 'County not recorded'}</span>
+        </div>
+        <a
+          className="incident-title"
+          href={explorerUrl({ ...state, selected: r.id })}
+          onClick={(e) => {
+            if (!e.metaKey && !e.ctrlKey && !e.shiftKey && !e.altKey) {
+              e.preventDefault();
+              openIncident(r.id);
+            }
+          }}
+        >
+          {r.summary}
+        </a>
+        <div className="incident-context">
+          <span>People involved: {displayValue(r.victims)}</span>
+          <span>Agency: {displayValue(r.responding_agency)}</span>
+        </div>
+        <div className="incident-location">
+          <MapPin size={14} />
+          <span>{r.location || r.place || 'Location not recorded'}</span>
+        </div>
+      </div>
+      <button
+        className="open-incident"
+        aria-label={`Read incident from ${r.date}`}
+        onClick={() => openIncident(r.id)}
+      >
+        <ArrowRight size={20} />
+      </button>
+    </article>
+  );
   const groupFields = useMemo(
     () => (then === 'none' ? [by] : [by, then]),
     [by, then],
@@ -657,6 +714,9 @@ export default function Home() {
                       <>
                         <b>{results.length.toLocaleString()}</b>{' '}
                         {active ? 'matching' : 'recorded'} incidents
+                        {placeScope
+                          ? ` in ${placeScope.name} and places within it`
+                          : ''}
                         {view === 'groups'
                           ? ` across ${groups.length.toLocaleString()} groups`
                           : ''}
@@ -810,70 +870,7 @@ export default function Home() {
                   <div className="incident-list">
                     {results
                       .slice((safePage - 1) * 20, safePage * 20)
-                      .map((r) => (
-                        <article key={r.id} className="incident">
-                          <div className="incident-date">
-                            <span>{formatDate(r.date).split(',')[0]}</span>
-                            <small>{r.date.slice(0, 4)}</small>
-                          </div>
-                          <div className="incident-main">
-                            <div className="incident-tags">
-                              <span
-                                className={
-                                  'type-tag ' +
-                                  (r.incident_type === 'avalanche'
-                                    ? 'amber'
-                                    : '')
-                                }
-                              >
-                                {label(r.incident_type)}
-                              </span>
-                              <IncidentTags incident={r} />
-                              <span>{r.county || 'County not recorded'}</span>
-                            </div>
-                            <a
-                              className="incident-title"
-                              href={explorerUrl({ ...state, selected: r.id })}
-                              onClick={(e) => {
-                                if (
-                                  !e.metaKey &&
-                                  !e.ctrlKey &&
-                                  !e.shiftKey &&
-                                  !e.altKey
-                                ) {
-                                  e.preventDefault();
-                                  openIncident(r.id);
-                                }
-                              }}
-                            >
-                              {r.summary}
-                            </a>
-                            <div className="incident-context">
-                              <span>
-                                People involved: {displayValue(r.victims)}
-                              </span>
-                              <span>
-                                Agency: {displayValue(r.responding_agency)}
-                              </span>
-                            </div>
-                            <div className="incident-location">
-                              <MapPin size={14} />
-                              <span>
-                                {r.location ||
-                                  r.place ||
-                                  'Location not recorded'}
-                              </span>
-                            </div>
-                          </div>
-                          <button
-                            className="open-incident"
-                            aria-label={`Read incident from ${r.date}`}
-                            onClick={() => openIncident(r.id)}
-                          >
-                            <ArrowRight size={20} />
-                          </button>
-                        </article>
-                      ))}
+                      .map(incidentCard)}
                   </div>
                 )}
                 {status === 'loaded' && results.length > 0 && (
@@ -903,6 +900,26 @@ export default function Home() {
                     </PaginationContent>
                   </Pagination>
                 )}
+                {status === 'loaded' &&
+                  nearby.length > 0 &&
+                  (results.length === 0 || safePage === pages) && (
+                    <section
+                      className="nearby-results"
+                      aria-label="Nearby incidents"
+                    >
+                      <h3>
+                        Nearby: {nearby.length.toLocaleString()}{' '}
+                        {nearby.length === 1 ? 'incident' : 'incidents'}
+                      </h3>
+                      <p>
+                        Reviewed as near {placeScope?.name}, but not inside it.
+                        {nearby.length > 20 ? ' Showing the first 20 in the selected sort order.' : ''}
+                      </p>
+                      <div className="incident-list">
+                        {nearby.slice(0, 20).map(incidentCard)}
+                      </div>
+                    </section>
+                  )}
               </TabsContent>
             </Tabs>
           </section>
