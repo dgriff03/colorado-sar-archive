@@ -13,9 +13,10 @@ See [location curation](docs/locations.md) to extend the mappings.
 The initial import contains **3,718 records from 2010–2026**; one confirmed
 duplicate has been consolidated, leaving **3,717 published incidents**. Coverage and
 source quality vary: counts describe this archive, not all rescues or geographic
-risk. Weather data is excluded. Code is [MIT licensed](LICENSE); incident data
-and linked source material are **not** covered by that license. Data licensing
-awaits maintainer review; source publishers retain their rights.
+risk. Weather data is excluded. Both the project code and incident dataset (including JSON and SQLite
+exports) are [MIT licensed](LICENSE). You may reuse, modify, and redistribute
+them, including commercially, with the required copyright and license notice.
+Linked third-party reporting and images remain subject to their owners' rights.
 
 Canonical domain: **rescue.typetwo.dev**. [Domain setup](docs/domain.md).
 AI discovery: [`/llms.txt`](https://rescue.typetwo.dev/llms.txt), with generated

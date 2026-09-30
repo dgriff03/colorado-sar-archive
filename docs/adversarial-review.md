@@ -61,9 +61,10 @@ report. No canonical records were edited or deleted as part of this work.
 
 ## Explicitly deferred decisions
 
-- **Dataset licensing/contributor grants:** the maintainer must establish what
-  rights exist before adopting a dataset license or CLA/DCO policy. No license
-  can grant rights to third-party reporting the project does not possess.
+- **Dataset licensing (resolved September 30, 2026):** the maintainer has
+  explicitly licensed both code and the incident dataset under MIT. LICENSE and
+  contribution guidance reflect this decision. Linked third-party source material
+  remains outside that grant; no separate CLA/DCO policy has been adopted.
 - **Personal-data review:** no automated name/age deletion. The review's “247”
   classification was not independently verified. A reviewed, per-record redaction
   policy must address summaries, notes, exports, search, MCP and Git history; merely

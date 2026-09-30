@@ -67,8 +67,11 @@ JSON files under `data/incidents/` are now canonical. Public JSON, SQLite, and t
 hosted MCP snapshot are generated from accepted files. Pending submissions are
 excluded. Publication occurs when the maintainer deploys a reviewed update.
 
-The MIT license covers project code, not incident data or external reporting.
-Data redistribution terms await maintainer review; source publishers retain rights.
+The project code and incident dataset, including JSON and SQLite exports, are
+[MIT licensed](https://github.com/dgriff03/colorado-sar-archive/blob/main/LICENSE).
+Reuse, modification, and redistribution, including commercial use, are permitted
+with the required copyright and license notice. Linked third-party reporting and
+images remain subject to their owners' rights.
 
 ## Confirmed duplicate merges
 
