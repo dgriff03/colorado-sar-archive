@@ -1,7 +1,7 @@
 {
   "id": "4f8dbff2-700c-4523-bcb8-aac15dd2aab1",
   "date": "2026-09-27",
-  "summary": "Off-duty Pueblo Police Corporal Stephen Biggs reported missing ~5:30 p.m. Sunday after a single-boat accident near Peck Creek, Lake Pueblo State Park; overnight water search by a CPW sonar-equipped patrol boat, Pueblo County Sheriff's Office divers, Pueblo West Fire Department, and the CPW Marine Evidence Recovery Team with an ROV; body located ~2 a.m. Monday Sept 28 in the main channel just east of Peck Creek Cove in ~48 ft of water via towable side-scan sonar and recovered ~2:45 a.m.",
+  "summary": "A boater was reported missing ~5:30 p.m. Sunday after a single-boat accident near Peck Creek, Lake Pueblo State Park; overnight water search by a CPW sonar-equipped patrol boat, Pueblo County Sheriff's Office divers, Pueblo West Fire Department, and the CPW Marine Evidence Recovery Team with an ROV; body located ~2 a.m. Monday Sept 28 in the main channel just east of Peck Creek Cove in ~48 ft of water via towable side-scan sonar and recovered ~2:45 a.m.",
   "location": "Main channel just east of Peck Creek Cove, Lake Pueblo State Park",
   "county": "Pueblo",
   "incident_type": "other",
@@ -9,9 +9,9 @@
   "victims": 1,
   "responding_agency": "Colorado Parks and Wildlife Marine Evidence Recovery Team; Pueblo County Sheriff's Office divers; Pueblo West Fire Department",
   "source_urls": "https://cpw.state.co.us/news/09282026/cpw-recovers-body-missing-boater-following-overnight-search-lpsp|https://www.chieftain.com/story/news/accident/2026/09/28/boater-involved-in-single-boat-accident-found-dead-in-lake-pueblo/91985335007/",
-  "notes": "Victim name per multiple news outlets (CBS Denver, KOAA News5) as Pueblo Police Cpl. Stephen Biggs, reportedly in a wakeboarding accident; CPW's release says the Pueblo County Coroner's Office will release the official identity and cause/manner of death. CPW investigating the incident as a fatal boating accident.",
+  "notes": "CPW news release dated September 28, 2026. The initial report was Sunday September 27; recovery occurred early September 28. The release leaves official identity and cause/manner of death to the coroner; this record does not infer them.",
   "peak": null,
-  "setting": "wilderness",
+  "setting": null,
   "detail_score": "MECHANISM_SINGLE_SOURCE",
   "place": null,
   "place_type": null
