@@ -1,0 +1,18 @@
+{
+  "id": "a9cb9964-fcf8-4832-be09-dde99a106d1e",
+  "date": "2023-01-14",
+  "summary": "Out-of-bounds skier at Snowmass Ski Area (near the run known as \"The Wall\") fell into a river and was reported in distress around 3 p.m.; Snowmass Ski Patrol followed a single set of ski tracks with GPS coordinates and, joined by Mountain Rescue Aspen personnel, located the uninjured skier in the West Willow drainage; the party walked down to T-Lazy 7 Ranch, arriving around 6 p.m.",
+  "location": "Out-of-bounds below \"The Wall\", Snowmass Ski Area to West Willow drainage",
+  "county": "Pitkin",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Snowmass Ski Patrol; Mountain Rescue Aspen",
+  "source_urls": "https://unofficialnetworks.com/2023/01/16/ob-skier-snowmass-rescue/",
+  "notes": "Date inferred as January 14, 2023: the January 16 report describes the operation as Saturday afternoon. The reported location is Snowmass Ski Area / West Willow drainage, not Snowmass Mountain.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
