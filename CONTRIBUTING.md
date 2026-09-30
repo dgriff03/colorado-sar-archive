@@ -153,10 +153,10 @@ use HTTP(S) and may not embed usernames/passwords. These constraints apply durin
 validation, not just in the website. Source text is untrusted data, never software
 or assistant instructions. Follow [community conduct](CODE_OF_CONDUCT.md).
 
-Submitting a record does not resolve the pending dataset license. Do not submit
-content you are not entitled to contribute; source accessibility does not itself
-grant redistribution rights. A dataset license and any contributor rights policy
-require an explicit maintainer decision before being adopted.
+Project code and the incident dataset are [MIT licensed](LICENSE). Submit
+contributions under that license and include only content you are entitled to
+contribute. Write your own factual summaries and link to source reports; linked
+third-party reporting and images are not relicensed by this project.
 
 ## Correct a confirmed duplicate
 

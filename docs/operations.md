@@ -116,9 +116,10 @@ maintainer username before running promotion.
 
 ## Rights
 
-Project code is MIT licensed; see LICENSE. Incident data and linked source
-material are **not** covered by that code license. Data redistribution/licensing
-terms are pending maintainer review. Source publishers retain their rights.
+Project code and the incident dataset, including JSON and SQLite exports, are
+MIT licensed; see LICENSE. Reuse must retain the copyright and license notice.
+Linked third-party reporting and images are not covered by this license; source
+publishers retain their rights.
 This archive does not claim completeness or agency endorsement.
 
 ## Validation notes

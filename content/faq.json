@@ -17,7 +17,7 @@
   },
   {
     "question": "Can I reuse the data?",
-    "answer": "The MIT license applies to project code, not the incident dataset or linked reporting. Dataset redistribution terms are still under maintainer review. Source publishers retain their rights; availability for download is not an additional license grant."
+    "answer": "Yes. Both the project code and incident dataset, including JSON and SQLite downloads, are covered by the [MIT license](https://github.com/dgriff03/colorado-sar-archive/blob/main/LICENSE). You may use, copy, modify, and redistribute them, including commercially, provided you retain the copyright and license notice. Linked third-party reporting and images remain subject to their owners' rights and are not covered by this license."
   },
   {
     "question": "Who maintains this archive?",
