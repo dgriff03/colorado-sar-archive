@@ -1,0 +1,18 @@
+{
+  "id": "df512047-c2b0-4725-a6e2-abc3be3314ca",
+  "date": "2026-09-26",
+  "summary": "Three children, ages 9, 6 and 6, were reported missing from a family campsite near the Midland Bike Trail east of Buena Vista on September 26, 2026. Sheriff’s deputies, Chaffee County SAR volunteers, drones, a helicopter and K9 Arch searched the area. The children were located about 1.5 miles from camp around 2 p.m., uninjured, and reunited with their family.",
+  "location": "Midland Bike Trail, east of Buena Vista",
+  "county": "Chaffee",
+  "incident_type": "lost/stranded",
+  "outcome": "located uninjured",
+  "victims": 3,
+  "responding_agency": "Chaffee County Sheriff's Office / Chaffee County Search and Rescue",
+  "source_urls": "https://www.facebook.com/permalink.php?story_fbid=pfbid02YRo9VkGGUn5CV98TzaGSQ5PSb82bPCE1WBHv1kJwhbFd1i7gxXgnF6hL9M3X5agPl&id=100064823673147|https://hyperlocalloop.com/chaffee-county-k9-leads-rescue-of-three-children-near-midland-bike-trail/",
+  "notes": "The sheriff’s public post preview confirms the September 26, 2026 report at about 11 a.m. The linked September 29 secondary report corroborates the response and recovery; the original full Facebook post was not accessible during this review.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
