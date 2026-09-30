@@ -5,14 +5,14 @@
   "location": "Lost Creek Wilderness",
   "county": "Park",
   "incident_type": "medical",
-  "outcome": "assist",
+  "outcome": null,
   "victims": 1,
   "responding_agency": "Alpine Rescue Team, Park County SAR",
   "source_urls": "https://alpinerescueteam.org/2026-141-assist-to-park-county-sar-with-2-rescue-techs-for-sick-hiker-in-the-lost-creek-wilderness-area/",
   "notes": "ART mission 2026-141; mission-log entry posted 09/26/26 15:51; outcome not stated on log.",
   "peak": null,
   "setting": "wilderness",
-  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "detail_score": "ONE_LINER",
   "place": null,
   "place_type": null
 }
