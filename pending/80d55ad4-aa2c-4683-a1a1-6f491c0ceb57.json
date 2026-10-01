@@ -1,0 +1,18 @@
+{
+  "id": "80d55ad4-aa2c-4683-a1a1-6f491c0ceb57",
+  "date": "2016-07-15",
+  "summary": "26-year-old paraglider Mitchell Stubbs reported missing by his father late Friday night after failing to return to camp north of Deep Lake; Garfield County Search and Rescue found and rescued him over the weekend.",
+  "location": "north of Deep Lake",
+  "county": "Garfield",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued",
+  "victims": 1,
+  "responding_agency": "Garfield County Search and Rescue",
+  "source_urls": "https://www.kmts.com/page/284",
+  "notes": "UNVERIFIED — retain in pending. Submission infers July 15, 2016 from a Friday reference and surrounding news. At review on October 1, 2026, the cited paginated KMTS archive URL instead showed October 2016 stories and did not contain this report. Locate a stable article URL or corroborating report before accepting the identity, date, or rescue details.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

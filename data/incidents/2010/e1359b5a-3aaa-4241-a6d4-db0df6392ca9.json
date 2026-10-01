@@ -1,0 +1,18 @@
+{
+  "id": "e1359b5a-3aaa-4241-a6d4-db0df6392ca9",
+  "date": "2010-07-20",
+  "summary": "27-year-old Fort Collins climber Carolyn Davidson stranded off the fixed rappel route while descending the Casual Route on The Diamond, Longs Peak; ~25-person night technical rescue by RMNP rangers with interagency helicopter support; assisted to the summit via upper Kiener's Route and flown off the next morning, uninjured.",
+  "location": "The Diamond, east face of Longs Peak",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "RMNP rangers (NPS), Rocky Mountain Rescue Group (standby)",
+  "source_urls": "https://www.estesparknews.com/featured_articles/article_454d0c99-0a4f-5304-8e4c-93546dc20ca6.html",
+  "notes": "Estes Park News published this report July 22, 2010 (updated March 30, 2015); it describes the July 20, 2010 rescue, not a 2021 incident. Duplicate of 12d4d649-b6c2-4f2a-bdae-baa11cbd1440; retained for provenance and ID compatibility.",
+  "peak": "Longs Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
