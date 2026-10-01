@@ -1,0 +1,18 @@
+{
+  "id": "b4bb1ab3-3be6-431a-ae21-5603aec8022e",
+  "date": "2018-06-25",
+  "summary": "Stranded hiker coached to rappel 3rd-class terrain (one of 5 missions in 4 days)",
+  "location": "Ouray County (location unspecified; team area)",
+  "county": "Ouray",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued",
+  "victims": 1,
+  "responding_agency": "Ouray Mountain Rescue",
+  "source_urls": "https://www.facebook.com/ouraymountainrescue/posts/pfbid02JEnnz9Vyodxfpvnd5iM5LeFNS1CsWKG3moGmyo3zxU4hTUydo4ujiZ63wzNazdZQl",
+  "notes": "Date approximate: dated from 'busy week so far' in post; photo shows team coaching a single stranded hiker on rappelling. Source: Ouray Mountain Rescue Team, Inc. Facebook page.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

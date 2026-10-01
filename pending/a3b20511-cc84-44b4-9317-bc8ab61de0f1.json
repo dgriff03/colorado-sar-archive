@@ -1,0 +1,18 @@
+{
+  "id": "a3b20511-cc84-44b4-9317-bc8ab61de0f1",
+  "date": "2018-05-26",
+  "summary": "Hiker with broken ankle east of Horsetooth Reservoir; LCSAR paged, stood down en route",
+  "location": "105 S. CR 23, east side of Horsetooth Reservoir (Sunrise Beach staging area)",
+  "county": "Larimer",
+  "incident_type": "injury",
+  "outcome": "unknown",
+  "victims": 1,
+  "responding_agency": "Poudre Fire Authority",
+  "source_urls": "https://www.facebook.com/lcsarinc/posts/pfbid0fjrvhdicHtetMKUgjdPxFLxBGzjVnvyFGMtaasqvvnB7vACAggkCLpwZkn7LX5HEl",
+  "notes": "Radio traffic indicated a hiking subject with a broken ankle; Poudre Fire Authority requested LCSAR assist but LCSAR was stood down while en route; final outcome with PFA unknown. Source: Larimer County Search and Rescue, Inc. Facebook page.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
