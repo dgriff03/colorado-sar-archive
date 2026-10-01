@@ -1,0 +1,18 @@
+{
+  "id": "4183e800-65dc-4f3b-886b-ece5b1863b96",
+  "date": "2017-06-16",
+  "summary": "Search mission in the Sneffels Range; subject and outcome unstated",
+  "location": "Sneffels Range",
+  "county": "Ouray",
+  "incident_type": "lost/stranded",
+  "outcome": "unknown",
+  "victims": 1,
+  "responding_agency": "Ouray Mountain Rescue",
+  "source_urls": "https://www.facebook.com/photo/?fbid=2030480637207106&set=a.550383450616720",
+  "notes": "Date approximate: post states members were 'performing a search mission last week'; who/what was searched for, victim count (defaulted to 1), and outcome unstated. Source: Ouray Mountain Rescue Team, Inc. Facebook page.",
+  "peak": "Mount Sneffels",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

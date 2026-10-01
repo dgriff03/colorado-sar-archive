@@ -1,0 +1,18 @@
+{
+  "id": "266a195b-7794-4f16-83f1-0e103cf5ea78",
+  "date": "2021-05-24",
+  "summary": "43-year-old Dustin Robinson missing since Monday May 24; vehicle found at Riverfront Clifton Nature Park (32 1/2 Road & D Road, Clifton); Mesa County Sheriff's Office searched the Colorado River and surrounding areas with no sign; unconfirmed social-media reports of a drowning; residents asked to continue searching as far downriver as Loma.",
+  "location": "Riverfront Clifton Nature Park, near 32 1/2 Road and D Road, Clifton",
+  "county": "Mesa",
+  "incident_type": "lost/stranded",
+  "outcome": "search ongoing, unlocated",
+  "victims": 1,
+  "responding_agency": "Mesa County Sheriff's Office",
+  "source_urls": "https://kool1079.com/mesa-county-search-for-missing-man/",
+  "notes": "Source: Kool 107.9 article (opened live, parent-verified) reporting on the MCSO search. Article states 'last seen on Monday, May 24' (Monday-verified 2021-05-24); image paths /2021/06/ pin publication to June 2021. Parent central dedupe clean: Robinson/Riverfront token scans 0 rows; Mesa 2021-05-15..2021-06-10 window 0 rows (id 2482 is 2021-06-15, distinct).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
