@@ -2,5 +2,9 @@
   "5c1bf6f8-ff66-41f9-b6b4-45c93052bd39": {
     "into": "7f168d92-8b4b-4853-816f-df6cdb676c0c",
     "reason": "Maintainer confirmed these describe the same Lone Eagle Peak climber fall and Black Hawk hoist. Sources and agency details consolidated into 7f168d92-8b4b-4853-816f-df6cdb676c0c. July 1 versus July 2 date conflict remains documented in notes. Original duplicate JSON retained for provenance."
+  },
+  "e1359b5a-3aaa-4241-a6d4-db0df6392ca9": {
+    "into": "12d4d649-b6c2-4f2a-bdae-baa11cbd1440",
+    "reason": "Source review confirms the same July 20, 2010 Diamond rescue of a 27-year-old climber off the rappel route. Corrected erroneous 2021 submission date; source added to existing record. Submitted UUID retained as a compatibility alias."
   }
 }
