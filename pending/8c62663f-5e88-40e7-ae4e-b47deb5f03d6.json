@@ -1,0 +1,18 @@
+{
+  "id": "8c62663f-5e88-40e7-ae4e-b47deb5f03d6",
+  "date": "2017-07-13",
+  "summary": "Hinsdale County SAR found and recovered the body of a 58-year-old Dallas-area fisherman from swollen Henson Creek about 1.5 miles west of Lake City on County Road 20 after heavy rains compounded high spring runoff",
+  "location": "Henson Creek, ~1.5 mi west of Lake City on CR 20",
+  "county": "Hinsdale",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Hinsdale County Search and Rescue",
+  "source_urls": "http://lakecitysilverworld.com/2017/07/",
+  "notes": "run 966 Lake City Silver World chunk: victim Daniel Gene Nunn, 58, of the Dallas area; DATE APPROXIMATE — body recovered July 13, drowning likely July 12; archive page carries the full article lede (\"Search & Rescue Locates Body of Drowned Henson Creek Fisherman\"); DB holds zero other Hinsdale rows for 2017",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
