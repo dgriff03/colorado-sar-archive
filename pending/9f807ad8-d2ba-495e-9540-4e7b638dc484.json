@@ -1,0 +1,18 @@
+{
+  "id": "9f807ad8-d2ba-495e-9540-4e7b638dc484",
+  "date": "2013-11-17",
+  "summary": "Two miners killed and 19 sickened by carbon monoxide at the Revenue Virginius mine near Ouray; sheriff's office, Ouray Fire District, and Ouray County EMS responded to the 911 call and a mine-rescue operation brought the two underground victims to the surface, both confirmed deceased by the coroner; MSHA investigated",
+  "location": "Revenue Virginius mine, near Ouray",
+  "county": "Ouray",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 21,
+  "responding_agency": "Ouray County Sheriff's Office",
+  "source_urls": "http://www.coemergency.com/2013/11/breaking-news-ouray-county-mine-accident.html?spref=tw|http://www.coemergency.com/2013/11/ouray-county-mine-accident-update-415-pm.html|http://www.coemergency.com/2013/11/media-release-ouray-mine-accident-update.html",
+  "notes": "run 966 Ouray County SO DocumentCenter chunk: Colorado Emergency Management mirrors of the Ouray County PIO releases (final release names victims Nick Cappanno, 34, Montrose, and Rick Williams, 59, Durango; CO poisoning per coroner preliminary report; 19 transported — correction from the initial 20; Ouray Mountain Rescue, San Juan Mine Rescue, CareFlighs also responded; explosion and mine collapse ruled out by the sheriff); incident Sunday 2013-11-17, weekday-verified",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null
+}
