@@ -1,0 +1,18 @@
+{
+  "id": "dc7ca613-0fcb-43bf-b5d8-c96b4e1d491d",
+  "date": "2026-10-01",
+  "summary": "Hiker stranded by snowstorm at/near the summit of Pikes Peak; El Paso County Search and Rescue reached the hiker Oct 1, working with Pikes Peak-America's Mountain to get crews to the summit through winter conditions.",
+  "location": "Pikes Peak summit",
+  "county": "El Paso",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued",
+  "victims": 1,
+  "responding_agency": "El Paso County Search and Rescue; Pikes Peak-America's Mountain",
+  "source_urls": "https://www.autoblog.com/news/winter-weather-warning-issued-as-5-inches-of-snow-and-45-mph-winds-approach",
+  "notes": "Thin source: one paragraph in an Oct 3, 2026 Autoblog weather story (cites CBS Colorado). Hiker's condition/injury status unreported. Distinct from 2025 Pikes Peak rows (Mr. Hardy fatality was Jan 2025).",
+  "peak": "Pikes Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

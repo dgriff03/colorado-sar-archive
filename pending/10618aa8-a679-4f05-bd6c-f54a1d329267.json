@@ -1,0 +1,18 @@
+{
+  "id": "10618aa8-a679-4f05-bd6c-f54a1d329267",
+  "date": "2015-09-19",
+  "summary": "Woman known only as Sarah bitten by a rattlesnake while walking her dog at Pulpit Rock Park, Colorado Springs; visiting Florida firefighters applied a tourniquet and one carried her down the trail to Colorado Springs fire rescuers; hospitalized and received multiple doses of anti-venom",
+  "location": "Pulpit Rock Park, Colorado Springs",
+  "county": "El Paso",
+  "incident_type": "animal",
+  "outcome": "evacuated, hospitalized",
+  "victims": 1,
+  "responding_agency": "Colorado Springs Fire Department",
+  "source_urls": "https://www.cpr.org/2015/09/22/florida-firefighters-rescue-colorado-rattlesnake-bite-victim/",
+  "notes": "insert run969 chunk B (CPR archive); bystander Florida firefighters credited with likely saving her life",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

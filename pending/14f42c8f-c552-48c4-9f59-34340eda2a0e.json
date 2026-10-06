@@ -1,0 +1,18 @@
+{
+  "id": "14f42c8f-c552-48c4-9f59-34340eda2a0e",
+  "date": "2020-08-13",
+  "summary": "Gabriel Max Baldonado of Albuquerque vanished near West Fork Road (FSR 648) below the Wolf Creek Pass overlook; his functional 2014 Toyota Camry was found Aug 13, 2020 piled under a slash pile of logs, with a stick pentagram ~300 ft away. A Mineral County SO search with human-remains dogs found nothing; later hitchhiker sightings suggested he may have been alive en route to New Mexico.",
+  "location": "West Fork Road (FSR 648), below Wolf Creek Pass overlook",
+  "county": "Mineral",
+  "incident_type": "lost/stranded",
+  "outcome": "search ongoing, unlocated",
+  "victims": 1,
+  "responding_agency": "Mineral County Sheriff's Office",
+  "source_urls": "https://dgomag.com/why-do-people-disappear-north-of-pagosa-springs/",
+  "notes": "MERGE note run970: date is the car-find date (Thursday 2020-08-13); disappearance itself unpinned within ~10 days prior per the West Fork Campground host; Baldonado remained unlocated as of Sept-2020 Herald reporting, with possible hitchhiker sightings south toward the NM state line. DGO feature cites Durango Herald reporting.",
+  "peak": "Wolf Creek Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

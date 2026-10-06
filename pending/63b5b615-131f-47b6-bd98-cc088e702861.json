@@ -1,0 +1,18 @@
+{
+  "id": "63b5b615-131f-47b6-bd98-cc088e702861",
+  "date": "2011-10-15",
+  "summary": "Two out-of-state hikers in tennis shoes climbed Mount of the Holy Cross; on descent one separated from his partner and was lost; ground crews began searching the next day as 18 inches of snow fell; HAATS OH-58A inserted six searchers and a dog at a 12,500-ft landing zone in whiteout conditions; the hiker was found near a ground crew, treated for hypothermia and ankle frostbite, and survived",
+  "location": "Mount of the Holy Cross, ~12,500 ft landing zone",
+  "county": "Eagle",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued",
+  "victims": 1,
+  "responding_agency": "HAATS (Colorado Army National Guard), ground SAR teams",
+  "source_urls": "https://www.army.mil/article/46791/more_power_to_you",
+  "notes": "insert run969 chunk A (COARNG archive); DATE APPROXIMATE — article (published 2011-11-18) says \"one day in mid-October\"; 2011-10-15 is a midpoint placeholder; exact day could be pinned from Vail Daily/Leadville Herald archives (curation watch)",
+  "peak": "Mount of the Holy Cross",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

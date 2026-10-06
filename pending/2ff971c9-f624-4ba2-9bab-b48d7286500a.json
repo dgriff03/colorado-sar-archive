@@ -1,0 +1,18 @@
+{
+  "id": "2ff971c9-f624-4ba2-9bab-b48d7286500a",
+  "date": "2015-09-22",
+  "summary": "Semi tractor-trailer carrying chicken feed driven by Raul Marquez of West Palm Beach, FL plunged off the Wolf Creek Pass overlook ~4:30 a.m.; Marquez was killed. Evidence suggested a second occupant (clothes, IDs, another driver reporting a passenger) who was never found despite a search dog lowered 300 ft to the wreckage; the case was turned over to the FBI.",
+  "location": "Wolf Creek Pass overlook, U.S. Highway 160",
+  "county": "Mineral",
+  "incident_type": "vehicle",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Mineral County Sheriff's Office / Colorado State Patrol",
+  "source_urls": "https://dgomag.com/why-do-people-disappear-north-of-pagosa-springs/",
+  "notes": "MERGE note run970: crash+SAR-search hybrid — search-dog deployment for the possible second occupant; DGO feature cites Pagosa SUN (driver death) and Mineral County Miner reporting. Victims=1 for the driver; the possible second occupant was never found and remains unconfirmed.",
+  "peak": "Wolf Creek Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

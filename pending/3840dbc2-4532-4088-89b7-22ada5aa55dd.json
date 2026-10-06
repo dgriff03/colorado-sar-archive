@@ -1,0 +1,18 @@
+{
+  "id": "3840dbc2-4532-4088-89b7-22ada5aa55dd",
+  "date": "2026-10-04",
+  "summary": "Injured hiker on Mt. Bierstadt; Alpine Rescue Team paged code 3 (mission 2026-147).",
+  "location": "Mt. Bierstadt trail",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/2026-147-team-paged-code-3-for-an-injured-hiker-on-mt-bierstadt/",
+  "notes": "Alpine Rescue Team mission-log post (thin; body reads only 'For details, please see our Facebook post' — Facebook not visited this run; outcome unreported). Distinct from id 3767 (2026-10-02, mission 2026-145, same trail).",
+  "peak": "Mount Bierstadt",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
