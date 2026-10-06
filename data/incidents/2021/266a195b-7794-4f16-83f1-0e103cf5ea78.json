@@ -1,0 +1,18 @@
+{
+  "id": "266a195b-7794-4f16-83f1-0e103cf5ea78",
+  "date": "2021-05-24",
+  "summary": "A 43-year-old man was reported missing after last being seen May 24, 2021. His vehicle was found at Riverfront Clifton Nature Park; the Mesa County Sheriff's Office searched the Colorado River and surrounding area without locating him as of the June 1 report.",
+  "location": "Riverfront Clifton Nature Park, near 32 1/2 Road and D Road, Clifton",
+  "county": "Mesa",
+  "incident_type": "lost/stranded",
+  "outcome": "search ongoing, unlocated",
+  "victims": 1,
+  "responding_agency": "Mesa County Sheriff's Office",
+  "source_urls": "https://kool1079.com/mesa-county-search-for-missing-man/",
+  "notes": "Kool 107.9 report published June 1, 2021. Date is the reported last-seen date; search dates are not specified. Outcome reflects that report, not a current missing-person status. Unconfirmed social-media drowning claims are not treated as established facts.",
+  "peak": null,
+  "setting": null,
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null
+}

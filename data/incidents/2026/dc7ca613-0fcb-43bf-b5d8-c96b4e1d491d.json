@@ -9,10 +9,10 @@
   "victims": 1,
   "responding_agency": "El Paso County Search and Rescue; Pikes Peak-America's Mountain",
   "source_urls": "https://www.autoblog.com/news/winter-weather-warning-issued-as-5-inches-of-snow-and-45-mph-winds-approach",
-  "notes": "Thin source: one paragraph in an Oct 3, 2026 Autoblog weather story (cites CBS Colorado). Hiker's condition/injury status unreported. Distinct from 2025 Pikes Peak rows (Mr. Hardy fatality was Jan 2025).",
+  "notes": "Autoblog article published October 3, 2026 explicitly reports that rescuers reached the hiker on October 1. It links to FOX21 for the rescue report. Injury status and detailed evacuation method are not reported in the accessible account.",
   "peak": "Pikes Peak",
   "setting": "wilderness",
-  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "detail_score": "BASIC_FACTS",
   "place": null,
   "place_type": null
 }

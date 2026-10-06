@@ -1,6 +1,6 @@
 {
   "id": "4392d1ba-2ad3-4b9e-96b1-dd55860ac6d8",
-  "date": "2026-08-29",
+  "date": "2023-11-18",
   "summary": "22-year-old ATV rider plunged ~212 ft off a cliff at the Notch (sharp right turn on the old mining road atop Kennebec Pass, ~12,000 ft) in snowy conditions ~4:30 p.m. Saturday; rider helmeted, alert/oriented, called 911 himself (Spanish speaker, voice translation); numerous injuries (ribs, legs, back); 30 rescuers used a 213-ft rope on a 70-degree slope to pull him up shortly after midnight (~8-hr operation).",
   "location": "The Notch, old mining road atop Kennebec Pass, La Plata Mountains",
   "county": "La Plata",
@@ -9,7 +9,7 @@
   "victims": 1,
   "responding_agency": "La Plata County Search and Rescue; Durango Fire Protection District; Fort Lewis Mesa Fire Protection District",
   "source_urls": "https://www.tricityrecordnm.com/articles/news/man-pulled-212-feet-up-cliffside-in-la-plata-mountains/",
-  "notes": "Durango Herald wire via Tri-City Record; parent-opened live; dedupe clean (zero La Plata rows 2026-08-27..31).",
+  "notes": "Corrected during October 6, 2026 review: source was published November 22, 2023 and describes the preceding Saturday. This is a duplicate of 9538ed70-9514-4620-9647-d58e7e8b575d, not an August 2026 incident. Submitted UUID retained as a retired alias.",
   "peak": null,
   "setting": "frontcountry",
   "detail_score": "MECHANISM_SINGLE_SOURCE",

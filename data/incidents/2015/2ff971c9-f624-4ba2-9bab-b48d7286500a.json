@@ -1,0 +1,18 @@
+{
+  "id": "2ff971c9-f624-4ba2-9bab-b48d7286500a",
+  "date": "2015-09-22",
+  "summary": "A tractor-trailer crashed off the Wolf Creek Pass overlook on September 22, 2015, killing the driver. Authorities searched for a possible second occupant, including lowering a search dog to the wreckage, but did not locate another person.",
+  "location": "Wolf Creek Pass overlook, U.S. Highway 160",
+  "county": "Mineral",
+  "incident_type": "vehicle",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Mineral County Sheriff's Office / Colorado State Patrol",
+  "source_urls": "https://dgomag.com/why-do-people-disappear-north-of-pagosa-springs/",
+  "notes": "DGO retrospective published October 21, 2020 describes the September 22, 2015 crash and subsequent search. Victims=1 counts the confirmed driver fatality; evidence suggesting a second occupant did not establish a second casualty. Reported search outcome is historical.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Wolf Creek Pass",
+  "place_type": "pass"
+}
