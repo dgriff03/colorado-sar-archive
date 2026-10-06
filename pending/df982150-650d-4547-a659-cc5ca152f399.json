@@ -1,0 +1,18 @@
+{
+  "id": "df982150-650d-4547-a659-cc5ca152f399",
+  "date": "2023-02-25",
+  "summary": "Snowmobiler caught, carried, and injured in an avalanche on the Hourglass Path near Wolf Creek Pass during a period of heavy snowfall and strong winds, per the Colorado Avalanche Information Center (reported in the KVNF March 1, 2023 regional newscast).",
+  "location": "Hourglass Path near Wolf Creek Pass",
+  "county": "Mineral",
+  "incident_type": "avalanche",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://www.kvnf.org/show/kvnf-regional-newscast/2023-03-01/kvnf-regional-newscast-march-1-2023",
+  "notes": "Thin one-liner: no victim name, agency, or rescue detail beyond 'injured'. CAIC-sourced via KVNF regional newscast page (parent-opened).",
+  "peak": "Wolf Creek Pass",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null
+}

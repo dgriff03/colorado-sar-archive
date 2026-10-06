@@ -1,0 +1,18 @@
+{
+  "id": "ff5057d2-58ae-4bd1-9347-ce1b58ae98fc",
+  "date": "2026-10-04",
+  "summary": "Private single-engine aircraft (Diamond DA40) crashed ~9:30 p.m. Sunday in difficult terrain south of Boulder (north of Eldorado Canyon State Park, south of the Flatirons); overnight SAR search after 9:42 p.m. emergency beacon alert via USAF Rescue Coordination Center; crash site located Oct 5 ~10:15 a.m. by MedEvac helicopter and Civil Air Patrol, reached by rescuers ~noon; two occupants found deceased, no survivors.",
+  "location": "south of Boulder, north of Eldorado Canyon State Park (south of the Flatirons)",
+  "county": "Boulder",
+  "incident_type": "vehicle",
+  "outcome": "fatality",
+  "victims": 2,
+  "responding_agency": "Boulder County Sheriff's Office; Rocky Mountain Rescue Group; Civil Air Patrol; Boulder Emergency Squad",
+  "source_urls": "https://bouldercounty.gov/news/update-1-possible-single-engine-plane-crash-in-boulder-county/",
+  "notes": "BCSO case 26-04781. NTSB leading the investigation (team on site Oct 6); Boulder County Coroner's Office conducting an independent investigation. Aircraft: Diamond DA40 per FAA via media; departed Vance Brand Airport, Longmont. Decedent names not released as of Oct 5, 2026 (pending positive ID / next-of-kin notification).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
