@@ -1,0 +1,18 @@
+{
+  "id": "7ac0393c-e769-433c-815d-c42873a99705",
+  "date": "2026-10-01",
+  "summary": "Injured mountain biker in the Virginia Canyon Mountain Park area; Alpine Rescue Team paged code 3 (mission 2026-144).",
+  "location": "Virginia Canyon Mountain Park",
+  "county": "Clear Creek",
+  "incident_type": "injury",
+  "outcome": null,
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/2026-144-team-paged-code-3-for-an-injured-mtn-biker-in-the-virginia-canyon-mountain-park-area/",
+  "notes": "Reviewed against the dated Alpine Rescue Team mission log. The brief entry confirms the dispatch and reported location, but does not state the final outcome.",
+  "peak": null,
+  "setting": null,
+  "detail_score": "ONE_LINER",
+  "place": null,
+  "place_type": null
+}

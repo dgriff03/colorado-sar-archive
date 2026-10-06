@@ -1,0 +1,18 @@
+{
+  "id": "14f42c8f-c552-48c4-9f59-34340eda2a0e",
+  "date": "2020-08-13",
+  "summary": "Mineral County authorities searched near West Fork Road after Gabriel Max Baldonado’s vehicle was discovered under a pile of logs on August 13, 2020. A search with human-remains detection dogs did not locate him. He remained missing as of the October 21 report; possible later sightings were unconfirmed.",
+  "location": "West Fork Road (FSR 648), below Wolf Creek Pass overlook",
+  "county": "Mineral",
+  "incident_type": "lost/stranded",
+  "outcome": "search ongoing, unlocated",
+  "victims": 1,
+  "responding_agency": "Mineral County Sheriff's Office",
+  "source_urls": "https://dgomag.com/why-do-people-disappear-north-of-pagosa-springs/",
+  "notes": "DGO report published October 21, 2020, including an interview with the Mineral County sheriff. Date is vehicle discovery, not a confirmed disappearance or search date. The report does not establish a connection between this case and other disappearances nearby. Outcome is historical, not a current case status.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Wolf Creek Pass",
+  "place_type": "pass"
+}

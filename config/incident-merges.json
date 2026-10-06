@@ -6,5 +6,9 @@
   "e1359b5a-3aaa-4241-a6d4-db0df6392ca9": {
     "into": "12d4d649-b6c2-4f2a-bdae-baa11cbd1440",
     "reason": "Source review confirms the same July 20, 2010 Diamond rescue of a 27-year-old climber off the rappel route. Corrected erroneous 2021 submission date; source added to existing record. Submitted UUID retained as a compatibility alias."
+  },
+  "4392d1ba-2ad3-4b9e-96b1-dd55860ac6d8": {
+    "into": "9538ed70-9514-4620-9647-d58e7e8b575d",
+    "reason": "Same 22-year-old ATV rider, 212-foot fall at The Notch and 30-person rescue. Article publication November 22, 2023 establishes preceding Saturday November 18; corrected the erroneous 2026 submission date. Preserve submitted UUID as an alias."
   }
 }

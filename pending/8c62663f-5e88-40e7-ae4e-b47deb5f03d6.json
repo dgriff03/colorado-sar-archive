@@ -1,0 +1,18 @@
+{
+  "id": "8c62663f-5e88-40e7-ae4e-b47deb5f03d6",
+  "date": "2017-07-13",
+  "summary": "Hinsdale County SAR found and recovered the body of a 58-year-old Dallas-area fisherman from swollen Henson Creek about 1.5 miles west of Lake City on County Road 20 after heavy rains compounded high spring runoff",
+  "location": "Henson Creek, ~1.5 mi west of Lake City on CR 20",
+  "county": "Hinsdale",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Hinsdale County Search and Rescue",
+  "source_urls": "http://lakecitysilverworld.com/2017/07/",
+  "notes": "UNVERIFIED — retain in pending. Reviewed October 6, 2026: The cited monthly archive could not be retrieved. A stable report is needed to verify the identity, recovery date and incident details. Submitted date and other unverified details are not accepted facts.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

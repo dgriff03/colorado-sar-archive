@@ -1,0 +1,18 @@
+{
+  "id": "9f807ad8-d2ba-495e-9540-4e7b638dc484",
+  "date": "2013-11-17",
+  "summary": "Two miners killed and 19 sickened by carbon monoxide at the Revenue Virginius mine near Ouray; sheriff's office, Ouray Fire District, and Ouray County EMS responded to the 911 call and a mine-rescue operation brought the two underground victims to the surface, both confirmed deceased by the coroner; MSHA investigated",
+  "location": "Revenue Virginius mine, near Ouray",
+  "county": "Ouray",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 21,
+  "responding_agency": "Ouray County Sheriff's Office; Ouray Fire District; Ouray County EMS; Ouray Mountain Rescue; San Juan Mine Rescue",
+  "source_urls": "http://www.coemergency.com/2013/11/breaking-news-ouray-county-mine-accident.html?spref=tw|http://www.coemergency.com/2013/11/ouray-county-mine-accident-update-415-pm.html|http://www.coemergency.com/2013/11/media-release-ouray-mine-accident-update.html",
+  "notes": "Official county releases dated November 17–18, 2013. Final release corrects the hospitalized count from 20 to 19, in addition to two deaths: victims=21 does not mean 21 fatalities. Preliminary coroner finding was carbon monoxide poisoning; sheriff ruled out explosion and collapse. Industrial mine rescue, not a wilderness recreation incident.",
+  "peak": null,
+  "setting": null,
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null
+}
