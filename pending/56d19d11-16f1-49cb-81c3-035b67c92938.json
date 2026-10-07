@@ -1,0 +1,18 @@
+{
+  "id": "56d19d11-16f1-49cb-81c3-035b67c92938",
+  "date": "2025-03-23",
+  "summary": "Marc Horan (46) died after a ~20-foot fall while climbing with family and friends in the Riviera area of Boulder Canyon; CPR by companions was unsuccessful and he was unresponsive when emergency services arrived; Boulder Emergency Squad, Rocky Mountain Rescue, Sunshine Fire District and AMR recovered the body.",
+  "location": "Riviera area, Boulder Canyon",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain Rescue",
+  "source_urls": "https://www.climbing.com/community/climbers-we-lost-2025/|https://deepnewz.com/colorado/marc-horan-dies-after-20-foot-fall-climbing-boulder-canyon-s-riviera-area-b58abbc1",
+  "notes": "One-time Climbing.com 'Climbers We Lost' cross-check (2026-10-07); not previously indexed (no Horan row).",
+  "peak": "Boulder Canyon",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
