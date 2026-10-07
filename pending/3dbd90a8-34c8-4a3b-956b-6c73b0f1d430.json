@@ -1,0 +1,18 @@
+{
+  "id": "3dbd90a8-34c8-4a3b-956b-6c73b0f1d430",
+  "date": "2023-09-02",
+  "summary": "Andrew Munds (29) died in a fall while rope soloing at Officer's Gulch in Frisco.",
+  "location": "Officer's Gulch, Frisco",
+  "county": "Summit",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://www.climbing.com/community/climbers-we-lost-2023/|https://www.oclarke.com/all-work/a-climber-we-lost-andrew-munds",
+  "notes": "One-time Climbing.com 'Climbers We Lost' cross-check (2026-10-07); not previously indexed (no Munds row).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null
+}
