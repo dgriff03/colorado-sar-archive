@@ -1,0 +1,18 @@
+{
+  "id": "e0d0c42f-a2e8-48da-b2f7-c78e873b1685",
+  "date": "2023-09-24",
+  "summary": "50-year-old woman became disoriented and lost hiking Walker Ranch Open Space; her 911 call dropped on low battery; overnight search of Walker Ranch Loop and South Boulder Creek drainage; she walked into Eldorado Canyon State Park visitor center ~10 a.m. Sept 25, uninjured, reunited with husband (case #23-5276)",
+  "location": "Walker Ranch Open Space / South Boulder Creek",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "located uninjured",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office",
+  "source_urls": "https://bouldercounty.gov/?p=178530",
+  "notes": "INSERT run974: BCSO news release Sep-27-2023, case #23-5276. Lost overnight; search teams: RMRG, Front Range Rescue Dogs, Mounted SAR, Boulder Emergency Squad.",
+  "peak": "Eldorado Canyon",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

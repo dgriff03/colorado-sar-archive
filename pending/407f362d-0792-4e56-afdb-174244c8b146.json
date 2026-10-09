@@ -1,0 +1,18 @@
+{
+  "id": "407f362d-0792-4e56-afdb-174244c8b146",
+  "date": "2021-01-03",
+  "summary": "34-year-old Lakewood woman injured her knee on the Royal Arch Trail jumping rock-to-rock descending after sunset; RMRG litter-carried her to the Enchanted Mesa/Mesa Trail intersection, then ranger vehicle to Chautauqua for transport to care (case #21-37)",
+  "location": "Royal Arch Trail",
+  "county": "Boulder",
+  "incident_type": "injury",
+  "outcome": "rescued",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office",
+  "source_urls": "https://bouldercounty.gov/news/female-hiker-rescued-from-the-royal-arch-trail/",
+  "notes": "INSERT run974: BCSO news release Jan-3-2021, case #21-37. ~3.5-hour rescue; assisting: City of Boulder OSMP, RMRG.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
