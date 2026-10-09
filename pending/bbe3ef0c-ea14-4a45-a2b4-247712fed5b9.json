@@ -1,0 +1,18 @@
+{
+  "id": "bbe3ef0c-ea14-4a45-a2b4-247712fed5b9",
+  "date": "2024-08-17",
+  "summary": "57-year-old male hiker reported overdue by family; found deceased at the base of 'The Slab' rock formation near the Shanahan/Mesa Trail intersection; coroner investigating cause and manner of death (BCSO case 24-04193)",
+  "location": "Mesa Trail (The Slab, near Shanahan/Mesa Trail intersection)",
+  "county": "Boulder",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office",
+  "source_urls": "https://bouldercounty.gov/news/57-year-old-male-dies-while-hiking-on-the-mesa-trail/",
+  "notes": "INSERT run974: BCSO news release Aug-17-2024, case 24-04193. Overdue hiker found deceased at The Slab; assisting: Boulder OSMP, Mounted SAR, Emergency Squad, Front Range Rescue Dogs, RMRG, coroner.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
