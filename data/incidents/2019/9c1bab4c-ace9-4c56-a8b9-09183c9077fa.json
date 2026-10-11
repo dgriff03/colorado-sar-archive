@@ -1,0 +1,18 @@
+{
+  "id": "9c1bab4c-ace9-4c56-a8b9-09183c9077fa",
+  "date": "2019-08-30",
+  "summary": "A motorcyclist died after a fall of about 80 feet in Bangs Canyon near Grand Junction.",
+  "location": "Bangs Canyon, Tabeguache Trail, above Grand Junction",
+  "county": "Mesa",
+  "incident_type": "vehicle",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": null,
+  "source_urls": "https://web.archive.org/web/20200215052126/https://rockandice.com/climbing-news/climbers-we-lost-2019/|https://www.lokiusa.com/blogs/news/to-the-life-of-loki-co-reator-dirk-anderson",
+  "notes": "The submitted Rock and Ice tribute gives August 30, 2019. Seth Anderson’s Loki memorial likewise dates the ride to August 30 in its narrative, but gives August 31 as the death date in its opening paragraph. The archive retains August 30 as the reported incident date; the discrepancy remains unresolved. Rescue response details are not available. The original archived source could not be reopened during review; the Loki family account supports the incident.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Bangs Canyon",
+  "place_type": "canyon"
+}

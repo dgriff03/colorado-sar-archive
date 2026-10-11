@@ -1,0 +1,18 @@
+{
+  "id": "56d19d11-16f1-49cb-81c3-035b67c92938",
+  "date": "2025-03-23",
+  "summary": "A climber died after an apparent 20-foot fall in the Riviera climbing area of Boulder Canyon while with family and friends. Companions attempted CPR; rescue personnel recovered the body.",
+  "location": "Riviera area, Boulder Canyon",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office; Boulder Emergency Squad; Rocky Mountain Rescue Group; Sunshine Fire District; American Medical Response",
+  "source_urls": "https://bouldercounty.gov/news/fallen-climber-found-deceased/|https://www.climbing.com/community/climbers-we-lost-2025/|https://deepnewz.com/colorado/marc-horan-dies-after-20-foot-fall-climbing-boulder-canyon-s-riviera-area-b58abbc1",
+  "notes": "BCSO case 25-01436, March 23, 2025. The sheriff report describes a 41-year-old man without naming him; the Climbing tribute identifies Marc Horan, 46. The age discrepancy is unresolved. The tribute body dates the death to March 23, 2025, although its image caption says 2026. The incident date follows the contemporaneous sheriff report. Original aggregator link retained for provenance; not independently accessible during review.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null
+}
