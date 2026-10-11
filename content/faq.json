@@ -40,6 +40,10 @@
     "answer": "Email Daniel at [dgriff@typetwo.dev](mailto:dgriff@typetwo.dev) with questions about the archive."
   },
   {
+    "question": "Is there any related articles you would recommend?",
+    "answer": "Absolutely: [The Risk of Dying Doing What We Love](https://chessintheair.com/the-risk-of-dying-doing-what-we-love/), [Boulder’s Flatirons culture can blur the reality of risk by Simon Testa](https://boulderreportinglab.org/2026/06/02/simon-testa-boulders-flatirons-culture-can-blur-the-reality-of-risk/), [On Leaving Partners Behind by Cody Townsend](https://www.thefiftyplus.pro/on-leaving-partners-behind/), and [The Three Sides of Risk by Morgan Housel](https://collabfund.com/blog/the-three-sides-of-risk/)"
+  },
+  {
     "question": "Does this site use analytics?",
     "answer": "Google Analytics collection is currently paused while automatic URL tracking is disabled. The replacement configuration allows only coarse page names, without search queries, incident IDs, titles, hashes or referrers. It respects Do Not Track and Global Privacy Control. Search filters remain in shareable URLs, so avoid entering private information."
   },
