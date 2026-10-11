@@ -1,3 +1,4 @@
+import type { UsageSink } from './usage.ts';
 import { SITE_URL } from '../lib/site.ts';
 import type { IncomingMessage, ServerResponse } from 'node:http';
 import { StreamableHTTPServerTransport } from '@modelcontextprotocol/sdk/server/streamableHttp.js';
@@ -16,6 +17,7 @@ type Request = IncomingMessage & { body?: unknown; rawBody?: Buffer };
 export function createMcpHandler(
   records: Incident[],
   getDetail: (id: string) => Promise<Incident>,
+  usageSink?: UsageSink,
 ) {
   const store = createArchiveStore(records);
   let tokens = 40,
@@ -95,7 +97,7 @@ export function createMcpHandler(
         sessionIdGenerator: undefined,
         enableJsonResponse: true,
       });
-      const server = createArchiveServer(records, getDetail, store);
+      const server = createArchiveServer(records, getDetail, store, usageSink);
       try {
         await server.connect(transport);
         await transport.handleRequest(req, res, body);

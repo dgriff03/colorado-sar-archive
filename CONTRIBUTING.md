@@ -209,9 +209,11 @@ needs independent source review.
 
 ## Request or perform an incident removal
 
-Open a [minimal removal request](https://github.com/dgriff03/colorado-sar-archive/issues/new)
-with the incident ID or source domain and enough context for the maintainer to
-review it. Do not repeat sensitive personal information, medical details or
+Email [dgriff@typetwo.dev](mailto:dgriff@typetwo.dev) or open a
+[minimal removal request](https://github.com/dgriff03/colorado-sar-archive/issues/new)
+with the incident ID or source domain and a brief explanation. Removal requests
+are approved by default. This is a volunteer-maintained project, so responses may
+take time. Do not repeat sensitive personal information, medical details or
 article text in an issue or PR. Removal decisions and publication are handled
 by the maintainer.
 

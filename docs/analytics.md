@@ -1,9 +1,12 @@
 # Analytics privacy configuration
 
-Google Analytics is **disabled in source by default** after the review found that
-automatic history tracking transmitted search URLs. The live launch review on September 27, 2026 confirmed collection is paused.
+Google Analytics is **enabled** for coarse page views using measurement ID
+`G-2L4K7PT38M`. On October 11, 2026, the maintainer confirmed that Enhanced
+measurement is off for stream `15837736850`; both source flags were then enabled.
+Collection was previously paused because automatic history tracking transmitted
+search URLs. Keep Enhanced measurement off when changing account settings.
 
-Before enabling:
+For a new stream or when re-enabling collection:
 
 1. In GA Admin, open property 555725939, web stream 15837736850.
 2. Turn **Enhanced Measurement off entirely**, including history page views,
@@ -56,5 +59,41 @@ After the account setting and served Google tag are verified:
 5. Update the FAQ analytics answer to describe active collection, then deploy.
    For rollback, set `enabled` to false and redeploy Hosting.
 
-The site is prepared for collection, but the September 27 account-side verification
-was blocked by unavailable Analytics authentication. Neither flag was enabled.
+The account-side setting was confirmed by the maintainer on October 11, 2026.
+This confirmation is distinct from the optional API verification above.
+
+## Hosted MCP tool usage
+
+The Firebase-hosted MCP emits one structured `mcp_tool_usage` event when a known
+tool finishes execution. This is independent of the website GA setting.
+Local stdio copies do not have a logging sink and emit no usage events.
+
+Fields: `tool`, `timestamp` (UTC), `duration_ms`, `status` (`success`, `no_matches`,
+or `error`), and `results_returned`. Search counts returned primary and nearby
+records; grouping counts returned groups; a detail lookup counts one incident.
+An empty page beyond the last result is a success, not a no-match search. A
+missing incident is an error. Returned tool errors and thrown exceptions are
+counted without logging their text. Logging failures do not fail tool calls.
+
+Initialization, tools/list, unknown tool names, schema validation failures,
+rate-limited requests and other HTTP rejections are not executed tool calls and
+are not included. Use infrastructure request logs for HTTP failures. Calls are
+not unique users; retries and test calls count separately.
+
+No arguments, query text, incident IDs, result content, exception text, request
+headers, client identifiers or IP addresses are added to these custom events.
+Google's separate infrastructure logs can still contain request metadata and IP
+addresses. Existing Cloud Logging access and retention settings apply.
+
+In Google Cloud Logs Explorer, select project `colorado-sar-archive` and use:
+
+```text
+resource.type="cloud_run_revision"
+resource.labels.service_name="sarmcp"
+jsonPayload.event="mcp_tool_usage"
+```
+
+Filter further with `jsonPayload.tool="search_incidents"` or
+`jsonPayload.status="error"`. Log-based counters can show calls by tool/status;
+a distribution metric on `jsonPayload.duration_ms` can show latency. No custom
+metrics are created automatically. Logs are not sent to Google Analytics.

@@ -1,12 +1,12 @@
-import { pageMetadata } from '@/lib/metadata';
-import Markdown from 'react-markdown';
-import { ArrowLeft, ArrowUpRight } from 'lucide-react';
-import { Header } from '@/components/header';
-import faq from '@/content/faq.json';
+import { pageMetadata } from "@/lib/metadata";
+import Markdown from "react-markdown";
+import { ArrowLeft, ArrowUpRight } from "lucide-react";
+import { Header } from "@/components/header";
+import faq from "@/content/faq.json";
 export const metadata = pageMetadata(
-  'FAQ — Colorado SAR Archive',
-  'About the Colorado search and rescue incident archive, its sources, and its limitations.',
-  '/faq/',
+  "FAQ — Colorado SAR Archive",
+  "About the Colorado search and rescue incident archive, its sources, and its limitations.",
+  "/faq/",
 );
 
 export default function FAQ() {
@@ -16,11 +16,8 @@ export default function FAQ() {
       <main id="main-content" className="faq-main">
         <p className="eyebrow">ABOUT THE ARCHIVE</p>
         <h1>Frequently asked questions.</h1>
-        <p className="lede">
-          The context behind the records. This page is a work in progress.
-        </p>
         {faq
-          .filter((item) => (item.answer || '').trim())
+          .filter((item) => (item.answer || "").trim())
           .map((item) => (
             <section className="faq-item" key={item.question}>
               <h2>{item.question}</h2>
@@ -37,7 +34,7 @@ export default function FAQ() {
               target="_blank"
               rel="noreferrer"
             >
-              View the public repository and contribution guide{' '}
+              View the public repository and contribution guide{" "}
               <ArrowUpRight size={15} className="inline" />
             </a>
           </p>
@@ -50,4 +47,4 @@ export default function FAQ() {
   );
 }
 
-export const dynamic = 'force-static';
+export const dynamic = "force-static";
