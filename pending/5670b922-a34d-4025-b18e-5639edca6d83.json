@@ -1,0 +1,18 @@
+{
+  "id": "5670b922-a34d-4025-b18e-5639edca6d83",
+  "date": "2021-02-22",
+  "summary": "47-year-old woman snowshoeing the Jenny Creek Trail from Eldora Nordic Center reported overdue Feb 22; ground + air search found her alive ~200 ft off the trail after ~8 hours; she spent the night out with serious injuries, evacuated by snowmobile and airlifted to hospital, expected to survive (case 21-908)",
+  "location": "Jenny Creek Trail, Eldora Nordic Center",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "airlifted",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office",
+  "source_urls": "https://bouldercounty.gov/news/missing-snowshoer-found-after-8-hour-search/",
+  "notes": "INSERT run974: BCSO news release Feb-22-2021, case 21-908. Agencies: BCSO, RMRG, Front Range Rescue Dogs, Boulder Emergency Squad, Eldora Ski Patrol, USAF Rescue Coordination Center, NFPD, Flight for Life, Alpine Rescue Team.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
