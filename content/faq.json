@@ -45,7 +45,7 @@
   },
   {
     "question": "Does this site use analytics?",
-    "answer": "Google Analytics collection is currently paused while automatic URL tracking is disabled. The replacement configuration allows only coarse page names, without search queries, incident IDs, titles, hashes or referrers. It respects Do Not Track and Global Privacy Control. Search filters remain in shareable URLs, so avoid entering private information."
+    "answer": "Yes. We use Google Analytics to measure visits to the archive, FAQ and MCP guide. Our page-view events exclude search queries, incident IDs, record titles, URL hashes and referrers. Automatic Enhanced measurement is disabled, and tracking respects Do Not Track and Global Privacy Control. Google’s normal analytics processing still applies. Search filters remain in shareable URLs, so avoid entering private information."
   },
   {
     "question": "Do you track hosted MCP usage?",

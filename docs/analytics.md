@@ -1,9 +1,12 @@
 # Analytics privacy configuration
 
-Google Analytics is **disabled in source by default** after the review found that
-automatic history tracking transmitted search URLs. The live launch review on September 27, 2026 confirmed collection is paused.
+Google Analytics is **enabled** for coarse page views using measurement ID
+`G-2L4K7PT38M`. On October 11, 2026, the maintainer confirmed that Enhanced
+measurement is off for stream `15837736850`; both source flags were then enabled.
+Collection was previously paused because automatic history tracking transmitted
+search URLs. Keep Enhanced measurement off when changing account settings.
 
-Before enabling:
+For a new stream or when re-enabling collection:
 
 1. In GA Admin, open property 555725939, web stream 15837736850.
 2. Turn **Enhanced Measurement off entirely**, including history page views,
@@ -56,13 +59,13 @@ After the account setting and served Google tag are verified:
 5. Update the FAQ analytics answer to describe active collection, then deploy.
    For rollback, set `enabled` to false and redeploy Hosting.
 
-The site is prepared for collection, but the September 27 account-side verification
-was blocked by unavailable Analytics authentication. Neither flag was enabled.
+The account-side setting was confirmed by the maintainer on October 11, 2026.
+This confirmation is distinct from the optional API verification above.
 
 ## Hosted MCP tool usage
 
 The Firebase-hosted MCP emits one structured `mcp_tool_usage` event when a known
-tool finishes execution. This is independent of the disabled website GA setting.
+tool finishes execution. This is independent of the website GA setting.
 Local stdio copies do not have a logging sink and emit no usage events.
 
 Fields: `tool`, `timestamp` (UTC), `duration_ms`, `status` (`success`, `no_matches`,
