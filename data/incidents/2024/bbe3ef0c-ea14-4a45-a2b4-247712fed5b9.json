@@ -9,7 +9,7 @@
   "victims": 1,
   "responding_agency": "Boulder County Sheriff's Office",
   "source_urls": "https://bouldercounty.gov/news/57-year-old-male-dies-while-hiking-on-the-mesa-trail/",
-  "notes": "INSERT run974: BCSO news release Aug-17-2024, case 24-04193. Overdue hiker found deceased at The Slab; assisting: Boulder OSMP, Mounted SAR, Emergency Squad, Front Range Rescue Dogs, RMRG, coroner.",
+  "notes": "BCSO news release Aug-17-2024, case 24-04193. Overdue hiker found deceased at The Slab; assisting: Boulder OSMP, Mounted SAR, Emergency Squad, Front Range Rescue Dogs, RMRG, coroner.",
   "peak": null,
   "setting": "frontcountry",
   "detail_score": "MECHANISM_SINGLE_SOURCE",

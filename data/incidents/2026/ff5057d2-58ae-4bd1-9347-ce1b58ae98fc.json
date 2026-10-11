@@ -1,0 +1,18 @@
+{
+  "id": "ff5057d2-58ae-4bd1-9347-ce1b58ae98fc",
+  "date": "2026-10-04",
+  "summary": "An emergency beacon prompted an overnight search for a missing single-engine aircraft south of Boulder on October 4. Search aircraft found the wreckage north of Eldorado Canyon State Park the next morning. Ground rescuers reached it around noon and found both occupants deceased.",
+  "location": "south of Boulder, north of Eldorado Canyon State Park (south of the Flatirons)",
+  "county": "Boulder",
+  "incident_type": "vehicle",
+  "outcome": "fatality",
+  "victims": 2,
+  "responding_agency": "Boulder County Sheriff's Office; Rocky Mountain Rescue Group; Civil Air Patrol; Boulder Emergency Squad",
+  "source_urls": "https://bouldercounty.gov/news/update-1-possible-single-engine-plane-crash-in-boulder-county/",
+  "notes": "BCSO case 26-04781. Beacon alert received at 9:42 p.m. October 4, 2026. Crash site located at approximately 10:15 a.m. October 5. NTSB leads the investigation; the coroner is investigating cause and manner of death. The cited sheriff report does not specify the aircraft model or exact crash time.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

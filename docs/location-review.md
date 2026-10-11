@@ -2,14 +2,14 @@
 
 Generated with `python3 scripts/location-report.py`. Counts describe archive records, not distinct rescues.
 
-3,717 incidents retained; 958 receive a different browsing label. Distinct location groups decrease from 2,593 reported labels to 2,202 browsing labels (case and outer whitespace normalized).
+3,758 incidents retained; 958 receive a different browsing label. Distinct location groups decrease from 2,625 reported labels to 2,234 browsing labels (case and outer whitespace normalized).
 
 Mappings are exact and county-scoped. Original locations, source notes and IDs remain unchanged. An area can include routes, summit, slopes or lake approaches. This is not geocoding.
 
 | Reviewed browsing area | Records | Reported labels |
 | --- | ---: | ---: |
 | St. Mary's Glacier / Lake area | 109 | 17 |
-| Mount Bierstadt | 187 | 19 |
+| Mount Bierstadt | 188 | 19 |
 | Summit Lake (Mount Blue Sky) | 27 | 11 |
 | Torreys Peak | 60 | 20 |
 | Longs Peak | 51 | 44 |
@@ -18,7 +18,7 @@ Mappings are exact and county-scoped. Original locations, source notes and IDs r
 | Bierstadt / Blue Sky area | 11 | 6 |
 | Grays / Torreys area | 47 | 10 |
 | Grays Peak | 14 | 4 |
-| Quandary Peak | 32 | 19 |
+| Quandary Peak | 33 | 19 |
 | Capitol Peak | 15 | 12 |
 | Crestone Needle | 20 | 8 |
 | Crestone Peak | 9 | 5 |
