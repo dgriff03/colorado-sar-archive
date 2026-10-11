@@ -1,0 +1,18 @@
+{
+  "id": "9c1bab4c-ace9-4c56-a8b9-09183c9077fa",
+  "date": "2019-08-30",
+  "summary": "Dirk Anderson, 54, died in a backcountry motorcycle crash in Bangs Canyon on the Tabeguache Trail above Grand Junction; launched over a chasm, struck a rock outcrop and fell ~80 ft into an alcove, succumbing to internal injuries.",
+  "location": "Bangs Canyon, Tabeguache Trail, above Grand Junction",
+  "county": "Mesa",
+  "incident_type": "vehicle",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": null,
+  "source_urls": "https://web.archive.org/web/20200215052126/https://rockandice.com/climbing-news/climbers-we-lost-2019/",
+  "notes": "Rock and Ice 'Climbers We Lost in 2019' (2020-01-06, Wayback snapshot): Anderson completed all Colorado 14ers solo Aug 24, 2018, then all with his brother exactly a year later; on Aug 30, 2019 he left for a short backcountry motorcycle ride on the Bangs Canyon section of Tabeguache Trail above Grand Junction, sped off over a chasm, slammed a rock outcrop and was thrown back down an 80-ft cliff into an alcove; survived the initial fall, succumbed to internal injuries. The tribute also links a Colorado Sun obituary (2019-09-19) that was not verifiable from here: https://coloradosun.com/2019/09/19/loki-outdoor-gear-dirk-seth-anderson/",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": "Bangs Canyon",
+  "place_type": "canyon"
+}
