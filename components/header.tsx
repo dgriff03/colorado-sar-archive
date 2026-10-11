@@ -1,5 +1,5 @@
-import { Mountain, ArrowUpRight } from 'lucide-react';
-export function Header({ active = 'explore' }: { active?: string }) {
+import { Mountain, ArrowUpRight } from "lucide-react";
+export function Header({ active = "explore" }: { active?: string }) {
   return (
     <header className="site-header">
       <a className="brand" href="/">
@@ -8,17 +8,17 @@ export function Header({ active = 'explore' }: { active?: string }) {
         </span>
         <span>
           COLORADO <b>SAR</b>
-          <small>THE INCIDENT ARCHIVE</small>
+          <small>INCIDENT ARCHIVE</small>
         </span>
       </a>
       <nav aria-label="Main navigation">
-        <a aria-current={active === 'explore' ? 'page' : undefined} href="/">
+        <a aria-current={active === "explore" ? "page" : undefined} href="/">
           Explore
         </a>
-        <a aria-current={active === 'faq' ? 'page' : undefined} href="/faq/">
+        <a aria-current={active === "faq" ? "page" : undefined} href="/faq/">
           FAQ
         </a>
-        <a aria-current={active === 'mcp' ? 'page' : undefined} href="/mcp/">
+        <a aria-current={active === "mcp" ? "page" : undefined} href="/mcp/">
           MCP
         </a>
         <a

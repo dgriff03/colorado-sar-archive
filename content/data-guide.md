@@ -62,7 +62,7 @@ facts. Do not extrapolate the collection into total rescue rates or danger ranki
 
 ## Provenance and rights
 
-The initial 3,718 records were imported from a supplied SQLite snapshot; accepted
+The initial records were imported from a supplied SQLite snapshot; accepted
 JSON files under `data/incidents/` are now canonical. Public JSON, SQLite, and the
 hosted MCP snapshot are generated from accepted files. Pending submissions are
 excluded. Publication occurs when the maintainer deploys a reviewed update.
