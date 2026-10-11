@@ -1,7 +1,7 @@
 {
   "id": "1c9e28c9-b13f-4ba7-a3ff-2a9e2509fc79",
   "date": "2018-07-08",
-  "summary": "Rescue call on Mt. Sneffels; no further details in post",
+  "summary": "Ouray Mountain Rescue responded to a rescue call on Mount Sneffels in early July 2018 (approximate date; exact day unreported).",
   "location": "Mt. Sneffels",
   "county": "Ouray",
   "incident_type": "other",
@@ -9,7 +9,7 @@
   "victims": null,
   "responding_agency": "Ouray Mountain Rescue",
   "source_urls": "https://www.facebook.com/ouraymountainrescue/posts/pfbid0ki4pVEpkR9N1Ui9UtiAAYZXMM1Ey3srxzXeicsun6mRM3ZoJxwpH2kjwGoKU8ViLl",
-  "notes": "UNVERIFIED — retain in pending. Reviewed October 6, 2026: Public Facebook preview confirms a rescue call but does not establish the proposed date or victim count. Full dated source needed. Submitted date and other unverified details are not accepted facts.",
+  "notes": "Reviewed October 11, 2026 against the original public Facebook post displayed in the browser. Published July 12, 2018; the team says the call occurred earlier that week. July 8 is an approximate indexing date, not a confirmed incident day. Victim count, injury, and outcome are not reported.",
   "peak": "Mount Sneffels",
   "setting": "wilderness",
   "detail_score": "ONE_LINER",

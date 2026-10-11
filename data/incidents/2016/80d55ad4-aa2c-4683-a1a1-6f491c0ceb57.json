@@ -1,0 +1,18 @@
+{
+  "id": "80d55ad4-aa2c-4683-a1a1-6f491c0ceb57",
+  "date": "2016-07-15",
+  "summary": "A paraglider reported overdue north of Deep Lake on July 15, 2016 was located injured the following afternoon and flown to hospital. Garfield County Search and Rescue crews and a helicopter took part in the search.",
+  "location": "north of Deep Lake",
+  "county": "Garfield",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued injured",
+  "victims": 1,
+  "responding_agency": "Garfield County Search and Rescue",
+  "source_urls": "https://www.kmts.com/news/paraglider-rescued-near-deep-lake",
+  "notes": "Reviewed October 11, 2026. Recovered the stable KMTS article, published Monday July 18, 2016, through the station’s own search. It reports the missing-person call late Friday (July 15), ground search beginning Saturday at 6 a.m., helicopter location around 1 p.m., and evacuation to Valley View Hospital. Calendar dates are derived from those weekday references. Replaces the unstable /page/284 archive citation.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

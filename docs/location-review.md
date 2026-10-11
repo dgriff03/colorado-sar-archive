@@ -2,7 +2,7 @@
 
 Generated with `python3 scripts/location-report.py`. Counts describe archive records, not distinct rescues.
 
-3,758 incidents retained; 958 receive a different browsing label. Distinct location groups decrease from 2,625 reported labels to 2,234 browsing labels (case and outer whitespace normalized).
+3,764 incidents retained; 959 receive a different browsing label. Distinct location groups decrease from 2,630 reported labels to 2,239 browsing labels (case and outer whitespace normalized).
 
 Mappings are exact and county-scoped. Original locations, source notes and IDs remain unchanged. An area can include routes, summit, slopes or lake approaches. This is not geocoding.
 
@@ -22,7 +22,7 @@ Mappings are exact and county-scoped. Original locations, source notes and IDs r
 | Capitol Peak | 15 | 12 |
 | Crestone Needle | 20 | 8 |
 | Crestone Peak | 9 | 5 |
-| Mount Sneffels | 12 | 9 |
+| Mount Sneffels | 13 | 9 |
 | Humboldt Peak | 5 | 3 |
 | Mount Princeton | 5 | 3 |
 | Mount Elbert | 4 | 4 |
