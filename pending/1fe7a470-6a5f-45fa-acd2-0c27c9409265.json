@@ -1,0 +1,18 @@
+{
+  "id": "1fe7a470-6a5f-45fa-acd2-0c27c9409265",
+  "date": "2026-09-12",
+  "summary": "Two 25-year-old elk hunters - Andrew Porter of Asheville, NC and Ian Stasko of Salt Lake City, UT - killed by a lightning strike in the Rio Grande National Forest; reported missing Sept 13; extensive multi-agency search (air crews, dog teams, drones, volunteers); bodies located ~Sept 17-18; Conejos County coroner confirmed lightning as preliminary cause of death Sept 22",
+  "location": "Rio de Los Pinos Trailhead area, Rio Grande National Forest",
+  "county": "Conejos",
+  "incident_type": "lightning",
+  "outcome": "fatality",
+  "victims": 2,
+  "responding_agency": "Conejos County Sheriff's Office",
+  "source_urls": "https://www.unilad.com/news/us-news/two-hunters-killed-by-lightning-coroner-colorado-594314-20250924|https://cvillerightnow.com/news/208802-fiancee-confirms-lightning-strike-killed-area-hunters-who-went-missing-in-colorado/|https://flarumtr.com/details-released-in-deaths-of-two-hunters-in-colorado/",
+  "notes": "APPROXIMATE date: fatality pinned to Friday 2026-09-12 (weekday-verified), the storm day - pair sighted alive Friday ~10am near Spruce Hollow Trailhead (fellow hunters via Colorado Sun); fiancee Bridget Murphy's account has them heading back to the car as storms rolled in Friday Sept 12. Last satellite contact Sept 11 ~3pm; vehicle + camping gear at trailhead (device reported non-functioning); reported missing Sept 13; bodies located 'Thursday afternoon' Sept 17 per Cville Right Now vs recovered from Rio de Los Pinos Trailhead ~11am Sept 18 per CCSO - recovery-day conflict unresolved. Coroner Martin confirmed preliminary lightning cause Sept 22; full autopsy pending ~8 weeks.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": "Rio de Los Pinos Trailhead",
+  "place_type": "trailhead"
+}
