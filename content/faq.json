@@ -46,5 +46,9 @@
   {
     "question": "Why are removal exclusions stored as MD5 hashes?",
     "answer": "Domain and URL hashes let the build recognize excluded sources without listing their full addresses in that registry. They are lookup fingerprints, not encryption or guaranteed anonymity: a known domain can be guessed and hashed. Incident IDs are stored directly. The configuration and [normalization rules](https://github.com/dgriff03/colorado-sar-archive/blob/main/CONTRIBUTING.md#request-or-perform-an-incident-removal) are documented for contributors."
+  },
+  {
+    "question": "Do you track hosted MCP usage?",
+    "answer": "The hosted MCP records the tool name, time, duration, success/error/no-match status, and number of results returned in Google Cloud Logging. These events exclude search text, tool arguments, incident IDs, response contents, and client identifiers. Counts represent calls, not unique people. Hosting infrastructure also maintains standard request logs, which may contain IP addresses and request metadata. Locally run MCP copies do not send these usage events to us."
   }
 ]
