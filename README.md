@@ -10,8 +10,7 @@ See [location curation](docs/locations.md) to extend the mappings.
 [Download SQLite](https://rescue.typetwo.dev/data/colorado-sar.db) ·
 [Connect Claude or Codex](https://rescue.typetwo.dev/mcp/)
 
-The initial import contains **3,718 records from 2010–2026**; one confirmed
-duplicate has been consolidated, leaving **3,717 published incidents**. Coverage and
+The initial import contains **records from 2010–2026**; Coverage and
 source quality vary: counts describe this archive, not all rescues or geographic
 risk. Weather data is excluded. Both the project code and incident dataset (including JSON and SQLite
 exports) are [MIT licensed](LICENSE). You may reuse, modify, and redistribute
@@ -168,6 +167,7 @@ supporting sources instead of creating a new incident. Keep its stable ID.
 
    The command prints a new `pending/<uuid>.json` path. Edit that file; never
    reuse an example UUID or create a shared numeric ID counter.
+
 3. Fill in the incident date, factual summary, location, and public source URLs.
    Use null for unknown values and explain uncertainty in `notes`. Separate
    multiple source URLs with `|`. Do not add weather fields.
@@ -195,10 +195,6 @@ For a removal, use `config/exclusions.json` to exclude incident IDs, normalized
 source-URL MD5s or whole-domain MD5s. These prevent re-publication; deleting the
 source JSON and handling repository history are separate steps. Follow the
 [removal instructions](CONTRIBUTING.md#request-or-perform-an-incident-removal).
-
-**14ers.com and its subdomains are disallowed sources.** Contributions are
-validated against `config/disallowed-domains.json` and removal exclusions.
-A matching incident is withheld in full, even when it cites other sources.
 
 ### How duplicate review and publication work
 

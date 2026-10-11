@@ -1,19 +1,31 @@
 [
   {
-    "question": "What is the Colorado SAR Archive?",
-    "answer": "An independent collection of reported search and rescue incidents in Colorado. Each record brings together a summary, location, and available source reports. It is a historical reference, not a live rescue service or an official count of all incidents."
+    "question": "What is the goal of the SAR Archive?",
+    "answer": "The goal of this project is to have as comprehensive an archive of the search and rescue incidents in Colorado as possible to enable public awareness and understanding of these events to prevent future incidents. However, we limit this to publicly reported incidents and respect sites and/or people that would like to be excluded from the archive."
   },
   {
     "question": "How complete is the data?",
-    "answer": "Coverage varies by year, place, and responding agency. A place with more records is not necessarily more dangerous, and a year with fewer records does not necessarily mean fewer rescues. Some dates, outcomes, and other details may be approximate or inferred; read the notes and original sources."
+    "answer": "It is incomplete and subject to extreme bias based on reporting information from responding agencies. Fewer records DOES NOT mean lower risk or fewer incidents - it is likely to be an artifact of reporting."
   },
   {
-    "question": "How are incidents selected and verified?",
-    "answer": "Entries collect reported Colorado search and rescue incidents from public sources. Contributors provide source links and document uncertainty; the maintainer reviews submissions and duplicate candidates before promotion. Inclusion is not independent verification of every reported fact. Check the original reports and notes."
+    "question": "What dates does the archive cover?",
+    "answer": "The archive is focused on 2010 onwards – the start date is fairly arbitrary but is when we could start finding a fair amount of publicly reported incidents. Our intent is to continue to keep this archive up-to-date with new incidents as they are reported."
+  },
+  {
+    "question": "Why does this archive only include incidents from Colorado?",
+    "answer": "Colorado has an extremely outdoor centric culture and with a focus on 14ers and centennial mountains, there is a high number of SAR operations for its population size. While we are open to extending this project to other states if there is interest, our current focus remains on Colorado."
+  },
+  {
+    "question": "Will you add commentary or forum functionality?",
+    "answer": "No - there are a number of great places for conversation such as the 14ers Facebook group or the [14ers Forum on Accidents](https://www.14ers.com/forum/viewforum.php?f=28) for discussions related to these incidents."
   },
   {
     "question": "How can I contribute or correct a record?",
     "answer": "Follow the [contribution guide](https://github.com/dgriff03/colorado-sar-archive/blob/main/CONTRIBUTING.md). Submit one JSON file per new incident, or propose a correction to the existing record with supporting sources and its stable ID. You can also open an issue; please do not include private medical or contact information."
+  },
+  {
+    "question": "Can I request removal of an incident or a source domain?",
+    "answer": "Yes. Open a [minimal removal request](https://github.com/dgriff03/colorado-sar-archive/issues/new) with the incident ID or source domain and a brief explanation – our default policy is to approve these and respect them. This is unfortunately not a sponsored project so the response timeline may be slower than ideal but the archive will be periodically checked to adhere to these requests."
   },
   {
     "question": "Can I reuse the data?",
@@ -21,7 +33,7 @@
   },
   {
     "question": "Who maintains this archive?",
-    "answer": "Daniel ([@dgriff03](https://github.com/dgriff03)) maintains this independent archive. It is not an official SAR agency service. Contributions are reviewed through the public repository."
+    "answer": "This archive is maintained by an individual - this is not a government or official SAR agency project."
   },
   {
     "question": "Who do I contact with questions?",
@@ -32,23 +44,7 @@
     "answer": "Google Analytics collection is currently paused while automatic URL tracking is disabled. The replacement configuration allows only coarse page names, without search queries, incident IDs, titles, hashes or referrers. It respects Do Not Track and Global Privacy Control. Search filters remain in shareable URLs, so avoid entering private information."
   },
   {
-    "question": "How do I report duplicate incidents?",
-    "answer": "Two reports about the same rescue should count as one incident. Share both stable IDs in an issue or follow the [merge instructions](https://github.com/dgriff03/colorado-sar-archive/blob/main/CONTRIBUTING.md#correct-a-confirmed-duplicate). Reviewed merges combine sources and preserve uncertainty; the old incident link resolves to the surviving record."
-  },
-  {
-    "question": "Can I request removal of an incident or a source domain?",
-    "answer": "Yes. Open a [minimal removal request](https://github.com/dgriff03/colorado-sar-archive/issues/new) with the incident ID or source domain and a brief explanation. Please do not post sensitive personal or medical information. The maintainer reviews requests and can exclude individual incidents, specific source URLs, or a full domain and its subdomains. An exclusion withholds the entire matching incident, including merged copies, from future website, database and MCP builds. See the [removal process](https://github.com/dgriff03/colorado-sar-archive/blob/main/CONTRIBUTING.md#request-or-perform-an-incident-removal). Live removal requires deployment; repository history and previously downloaded copies require separate handling."
-  },
-  {
-    "question": "Are any source domains disallowed?",
-    "answer": "Yes. Contributions may not cite **14ers.com** or its subdomains. Validation and promotion reject such submissions, including submissions that also cite other sources. Published snapshots also omit accepted records matching the domain restrictions or removal exclusions. Review the [source rules](https://github.com/dgriff03/colorado-sar-archive/blob/main/CONTRIBUTING.md#disallowed-source-domains). Do not substitute a shortlink or copied version to bypass a restriction."
-  },
-  {
-    "question": "Why are removal exclusions stored as MD5 hashes?",
-    "answer": "Domain and URL hashes let the build recognize excluded sources without listing their full addresses in that registry. They are lookup fingerprints, not encryption or guaranteed anonymity: a known domain can be guessed and hashed. Incident IDs are stored directly. The configuration and [normalization rules](https://github.com/dgriff03/colorado-sar-archive/blob/main/CONTRIBUTING.md#request-or-perform-an-incident-removal) are documented for contributors."
-  },
-  {
     "question": "Do you track hosted MCP usage?",
-    "answer": "The hosted MCP records the tool name, time, duration, success/error/no-match status, and number of results returned in Google Cloud Logging. These events exclude search text, tool arguments, incident IDs, response contents, and client identifiers. Counts represent calls, not unique people. Hosting infrastructure also maintains standard request logs, which may contain IP addresses and request metadata. Locally run MCP copies do not send these usage events to us."
+    "answer": "The hosted MCP tracks usage to help to indicate what features may be useful in the future - if you desire private usage, locally run MCP copies do not send logs anywhere."
   }
 ]
