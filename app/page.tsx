@@ -353,7 +353,7 @@ export default function Home() {
           <div className="intro-photo" aria-hidden="true" />
           <div>
             <p className="eyebrow">
-              <span /> PUBLIC RECORD • COLORADO BACKCOUNTRY
+              <span /> REPORTED INCIDENTS • COLORADO BACKCOUNTRY
             </p>
             <h1>Every rescue has a story.</h1>
             <p className="intro-copy">
@@ -630,7 +630,7 @@ export default function Home() {
                   </TabsTrigger>
                 </TabsList>
                 <span className="view-hint">
-                  Explore the records. Find the patterns.
+                  Browse incidents or group the records.
                 </span>
               </div>
               <TabsContent value={view}>

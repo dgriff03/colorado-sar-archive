@@ -5,7 +5,7 @@
   },
   {
     "question": "How complete is the data?",
-    "answer": "It is incomplete and subject to extreme bias based on reporting information from responding agencies. Fewer records DOES NOT mean lower risk or fewer incidents - it is likely to be an artifact of reporting."
+    "answer": "The archive is incomplete. Coverage depends heavily on what agencies and news outlets publish. Fewer records do not establish lower risk or fewer incidents."
   },
   {
     "question": "What dates does the archive cover?",
@@ -13,7 +13,7 @@
   },
   {
     "question": "Why does this archive only include incidents from Colorado?",
-    "answer": "Colorado has an extremely outdoor centric culture and with a focus on 14ers and centennial mountains, there is a high number of SAR operations for its population size. While we are open to extending this project to other states if there is interest, our current focus remains on Colorado."
+    "answer": "Colorado’s outdoor community and mountain recreation make it a natural starting point. We are open to extending the project to other states if there is interest, but our current focus remains on Colorado."
   },
   {
     "question": "Will you add commentary or forum functionality?",
@@ -25,7 +25,7 @@
   },
   {
     "question": "Can I request removal of an incident or a source domain?",
-    "answer": "Yes. Open a [minimal removal request](https://github.com/dgriff03/colorado-sar-archive/issues/new) with the incident ID or source domain and a brief explanation – our default policy is to approve these and respect them. This is unfortunately not a sponsored project so the response timeline may be slower than ideal but the archive will be periodically checked to adhere to these requests."
+    "answer": "Yes. Email [dgriff@typetwo.dev](mailto:dgriff@typetwo.dev) or open a [minimal removal request](https://github.com/dgriff03/colorado-sar-archive/issues/new) with the incident ID or source domain and a brief explanation. Please do not include sensitive personal information in a public issue. Removal requests are approved by default. This is a volunteer-maintained project, so responses may take time. We cannot remove copies that others have already downloaded or archived."
   },
   {
     "question": "Can I reuse the data?",
@@ -40,8 +40,8 @@
     "answer": "Email Daniel at [dgriff@typetwo.dev](mailto:dgriff@typetwo.dev) with questions about the archive."
   },
   {
-    "question": "Is there any related articles you would recommend?",
-    "answer": "Absolutely: [The Risk of Dying Doing What We Love](https://chessintheair.com/the-risk-of-dying-doing-what-we-love/), [Boulder’s Flatirons culture can blur the reality of risk by Simon Testa](https://boulderreportinglab.org/2026/06/02/simon-testa-boulders-flatirons-culture-can-blur-the-reality-of-risk/), [On Leaving Partners Behind by Cody Townsend](https://www.thefiftyplus.pro/on-leaving-partners-behind/), and [The Three Sides of Risk by Morgan Housel](https://collabfund.com/blog/the-three-sides-of-risk/)"
+    "question": "What related reading do you recommend?",
+    "answer": "These essays offer different perspectives on risk and decision-making:\n\n- [The Risk of Dying Doing What We Love](https://chessintheair.com/the-risk-of-dying-doing-what-we-love/)\n- [Boulder’s Flatirons culture can blur the reality of risk](https://boulderreportinglab.org/2026/06/02/simon-testa-boulders-flatirons-culture-can-blur-the-reality-of-risk/) by Simon Testa\n- [On Leaving Partners Behind](https://www.thefiftyplus.pro/on-leaving-partners-behind/) by Cody Townsend (subscriber-only)\n- [The Three Sides of Risk](https://collabfund.com/blog/the-three-sides-of-risk/) by Morgan Housel"
   },
   {
     "question": "Does this site use analytics?",
@@ -49,6 +49,6 @@
   },
   {
     "question": "Do you track hosted MCP usage?",
-    "answer": "The hosted MCP tracks usage to help to indicate what features may be useful in the future - if you desire private usage, locally run MCP copies do not send logs anywhere."
+    "answer": "We collect basic tool-use statistics without search text or incident details. Running the MCP locally sends no usage logs to this project; your assistant’s privacy settings still apply."
   }
 ]
