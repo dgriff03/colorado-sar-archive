@@ -1,8 +1,8 @@
-'use client';
-import { agencySuggestions } from '@/lib/agencies';
-import { detailLabel } from '@/lib/detail';
-import { SITE_URL } from '@/lib/site';
-import { useEffect, useMemo, useState, useDeferredValue, useRef } from 'react';
+"use client";
+import { agencySuggestions } from "@/lib/agencies";
+import { detailLabel } from "@/lib/detail";
+import { SITE_URL } from "@/lib/site";
+import { useEffect, useMemo, useState, useDeferredValue, useRef } from "react";
 import {
   ArrowRight,
   ArrowUpRight,
@@ -19,12 +19,12 @@ import {
   Copy,
   Check,
   ExternalLink,
-} from 'lucide-react';
-import { flushSync } from 'react-dom';
-import { registerArchiveTool } from '@/lib/webmcp';
-import { IncidentTags } from '@/components/incident-tags';
-import { Header } from '@/components/header';
-import { useExplorer } from '@/hooks/use-explorer';
+} from "lucide-react";
+import { flushSync } from "react-dom";
+import { registerArchiveTool } from "@/lib/webmcp";
+import { IncidentTags } from "@/components/incident-tags";
+import { Header } from "@/components/header";
+import { useExplorer } from "@/hooks/use-explorer";
 import {
   aggregateIncidents,
   inGroup,
@@ -33,7 +33,7 @@ import {
   explorerUrl,
   type Dimension,
   type ExplorerState,
-} from '@/lib/explorer';
+} from "@/lib/explorer";
 import {
   Table,
   TableHeader,
@@ -41,30 +41,30 @@ import {
   TableRow,
   TableHead,
   TableCell,
-} from '@/components/ui/table';
-import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ui/tabs';
+} from "@/components/ui/table";
+import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
 import {
   Select,
   SelectTrigger,
   SelectValue,
   SelectContent,
   SelectItem,
-} from '@/components/ui/select';
+} from "@/components/ui/select";
 import {
   Sheet,
   SheetContent,
   SheetHeader,
   SheetTitle,
   SheetDescription,
-} from '@/components/ui/sheet';
+} from "@/components/ui/sheet";
 import {
   Pagination,
   PaginationContent,
   PaginationItem,
-} from '@/components/ui/pagination';
-import { Empty, EmptyTitle, EmptyDescription } from '@/components/ui/empty';
-import { Skeleton } from '@/components/ui/skeleton';
-import type { Incident } from '@/lib/types';
+} from "@/components/ui/pagination";
+import { Empty, EmptyTitle, EmptyDescription } from "@/components/ui/empty";
+import { Skeleton } from "@/components/ui/skeleton";
+import type { Incident } from "@/lib/types";
 import {
   createSearch,
   displayValue,
@@ -74,7 +74,7 @@ import {
   formatDate,
   sourceLinks,
   type Filters,
-} from '@/lib/search';
+} from "@/lib/search";
 function Picker({
   title,
   value,
@@ -108,7 +108,7 @@ function Picker({
 }
 export default function Home() {
   const [records, setRecords] = useState<Incident[]>([]),
-    [status, setStatus] = useState('loading');
+    [status, setStatus] = useState("loading");
   const {
     state,
     ready,
@@ -120,21 +120,21 @@ export default function Home() {
   const { filters, page, selected, view, by, then, drill } = state;
   const [detail, setDetail] = useState<Incident | null>(null),
     [detailError, setDetailError] = useState(false);
-  const [copyStatus, setCopyStatus] = useState('');
+  const [copyStatus, setCopyStatus] = useState("");
   const [filtersOpen, setFiltersOpen] = useState(false);
   const resultsRef = useRef<HTMLElement>(null);
   function navigateToResults(patch: Partial<ExplorerState>) {
     // Commit the shorter result list before scrolling, so layout changes cannot
     // leave the viewport at the old group row's position.
     flushSync(() => navigate(patch));
-    resultsRef.current?.scrollIntoView({ block: 'start', behavior: 'instant' });
+    resultsRef.current?.scrollIntoView({ block: "start", behavior: "instant" });
   }
   const choices = (key: keyof Incident) =>
     [
       ...new Set(
         records
           .map((r) => r[key])
-          .filter((v) => typeof v === 'string' && v.trim()) as string[],
+          .filter((v) => typeof v === "string" && v.trim()) as string[],
       ),
     ].sort();
   const agencies = useMemo(
@@ -146,7 +146,7 @@ export default function Home() {
       [
         ...new Set(
           records.flatMap((r) =>
-            r.detail_score == null || String(r.detail_score).trim() === ''
+            r.detail_score == null || String(r.detail_score).trim() === ""
               ? []
               : [String(r.detail_score).trim()],
           ),
@@ -159,7 +159,7 @@ export default function Home() {
   const baseResults = useMemo(() => search(deferred), [search, deferred]);
   const results = useMemo(
     () =>
-      view === 'incidents' && drill.length
+      view === "incidents" && drill.length
         ? baseResults.filter((r) => inGroup(r, drill))
         : baseResults,
     [baseResults, drill, view],
@@ -170,26 +170,26 @@ export default function Home() {
   );
   const nearby = useMemo(
     () =>
-      view === 'incidents' && !drill.length ? search.nearby(deferred) : [],
+      view === "incidents" && !drill.length ? search.nearby(deferred) : [],
     [search, deferred, view, drill],
   );
   const incidentCard = (r: Incident) => (
     <article key={r.id} className="incident">
       <div className="incident-date">
-        <span>{formatDate(r.date).split(',')[0]}</span>
+        <span>{formatDate(r.date).split(",")[0]}</span>
         <small>{r.date.slice(0, 4)}</small>
       </div>
       <div className="incident-main">
         <div className="incident-tags">
           <span
             className={
-              'type-tag ' + (r.incident_type === 'avalanche' ? 'amber' : '')
+              "type-tag " + (r.incident_type === "avalanche" ? "amber" : "")
             }
           >
             {label(r.incident_type)}
           </span>
           <IncidentTags incident={r} />
-          <span>{r.county || 'County not recorded'}</span>
+          <span>{r.county || "County not recorded"}</span>
         </div>
         <a
           className="incident-title"
@@ -209,7 +209,7 @@ export default function Home() {
         </div>
         <div className="incident-location">
           <MapPin size={14} />
-          <span>{r.location || r.place || 'Location not recorded'}</span>
+          <span>{r.location || r.place || "Location not recorded"}</span>
         </div>
       </div>
       <button
@@ -222,7 +222,7 @@ export default function Home() {
     </article>
   );
   const groupFields = useMemo(
-    () => (then === 'none' ? [by] : [by, then]),
+    () => (then === "none" ? [by] : [by, then]),
     [by, then],
   );
   const groups = useMemo(
@@ -235,9 +235,9 @@ export default function Home() {
       await navigator.clipboard.writeText(
         new URL(location.pathname + location.search, SITE_URL).href,
       );
-      setCopyStatus('Copied');
+      setCopyStatus("Copied");
     } catch {
-      setCopyStatus('Copy the URL from your address bar');
+      setCopyStatus("Copy the URL from your address bar");
     }
   }
   const years = useMemo(
@@ -259,13 +259,13 @@ export default function Home() {
         filters: {
           ...filters,
           [key]: value,
-          ...(key === 'q'
-            ? { sort: value.trim() ? 'relevance' : 'newest' }
+          ...(key === "q"
+            ? { sort: value.trim() ? "relevance" : "newest" }
             : {}),
         },
         page: 1,
       },
-      ['q', 'location', 'agency'].includes(key) ? 'replace' : 'push',
+      ["q", "location", "agency"].includes(key) ? "replace" : "push",
     );
   }
   function clear() {
@@ -273,27 +273,27 @@ export default function Home() {
   }
   useEffect(() => {
     const ctrl = new AbortController();
-    fetch('/data/incidents.json', { signal: ctrl.signal })
+    fetch("/data/incidents.json", { signal: ctrl.signal })
       .then((r) => {
         if (!r.ok) throw Error();
         return r.json();
       })
       .then((r) => {
         setRecords(r as Incident[]);
-        setStatus('loaded');
+        setStatus("loaded");
       })
       .catch((e) => {
-        if (e.name !== 'AbortError') setStatus('error');
+        if (e.name !== "AbortError") setStatus("error");
       });
     return () => ctrl.abort();
   }, []);
   useEffect(() => {
     setDetail(null);
-    setCopyStatus('');
+    setCopyStatus("");
     setDetailError(false);
     if (!selected) return;
     const ctrl = new AbortController();
-    fetch('/data/incidents/' + encodeURIComponent(selected) + '.json', {
+    fetch("/data/incidents/" + encodeURIComponent(selected) + ".json", {
       signal: ctrl.signal,
     })
       .then((r) => {
@@ -307,12 +307,12 @@ export default function Home() {
         if (incident.id !== selected) resolveIncident(incident.id);
       })
       .catch((e) => {
-        if (e.name !== 'AbortError') setDetailError(true);
+        if (e.name !== "AbortError") setDetailError(true);
       });
     return () => ctrl.abort();
   }, [selected, resolveIncident]);
   useEffect(() => {
-    if (status !== 'loaded') return;
+    if (status !== "loaded") return;
     const ctx = (
       document as unknown as {
         modelContext?: Parameters<typeof registerArchiveTool>[0];
@@ -325,7 +325,7 @@ export default function Home() {
           page: 1,
           drill: [],
           selected: null,
-          view: 'incidents',
+          view: "incidents",
         });
       }),
     );
@@ -333,16 +333,16 @@ export default function Home() {
   useEffect(() => {
     if (!ready) return;
     document.title = selected
-      ? `${detail?.summary.slice(0, 100) || 'Incident ' + selected} — Colorado SAR Archive`
-      : `${view === 'groups' ? 'Group & count' : 'Explore incidents'} — Colorado SAR Archive`;
+      ? `${detail?.summary.slice(0, 100) || "Incident " + selected} — Colorado SAR Archive`
+      : `Colorado SAR Archive`;
   }, [ready, selected, detail, view]);
   const active =
     Object.entries(filters).some(
-      ([k, v]) => k !== 'sort' && v !== defaults[k as keyof Filters],
+      ([k, v]) => k !== "sort" && v !== defaults[k as keyof Filters],
     ) || drill.length > 0;
   const pages = Math.max(
       1,
-      Math.ceil((view === 'groups' ? groups.length : results.length) / 20),
+      Math.ceil((view === "groups" ? groups.length : results.length) / 20),
     ),
     safePage = Math.min(page, pages);
   return (
@@ -353,38 +353,36 @@ export default function Home() {
           <div className="intro-photo" aria-hidden="true" />
           <div>
             <p className="eyebrow">
-              <span /> REPORTED INCIDENTS • COLORADO BACKCOUNTRY
+              <span /> REPORTED INCIDENTS • COLORADO
             </p>
-            <h1>Every rescue has a story.</h1>
+            <h1>Colorado SAR Archive</h1>
             <p className="intro-copy">
               Explore search and rescue incidents across Colorado.
-              <br className="desktop-break" /> Find the places, circumstances,
-              and source reports behind the record.
             </p>
           </div>
           <div className="archive-stat">
             <strong>
-              {status === 'loaded' ? records.length.toLocaleString() : '—'}
+              {status === "loaded" ? records.length.toLocaleString() : "—"}
             </strong>
             <span>INCIDENTS IN THE ARCHIVE</span>
             <small>
               {years.length
                 ? `${years.at(-1)} — ${years[0]}`
-                : 'Loading archive'}
+                : "Loading archive"}
             </small>
           </div>
         </section>
         <div className="workspace">
-          <aside className={'filters ' + (filtersOpen ? 'filters-open' : '')}>
+          <aside className={"filters " + (filtersOpen ? "filters-open" : "")}>
             <button
               className="mobile-filter-toggle"
               aria-expanded={filtersOpen}
               aria-controls="filter-controls"
               onClick={() => setFiltersOpen(!filtersOpen)}
             >
-              <SlidersHorizontal size={17} />{' '}
-              {filtersOpen ? 'Hide filters' : 'Show filters'}
-              {active ? ' · active' : ''}
+              <SlidersHorizontal size={17} />{" "}
+              {filtersOpen ? "Hide filters" : "Show filters"}
+              {active ? " · active" : ""}
             </button>
             <div id="filter-controls" className="filter-controls">
               <div className="filter-title">
@@ -402,7 +400,7 @@ export default function Home() {
                   autoComplete="off"
                   maxLength={300}
                   value={filters.location}
-                  onChange={(e) => update('location', e.target.value)}
+                  onChange={(e) => update("location", e.target.value)}
                   placeholder="Peak, trail, or county"
                 />
               </div>
@@ -412,9 +410,9 @@ export default function Home() {
               <Picker
                 title="Year"
                 value={filters.year}
-                onChange={(v) => update('year', v)}
+                onChange={(v) => update("year", v)}
                 options={[
-                  { value: 'all', label: 'All years' },
+                  { value: "all", label: "All years" },
                   ...years.map((y) => ({ value: y, label: y })),
                 ]}
               />
@@ -425,16 +423,16 @@ export default function Home() {
                     <input
                       type="checkbox"
                       checked={
-                        filters.type !== 'all' &&
-                        filters.type.split(',').includes(t)
+                        filters.type !== "all" &&
+                        filters.type.split(",").includes(t)
                       }
                       onChange={(e) => {
                         const selected = new Set(
-                          filters.type === 'all' ? [] : filters.type.split(','),
+                          filters.type === "all" ? [] : filters.type.split(","),
                         );
                         if (e.target.checked) selected.add(t);
                         else selected.delete(t);
-                        update('type', [...selected].sort().join(',') || 'all');
+                        update("type", [...selected].sort().join(",") || "all");
                       }}
                     />
                     {label(t)}
@@ -445,11 +443,11 @@ export default function Home() {
               <Picker
                 title="Outcome"
                 value={filters.outcome}
-                onChange={(v) => update('outcome', v)}
+                onChange={(v) => update("outcome", v)}
                 options={[
-                  { value: 'all', label: 'All outcomes' },
-                  { value: '__missing__', label: 'Not recorded' },
-                  ...choices('outcome').map((v) => ({
+                  { value: "all", label: "All outcomes" },
+                  { value: "__missing__", label: "Not recorded" },
+                  ...choices("outcome").map((v) => ({
                     value: v,
                     label: label(v),
                   })),
@@ -464,7 +462,7 @@ export default function Home() {
                 list="agencies"
                 maxLength={300}
                 value={filters.agency}
-                onChange={(e) => update('agency', e.target.value)}
+                onChange={(e) => update("agency", e.target.value)}
                 placeholder="Agency or SAR team"
               />
               <datalist id="agencies">
@@ -479,10 +477,10 @@ export default function Home() {
               <Picker
                 title="Detail level"
                 value={filters.detail}
-                onChange={(v) => update('detail', v)}
+                onChange={(v) => update("detail", v)}
                 options={[
-                  { value: 'all', label: 'All detail levels' },
-                  { value: '__missing__', label: 'Not recorded' },
+                  { value: "all", label: "All detail levels" },
+                  { value: "__missing__", label: "Not recorded" },
                   ...detailLevels.map((v) => ({
                     value: v,
                     label: detailLabel(v),
@@ -495,7 +493,7 @@ export default function Home() {
                   <input
                     type="date"
                     value={filters.from}
-                    onChange={(e) => update('from', e.target.value)}
+                    onChange={(e) => update("from", e.target.value)}
                   />
                 </label>
                 <label>
@@ -503,7 +501,7 @@ export default function Home() {
                   <input
                     type="date"
                     value={filters.to}
-                    onChange={(e) => update('to', e.target.value)}
+                    onChange={(e) => update("to", e.target.value)}
                   />
                 </label>
               </div>
@@ -515,31 +513,31 @@ export default function Home() {
               <fieldset className="type-options month-options">
                 <legend>Months · select any</legend>
                 {Array.from({ length: 12 }, (_, i) => {
-                  const value = String(i + 1).padStart(2, '0');
+                  const value = String(i + 1).padStart(2, "0");
                   return (
                     <label key={value}>
                       <input
                         type="checkbox"
                         checked={
-                          filters.month !== 'all' &&
-                          filters.month.split(',').includes(value)
+                          filters.month !== "all" &&
+                          filters.month.split(",").includes(value)
                         }
                         onChange={(e) => {
                           const selected = new Set(
-                            filters.month === 'all'
+                            filters.month === "all"
                               ? []
-                              : filters.month.split(','),
+                              : filters.month.split(","),
                           );
                           if (e.target.checked) selected.add(value);
                           else selected.delete(value);
                           update(
-                            'month',
-                            [...selected].sort().join(',') || 'all',
+                            "month",
+                            [...selected].sort().join(",") || "all",
                           );
                         }}
                       />
-                      {new Date(2000, i, 1).toLocaleString('en-US', {
-                        month: 'long',
+                      {new Date(2000, i, 1).toLocaleString("en-US", {
+                        month: "long",
                       })}
                     </label>
                   );
@@ -553,10 +551,10 @@ export default function Home() {
               <Picker
                 title="Setting"
                 value={filters.setting}
-                onChange={(v) => update('setting', v)}
+                onChange={(v) => update("setting", v)}
                 options={[
-                  { value: 'all', label: 'All settings' },
-                  ...choices('setting').map((v) => ({
+                  { value: "all", label: "All settings" },
+                  ...choices("setting").map((v) => ({
                     value: v,
                     label: label(v),
                   })),
@@ -565,10 +563,10 @@ export default function Home() {
               <Picker
                 title="Place type"
                 value={filters.placeType}
-                onChange={(v) => update('placeType', v)}
+                onChange={(v) => update("placeType", v)}
                 options={[
-                  { value: 'all', label: 'All place types' },
-                  ...choices('place_type').map((v) => ({
+                  { value: "all", label: "All place types" },
+                  ...choices("place_type").map((v) => ({
                     value: v,
                     label: label(v),
                   })),
@@ -588,7 +586,11 @@ export default function Home() {
               </a>
             </div>
           </aside>
-          <section ref={resultsRef} className="results" aria-label="Incident search">
+          <section
+            ref={resultsRef}
+            className="results"
+            aria-label="Incident search"
+          >
             <div className="searchbar">
               <Search size={21} />
               <input
@@ -596,25 +598,25 @@ export default function Home() {
                 placeholder="Search titles and notes…"
                 maxLength={MAX_QUERY_LENGTH}
                 value={filters.q}
-                onChange={(e) => update('q', e.target.value)}
+                onChange={(e) => update("q", e.target.value)}
               />
               {filters.q && (
                 <button
                   aria-label="Clear search"
-                  onClick={() => update('q', '')}
+                  onClick={() => update("q", "")}
                 >
                   <X size={17} />
                 </button>
               )}
               <span className="fuzzy-label">
-                {filters.q.trim().length > 32 ? 'ALL WORDS' : 'FUZZY SEARCH'}
+                {filters.q.trim().length > 32 ? "ALL WORDS" : "FUZZY SEARCH"}
               </span>
             </div>
             <Tabs
               value={view}
               onValueChange={(value) =>
                 navigate({
-                  view: value as 'incidents' | 'groups',
+                  view: value as "incidents" | "groups",
                   drill: [],
                   page: 1,
                 })
@@ -634,7 +636,7 @@ export default function Home() {
                 </span>
               </div>
               <TabsContent value={view}>
-                {view === 'groups' && (
+                {view === "groups" && (
                   <div className="group-controls">
                     <Picker
                       title="Group by"
@@ -642,7 +644,7 @@ export default function Home() {
                       onChange={(v) =>
                         navigate({
                           by: v as Dimension,
-                          then: then === v ? 'none' : then,
+                          then: then === v ? "none" : then,
                           drill: [],
                           page: 1,
                         })
@@ -658,13 +660,13 @@ export default function Home() {
                       value={then}
                       onChange={(v) =>
                         navigate({
-                          then: v as Dimension | 'none',
+                          then: v as Dimension | "none",
                           drill: [],
                           page: 1,
                         })
                       }
                       options={[
-                        { value: 'none', label: 'No second field' },
+                        { value: "none", label: "No second field" },
                         ...dimensions
                           .filter((d) => d !== by)
                           .map((d) => ({
@@ -682,11 +684,15 @@ export default function Home() {
                     </p>
                   </div>
                 )}
-                {view === 'incidents' && drill.length > 0 && (
+                {view === "incidents" && drill.length > 0 && (
                   <div className="group-breadcrumb">
                     <button
                       onClick={() =>
-                        navigateToResults({ view: 'groups', drill: [], page: 1 })
+                        navigateToResults({
+                          view: "groups",
+                          drill: [],
+                          page: 1,
+                        })
                       }
                     >
                       <ChevronLeft size={16} /> All groups
@@ -695,9 +701,9 @@ export default function Home() {
                       {drill
                         .map(
                           (g) =>
-                            `${dimensionLabels[g.field]}: ${g.value || 'Not recorded'}`,
+                            `${dimensionLabels[g.field]}: ${g.value || "Not recorded"}`,
                         )
-                        .join(' · ')}
+                        .join(" · ")}
                     </span>
                     <button
                       className="clear-group"
@@ -710,41 +716,41 @@ export default function Home() {
                 )}
                 <div className="results-toolbar">
                   <p aria-live="polite">
-                    {status === 'loaded' ? (
+                    {status === "loaded" ? (
                       <>
-                        <b>{results.length.toLocaleString()}</b>{' '}
-                        {active ? 'matching' : 'recorded'} incidents
+                        <b>{results.length.toLocaleString()}</b>{" "}
+                        {active ? "matching" : "recorded"} incidents
                         {placeScope
                           ? ` in ${placeScope.name} and places within it`
-                          : ''}
-                        {view === 'groups'
+                          : ""}
+                        {view === "groups"
                           ? ` across ${groups.length.toLocaleString()} groups`
-                          : ''}
+                          : ""}
                       </>
-                    ) : status === 'error' ? (
-                      'Archive unavailable'
+                    ) : status === "error" ? (
+                      "Archive unavailable"
                     ) : (
-                      'Loading incidents…'
+                      "Loading incidents…"
                     )}
                   </p>
-                  {view === 'groups' ? (
+                  {view === "groups" ? (
                     <span className="count-order">Count ↓ Highest first</span>
                   ) : (
                     <Picker
                       title="Sort"
                       value={filters.sort}
-                      onChange={(v) => update('sort', v)}
+                      onChange={(v) => update("sort", v)}
                       options={[
-                        { value: 'newest', label: 'Newest first' },
-                        { value: 'oldest', label: 'Oldest first' },
+                        { value: "newest", label: "Newest first" },
+                        { value: "oldest", label: "Oldest first" },
                         ...(filters.q
-                          ? [{ value: 'relevance', label: 'Best match' }]
+                          ? [{ value: "relevance", label: "Best match" }]
                           : []),
                       ]}
                     />
                   )}
                 </div>
-                {status === 'error' ? (
+                {status === "error" ? (
                   <Empty>
                     <EmptyTitle>Couldn’t load the archive</EmptyTitle>
                     <EmptyDescription>
@@ -757,7 +763,7 @@ export default function Home() {
                       Try again
                     </button>
                   </Empty>
-                ) : status === 'loading' ? (
+                ) : status === "loading" ? (
                   <div className="loading-list">
                     {[1, 2, 3, 4].map((n) => (
                       <Skeleton key={n} className="h-36 w-full" />
@@ -775,7 +781,7 @@ export default function Home() {
                       Reset filters
                     </button>
                   </Empty>
-                ) : view === 'groups' ? (
+                ) : view === "groups" ? (
                   <Table className="group-table">
                     <TableHeader>
                       <TableRow>
@@ -802,7 +808,7 @@ export default function Home() {
                         .map((group) => {
                           const target = {
                             ...state,
-                            view: 'incidents' as const,
+                            view: "incidents" as const,
                             drill: group.values,
                             page: 1,
                           };
@@ -829,7 +835,7 @@ export default function Home() {
                                         }
                                       }}
                                     >
-                                      {['outcome', 'incident_type'].includes(
+                                      {["outcome", "incident_type"].includes(
                                         groupFields[i],
                                       )
                                         ? label(text)
@@ -837,7 +843,7 @@ export default function Home() {
                                     </a>
                                   ) : (
                                     <span className="group-secondary">
-                                      {['outcome', 'incident_type'].includes(
+                                      {["outcome", "incident_type"].includes(
                                         groupFields[i],
                                       )
                                         ? label(text)
@@ -851,7 +857,7 @@ export default function Home() {
                                   className="count-bar"
                                   style={
                                     {
-                                      '--bar': `${(group.count / Math.max(1, groups[0]?.count || 1)) * 100}%`,
+                                      "--bar": `${(group.count / Math.max(1, groups[0]?.count || 1)) * 100}%`,
                                     } as React.CSSProperties
                                   }
                                 >
@@ -873,7 +879,7 @@ export default function Home() {
                       .map(incidentCard)}
                   </div>
                 )}
-                {status === 'loaded' && results.length > 0 && (
+                {status === "loaded" && results.length > 0 && (
                   <Pagination className="pager">
                     <PaginationContent>
                       <PaginationItem>
@@ -900,7 +906,7 @@ export default function Home() {
                     </PaginationContent>
                   </Pagination>
                 )}
-                {status === 'loaded' &&
+                {status === "loaded" &&
                   nearby.length > 0 &&
                   (results.length === 0 || safePage === pages) && (
                     <section
@@ -908,12 +914,14 @@ export default function Home() {
                       aria-label="Nearby incidents"
                     >
                       <h3>
-                        Nearby: {nearby.length.toLocaleString()}{' '}
-                        {nearby.length === 1 ? 'incident' : 'incidents'}
+                        Nearby: {nearby.length.toLocaleString()}{" "}
+                        {nearby.length === 1 ? "incident" : "incidents"}
                       </h3>
                       <p>
                         Reviewed as near {placeScope?.name}, but not inside it.
-                        {nearby.length > 20 ? ' Showing the first 20 in the selected sort order.' : ''}
+                        {nearby.length > 20
+                          ? " Showing the first 20 in the selected sort order."
+                          : ""}
                       </p>
                       <div className="incident-list">
                         {nearby.slice(0, 20).map(incidentCard)}
@@ -926,7 +934,7 @@ export default function Home() {
         </div>
         <footer className="site-footer">
           <span>
-            Colorado SAR Archive{' '}
+            Colorado SAR Archive{" "}
             <a className="photo-credit" href="/IMAGE-CREDITS.md">
               Landscape: NPS / public domain
             </a>
@@ -944,12 +952,12 @@ export default function Home() {
           <SheetHeader>
             <p className="eyebrow">INCIDENT RECORD</p>
             <SheetTitle>
-              {detail ? formatDate(detail.date) : 'Incident details'}
+              {detail ? formatDate(detail.date) : "Incident details"}
             </SheetTitle>
             <SheetDescription>
               {detail
-                ? `${detail.county || 'County not recorded'} · ${label(detail.incident_type)}`
-                : 'Source report and incident context'}
+                ? `${detail.county || "County not recorded"} · ${label(detail.incident_type)}`
+                : "Source report and incident context"}
             </SheetDescription>
             {detail && (
               <div
@@ -960,12 +968,12 @@ export default function Home() {
               </div>
             )}
             <button className="share-incident" onClick={copyIncident}>
-              {copyStatus === 'Copied' ? (
+              {copyStatus === "Copied" ? (
                 <Check size={15} />
               ) : (
                 <Copy size={15} />
-              )}{' '}
-              {copyStatus || 'Copy incident link'}
+              )}{" "}
+              {copyStatus || "Copy incident link"}
             </button>
             <span className="sr-only" role="status">
               {copyStatus}
@@ -979,23 +987,24 @@ export default function Home() {
                   <a
                     className="map-search-link"
                     href={
-                      'https://www.google.com/maps/search/?api=1&query=' +
+                      "https://www.google.com/maps/search/?api=1&query=" +
                       encodeURIComponent(
                         [
                           detail.location || detail.place || detail.peak,
                           detail.county,
-                          'Colorado',
+                          "Colorado",
                         ]
                           .filter(Boolean)
-                          .join(', '),
+                          .join(", "),
                       )
                     }
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    Find reported place on a map{' '}
+                    Find reported place on a map{" "}
                     <ExternalLink size={14} className="inline" />
                   </a>
+                  <br className="desktop-break" />
                   <small className="field-hint">
                     Place-name search only; not a verified incident coordinate.
                   </small>
@@ -1003,18 +1012,18 @@ export default function Home() {
               )}
               <dl className="detail-grid">
                 {[
-                  ['Reported location', detail.location],
-                  ['Location group', detail.location_group],
-                  ['County', detail.county],
-                  ['Incident type', label(detail.incident_type)],
-                  ['Recorded outcome', label(detail.outcome)],
-                  ['People involved', detail.victims],
-                  ['Responding agency', detail.responding_agency],
-                  ['Place', detail.place],
-                  ['Peak', detail.peak],
-                  ['Setting', detail.setting],
-                  ['Place type', detail.place_type],
-                  ['Source detail score', detailLabel(detail.detail_score)],
+                  ["Reported location", detail.location],
+                  ["Location group", detail.location_group],
+                  ["County", detail.county],
+                  ["Incident type", label(detail.incident_type)],
+                  ["Recorded outcome", label(detail.outcome)],
+                  ["People involved", detail.victims],
+                  ["Responding agency", detail.responding_agency],
+                  ["Place", detail.place],
+                  ["Peak", detail.peak],
+                  ["Setting", detail.setting],
+                  ["Place type", detail.place_type],
+                  ["Source detail score", detailLabel(detail.detail_score)],
                 ].map(([k, v]) => (
                   <div key={k as string}>
                     <dt>{k}</dt>
@@ -1024,7 +1033,7 @@ export default function Home() {
               </dl>
               <section>
                 <h3>Notes & context</h3>
-                <p>{detail.notes || 'No additional notes recorded.'}</p>
+                <p>{detail.notes || "No additional notes recorded."}</p>
                 <p className="data-note">
                   Outcomes and details may be incomplete or inferred. Check the
                   original source and notes before drawing conclusions.
@@ -1071,4 +1080,4 @@ export default function Home() {
   );
 }
 
-export const dynamic = 'force-static';
+export const dynamic = "force-static";
