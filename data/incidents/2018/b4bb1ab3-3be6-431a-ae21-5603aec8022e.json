@@ -1,0 +1,18 @@
+{
+  "id": "b4bb1ab3-3be6-431a-ae21-5603aec8022e",
+  "date": "2018-06-25",
+  "summary": "Ouray Mountain Rescue coached a stranded hiker to rappel third-class terrain in late June 2018 (approximate date; exact day and location unreported).",
+  "location": "Location unreported (Ouray Mountain Rescue response)",
+  "county": null,
+  "incident_type": "lost/stranded",
+  "outcome": null,
+  "victims": 1,
+  "responding_agency": "Ouray Mountain Rescue",
+  "source_urls": "https://www.facebook.com/ouraymountainrescue/posts/pfbid02JEnnz9Vyodxfpvnd5iM5LeFNS1CsWKG3moGmyo3zxU4hTUydo4ujiZ63wzNazdZQl",
+  "notes": "Reviewed October 11, 2026 against the original public Facebook post. Published June 27, 2018; the team describes five rescue operations over four days. June 25 is an approximate indexing date within that window, not a confirmed incident day. This record represents only the described stranded hiker, not five separate incidents. Exact location, county, and final outcome are not reported.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
