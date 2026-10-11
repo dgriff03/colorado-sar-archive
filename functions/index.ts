@@ -1,3 +1,4 @@
+import { info } from 'firebase-functions/logger';
 import { onRequest } from 'firebase-functions/v2/https';
 import { readFileSync } from 'node:fs';
 import { createMcpHandler } from '../mcp/http.ts';
@@ -6,7 +7,9 @@ const records: Incident[] = JSON.parse(
   readFileSync(new URL('./data/records.json', import.meta.url), 'utf8'),
 );
 const details = new Map(records.map((record) => [record.id, record]));
-const handler = createMcpHandler(records, async (id) => details.get(id)!);
+const handler = createMcpHandler(records, async (id) => details.get(id)!, (event) => {
+  info('MCP tool usage', event);
+});
 export const sarMcp = onRequest(
   {
     region: 'us-central1',
