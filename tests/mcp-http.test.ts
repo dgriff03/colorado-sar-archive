@@ -1,3 +1,4 @@
+import type { ToolUsage } from '../mcp/usage.ts';
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { createServer } from 'node:http';
@@ -23,8 +24,9 @@ test('Hosted MCP handles stateless HTTP clients, tools, concurrency and invalid 
       notes: 'Uncertain detail',
     },
   ];
+  const usage: ToolUsage[] = [];
   const server = createServer(
-    createMcpHandler(records, async () => records[0]),
+    createMcpHandler(records, async () => records[0], event => usage.push(event)),
   );
   await new Promise<void>((r) => server.listen(0, '127.0.0.1', r));
   const url = new URL(
@@ -63,6 +65,16 @@ test('Hosted MCP handles stateless HTTP clients, tools, concurrency and invalid 
       ).notes,
       'Uncertain detail',
     );
+    assert.equal(usage.length, 3); // Initialization and tools/list do not count.
+    assert.deepEqual(usage.map(e => e.tool).sort(), ['get_incident', 'group_incidents', 'search_incidents']);
+    assert.ok(usage.every(e => e.status === 'success' && e.results_returned === 1));
+    assert.ok(!JSON.stringify(usage).includes('Longs'));
+    await client.callTool({name: 'get_incident', arguments: {id: 'legacy-999999'}});
+    assert.equal(usage.at(-1)?.status, 'error');
+    const beforeInvalid = usage.length;
+    const invalid = await client.callTool({name: 'search_incidents', arguments: {limit: -1}});
+    assert.equal(invalid.isError, true);
+    assert.equal(usage.length, beforeInvalid); // Validation precedes execution.
     assert.equal((await fetch(url)).status, 405);
     assert.equal(
       (
