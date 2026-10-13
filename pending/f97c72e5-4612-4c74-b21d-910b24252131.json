@@ -1,0 +1,18 @@
+{
+  "id": "f97c72e5-4612-4c74-b21d-910b24252131",
+  "date": "2026-10-11",
+  "summary": "Alpine Rescue Team assisted San Juan County with a State BSAR Coordinator for a recovery of a hunter in the Twin Sisters area (mission 2026-151, dispatched 10/11/26 22:29); thin mission-log post, no victim name, cause unreported.",
+  "location": "Twin Sisters area",
+  "county": "San Juan",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team (assist to San Juan County); State BSAR Coordinator",
+  "source_urls": "https://alpinerescueteam.org/2026-151-assist-to-san-juan-county-with-a-state-bsar-coordinator-for-a-recovery-of-a-hunter-in-the-twin-sisters-area/",
+  "notes": "Freshness sweep 2026-10-13. Post permalink title-verified parent-live.",
+  "peak": "Twin Sisters Peaks",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
