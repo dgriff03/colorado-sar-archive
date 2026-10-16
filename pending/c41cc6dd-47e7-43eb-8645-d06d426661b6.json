@@ -1,0 +1,18 @@
+{
+  "id": "c41cc6dd-47e7-43eb-8645-d06d426661b6",
+  "date": "2014-10-07",
+  "summary": "28-year-old Missouri hiker Christopher Michael Fontaine in distress near Snowmass Lake; search began Tuesday afternoon after reports of a hiker in distress and a call from his employer after he missed work; rescuers reached him ~9 p.m. Tuesday and called for an immediate helicopter airlift due to his condition; flown to Aspen Valley Hospital.",
+  "location": "near Snowmass Lake, Maroon Bells-Snowmass Wilderness",
+  "county": "Pitkin",
+  "incident_type": "medical",
+  "outcome": "airlifted",
+  "victims": 1,
+  "responding_agency": "Pitkin County Sheriff's Office",
+  "source_urls": "https://archive.stjosephpost.com/2014/10/08/mo-man-hospitalized-after-rescue-from-mountains-near-aspen/",
+  "notes": "AP reprint via St. Joseph Post; mechanism/condition not reported.",
+  "peak": "Snowmass Mountain",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

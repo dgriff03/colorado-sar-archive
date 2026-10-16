@@ -1,0 +1,18 @@
+{
+  "id": "2ac35ff2-ee38-4f57-886a-9b7fed51dc30",
+  "date": "2022-06-27",
+  "summary": "36-year-old climber stranded on a scree/boulder field on Maroon Peak called for help ~9:45 p.m. via a two-way emergency communication device and spent the night with emergency supplies; 15 Mountain Rescue Aspen personnel deployed ~5:57 a.m. Tuesday, contacted him ~9:50 a.m., and he walked out under escort; all clear by 1:20 p.m.",
+  "location": "Maroon Peak, Maroon Bells-Snowmass Wilderness",
+  "county": "Pitkin",
+  "incident_type": "lost/stranded",
+  "outcome": "located uninjured, walked out",
+  "victims": 1,
+  "responding_agency": "Mountain Rescue Aspen / Pitkin County Sheriff's Office",
+  "source_urls": "https://dailycoloradonews.com/stranded-climber-rescued-in-maroon-bells-space/",
+  "notes": "Sole source is a content-farm rewrite citing a Pitkin County Sheriff's Office release; no independent corroboration found (two parent searches 2026-10-16); details per the PCSO statement quoted in the article.",
+  "peak": "Maroon Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
