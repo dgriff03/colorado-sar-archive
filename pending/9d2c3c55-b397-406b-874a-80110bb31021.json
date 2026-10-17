@@ -1,0 +1,18 @@
+{
+  "id": "9d2c3c55-b397-406b-874a-80110bb31021",
+  "date": "2026-10-16",
+  "summary": "Sick hiker in the Virginia Canyon Mountain Park area; Alpine Rescue Team paged code 3 (mission 2026-152, paged 3:36 p.m.); thin mission-log post, outcome unreported",
+  "location": "Virginia Canyon Mountain Park",
+  "county": "Clear Creek",
+  "incident_type": "medical",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/2026-152-team-paged-code-3-for-a-sick-hiker-in-the-virginia-canyon-mountain-park-area/",
+  "notes": "Alpine Rescue Team mission-log post (thin; outcome unreported). Distinct from ids 3755 (2026-09-26), 3766 (2026-10-01), 3768 (2026-10-03) and 3786 (2026-10-09), same area, different dates.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
