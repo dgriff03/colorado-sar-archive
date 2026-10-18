@@ -1,0 +1,18 @@
+{
+  "id": "80997026-bebe-415e-85e4-3b540a05638b",
+  "date": "2023-12-20",
+  "summary": "Pair of skiers became disoriented and lost their way on the 1B Trail area, Rabbit Ears Pass; Routt County SAR responded to locate them.",
+  "location": "1B Trail area, Rabbit Ears Pass",
+  "county": "Routt",
+  "incident_type": "lost/stranded",
+  "outcome": "responded",
+  "victims": 2,
+  "responding_agency": "Routt County Search and Rescue",
+  "source_urls": "https://edition.pagesuite.com/tribune/article_popover.aspx?guid=955c37d1-3ea3-40f6-9753-73da194851f7",
+  "notes": "INSERTED run 983. Single-sentence mention at the end of the Denver Post three-missions story ('Three days later' after Dec 17, 2023); outcome beyond the RCSAR response not reported in the source. Page opened live parent-side run 983; incident verified.",
+  "peak": "Rabbit Ears Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
