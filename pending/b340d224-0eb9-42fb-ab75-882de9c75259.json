@@ -1,0 +1,18 @@
+{
+  "id": "b340d224-0eb9-42fb-ab75-882de9c75259",
+  "date": "2026-10-15",
+  "summary": "Hunter suffered a serious injury when a tree fell on them while sleeping in a tent in the Bears Ears area north of Hayden, early morning hours; Moffat County emergency services reached the subject and transported them to safety as RCSAR prepared to dispatch.",
+  "location": "Bears Ears area north of Hayden",
+  "county": "Routt",
+  "incident_type": "injury",
+  "outcome": "rescued",
+  "victims": 1,
+  "responding_agency": "Moffat County emergency services; Routt County Search and Rescue (paged — Moffat EMS reached the subject first)",
+  "source_urls": "https://www.operanewsapp.com/us/en/share/detail?news_id=eb97881b27bbe69f2ff7829756bb45f1&news_entry_id=57540e7b261020en_us&open_type=transcoded&from=localnews&request_id=share_request&share_from|https://kzyr.com/zephyr-press-news/",
+  "notes": "Freshness sweep run 33: Steamboat Pilot via operanewsapp mirror (published 2026-10-20) + KZYR Zephyr Press Oct-16 newscast; third of three RCSAR pages within 14 hours during first rifle season.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
