@@ -1,0 +1,18 @@
+{
+  "id": "4d27f816-c932-453a-8e98-27f3cb75473d",
+  "date": "2021-11-04",
+  "summary": "Skeletal remains found by a hiker in Skeleton Gulch (west side of Rocky Mountain National Park) in mid-August 2020 were recovered in summer 2021 with FBI Evidence Response Team assistance; believed to be Rudi Moder, 27, of West Germany, missing since a Feb-1983 ski-mountaineering trip over Thunder Pass; closes a ~38-year cold case.",
+  "location": "Skeleton Gulch, west side of Rocky Mountain National Park",
+  "county": "Grand",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park Search and Rescue; FBI Evidence Response Team",
+  "source_urls": "https://www.nps.gov/romo/learn/news/skeletal-remains-found-on-west-side-of-rocky-mountain-national-park-believed-to-be-those-of-rudi-moder.htm",
+  "notes": "NPS RMNP news release dated 2021-11-04. MERGED/INSERTED run 987.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
