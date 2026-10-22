@@ -1,0 +1,18 @@
+{
+  "id": "df3683bc-4759-4622-aa63-db1ebe312742",
+  "date": "2023-03-17",
+  "summary": "Backcountry skier (first name John) crashed head-first into a rock at Mayflower Gulch after his ski clipped a rock at the bottom of a run; helmet cracked and caved across the front right half, with head/neck/back pain and confusion. Summit County Search & Rescue heli-evacuated him to Summit Medical during a weather window; he underwent surgery for compression fractures in the middle back and lower neck.",
+  "location": "Mayflower Gulch",
+  "county": "Summit",
+  "incident_type": "fall",
+  "outcome": "transported, hospitalized",
+  "victims": 1,
+  "responding_agency": "Summit County Search & Rescue",
+  "source_urls": "https://www.mountainpeakfitness.com/blog/rescue-mayflower-2023",
+  "notes": "First-person account by the party that found the skier and called 911 (single personal-blog source; incident dated 'March 17th' in the text, page published 2023-03-19). MERGED/INSERTED run 987.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
