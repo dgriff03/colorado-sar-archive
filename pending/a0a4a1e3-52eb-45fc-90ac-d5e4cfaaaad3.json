@@ -1,0 +1,18 @@
+{
+  "id": "a0a4a1e3-52eb-45fc-90ac-d5e4cfaaaad3",
+  "date": "2016-08-23",
+  "summary": "Human remains found by the U.S. Forest Service off Mill Creek Road were identified by dental records as Archuleta County resident Andrew Donald; the Archuleta County Sheriff's Office ran an operations plan with the Colorado Bureau of Investigation, the district attorney, and the coroner, and an Aug. 25 grid search collected 52 items of potential interest; a forensic examination completed Aug. 31 was inconclusive and the case remained under investigation.",
+  "location": "Mill Creek Road area, Pagosa Springs area",
+  "county": "Archuleta",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "U.S. Forest Service; Archuleta County Sheriff's Office; Colorado Bureau of Investigation",
+  "source_urls": "https://cdn2.creativecirclemedia.com/pagosa/files/20231129-194029-sun%20090116.pdf",
+  "notes": "INSERTED run 989 (Pagosa SUN chunk): Pagosa Springs SUN Sept 1, 2016 issue, front page + A8 continuation, parent-opened live; Tuesday-verified discovery date. Remains-discovery + evidence-search case (not a live-subject rescue); follows body-recovery precedents ids 2363/3806.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
