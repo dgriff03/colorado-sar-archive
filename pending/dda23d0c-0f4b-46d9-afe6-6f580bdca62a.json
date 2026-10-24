@@ -1,0 +1,18 @@
+{
+  "id": "dda23d0c-0f4b-46d9-afe6-6f580bdca62a",
+  "date": "2016-08-28",
+  "summary": "Man in his mid-60s injured in an ATV accident on Blue Creek Road around 11:55 a.m.; Upper San Juan Search and Rescue with Pagosa EMS reached him by six-wheel-drive UTV over rough trail, and as his pain worsened a Flight for Life helicopter flew him to Mercy Regional Medical Center; suspected broken wrist and ribs.",
+  "location": "Blue Creek Road, Pagosa Springs area",
+  "county": "Archuleta",
+  "incident_type": "vehicle",
+  "outcome": "airlifted",
+  "victims": 1,
+  "responding_agency": "Upper San Juan Search and Rescue; Pagosa EMS; Flight for Life",
+  "source_urls": "https://cdn2.creativecirclemedia.com/pagosa/files/20231129-194029-sun%20090116.pdf",
+  "notes": "INSERTED run 989 (Pagosa SUN chunk): Pagosa Springs SUN Sept 1, 2016 issue, \"Rescue follows ATV accident\" (p. A9), parent-opened live; Sunday-verified.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
