@@ -1,0 +1,18 @@
+{
+  "id": "7afa50e9-f8cd-4951-b7c8-68ddfd8603cd",
+  "date": "2021-05-06",
+  "summary": "Colorado 4x4 Rescue & Recovery was dispatched for a person extract on Miller Rock after a party spent the night in their vehicle, stuck while trying to assist another stuck party; on scene the team converted the extract to a vehicle recovery (15-minute job pulling the first vehicle sideways and back down the hill) and returned Saturday May 8 to winch the second vehicle back onto the trail, transfer gasoline, and drive it out under its own power.",
+  "location": "Miller Rock",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Colorado 4x4 Rescue & Recovery",
+  "source_urls": "https://co4x4rnr.org/mission-reports-multiple-recovery-operations-underway/",
+  "notes": "Parent scope call: dispatched as a person extract for an overnight stranding (multi-day operation, May 6 + May 8 return) — in scope per the overnight-stranded-motorist precedents ids 3470/2425/2467/2490; the on-scene conversion to vehicle recovery is flagged here, not hidden. Party size unstated; victims=1 per the id 2425 convention. Miller Rock near Lyons (Roosevelt National Forest) per AllTrails + Boulder Ranger District corroboration cited by the mining subagent; parent-opened the report live + weekday-verified (Thursday May 6 / Saturday May 8).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
