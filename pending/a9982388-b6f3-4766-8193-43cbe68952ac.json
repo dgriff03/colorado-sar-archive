@@ -1,0 +1,18 @@
+{
+  "id": "a9982388-b6f3-4766-8193-43cbe68952ac",
+  "date": "2017-06-20",
+  "summary": "Two older men from Kansas hiking around Mount Sopris became lost east of Thomas Lakes while trying to get back to their campsite; a 65-year-old called Pitkin County dispatch around 6:30 p.m., and with no cell service the men texted back and forth with four Mountain Rescue Aspen members, who found them in a tent just before midnight near Thomas Lakes; nauseous and thirsty, the pair were escorted back to the trailhead.",
+  "location": "Thomas Lakes, Mt. Sopris area",
+  "county": "Pitkin",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Mountain Rescue Aspen",
+  "source_urls": "https://www.kmts.com/news/news-329",
+  "notes": "KMTS page published 2017-06-21 reporting the rescue as 'last night' (call ~6:30 p.m., found just before midnight); parent-opened live + weekday-verified (Tuesday). Filed under the Sopris Sun chunk: the Sun itself carried no coverage of this 2017 incident; it surfaced in the chunk's thin-year probe searches.",
+  "peak": "Mount Sopris",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
