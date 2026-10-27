@@ -1,0 +1,18 @@
+{
+  "id": "b7002038-d105-401c-af21-755a48d5b24e",
+  "date": "2016-05-20",
+  "summary": "A Durango-resident kayaker was caught in the Trash Can area of Vallecito Creek, swam out, then fell while climbing out of the gorge and seriously injured his leg; Upper Pine Fire Protection District and La Plata County Search and Rescue set a technical rigging system, stabilized him on scene with a SAR physician and paramedics, and hauled him out of the gorge; the kayak was recovered.",
+  "location": "Vallecito Creek, Trash Can area",
+  "county": "La Plata",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "La Plata County Search and Rescue",
+  "source_urls": "https://www.americanwhitewater.org/accident/2016-05-20-valecito-creek-does-not-apply/",
+  "notes": "Parent scope call: INCLUDED under the Telegraph chunk per the run-991 KMTS precedent — source is an American Whitewater reprint of a Durango Herald article (Ann Butler/Shane Benjamin, Friday May 20, 2016; Friday-verified), surfaced in the chunk's Vallecito keyword sweep, not a Telegraph item. Upper Pine Fire co-response; 21 people on scene; call ~2:15 p.m., kayaker out ~8:30 p.m.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
