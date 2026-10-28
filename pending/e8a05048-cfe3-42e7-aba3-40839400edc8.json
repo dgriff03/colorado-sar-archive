@@ -1,0 +1,18 @@
+{
+  "id": "e8a05048-cfe3-42e7-aba3-40839400edc8",
+  "date": "2019-06-10",
+  "summary": "Sameer Prasla, 42, of Austin, Texas, drowned after a commercial raft carrying a Boy Scouts group flipped near Spike Buck Rapids; he was pulled from the river, CPR was given, Flight for Life landed, and he was pronounced dead at the scene",
+  "location": "Arkansas River near Spike Buck Rapids, ~15-17 miles west of Canon City",
+  "county": "Fremont",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Fremont County Sheriff's Office",
+  "source_urls": "https://www.americanwhitewater.org/de/accident/2019-06-10-arkansas-09-pinnacle-rock-launch-to-parkdale-launch-does-not-apply/",
+  "notes": "Run 993 Chieftain chunk: source is an American Whitewater accident page quoting the Pueblo Chieftain and the Canon City Daily Record (no Chieftain original located); responders also included Tallahassee Fire Protection District, American Medical Response, and Colorado Parks and Wildlife.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

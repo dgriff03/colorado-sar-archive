@@ -1,0 +1,18 @@
+{
+  "id": "94ad3756-d16c-44a9-bde1-98ab4f67d319",
+  "date": "2022-06-25",
+  "summary": "28-year-old man from Arvada free-soloing the Second Flatiron became stuck about 160 feet up and fatigued; a City of Boulder Open Space ranger and Rocky Mountain Rescue Group secured him and assisted him down the rock face in a roughly 1.5-hour rescue; uninjured",
+  "location": "Second Flatiron",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office",
+  "source_urls": "https://content.govdelivery.com/bulletins/gd/COBOULDER-31dbeda",
+  "notes": "Run 993 BCSO chunk; BCSO case #22-2978; canonical bulletin URL (fbclid tracking parameter stripped from the search-result URL; stripped URL verified live via browser).",
+  "peak": "The Flatirons",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

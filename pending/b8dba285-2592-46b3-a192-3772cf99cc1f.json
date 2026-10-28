@@ -1,0 +1,18 @@
+{
+  "id": "b8dba285-2592-46b3-a192-3772cf99cc1f",
+  "date": "2026-10-23",
+  "summary": "Two Colorado Mountain College Leadville-campus students, Kaden Matsuda, 19, and Jackson Donlon, 20, left campus Friday to climb Ice Mountain in the Collegiate Peaks and did not return as planned; college staff reported them missing Monday morning 2026-10-26. Chaffee County Search and Rescue North and South searched with drones, helicopters, an infrared multi-mission aircraft and search dogs, joined Tuesday by teams from Lake, Teller, Park and Arapahoe counties (~50 searchers); a helicopter spotted their tent near Lake Ann just after noon Tuesday 2026-10-27, collapsed under snow with sleeping bags, a stove and clothing inside but neither hiker present. Heavy snow (1-2 ft on the mountain, 3-4 ft drifted) fell Saturday 2026-10-24 after rain; search ongoing, both unlocated as of Tuesday evening 2026-10-27.",
+  "location": "Ice Mountain / Lake Ann area, near Winfield",
+  "county": "Chaffee",
+  "incident_type": "lost/stranded",
+  "outcome": "search ongoing, unlocated",
+  "victims": 2,
+  "responding_agency": "Chaffee County Search and Rescue North and South",
+  "source_urls": "https://thenextsummit.org/ice-mountain-missing-hikers-chaffee-county/",
+  "notes": "Trip departure Fri 2026-10-23 (vehicle found at the Mt. Huron trailhead near Winfield off County Road 390 with ~8 in. of snow around it and none underneath, indicating arrival before the Sat snowfall); reported missing Mon 2026-10-26; tent found Tue 2026-10-27. Source = The Next Summit, reporting from the Chaffee County Sheriff's Office, KRDO and KKTV (article updated Tue 2026-10-27 18:17 MDT). Outcome watch: search ongoing at insert time — update outcome when resolved. Not Kaden Sites (id 1706, Apr 2026 Mt. Shavano hunter) — different person, similar first name; no relation. Distinct from id 3391 (2020 Ice Mountain / Three Apostles missing hiker Terry Pann).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

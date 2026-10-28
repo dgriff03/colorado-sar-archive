@@ -1,0 +1,18 @@
+{
+  "id": "a529cee6-694b-444f-8170-46feca119104",
+  "date": "2017-10-28",
+  "summary": "Two lost, under-equipped hikers found on descent from Torreys Peak in near-subzero whiteout conditions by U.S. Air Force Academy Cadet Mountaineering Club members, given clothing and led back to the trailhead near Loveland Pass",
+  "location": "Torreys Peak, near Loveland Pass",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "U.S. Air Force Academy Cadet Mountaineering Club",
+  "source_urls": "https://www.usafa.edu/atop-colorado-14er-cadets-save2-find-inner-confidence/",
+  "notes": "Run 993 DVIDS chunk: source is USAFA, not DVIDS/Colorado Guard — surfaced in this chunk's searches, included per the run-991/992 non-chunk-source precedent; caveat carried here.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
