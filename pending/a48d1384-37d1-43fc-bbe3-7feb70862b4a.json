@@ -1,0 +1,18 @@
+{
+  "id": "a48d1384-37d1-43fc-bbe3-7feb70862b4a",
+  "date": "2021-10-10",
+  "summary": "35-year-old man hiking with his dog wandered into technical terrain west of the Second Flatiron beyond his capability, became stuck and called 911; a City of Boulder Open Space ranger located him and assisted him out; uninjured, walked out",
+  "location": "Just west of Second Flatiron, Boulder",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office",
+  "source_urls": "https://bouldercounty.gov/?p=132873",
+  "notes": "Run 993 BCSO chunk; BCSO case #21-4867.",
+  "peak": "The Flatirons",
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null
+}
