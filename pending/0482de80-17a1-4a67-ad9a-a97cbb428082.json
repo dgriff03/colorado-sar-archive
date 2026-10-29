@@ -1,0 +1,18 @@
+{
+  "id": "0482de80-17a1-4a67-ad9a-a97cbb428082",
+  "date": "2015-06-04",
+  "summary": "Two men on inner tubes fell into the Cache la Poudre River at Picnic Rock while Poudre Fire Authority crews were training for swift-water rescue nearby; the men reached the opposite bank unhurt, and crews ferried them back across with a rescue boat, rope system, and seven rescue swimmers; a third man in the party reached the parking lot safely.",
+  "location": "Cache la Poudre River at Picnic Rock",
+  "county": "Larimer",
+  "incident_type": "other",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Poudre Fire Authority",
+  "source_urls": "https://northfortynews.com/category/uncategorized/firefighters-rescue-poudre-river-tubers/",
+  "notes": "Run 994 North Forty News chunk: North Forty News article published 2015-06-05 reporting the June 4 incident; 2015-06-04 was a Thursday.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
