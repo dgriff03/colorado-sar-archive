@@ -1,0 +1,18 @@
+{
+  "id": "79c3c5d6-88ec-4eba-a2b4-08c6641a7462",
+  "date": "2020-08-02",
+  "summary": "A 21-year-old hiker from Pandora, Ohio, descending a rock face above Boulder Falls without technical gear, lost his footing and fell about 25 feet; his friend and nearby hikers stabilized him, rescuers litter-carried him to the top of the falls and lowered him over the falls on a high-line, and low-level lightning forced a transfer from helicopter to ground ambulance for transport to a Boulder-area hospital; the rescue took about five hours.",
+  "location": "Above Boulder Falls, Boulder Canyon",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "transported, hospitalized",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office",
+  "source_urls": "https://www.themtnear.com/articles/hiker-rescued-from-above-boulder-falls/",
+  "notes": "Run 994 Mountain-Ear chunk: Mountain-Ear article reprinting the Boulder County Sheriff's Office release (BCSO case #20-3393); assisting agencies included Rocky Mountain Rescue Group, Nederland Fire, Sugarloaf Fire, American Medical Response, Med Evac, Colorado State Patrol, and City of Boulder Open Space and Mountain Parks.",
+  "peak": "Boulder Canyon",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
