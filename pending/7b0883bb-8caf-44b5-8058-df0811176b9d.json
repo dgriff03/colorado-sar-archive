@@ -1,0 +1,18 @@
+{
+  "id": "7b0883bb-8caf-44b5-8058-df0811176b9d",
+  "date": "2017-09-04",
+  "summary": "Holly Hunsaker, 21, and her 16-year-old brother descended an off-trail scree route on Mt. Tabeguache in worsening weather; her left leg was crushed between moving rocks and she could not bear weight. Chaffee County Search and Rescue South hasty teams reached the pair around 11 p.m., carried her to a ridgeline landing zone at about 12,800 feet, and a REACH helicopter flew her to Heart of the Rockies Regional Medical Center; her brother walked out with the team.",
+  "location": "Mt. Tabeguache, Jennings Creek / southeast ridge",
+  "county": "Chaffee",
+  "incident_type": "injury",
+  "outcome": "evacuated, hospitalized",
+  "victims": 1,
+  "responding_agency": "Chaffee County Search and Rescue South",
+  "source_urls": "https://www.themountainmail.com/news/article_1a2664c8-94b5-11e7-81dc-0fe2af1cb58c.html",
+  "notes": "Run 995 Mountain Mail chunk: Mountain Mail article on two Tabeguache incidents Sunday and Monday; article record dated 2017-09-08 pins the Monday to 2017-09-04; same article as the 2017-09-03 Isakson rescue; victim count is the injured hiker only (brother uninjured).",
+  "peak": "Tabeguache Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
