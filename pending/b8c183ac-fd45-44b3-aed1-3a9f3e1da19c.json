@@ -1,0 +1,18 @@
+{
+  "id": "b8c183ac-fd45-44b3-aed1-3a9f3e1da19c",
+  "date": "2017-07-09",
+  "summary": "A 65-year-old Pueblo West man fishing from the north shore of Lake Pueblo in the State Wildlife Area entered the water after a fish pulled his fishing rod into the lake and did not return; Colorado Parks and Wildlife staff searched with sonar and called in the Pueblo County Sheriff's Office volunteer dive team, and divers recovered his body on Monday afternoon in about 25 feet of water roughly 30 feet offshore, about 3 miles west of the North Shore Marina.",
+  "location": "Lake Pueblo, north shore State Wildlife Area, about 3 miles west of North Shore Marina",
+  "county": "Pueblo",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Colorado Parks and Wildlife",
+  "source_urls": "https://www.themountainmail.com/news/article_33736a52-672e-11e7-b774-0b67307ab52e.html",
+  "notes": "Run 995 Pueblo County SO chunk (non-chunk-source item, per the run-991/992 precedent): Mountain Mail article surfaced in PCSO-chunk searches, not a PCSO release; article says the search began early Sunday and the body was found Monday afternoon, article record dated 2017-07-12 pins the Sunday to 2017-07-09 with recovery 2017-07-10; victim unnamed in the article (65-year-old Pueblo West resident); assisting agencies included the Pueblo County Sheriff's Office volunteer dive team, AMR, and Flight for Life (aerial search).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
