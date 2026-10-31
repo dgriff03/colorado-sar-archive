@@ -1,0 +1,18 @@
+{
+  "id": "b4bae82c-ef45-49b0-862c-3197156873aa",
+  "date": "2020-11-27",
+  "summary": "36-year-old climber rescued after dislodging a rock while descending a rock gully in Boulder Canyon; took partial cover as the rock rolled over him, narrowly escaping serious injury.",
+  "location": "33,800 block of Boulder Canyon Drive, Boulder Canyon",
+  "county": "Boulder",
+  "incident_type": "rockfall",
+  "outcome": "rescued",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office",
+  "source_urls": "https://www.alpineinstitute.com/climbing-and-outdoor-news-from-here-and-abroad-12-3-20/",
+  "notes": "Alpine Institute roundup (2020-12-03) citing Daily Camera / Boulder County Sheriff's Office release; Friday item pins to 2020-11-27.",
+  "peak": "Boulder Canyon",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
