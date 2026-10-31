@@ -1,0 +1,18 @@
+{
+  "id": "c59ed6e5-a6de-4979-9049-6253287668c9",
+  "date": "2020-11-08",
+  "summary": "31-year-old female climber stuck while scrambling on the Second Flatiron, unable to move up or down; Rocky Mountain Rescue Group reached her with technical gear and lowered her down; uninjured, hiked back to the trailhead.",
+  "location": "Second Flatiron, Boulder",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain Rescue Group",
+  "source_urls": "https://www.alpineinstitute.com/climbing-and-outdoor-news-from-here-and-abroad-11-12-20/",
+  "notes": "Alpine Institute roundup (2020-11-12) citing Boulder County Sheriff's Office via Out There Colorado; Sunday-afternoon item pins to 2020-11-08. BCSO case #20-4950 NOT confirmed for this incident and not attached.",
+  "peak": "The Flatirons",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

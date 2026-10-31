@@ -1,0 +1,18 @@
+{
+  "id": "85b492a3-13f0-42fc-bd44-ac72a735bce6",
+  "date": "2020-11-08",
+  "summary": "23-year-old man fell about 15 feet while scrambling on Mount Sanitas near Boulder around 2 p.m. Sunday.",
+  "location": "Mount Sanitas, Boulder",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office",
+  "source_urls": "https://www.alpineinstitute.com/climbing-and-outdoor-news-from-here-and-abroad-11-12-20/",
+  "notes": "Alpine Institute roundup (2020-11-12) citing Journal of Emergency Medical Services / Boulder County Sheriff's Office; injury severity unstated in source.",
+  "peak": "Mount Sanitas",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
