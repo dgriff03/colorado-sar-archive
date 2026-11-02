@@ -1,0 +1,18 @@
+{
+  "id": "0f4e52ee-2ded-4381-a278-d997a13dad3d",
+  "date": "2019-07-01",
+  "summary": "50-year-old Arizona man on a guided raft trip with Down Stream Rafting Company died in a rafting accident on Clear Creek (Dumont section, Lawson to Idaho Springs); report at 10:30 a.m. for the 2500 block of Stanley Road, about 2.5 miles northwest of Idaho Springs, CPR already in progress; pronounced dead at the scene at 11:11 a.m.; flush drowning in high water.",
+  "location": "Clear Creek, Dumont section, near Idaho Springs",
+  "county": "Clear Creek",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Clear Creek County Sheriff's Office",
+  "source_urls": "https://www.americanwhitewater.org/wp-json/wp/v2/accident/67311|https://5280.com/deadly-rivers-at-least-9-people-have-drowned-in-colorado-this-year/",
+  "notes": "Victim unnamed in sources (name withheld pending family notification).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
