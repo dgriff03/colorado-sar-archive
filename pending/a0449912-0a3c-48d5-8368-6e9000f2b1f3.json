@@ -1,0 +1,18 @@
+{
+  "id": "a0449912-0a3c-48d5-8368-6e9000f2b1f3",
+  "date": "2014-07-21",
+  "summary": "Jennifer Kellogg of St. Joseph, Missouri, and her 21-year-old daughter Alexandra summited Maroon Peak then North Maroon Peak; on descent Alexandra followed the wrong route and became stuck unable to climb up or down, and Jennifer became stranded on a rocky ledge in Lost Remuda Basin; 20 Mountain Rescue Aspen members responded with a HAATS UH-60 Blackhawk; Alexandra was found uninjured at the Gun Site and flown from the rock glacier, Jennifer was evacuated by mechanical uphaul to the west ridge and flown out in darkness; all out of the field by 10:30 p.m.",
+  "location": "North Maroon Peak, west side / Lost Remuda Basin",
+  "county": "Pitkin",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Mountain Rescue Aspen",
+  "source_urls": "http://forums.radioreference.com/threads/pitkin-county-sar-as-paged.295012/",
+  "notes": "INSERT run1000; source is a forum repost of the full Pitkin County Sheriff's Office press release 'Climbers Rescued From North Maroon Peak' (Deputy Grant Jahnke, Incident Commander), dated 7/21/2014, parent-opened live and matched exactly.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
