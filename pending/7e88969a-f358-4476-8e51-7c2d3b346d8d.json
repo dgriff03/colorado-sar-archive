@@ -1,0 +1,18 @@
+{
+  "id": "7e88969a-f358-4476-8e51-7c2d3b346d8d",
+  "date": "2018-07-10",
+  "summary": "David Mutabazi, 24, a CPW seasonal employee at Steamboat Lake State Park since May, drowned while swimming ~100 yards from shore after his shift; a witness could not reach him; CPW park rangers and a Routt County deputy recovered his body ~9:45 p.m. the same evening; the Routt County Sheriff's Office investigation concluded the drowning was accidental.",
+  "location": "Steamboat Lake, Steamboat Lake State Park",
+  "county": "Routt",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Colorado Parks and Wildlife; Routt County Sheriff's Office",
+  "source_urls": "https://northfortynews.com/category/news/cpw-seasonal-employee-drowns-at-steamboat-lake-state-park/",
+  "notes": "Run 1002 insert; North Forty News article published 2018-07-15 (\"Tuesday afternoon at approximately 4:30 p.m.\" -> 2018-07-10, Tuesday-verified). Second drowning at Steamboat Lake State Park in the last two months per the article; prior to these, park officials had recorded no drownings in the lake's history.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
