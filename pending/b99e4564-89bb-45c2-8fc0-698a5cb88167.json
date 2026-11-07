@@ -1,0 +1,18 @@
+{
+  "id": "b99e4564-89bb-45c2-8fc0-698a5cb88167",
+  "date": "2026-10-27",
+  "summary": "57-year-old Denver man John N. Countryman found dead on the floor of Black Canyon of the Gunnison National Park below the South Rim near Devil's Lookout; deputies found his abandoned vehicle near mile marker 10 on Oct 27, a sheriff's drone team spotted human remains on the canyon floor the morning of Oct 28, and a technical recovery operation brought the body up Oct 30; cause and manner of death under investigation by the Montrose County Coroner's Office.",
+  "location": "Black Canyon of the Gunnison National Park, South Rim near Devil's Lookout",
+  "county": "Montrose",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Montrose County Sheriff's Office",
+  "source_urls": "https://foxnews.com/us/denver-man-found-dead-bottom-national-park-canyon-beneath-steep-drop-offs|https://people.com/body-of-missing-denver-man-57-found-at-bottom-of-colorado-canyon-12241507",
+  "notes": "APPROXIMATE DATE — 2026-10-27 is the date deputies found the abandoned vehicle and the search began; when Countryman entered the canyon / died is not stated in sources. Timeline: vehicle + personal belongings found near Devil's Lookout ~5:30 p.m. Oct 27; MCSO drone team confirmed human remains on the canyon floor ~6:30 a.m. Oct 28; body recovered Oct 30; MCSO announced Nov 4; coroner confirmed identity Nov 5. Cause and manner of death under investigation as of Nov 6-7 reporting. MCSO Facebook post is the primary source per Fox News; no case number stated. Inserted by freshness sweep 2026-11-07.",
+  "peak": "Black Canyon of the Gunnison",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
