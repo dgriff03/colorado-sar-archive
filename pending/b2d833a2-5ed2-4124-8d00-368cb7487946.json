@@ -1,0 +1,18 @@
+{
+  "id": "b2d833a2-5ed2-4124-8d00-368cb7487946",
+  "date": "2016-05-28",
+  "summary": "16-year-old Beau Richey of Pleasant Grove, Utah, lost control of his ATV coming around a bend off County Road 315 near Silt; the nearly 400-pound ATV fell on him, causing severe chest injuries, and he was pronounced dead at St. Mary's Hospital in Grand Junction.",
+  "location": "County Road 315, near Silt",
+  "county": "Garfield",
+  "incident_type": "vehicle",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Garfield County Coroner's Office",
+  "source_urls": "https://www.kmts.com/news/news-203",
+  "notes": "INSERT run1003; source names only the Garfield County Coroner; no SAR-team response described — scope per indexed id 2393 ATV-fatality precedent",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
