@@ -1,0 +1,18 @@
+{
+  "id": "ac751509-208b-4a04-bb40-5a308dc3fe31",
+  "date": "2026-11-08",
+  "summary": "Injured hiker on Kit Carson Peak; Alpine Rescue Team assisted Saguache County with two rescue technicians (mission 2026-168, posted 12:50 p.m.); thin mission-log post, outcome unreported",
+  "location": "Kit Carson Peak",
+  "county": "Saguache",
+  "incident_type": "injury",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/2026-168-assist-to-saguache-county-with-two-rescue-techs-for-an-injured-hiker-on-kit-carson-peak/",
+  "notes": "Freshness sweep 2026-11-09: Alpine Rescue Team mission log post, 2026-11-08 (Sunday-verified); thin post, no further detail published.",
+  "peak": "Kit Carson Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
