@@ -1,0 +1,18 @@
+{
+  "id": "c02fbd3c-e4c9-455d-a410-cd492f9d80b0",
+  "date": "2011-01-25",
+  "summary": "Joe Lubar, 21, a DU junior, lost control on a double black diamond run at Copper Mountain and fell over a 50-foot cliff, suffering serious brain injuries and broken bones; taken to a Summit County hospital, then transferred to St. Anthony Central Hospital in Denver, where he died Feb 11.",
+  "location": "Copper Mountain Resort",
+  "county": "Summit",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://duclarion.com/2011/02/du-student-dies-after-ski-accident-6/",
+  "notes": "INSERT run1006; DU Clarion 2011-02-14: accident Tue Jan 25, 2011 (weekday-verified), died Fri Feb 11, 2011; date is the accident day. Source names no responder — agency left blank rather than inferred (id-3190 precedent names Copper Mountain Ski Patrol + Summit County SO from its source). In-bounds ski fatality in scope per id 3190 (same resort).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

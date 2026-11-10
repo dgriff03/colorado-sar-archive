@@ -1,0 +1,18 @@
+{
+  "id": "87ec805c-ceac-43fb-8f13-676af1b345bf",
+  "date": "2014-06-15",
+  "summary": "56-year-old woman took a reported 65-foot tumbling, sliding fall on the snowfield between Chasm Junction and Chasm Lake; the park Search and Rescue team reached her within two hours, performed a technical litter raise to the trail, carried her to Chasm Meadows, and Flight for Life flew her to a Lakewood hospital with numerous injuries.",
+  "location": "Snowfield between Chasm Junction and Chasm Lake, Rocky Mountain National Park",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park Search and Rescue team",
+  "source_urls": "https://www.nps.gov/romo/learn/news/pr_woman_airlifted_from_chasm_lake_area_in_rocky_mountain_national_park.htm",
+  "notes": "INSERT run1006; NPS release dated 2014-06-16: incident Sunday June 15, 2014 (weekday-verified); release image caption \"June 15 2013\" is a filename typo (2013-06-15 was a Saturday). County Boulder per id-2463 Mills Glacier/Chasm Lake precedent.",
+  "peak": "Longs Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
