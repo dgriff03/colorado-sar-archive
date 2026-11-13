@@ -1,0 +1,18 @@
+{
+  "id": "80237253-416e-4330-a8f1-cc7ed348e592",
+  "date": "2021-08-05",
+  "summary": "47-year-old woman from Black Forest swimming in the South Platte River in Eleven Mile Canyon was caught in rapids, swept to an inaccessible spot and tangled in rocks; Lake George Fire Protection District technical rescue lifted her by basket up a steep boulder-lined embankment; treated by Ute Pass Regional Ambulance, then flown by Flight for Life to Penrose Hospital in Colorado Springs.",
+  "location": "Eleven Mile Canyon (South Platte River), near Lake George",
+  "county": "Park",
+  "incident_type": "other",
+  "outcome": "transported, hospitalized",
+  "victims": 1,
+  "responding_agency": "Lake George Fire Protection District",
+  "source_urls": "https://www.theflume.com/free_content/article_f465287c-fba9-11eb-8c8d-c7ce7756e861.html",
+  "notes": "Article gives \"Aug. 5\" with no year printed; year 2021 pinned parent-side from the article UUID v1 timestamp (created 2021-08-12), validated against Tracy (2019-07-03) and Boreas (2014-03-05) Flume anchors; Aug 5, 2021 was a Thursday. Victim name withheld in source (privacy).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
