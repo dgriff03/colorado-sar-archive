@@ -1,0 +1,18 @@
+{
+  "id": "812b4e5b-1d6a-4f73-a46b-c6a12e9504c0",
+  "date": "2026-11-14",
+  "summary": "Lost male and female hikers near the Rest House Trail on Mt Blue Sky; Alpine Rescue Team paged non-emergent (mission 2026-171, paged 4:45 p.m.); thin mission-log post, outcome unreported",
+  "location": "Rest House Trail, Mt Blue Sky",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 2,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/2026-171-team-paged-non-emergent-for-a-lost-male-female-hikers-near-the-rest-house-trail-on-mt-blue-sky/",
+  "notes": "Freshness sweep 2026-11-15: Alpine Rescue Team mission log post, 2026-11-14 (Saturday-verified); thin post, no further detail published.",
+  "peak": "Mount Evans",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

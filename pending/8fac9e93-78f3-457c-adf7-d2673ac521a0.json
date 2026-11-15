@@ -1,0 +1,18 @@
+{
+  "id": "8fac9e93-78f3-457c-adf7-d2673ac521a0",
+  "date": "2017-02-10",
+  "summary": "60-year-old man suffered a leg injury in a sliding fall on Twin Sisters Trail just outside the Rocky Mountain National Park boundary; Rocky Mountain National Park SAR and Larimer County SAR ran a unified command with Rocky Mountain Rescue assisting; sled-litter evacuation through fallen trees and high winds to an ambulance, then to Estes Park Medical Center; 30+ personnel.",
+  "location": "Twin Sisters Trail",
+  "county": "Larimer",
+  "incident_type": "injury",
+  "outcome": "evacuated",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park SAR; Larimer County SAR",
+  "source_urls": "https://www.nps.gov/romo/learn/news/pr_teams_assisting_injured_man_in_twin_sisters_area.htm",
+  "notes": "NPS news release Feb 10, 2017; unified command RMNP SAR + Larimer County SAR, Rocky Mountain Rescue assisting; 30+ personnel; patient taken by ambulance to Estes Park Medical Center; Feb 10, 2017 was a Friday.",
+  "peak": "Twin Sisters Peaks",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

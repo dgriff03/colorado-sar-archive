@@ -1,0 +1,18 @@
+{
+  "id": "b2c4a834-db14-4677-8865-fb4c0d1514b2",
+  "date": "2026-10-22",
+  "summary": "Missing hiker found dead in Hunter Canyon; Mesa County Search and Rescue search began the evening of Oct 22 after the Mesa County Sheriff's Office requested assistance; a field team ascending a steep slope on the eastern edge found the body shortly after 10 a.m. Oct 24; recovery crews used multiple low-angle rope systems to lower the body to the valley floor and transferred it to the Mesa County Coroner's Office around 3 p.m.; victim unnamed in reporting",
+  "location": "Hunter Canyon",
+  "county": "Mesa",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Mesa County Search and Rescue",
+  "source_urls": "https://www.apexnews.com/en-US/news/missing-hiker-found-dead-in-mesa-county-canyon-6e27eaaa261103en_us",
+  "notes": "Freshness sweep 2026-11-15: KREX/WesternSlopeNow report (published 2026-11-03) via apexnews syndication; search began Thursday 2026-10-22 (Thursday-verified), body found Saturday 2026-10-24 ~10 a.m.; search used ground teams, drones with anomaly-detection analysis, Classic Air aerial support, cell-phone forensics, and a Garfield County search dog (Rogue); victim name/age not reported.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

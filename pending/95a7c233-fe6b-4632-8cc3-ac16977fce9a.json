@@ -1,0 +1,18 @@
+{
+  "id": "95a7c233-fe6b-4632-8cc3-ac16977fce9a",
+  "date": "2026-11-14",
+  "summary": "Lost male hiker in the St Mary's Glacier area; Alpine Rescue Team paged non-emergent (mission 2026-170, paged 2:21 p.m.); thin mission-log post, outcome unreported",
+  "location": "St Mary's Glacier area",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/2026-170-team-paged-non-emergent-for-a-lost-male-hiker-in-the-st-marys-glacier-area/",
+  "notes": "Freshness sweep 2026-11-15: Alpine Rescue Team mission log post, 2026-11-14 (Saturday-verified); thin post, no further detail published.",
+  "peak": "James Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
