@@ -1,0 +1,18 @@
+{
+  "id": "95566e32-4b4c-4145-8f74-aa01869980d6",
+  "date": "2026-11-15",
+  "summary": "Hunter thrown from a horse along Spring Camp Trail in Whitewater; Mesa County Fire Authority responded about 9:52 a.m. and hiked in to reach the injured rider, assisted by Grand Junction Fire Department, CareFlight of the Rockies and the Mesa County Sheriff's Office; CareFlight located the rider, landed nearby, and flew the hunter to a hospital",
+  "location": "Spring Camp Trail, Whitewater",
+  "county": "Mesa",
+  "incident_type": "injury",
+  "outcome": "rescued",
+  "victims": 1,
+  "responding_agency": "Mesa County Fire Authority",
+  "source_urls": "https://junctionnow.com/2026/11/15/hunter-flown-to-hospital-after-trail-accident/",
+  "notes": "Freshness sweep 2026-11-16: Junction Now report published 2026-11-15 (Sunday-verified); rider's name, age and condition not reported.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
