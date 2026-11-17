@@ -1,0 +1,18 @@
+{
+  "id": "7f94996f-6213-4dd6-bc3f-92411cef5e48",
+  "date": "2020-11-14",
+  "summary": "Two boys duck hunting on Clear Creek Reservoir capsized their canoe in 33-degree water and 20 mph wind; one boy was pulled out by his father and CPW officers, but 13-year-old Makalu Bowen was not found; a two-day multi-agency search ended Monday ~12:30 p.m. when CPW's MERT unit located his body in 35 ft of water ~270 yards offshore and Pueblo County Sheriff SAR divers recovered it.",
+  "location": "Clear Creek Reservoir State Wildlife Area, 15 miles north of Buena Vista",
+  "county": "Chaffee",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Colorado Parks and Wildlife",
+  "source_urls": "https://www.themountainmail.com/news/article_b770adf8-2934-11eb-8356-830dbc09cf8a.html",
+  "notes": "Date inferred (approximate): article carries no printed date; article UUID decodes to 2020-11-17 publication; incident Sat/Mon immediately before = 2020-11-14/16, Saturday-verified; method validated run 1013 against four indexed Mountain Mail rows (0-5 day lags); no dated corroboration found in parent searches. Also on scene: Chaffee County SAR North, Lake County SAR, Pueblo County Sheriff SAR dive team, Summit County SAR canine unit. Inserted run 1013 (Mountain Mail chunk).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "59f83d32-d42e-4f18-bec4-5e1e66d0f903",
+  "date": "2012-05-31",
+  "summary": "Out-of-town female hiker slipped on rocks in the rugged canyon below the Lake Isabel dam and suffered a possible broken ankle; Custer County SAR carried her ~0.3 mile over rough terrain with creek crossings (~2 hrs) to a waiting ambulance; transported to Parkview Hospital in Pueblo, expected full recovery.",
+  "location": "Canyon below Lake Isabel dam, Lake Isabel area",
+  "county": "Pueblo",
+  "incident_type": "injury",
+  "outcome": "carried out",
+  "victims": 1,
+  "responding_agency": "Custer County SAR",
+  "source_urls": "http://custersar.org/broken-ankle-at-lake-isabel-31-may-2012/",
+  "notes": "Pueblo SAR and Rye Fire assisted; Flight for Life on standby, not needed. Source: Custer County SAR mission log (courtesy Wet Mountain Tribune), published 2012-06-01; incident \"last Thursday\" = 2012-05-31, Thursday-verified. Site is just inside Pueblo County per source. Inserted run 1013 (PCSO chunk).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

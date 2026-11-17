@@ -1,0 +1,18 @@
+{
+  "id": "66905cec-7fe7-4ed7-8a59-34fac76c2915",
+  "date": "2017-06-22",
+  "summary": "A 15-year-old girl fell into Lake Creek, which flows into Twin Lakes; rescue attempts by her father and boyfriend failed; Lake County and Chaffee County SAR searched the banks with canine teams through high water and fast current until a passerby found her body Friday evening ~5 p.m.",
+  "location": "Lake Creek at Twin Lakes, south of Leadville",
+  "county": "Lake",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Lake County Sheriff's Office / Lake County Search and Rescue",
+  "source_urls": "https://www.themountainmail.com/news/article_12ec166c-5bf8-11e7-80e0-5fb23203950e.html",
+  "notes": "Date inferred (approximate): article carries no printed date; article UUID decodes to 2017-06-28 publication; incident Thu/Fri immediately before = 2017-06-22/23, Thursday-verified; no dated corroboration found in parent searches. Victim unnamed in article (minor). Inserted run 1013 (Mountain Mail chunk).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
