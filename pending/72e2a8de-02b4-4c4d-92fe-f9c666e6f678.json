@@ -1,0 +1,18 @@
+{
+  "id": "72e2a8de-02b4-4c4d-92fe-f9c666e6f678",
+  "date": "2023-11-19",
+  "summary": "39-year-old man lead climbing at The Dome (~39-mile marker, Boulder Canyon) lost footing, pulled protection and fell/slid about 30 feet before his partner arrested the fall; serious head injury, unable to walk out; full-body vacuum splint/litter evacuation to Boulder Creek Path and ambulance; transported to hospital.",
+  "location": "The Dome climbing formation, Boulder Canyon",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office",
+  "source_urls": "https://bouldercounty.gov/news/fallen-climber-with-head-injury-rescued-at-the-dome-climbing-formation/",
+  "notes": "BCSO case #23-06254. Inserted run 1014 (BCSO chunk).",
+  "peak": "Boulder Canyon",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

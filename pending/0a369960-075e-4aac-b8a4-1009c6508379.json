@@ -1,0 +1,18 @@
+{
+  "id": "0a369960-075e-4aac-b8a4-1009c6508379",
+  "date": "2022-07-18",
+  "summary": "20-year-old woman lead climbing at Dinosaur Rock (southwest of NCAR) fell about 10 feet, injuring both ankles; Rocky Mountain Rescue Group and OSMP splinted her and did a technical litter evacuation; she refused further care at the trailhead.",
+  "location": "Dinosaur Rock, Boulder",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office",
+  "source_urls": "https://bouldercounty.gov/news/dinosaur-rock-injured-ankle-rescue/",
+  "notes": "BCSO case #22-3417. Inserted run 1014 (BCSO chunk).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "a2888b08-79a5-4f18-8aba-3212f1ec311c",
+  "date": "2022-06-06",
+  "summary": "Kenneth Ward, 79, of Florence, drowned after his solo private raft capsized on the Arkansas River in the Florence area; witnesses saw him in distress floating by Florence River Park; Colorado Parks and Wildlife launched a search around 4 p.m., suspended Monday evening and resumed the next morning, with his body recovered after 3:30 p.m. on June 7; flush drowning.",
+  "location": "Florence River Park, Florence, Arkansas River",
+  "county": "Fremont",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Colorado Parks and Wildlife",
+  "source_urls": "https://www.americanwhitewater.org/accident/2022-06-06-arkansas-river-does-not-apply/",
+  "notes": "Source: American Whitewater accident record (wp-json 68686) quoting the Pueblo Chieftain; parent-verified. Fremont County Coroner Randy Keller. Inserted run 1014 (Chieftain chunk).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

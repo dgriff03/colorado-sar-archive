@@ -1,0 +1,18 @@
+{
+  "id": "52f6e5a4-eded-4a9a-8c40-da20fba46b06",
+  "date": "2022-06-05",
+  "summary": "54-year-old woman injured her ankle hiking Lions Lair Trail on Mount Sanitas with her husband; splinted and wheeled-litter evacuated by Rocky Mountain Rescue Group with Sunshine Fire and Boulder Rural Fire; transported to hospital.",
+  "location": "Lions Lair Trail, Mount Sanitas, Boulder",
+  "county": "Boulder",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office",
+  "source_urls": "https://bouldercounty.gov/news/injured-hiker-rescued-on-lions-lair-trail-2/",
+  "notes": "BCSO case #22-02591. Inserted run 1014 (BCSO chunk).",
+  "peak": "Mount Sanitas",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

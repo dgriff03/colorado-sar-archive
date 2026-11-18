@@ -1,0 +1,18 @@
+{
+  "id": "888ed5ad-f79d-42a5-a2f4-ad2c3272de85",
+  "date": "2020-08-22",
+  "summary": "Car plunged off a section of Pikes Peak Highway known as the Bottomless Pit, went through a stone barrier and caught fire after falling down a steep cliff; ambulances on scene and a helicopter called in to transport one person; condition not reported.",
+  "location": "Pikes Peak Highway, Bottomless Pit area",
+  "county": "El Paso",
+  "incident_type": "vehicle",
+  "outcome": "airlifted",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://www.newslocker.com/en-us/region/colorado-springs/car-plunges-off-pikes-peak-highway/",
+  "notes": "Date pinned from the lead-image date 2020/08/22 and surrounding Aug 2020 items plus 'Saturday afternoon' — 2020-08-22 was a Saturday. Responding agency not stated in source (rescue crews/ambulances/helicopter only); agency left blank per the id 3156 precedent. Source is a NewsLocker reprint of KRDO/NewsChannel 13. Inserted run 1014 (EPSO chunk).",
+  "peak": "Pikes Peak",
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null
+}

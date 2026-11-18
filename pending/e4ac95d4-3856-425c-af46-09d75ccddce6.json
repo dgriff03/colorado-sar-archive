@@ -1,0 +1,18 @@
+{
+  "id": "e4ac95d4-3856-425c-af46-09d75ccddce6",
+  "date": "2021-12-22",
+  "summary": "67-year-old woman from Boulder fell while scrambling on the Second Flatiron (Ranger Trail), briefly lost consciousness and complained of back pain; OSMP ranger and Rocky Mountain Rescue Group stabilized her and she walked out to an ambulance at Realization Point; transported to hospital with non-life-threatening injuries.",
+  "location": "Second Flatiron, Ranger Trail, Chautauqua Park, Boulder",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office",
+  "source_urls": "https://bouldercounty.gov/news/scrambler-falls-from-second-flatiron/",
+  "notes": "BCSO case #21-6166. Inserted run 1014 (BCSO chunk).",
+  "peak": "The Flatirons",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

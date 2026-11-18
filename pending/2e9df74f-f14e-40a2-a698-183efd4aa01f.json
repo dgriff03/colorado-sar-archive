@@ -1,0 +1,18 @@
+{
+  "id": "2e9df74f-f14e-40a2-a698-183efd4aa01f",
+  "date": "2022-05-01",
+  "summary": "25-year-old woman twisted her ankle hiking down Chautauqua Trail, unable to bear weight; OSMP rangers located her and provided care, and Rocky Mountain Rescue Group litter-evacuated her to the trailhead; AMR transported her to hospital.",
+  "location": "Chautauqua Trail, Chautauqua Open Space, Boulder",
+  "county": "Boulder",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office",
+  "source_urls": "https://bouldercounty.gov/news/hiker-rescued-from-chautauqua-trail/",
+  "notes": "BCSO case #22-1919. Inserted run 1014 (BCSO chunk).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "e8bee2be-a70b-4e19-8400-5cab51c4d317",
+  "date": "2016-05-23",
+  "summary": "Lost hiker in Section 16 (Palmer Trail) off Gold Camp Road; Colorado Springs Fire Department initially dispatched to the 400 block of Gold Camp Road on a high-angle rescue report, then treated it as a lost-hiker search, going up the trail on motorcycles; hiker found.",
+  "location": "Section 16 (Palmer Trail), Gold Camp Road, Colorado Springs",
+  "county": "El Paso",
+  "incident_type": "lost/stranded",
+  "outcome": "located",
+  "victims": 1,
+  "responding_agency": "Colorado Springs Fire Department",
+  "source_urls": "https://www.newslocker.com/en-us/region/colorado-springs/springs-firefighters-find-lost-hiker/view/",
+  "notes": "Resolves the parked 2016-05-23 Section 16 lead (runs 996/1013): headline 'Springs firefighters find lost hiker' confirms the find; body text describes the search under way and the hiker's condition is not stated. Date pinned from the NewsLocker 2016-05-23 daily index (search-index age 3,831 days before 2026-11-18 = 2016-05-23, Monday-verified). Inserted run 1014 (EPSO chunk).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

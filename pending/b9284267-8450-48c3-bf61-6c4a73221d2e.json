@@ -1,0 +1,18 @@
+{
+  "id": "b9284267-8450-48c3-bf61-6c4a73221d2e",
+  "date": "2019-08-20",
+  "summary": "Hiker attempting to summit Pikes Peak failed to reach the top, spent the night on the mountain, and became cliffed out; El Paso County Search and Rescue rappelled to the hiker and rescued the person Tuesday afternoon; condition not reported.",
+  "location": "Pikes Peak",
+  "county": "El Paso",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued",
+  "victims": 1,
+  "responding_agency": "El Paso County Search and Rescue",
+  "source_urls": "https://www.backpacker.com/news-and-events/careful-out-there-august-26/?scope=anon",
+  "notes": "Source: Backpacker roundup published Mon 2019-08-26 covering Aug 19-26; 'Tuesday afternoon' = Aug 20, the only Tuesday in the window, Tuesday-verified. Linked CBS Denver drone-footage page not openable; condition unknown. Inserted run 1014 (EPSO chunk).",
+  "peak": "Pikes Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
