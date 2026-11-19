@@ -1,0 +1,18 @@
+{
+  "id": "35c88151-f525-4075-a640-3d86a77f48be",
+  "date": "2014-09-29",
+  "summary": "Two women, ages 67 and 70, lost while hiking in search of pinon trees near Zapata Falls; one called her husband saying they were lost and scared, with no gear for the impending weather or an overnight stay. AVSAR callout sent at 1645, team en route; deputies waiting at the Zapata Subdivision and the falls parking area; the women were located safe at 1744 and AVSAR stood down.",
+  "location": "Zapata Falls",
+  "county": "Alamosa",
+  "incident_type": "lost/stranded",
+  "outcome": "located uninjured",
+  "victims": 2,
+  "responding_agency": "Alamosa Volunteer SAR",
+  "source_urls": "https://www.avsar.us/missions-from-2008-2015/",
+  "notes": "AVSAR missions page (September 29, 2014 entry). Shared-page source, also cited on 38 other rows (run-997 precedent). Callout with en-route team — stood-down-mission precedent (ids 2381/3843). Inserted run 1015 (NPS GRSA chunk).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

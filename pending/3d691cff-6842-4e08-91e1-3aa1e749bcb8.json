@@ -1,0 +1,18 @@
+{
+  "id": "3d691cff-6842-4e08-91e1-3aa1e749bcb8",
+  "date": "2020-05-19",
+  "summary": "Two climbers stuck at Castle Rock (29,400 Boulder Canyon Drive) after their ropes tangled on descent; Rocky Mountain Rescue Group, Nederland Fire Department, Boulder Emergency Services and the Boulder County Sheriff's Office performed a tactical rescue; both climbers were assisted down safely, uninjured.",
+  "location": "Castle Rock, Boulder Canyon",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Rocky Mountain Rescue Group",
+  "source_urls": "https://content.govdelivery.com/accounts/COBOULDER/bulletins/28c8481",
+  "notes": "BCSO release dated May 20, 2020; incident May 19, 2020 about 9:40 p.m. Inserted run 1015 (Boulder Weekly chunk).",
+  "peak": "Boulder Canyon",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

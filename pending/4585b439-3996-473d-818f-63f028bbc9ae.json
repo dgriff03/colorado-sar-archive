@@ -1,0 +1,18 @@
+{
+  "id": "4585b439-3996-473d-818f-63f028bbc9ae",
+  "date": "2022-01-30",
+  "summary": "Unknown adult male collided with a 13-year-old skier near the bottom of the Grubstake Trail in Bachelor Gulch, Beaver Creek, around 2 p.m. on Sunday, January 30, 2022, and left the scene; the teen suffered several injuries including a broken clavicle. The Eagle County Sheriff's Office issued a press release seeking information on the hit-and-run suspect (described as a white male in his 60s).",
+  "location": "Beaver Creek Ski Resort, Bachelor Gulch, bottom of Grubstake Trail",
+  "county": "Eagle",
+  "incident_type": "other",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Eagle County Sheriff's Office",
+  "source_urls": "https://www.realvail.com/eagle-county-sheriffs-office-seeks-information-on-unsolved-skier-collision-in-bachelor-gulch/a12451/",
+  "notes": "Source: Eagle County Sheriff's Office press release republished by Real Vail, published 2022-02-03. In-bounds ski-area injury included per the run-977 ski-area precedent (ids 3282/3469); no ski patrol or SAR team named in the source. Inserted run 1015 (Vail Daily chunk).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
