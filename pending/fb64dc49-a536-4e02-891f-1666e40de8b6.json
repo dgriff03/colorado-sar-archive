@@ -1,0 +1,18 @@
+{
+  "id": "fb64dc49-a536-4e02-891f-1666e40de8b6",
+  "date": "2019-03-13",
+  "summary": "During the March 13, 2019 bomb-cyclone blizzard, Douglas County Search and Rescue evacuated 54 stranded motorists and 2 dogs from the I-25 corridor between Castle Rock and the Douglas County border. Activated at 12:02 p.m. by the Douglas County Office of Emergency Management, 14 members used snowmobile teams and 4x4 trucks along Greenland Rd, Spruce Mountain, and Upper Lake Gulch Rd; teams cleared at 2:00 a.m. March 14 after ~120 volunteer hours.",
+  "location": "I-25 corridor, Castle Rock to Douglas County border",
+  "county": "Douglas",
+  "incident_type": "vehicle",
+  "outcome": "rescued-uninjured",
+  "victims": 54,
+  "responding_agency": "Douglas County Search and Rescue",
+  "source_urls": "https://us13.campaign-archive.com/?u=a4e027899be9276e67173de65&id=c18d217065",
+  "notes": "DCSAR Belay On Issue #98 (March 2019 newsletter); incident date pinned to Wednesday 2019-03-13 by the dated source. MERGED/INSERTED run 987.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
