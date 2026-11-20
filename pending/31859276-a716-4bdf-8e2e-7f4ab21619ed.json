@@ -1,0 +1,18 @@
+{
+  "id": "31859276-a716-4bdf-8e2e-7f4ab21619ed",
+  "date": "2010-07-03",
+  "summary": "Jessica Cantrell, 25, of Charlotte, NC, clipped the rear tire of the rider ahead while descending the west hill of Rim Rock Drive, lost control and crashed near Historic Trails Overlook, suffering multiple injuries; treated on scene by an NPS ranger/EMT and a bystander EMT, then transported to St. Mary's Regional Medical Center by Lower Valley Fire.",
+  "location": "West hill of Rim Rock Drive near Historic Trails Overlook, Colorado National Monument",
+  "county": "Mesa",
+  "incident_type": "injury",
+  "outcome": "transported, hospitalized",
+  "victims": 1,
+  "responding_agency": "Colorado National Monument rangers; Lower Valley Fire",
+  "source_urls": "https://www.nps.gov/colm/bicyclist-crashes-on-west-hill.htm",
+  "notes": "NPS news release dated July 6, 2010; crash Sat July 3, 2010 ~10:00 a.m. (Saturday-verified); victim not wearing a helmet; no motor vehicles involved. First 2010 COLM row in the DB.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
