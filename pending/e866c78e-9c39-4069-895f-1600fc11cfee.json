@@ -1,0 +1,18 @@
+{
+  "id": "e866c78e-9c39-4069-895f-1600fc11cfee",
+  "date": "2016-02-25",
+  "summary": "Sam Beall, 39, of Knoxville, Tennessee, owner of Blackberry Farm, died after a skiing accident on an unspecified intermediate run at Beaver Creek Resort; died at Vail Valley Medical Center.",
+  "location": "Beaver Creek Resort, Avon",
+  "county": "Eagle",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Beaver Creek Ski Patrol",
+  "source_urls": "https://www.firsttracksonline.com/2016/02/29/tennessee-resort-owner-dies-at-beaver-creek/|https://www.winespectator.com/articles/blackberry-farm-proprietor-sam-beall-dies-at-39-52797",
+  "notes": "In-bounds ski-area incident, same class as ids 3282/3469; run unspecified; Thursday 2016-02-25 weekday-verified; Beaver Creek Ski Patrol named in resort statement.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null
+}
