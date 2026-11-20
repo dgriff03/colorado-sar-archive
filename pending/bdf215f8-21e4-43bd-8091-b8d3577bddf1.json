@@ -1,0 +1,18 @@
+{
+  "id": "bdf215f8-21e4-43bd-8091-b8d3577bddf1",
+  "date": "2021-08-24",
+  "summary": "26-year-old woman finished scrambling the Freeway route on the Second Flatiron, slipped about 20 feet at the top and injured her lower leg; splinted and litter-evacuated by Rocky Mountain Rescue Group with City of Boulder Open Space and Mountain Parks rangers, then transported to hospital",
+  "location": "Second Flatiron, Chautauqua Park",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office",
+  "source_urls": "https://bouldercounty.gov/news/scrambler-rescued-near-the-second-flatiron/",
+  "notes": "Run 993 BCSO chunk; BCSO case #21-4033.",
+  "peak": "The Flatirons",
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null
+}
