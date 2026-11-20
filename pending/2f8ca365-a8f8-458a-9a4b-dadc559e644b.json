@@ -1,0 +1,18 @@
+{
+  "id": "2f8ca365-a8f8-458a-9a4b-dadc559e644b",
+  "date": "2021-10-16",
+  "summary": "Jenifer Ann Driver (known as Mountain Sun) last seen in the North Crestone Campground area near Crestone, believed possibly headed to hike to North Crestone Lake; reported missing October 29; Saguache County Sheriff's Office launched an extensive foot and helicopter search that found nothing; the sheriff said evidence pointed to a possible self-inflicted situation; the case remains open and the hiker unlocated.",
+  "location": "North Crestone Campground / North Crestone Lake area, near Crestone",
+  "county": "Saguache",
+  "incident_type": "lost/stranded",
+  "outcome": "search ongoing, unlocated",
+  "victims": 1,
+  "responding_agency": "Saguache County Sheriff's Office / Saguache County Search and Rescue",
+  "source_urls": "https://www.montevistajournal.com/stories/scso-provides-update-on-missing-woman-from-crestone-area,8578",
+  "notes": "Date is the last-seen date (2021-10-16, Saturday); reported missing 2021-10-29. Source published 2021-12-10. Inserted run 1016 (Monte Vista Journal chunk).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
