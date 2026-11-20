@@ -1,0 +1,18 @@
+{
+  "id": "4b15fb32-624e-4279-98fa-e541f6d2730e",
+  "date": "2018-08-08",
+  "summary": "58-year-old woman separated from her husband on the final morning of a 3-day Missouri Lakes to Cross Creek hike; stopped to rest, got turned around and hiked in the wrong direction; Vail Mountain Rescue Group deployed six teams plus helicopter, dogs and drone; a passerby made contact about 5:00 p.m. the next day and the helicopter confirmed her location; ground crews hiked her out in good health.",
+  "location": "Missouri Lakes to Cross Creek Trailhead, Holy Cross Wilderness",
+  "county": "Eagle",
+  "incident_type": "lost/stranded",
+  "outcome": "located uninjured, walked out",
+  "victims": 1,
+  "responding_agency": "Vail Mountain Rescue Group (Eagle County Sheriff's Office)",
+  "source_urls": "https://mailchi.mp/eaglecounty.us/media-release-081018-missing-hiker-found-from-the-missouri-lakes-to-cross-creek-trailhead",
+  "notes": "INSERT run1005; ECSO media release 08.10.18: report received 9:40 a.m. Aug 8, 2018; separated on final morning of 3-day hike; located following day ~5 p.m. via passerby + helicopter; date is SAR-contact/report day per id-2146 precedent.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
