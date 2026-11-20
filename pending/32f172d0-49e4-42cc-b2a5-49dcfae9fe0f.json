@@ -1,0 +1,18 @@
+{
+  "id": "32f172d0-49e4-42cc-b2a5-49dcfae9fe0f",
+  "date": "2026-11-14",
+  "summary": "Three unprepared hikers stranded in deep snow near the High Lonesome Trail at about 11,600 feet; Grand County Search and Rescue paged at 5:01 p.m. and reached the group via ATVs up Rollins Pass Road then on foot; the hikers were cold and tired with no fire-starting gear, and rescuers hiked them out overnight, all out of the field by 4:18 a.m. November 15",
+  "location": "High Lonesome Trail near Rollins Pass",
+  "county": "Grand",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued",
+  "victims": 3,
+  "responding_agency": "Grand County Search and Rescue",
+  "source_urls": "https://snowbrains.com/unprepared-hikers-rescued-colorado-continental-divide/|https://www.facebook.com/GCSAR/posts/pfbid0346sGhadTkJfnppizEJMkUyLP9irYeLQ6TXjxpnx1sKWMWwzvcDukxuf8PMQkchMAl",
+  "notes": "Freshness sweep 2026-11-20: SnowBrains 2026-11-19 + Grand County Search and Rescue Facebook post 2026-11-19, both parent-opened live; paged Sat Nov 14 5:01 p.m., out Sun Nov 15 4:18 a.m.; hikers' names/ages unreported; camp at ~11,600 ft in the Indian Peaks Wilderness.",
+  "peak": "Rollins Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

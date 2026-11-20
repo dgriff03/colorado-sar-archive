@@ -1,0 +1,18 @@
+{
+  "id": "1ab2b08b-30bd-4d9e-8591-d7580ae578cd",
+  "date": "2022-09-30",
+  "summary": "Jonathan Yarborough, 49, went hiking and had not returned or contacted family in several days; reported missing to the Chaffee County Sheriff's Office on September 28; an aerial search located his body just below Mt. Ouray, just inside Saguache County, on September 30; the Chaffee County Sheriff's Office Search and Rescue team handled the recovery with Division of Fire Prevention and Control air support.",
+  "location": "Below Mt. Ouray",
+  "county": "Saguache",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Chaffee County Sheriff's Office Search and Rescue (DFPC air support)",
+  "source_urls": "https://montevistajournal.com/stories/mans-body-recovered-below-mt-ouray,4870",
+  "notes": "Date is the body-recovery date (Friday 2022-09-30); reported missing Sept 28, 2022. Body located just inside Saguache County during a Chaffee County aerial search; recovery by Chaffee County SO SAR with DFPC air support. Found via the MVJ advanced-search live-browser check. Inserted run 1016 (Monte Vista Journal chunk).",
+  "peak": "Mount Ouray",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
