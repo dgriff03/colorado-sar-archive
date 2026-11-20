@@ -1,0 +1,18 @@
+{
+  "id": "bac6fe69-7186-4168-bddd-0a8adafb0790",
+  "date": "2023-12-26",
+  "summary": "Garfield County Search and Rescue, searching for a missing person, located human remains near Fravert Reservoir off County Road 244; the remains were identified as Raul Perez, whose body had been there since mid-summer; the death was investigated as a homicide and four people were charged in April 2024.",
+  "location": "Fravert Reservoir, off County Road 244, near Rifle",
+  "county": "Garfield",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Garfield County Search and Rescue",
+  "source_urls": "https://soprissun.com/scuttlebutt-calendar-16/",
+  "notes": "Date is the remains-found date per the id-3865 precedent; body had been there since mid-summer; death investigated as homicide, four charged 2024-04-02; source = Sopris Sun Scuttlebutt/Calendar published 2024-04-10, citing a Garfield County Sheriff's Office press release; Dec 26, 2023 was a Tuesday.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
