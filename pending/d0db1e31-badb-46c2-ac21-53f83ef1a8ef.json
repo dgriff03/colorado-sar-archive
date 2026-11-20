@@ -1,0 +1,18 @@
+{
+  "id": "d0db1e31-badb-46c2-ac21-53f83ef1a8ef",
+  "date": "2026-10-29",
+  "summary": "37-year-old solo hiker stranded in thigh-to-hip-deep snow on the north side of Frigid Air Pass on the Four Pass Loop; texted 911 'Please help me' Thursday evening after telling family her phone battery was at 10%, then lost contact. CareFlight 3 located her about 11 p.m. but could not land; a five-person Crested Butte Search and Rescue ground team hiked overnight from the West Maroon trailhead and reached her about 6 a.m. Friday Oct 30, unable to walk with cold-related injuries and signs of hypothermia; a Colorado Army National Guard UH-60 Black Hawk hoisted her out about 9:15 a.m. and she was flown to the UCHealth Burn and Frostbite Center in Aurora.",
+  "location": "Frigid Air Pass, Four Pass Loop, Maroon Bells-Snowmass Wilderness",
+  "county": "Pitkin",
+  "incident_type": "lost/stranded",
+  "outcome": "hoisted, hospitalized",
+  "victims": 1,
+  "responding_agency": "Crested Butte Search and Rescue",
+  "source_urls": "https://snowbrains.com/crested-butte-search-rescue-solo-hiker-four-pass-loop/",
+  "notes": "Freshness sweep 2026-11-03: SnowBrains report citing a Crested Butte Search and Rescue post; incident began Thursday evening Oct 29, rescue completed Friday morning Oct 30.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

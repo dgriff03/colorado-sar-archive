@@ -1,0 +1,18 @@
+{
+  "id": "d24991f1-4012-481f-8860-53e5eac8d758",
+  "date": "2026-10-31",
+  "summary": "38-year-old solo hiker fell in the Diamond Lake area west of Nederland, sustaining multiple injuries including suspected lower-extremity fractures; Boulder County Sheriff's Office report about 4:18 p.m. Rocky Mountain Rescue Group and Nederland Fire Protection District responded; a Colorado Army National Guard UH-60L Black Hawk suffered a blade strike about 10:15 p.m. during a hoist attempt and made a precautionary landing near the Fourth of July Trailhead at Buckingham Park with no injuries aboard; a UH-72B Lakota hoisted the hiker about 12:21 a.m. Nov 1 to Nederland High School, then by ambulance to a Boulder hospital.",
+  "location": "Diamond Lake area, west of Nederland",
+  "county": "Boulder",
+  "incident_type": "fall",
+  "outcome": "hoisted, hospitalized",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain Rescue Group",
+  "source_urls": "https://unofficialnetworks.com/2026/11/02/colorado-helicopter-blade-strike-search-and-rescue/",
+  "notes": "Freshness sweep 2026-11-03: Unofficial Networks report citing the Boulder County Sheriff's Office and Colorado National Guard; rescue completed early Nov 1.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "25516623-cad9-4556-ba83-0db0c70d9d3b",
+  "date": "2022-02-13",
+  "summary": "Skier caught in avalanche on west side of Loveland Pass while traversing toward the Butt Crack chute; carried 200-300 ft including ~50-ft cliff drop, buried to waist with minor injuries; companion reached him in ~10 min; SCRG, Summit County Sheriff's Office, C-RAD team, Arapahoe Basin Ski Patrol and Flight for Life Colorado responded but were not needed - both skiers skied out on their own.",
+  "location": "West side of Loveland Pass, Butt Crack chute",
+  "county": "Summit",
+  "incident_type": "avalanche",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Summit County Rescue Group",
+  "source_urls": "https://snowbrains.com/avalanche-loveland-pass-co-300-feet-over-50-foot-cliff-buried/",
+  "notes": "INSERT run999; victim minor injuries, buried to waist; responders stood down, both skied out on their own.",
+  "peak": "Loveland Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
