@@ -1,0 +1,18 @@
+{
+  "id": "9f29f93d-b353-4ca0-abc0-eb188dc006b7",
+  "date": "2021-12-22",
+  "summary": "34-year-old man lost between Bear Canyon Trail and Mallory Cave Trail, unable to find the trail; OSMP ranger located him via 911 GPS coordinates and escorted him down (~2.5-hour rescue); only complaint dehydration.",
+  "location": "Between Bear Canyon Trail and Mallory Cave Trail, Boulder",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "located uninjured, escorted out",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office",
+  "source_urls": "https://bouldercounty.gov/news/lost-hiker-rescued/",
+  "notes": "BCSO case #21-6172. Same date as the Second Flatiron fall (case #21-6166) — distinct incident, different victim/location/case. Inserted run 1014 (BCSO chunk).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

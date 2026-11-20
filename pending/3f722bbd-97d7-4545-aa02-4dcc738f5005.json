@@ -1,0 +1,18 @@
+{
+  "id": "3f722bbd-97d7-4545-aa02-4dcc738f5005",
+  "date": "2022-06-06",
+  "summary": "Stefano Pezzella, 37, of Quincy, Illinois, drowned on a private two-boat raft trip in the Royal Gorge when his raft flipped in Sunshine Rapid around 3 p.m.; he was swept toward Sledgehammer Rapid while his two boatmates reached shore; nearby commercial guides pulled him out, attempted CPR and used an AED, and EMTs also treated him, but he was pronounced dead around 3:40 p.m.; flush drowning.",
+  "location": "Sunshine Rapid, Royal Gorge, Arkansas River",
+  "county": "Fremont",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Nearby commercial rafting guides; emergency medical technicians; Colorado Parks and Wildlife",
+  "source_urls": "https://www.americanwhitewater.org/accident/2022-06-06-arkansas-10-parkdale-launch-to-canon-city-10-parkdale-launch-to-canon-city-royal-gorge-does-not-apply/",
+  "notes": "Source: American Whitewater accident record quoting the Pueblo Chieftain ('Two men who drowned on Arkansas River identified'); narrative parent-verified via the record's wp-json (id 82615). Fremont County Coroner Randy Keller. Inserted run 1014 (Chieftain chunk).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

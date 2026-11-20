@@ -1,0 +1,18 @@
+{
+  "id": "41d1f7ea-709b-4115-a97a-b8948186eed7",
+  "date": "2022-09-04",
+  "summary": "57-year-old out-of-state man hiking Chautauqua Trail with family collapsed and stopped breathing; bystanders started CPR, rescuers and paramedics took over; carried to trailhead and transported to hospital.",
+  "location": "Chautauqua Trail, Chautauqua Park, Boulder",
+  "county": "Boulder",
+  "incident_type": "medical",
+  "outcome": "transported, hospitalized",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office",
+  "source_urls": "https://bouldercounty.gov/news/hiker-on-chautauqua-trail-collapses/",
+  "notes": "BCSO case #22-04406. Release text misstates the weekday as Monday; 2022-09-04 was a Sunday (release published Mon 2022-09-05). Inserted run 1014 (BCSO chunk).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

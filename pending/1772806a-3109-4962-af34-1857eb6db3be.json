@@ -1,0 +1,18 @@
+{
+  "id": "1772806a-3109-4962-af34-1857eb6db3be",
+  "date": "2022-09-17",
+  "summary": "Two aircraft collided mid-air over Boulder County around 8:54 a.m.; wreckage at the 10,000 block of Niwot Road (2 occupants, both deceased) and the 9,700 block (1 occupant, deceased); BCSO Search and Rescue, coroner, fire, CSP, FAA/NTSB responded.",
+  "location": "Niwot Rd, Boulder County",
+  "county": "Boulder",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 3,
+  "responding_agency": "Boulder County Sheriff's Office",
+  "source_urls": "https://bouldercounty.gov/news/multiple-aircraft-collided-over-boulder-county/",
+  "notes": "BCSO case #22-04695. Aviation crash included per the id 2760 (2022-07-17 Cessna crash) and id 1745 (2012-08-31 plane crash) precedents — BCSO SAR responded. Inserted run 1014 (BCSO chunk).",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "c492a139-3696-4fc3-b43a-1472a31475c3",
+  "date": "2016-05-12",
+  "summary": "Three experienced climbers stuck at the top of the 1st Flatiron after dark, unable to find the descent; Rocky Mountain Rescue Group, Boulder Fire and AMR did an overnight technical evacuation, concluding about 3:00 a.m. May 13; all three uninjured.",
+  "location": "Top of 1st Flatiron, Boulder",
+  "county": "Boulder",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 3,
+  "responding_agency": "Boulder County Sheriff's Office",
+  "source_urls": "https://content.govdelivery.com/accounts/COBOULDER/bulletins/14903ff",
+  "notes": "BCSO case #16-2725. Inserted run 1014 (BCSO chunk).",
+  "peak": "The Flatirons",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

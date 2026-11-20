@@ -1,0 +1,18 @@
+{
+  "id": "31721dca-203c-42ac-93c1-992c8610b36c",
+  "date": "2017-04-30",
+  "summary": "An unnamed man drowned after being tossed from a raft on a commercial Royal Gorge Rafting trip near Sunshine Rapid on a Sunday afternoon; he died at the scene and the Fremont County coroner's office ruled the death a drowning; his name was not released.",
+  "location": "Sunshine Rapid, Arkansas River near Canon City",
+  "county": "Fremont",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://www.newslocker.com/en-us/region/aurora/man-who-died-while-rafting-outside-of-canon-city-drowned/",
+  "notes": "Date inferred (approximate): NewsLocker page carries no date; search-index age 3,487 days before 2026-11-18 = publication Tue 2017-05-02, and the text says the accident was 'Sunday afternoon' with a follow-up call 'Monday evening' — the Sunday before is 2017-04-30, Sunday-verified; no dated corroboration found. Distinct from id 3156 (2017-06-28 private toy raft, body recovered days downstream). Responding agency not stated in source; left blank per the id 3156 precedent. Inserted run 1014 (Chieftain chunk).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null
+}

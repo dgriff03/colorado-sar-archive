@@ -1,0 +1,18 @@
+{
+  "id": "14c3fefd-fba9-452a-bafa-b6b9c7d751a7",
+  "date": "2026-11-03",
+  "summary": "Skier caught in a wind-slab avalanche in the San Juan Mountains near Silverton, swept an estimated 500 feet down the mountainside and partially buried before a ski partner dug him out; the skier was unharmed and the party self-evacuated",
+  "location": "San Juan Mountains near Silverton",
+  "county": "San Juan",
+  "incident_type": "avalanche",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Ski partner (self-rescue)",
+  "source_urls": "https://www.outsideonline.com/outdoor-adventure/exploration-survival/colorado-avalanche-danger-early-season-slides/?scope=anon|https://www.powder.com/news/video-skier-caught-in-sizable-avalanche-in-colorado-backcountry",
+  "notes": "Freshness sweep 2026-11-18: Outside Online 2026-11-06 + POWDER 2026-11-04, both reporting the Nov 3 video by pro skier/filmmaker Colter Hinchliffe; skier's name and age unreported; CAIC has not published this as an official accident report (only the Oct 25 Mt. Bross accident is officially documented this season per CAIC via Outside, Nov 6).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

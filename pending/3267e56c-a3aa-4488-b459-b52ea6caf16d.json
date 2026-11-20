@@ -1,0 +1,18 @@
+{
+  "id": "3267e56c-a3aa-4488-b459-b52ea6caf16d",
+  "date": "2022-08-10",
+  "summary": "57-year-old woman from Michigan slipped descending Mount Sanitas after summiting, twisting her ankle and suffering a heat-related illness; litter-carried to Timber Lane access; transported to hospital.",
+  "location": "Lion's Lair Trail, Mount Sanitas, Boulder",
+  "county": "Boulder",
+  "incident_type": "injury",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Boulder County Sheriff's Office",
+  "source_urls": "https://bouldercounty.gov/news/hiker-sustained-minor-ankle-injury-and-a-heat-related-illness-on-the-lions-lair-trail/",
+  "notes": "BCSO case #22-03913. Inserted run 1014 (BCSO chunk).",
+  "peak": "Mount Sanitas",
+  "setting": "frontcountry",
+  "detail_score": "HOW_MINIMAL_SOURCING",
+  "place": null,
+  "place_type": null
+}
