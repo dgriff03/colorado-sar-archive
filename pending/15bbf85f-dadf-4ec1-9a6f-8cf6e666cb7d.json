@@ -1,0 +1,18 @@
+{
+  "id": "15bbf85f-dadf-4ec1-9a6f-8cf6e666cb7d",
+  "date": "2012-09-03",
+  "summary": "Two hikers from Texas attempting Mt. Massive off-trail from Hagerman Pass became lost after reaching about 14,000 feet and turning around; they slept on rocks overnight, then split at about 4 a.m. — one made it back to Skinner Hut and called SAR, while the other, too dehydrated to move, later found a stream and walked back to Skinner Hut himself, calling dispatch about 6:30 p.m. Lake County SAR searched about eight hours and Flight for Life flew aerial reconnaissance without spotting him; he had spent more than 36 hours outside.",
+  "location": "Mt. Massive, Hagerman Pass approach (Skinner Hut area)",
+  "county": "Lake",
+  "incident_type": "lost/stranded",
+  "outcome": "located, walked out",
+  "victims": 2,
+  "responding_agency": "Lake County Search and Rescue",
+  "source_urls": "https://www.leadvilleherald.com/news/article_ae8de1a2-fd09-11e1-9e61-001a4bcf6878.html",
+  "notes": "INSERT run1003; SAR search ran 2012-09-04, row dated 2012-09-03 (day the pair became lost); article text gives month/day only — year 2012 pinned by CMS UUID timestamp 2012-09-12 + search-index stamp",
+  "peak": "Mount Massive",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
