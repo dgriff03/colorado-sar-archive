@@ -1,0 +1,18 @@
+{
+  "id": "6a04fee8-7303-4d0c-84e8-dbce3cc76235",
+  "date": "2026-10-23",
+  "summary": "Two adults in an occupied RV swept about 100 yards down the San Juan River near Pagosa Springs were hoisted to safety by a Colorado National Guard helicopter after floodwaters stranded the vehicle around 2:30 a.m.; a swift-water team separately rescued a hypothermic elderly couple stranded across a flooded road the same morning; about 100 residents evacuated, with no deaths or serious injuries reported.",
+  "location": "San Juan River, Pagosa Springs",
+  "county": "Archuleta",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 4,
+  "responding_agency": "Archuleta County Sheriff's Office; Colorado National Guard",
+  "source_urls": "https://www.cpr.org/2026/10/22/southwestern-colorado-flooding-evacuations-road-closures/|https://focalnews.org/denver-co/local/san-juan-river-flood-leaves-archuleta-county-roads-homes-and-infrastructure-damaged",
+  "notes": "San Juan River crested at 15.02 ft in Pagosa Springs Oct 23, second-highest on record (1911: 17.80 ft); disaster emergency covered 12 counties. Dog count in the RV conflicts across sources (2 per sheriff via Focal, 3 per AP account) — not counted in victims. Resolves the parked Oct 23 Pagosa flood watch from the 2026-10-25 freshness sweep, which waited on a sheriff/CPR follow-up.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
