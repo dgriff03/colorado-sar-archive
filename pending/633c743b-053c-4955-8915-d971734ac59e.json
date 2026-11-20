@@ -1,0 +1,18 @@
+{
+  "id": "633c743b-053c-4955-8915-d971734ac59e",
+  "date": "2011-09-23",
+  "summary": "Three young men in their mid-20s overdue from a Crestone Needle climb via the Ellingwood Arete; car found at the Rainbow Trail parking lot with tents nearby; Custer County SAR deployed 20 members (17 field, 3 office) after the sheriff's office was notified at 05:45; Flight For Life notified for recon, Alpine Rescue techs and Saguache County on standby; party spotted descending Brokenhand Pass at 08:30 and intercepted 20 minutes later, uninjured — had summited at 18:00 Thursday and hunkered down overnight, unfamiliar with the area and unaware of recent snow/ice on Broken Hand Pass.",
+  "location": "Crestone Needle / Ellingwood Arete, Brokenhand Pass area",
+  "county": "Custer",
+  "incident_type": "lost/stranded",
+  "outcome": "located uninjured",
+  "victims": 3,
+  "responding_agency": "Custer County Search and Rescue",
+  "source_urls": "http://custersar.org/overdue-hikers-23-september-2011/",
+  "notes": "INSERTED run 988 (County sheriff press-release statewide sweep chunk): Custer County SAR mission report dated 2011-09-28, parent-opened live.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
