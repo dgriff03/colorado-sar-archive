@@ -1,0 +1,18 @@
+{
+  "id": "78305e20-6f70-4559-900c-077af79470c5",
+  "date": "2012-10-04",
+  "summary": "19-year-old man reported possibly lost in the Zapata Falls area after his girlfriend could not reach him by phone; he had a history of seizures and was dressed only in jeans and a T-shirt with sunset an hour away, so AVSAR called out a team and sent a liaison to the area; contact was made with him by cell phone at about 1758 hours -- he was unharmed, had simply kept hiking, and was unaware anyone thought him lost -- and the team was stood down.",
+  "location": "Zapata Falls area",
+  "county": "Alamosa",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Alamosa Volunteer SAR",
+  "source_urls": "https://www.avsar.us/missions-from-2008-2015/",
+  "notes": "Stand-down class: AVSAR callout with liaison deployed; subject located uninjured by phone, team stood down. Parent-opened live run 997; stood-down-mission precedent ids 2381/3535.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

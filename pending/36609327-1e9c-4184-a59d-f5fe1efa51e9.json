@@ -1,0 +1,18 @@
+{
+  "id": "36609327-1e9c-4184-a59d-f5fe1efa51e9",
+  "date": "2012-09-14",
+  "summary": "Hiker reported missing in the Kit Carson Peak area; Saguache County SAR had a hasty team en route and requested AVSAR mutual aid for a 0700 Saturday rendezvous at the Baca Firehouse; just after midnight on September 15 dispatch reported the hiker had made his own way home safe and sound, and AVSAR was stood down before deploying.",
+  "location": "Kit Carson Peak area",
+  "county": "Saguache",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Saguache County SAR (AVSAR mutual aid, stood down before deployment)",
+  "source_urls": "https://www.avsar.us/missions-from-2008-2015/",
+  "notes": "Stand-down class: SCSAR hasty team en route, AVSAR callout issued; subject self-recovered home, AVSAR stood down before deploying. Parent-opened live run 997; stood-down-mission precedent ids 2381/3535.",
+  "peak": "Kit Carson Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
