@@ -1,0 +1,18 @@
+{
+  "id": "e7d447f5-e26d-4f16-9c28-4d11ee324186",
+  "date": "2016-11-26",
+  "summary": "Hiker fell about 40 ft while hiking with a friend near Palmer Lake; no cell service at the fall site, so the companion left him and hiked back to camp to call dispatch; the hiker was dead when rescuers reached him.",
+  "location": "near Palmer Lake",
+  "county": "El Paso",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "El Paso County Sheriff's Office",
+  "source_urls": "https://archive.org/details/KDVR_20161128_043000_FOX_31_Denver_News_930P",
+  "notes": "Source: Internet Archive capture of the KDVR Fox 31 Denver News 9:30P newscast, Nov 27, 2016 (parent-opened live this run; caption reports he 'died last night'); 2016-11-26 was a Saturday. Name withheld pending family notification. INSERT run977.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

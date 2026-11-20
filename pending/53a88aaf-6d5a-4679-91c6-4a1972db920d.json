@@ -1,0 +1,18 @@
+{
+  "id": "53a88aaf-6d5a-4679-91c6-4a1972db920d",
+  "date": "2018-11-01",
+  "summary": "Todd Ermentraut fell into a tree well skiing the back bowls of Vail, breaking his femur; trapped with no way out until two passing skiers heard his cries, stabilized him until Vail Ski Patrol arrived ~35 min later; survived.",
+  "location": "back bowls of Vail Mountain, Vail ski area",
+  "county": "Eagle",
+  "incident_type": "other",
+  "outcome": "injury",
+  "victims": 1,
+  "responding_agency": "Vail Ski Patrol",
+  "source_urls": "https://unofficialnetworks.com/2019/02/04/vail-skier-owes-his-life-rescuers-tree-well/",
+  "notes": "Date approximate: November 2018 ('last November' per the 2019-02-04 article); listed as first of month. In-bounds ski-area incident, same class as indexed ids 3282 and 3469. INSERT run977.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
