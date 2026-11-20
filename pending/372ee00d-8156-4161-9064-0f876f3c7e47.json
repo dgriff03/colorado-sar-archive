@@ -1,0 +1,18 @@
+{
+  "id": "372ee00d-8156-4161-9064-0f876f3c7e47",
+  "date": "2013-04-04",
+  "summary": "Unnamed skier fell approximately 1,000 feet down the San Joaquin Couloir in upper Bear Creek, suffering extensive head injuries; found by another skier, who called 911 at about 1:35 p.m.; San Miguel County SAR with Telluride Ski Patrol and Helitrax lowered him about 200 feet to a landing zone, flew him by Helitrax to Telluride Regional Airport, then by CareFlight to St. Mary's Hospital in Grand Junction; recovering from a concussion at press time.",
+  "location": "San Joaquin Couloir, upper Bear Creek, Telluride",
+  "county": "San Miguel",
+  "incident_type": "fall",
+  "outcome": "evacuated, hospitalized",
+  "victims": 1,
+  "responding_agency": "San Miguel County Search and Rescue",
+  "source_urls": "https://thehelibase.com/2013/",
+  "notes": "Reprint of Watch Newspapers account (Apr 10, 2013).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
