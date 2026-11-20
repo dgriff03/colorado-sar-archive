@@ -1,0 +1,18 @@
+{
+  "id": "2d470713-36f9-4471-bfd8-ff0293e9862c",
+  "date": "2012-01-13",
+  "summary": "Two skiers from Louisville, Kentucky followed GPS directions over winter-closed Hagerman Pass (11,939 ft) toward Aspen; their vehicle became stuck in deep snow near the Carlton tunnel on the abandoned railroad grade at about 9:45 a.m. One hiked down Lake County Road 4 to reach cell coverage and call for help; four Lake County SAR personnel in two teams rescued both to incident command at the east side of Turquoise Lake Dam, uninjured. The driver was cited for disregarding traffic-control devices. Article notes it was the second such Hagerman Pass railroad-grade vehicle rescue that week.",
+  "location": "Hagerman Pass railroad grade near Carlton tunnel, below Hagerman Pass",
+  "county": "Lake",
+  "incident_type": "vehicle",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Lake County Search and Rescue / Lake County Sheriff's Office",
+  "source_urls": "https://www.themountainmail.com/news/article_5fbb846a-46ae-11e1-86f1-001a4bcf6878.html",
+  "notes": "INSERT run976: Mountain Mail story opened live 2026-10-11; dedupe clean (date-window 2012-01-05..21 Lake + %Hagerman% token scan); 2012-01-13 = Friday verified.",
+  "peak": "Hagerman Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
