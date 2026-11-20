@@ -1,0 +1,18 @@
+{
+  "id": "1553e3b9-f2ff-437c-8bfe-2bdee24620b8",
+  "date": "2012-12-21",
+  "summary": "Two Front Range snowmobilers stranded overnight (Friday) in a meadow NE of the Rabbit Ears rock formation, Rabbit Ears Pass; called 911. Unprepared: no food, water, or light; started a fire with snowmobile gasoline (hard to keep going in the woodless meadow); overnight low 17F. Jackson County SAR led the search; Routt County SAR (IC Kristia Check-Hill) joined at 5 a.m. Saturday; Jackson County team reached the pair ~7:30 a.m. Saturday. Rescued fine, uninjured.",
+  "location": "Meadow northeast of the Rabbit Ears rock formation, Rabbit Ears Pass",
+  "county": "Jackson",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Jackson County Search and Rescue; Routt County Search and Rescue",
+  "source_urls": "https://www.snowest.com/forum/threads/steamboat-springs-%E2%80%94-two-stranded-snowmobilers-are-fine.330589/",
+  "notes": "INSERTED run 983. Sourced from Snowest forum thread (Zuma, Dec 23 2012) quoting the Steamboat Today/Steamboat Pilot article of Dec 22 2012 (path /news/2012/dec/22/routt-county-search-and-rescue-helps-search/; original t.steamboattoday.com URL dead). Thread opened live parent-side run 983; incident verified. Fills thin year 2012 (no prior Dec-2012 Jackson/Routt rows).",
+  "peak": "Rabbit Ears Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
