@@ -1,0 +1,18 @@
+{
+  "id": "ee1a7753-77fb-45d7-a070-32a90d165725",
+  "date": "2021-09-08",
+  "summary": "52-year-old male climbing with a group on the Boulderado formation suffered a medical emergency (went limp, seizure-like activity) after clipping into the top anchor; the group lowered him to the ground; Nederland Fire Protection District and Rocky Mountain Rescue Group assisted, American Medical Response evaluated him and transported him to a local hospital. BCSO case #21-4326.",
+  "location": "Boulderado climbing route, Boulder Canyon",
+  "county": "Boulder",
+  "incident_type": "medical",
+  "outcome": "transported, hospitalized",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain Rescue Group",
+  "source_urls": "https://bouldercounty.gov/news/climber-has-medical-emergency-on-boulderado-climbing-route/",
+  "notes": "Boulder County news release, September 8, 2021; incident about 10:30 a.m. Inserted run 1015 (Boulder Weekly chunk).",
+  "peak": "Boulder Canyon",
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
