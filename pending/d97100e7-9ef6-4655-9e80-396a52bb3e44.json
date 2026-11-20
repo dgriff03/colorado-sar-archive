@@ -1,0 +1,18 @@
+{
+  "id": "d97100e7-9ef6-4655-9e80-396a52bb3e44",
+  "date": "2018-10-15",
+  "summary": "Two teenage cousins (16, 18) on an overnight winter camping trip reported overdue Sunday evening; vehicle found at Mitchell Lake trailhead (Brainard Lake Recreation Area, near Ward); RMRG team located them Monday ~6:30 am after an 18-hour effort - cold, wet, frozen shoes, suffering frostbite after winds shredded their tent; a second team hiked in dry clothes and walked them out to their parents ~noon.",
+  "location": "Mitchell Lake trailhead, Brainard Lake Recreation Area, near Ward",
+  "county": "Boulder",
+  "incident_type": "injury",
+  "outcome": "rescued",
+  "victims": 2,
+  "responding_agency": "Rocky Mountain Rescue Group; Boulder County Sheriff's Office",
+  "source_urls": "https://snowbrains.com/colorado-teens-rescued-frostbite-camping/",
+  "notes": "INSERTED run 985 (SnowBrains chunk): article published 2018-10-18; teens set out Saturday afternoon, found Monday 2018-10-15 (Monday-verified); BCSO cited via KDVR; overdue/search context.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

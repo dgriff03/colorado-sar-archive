@@ -1,0 +1,18 @@
+{
+  "id": "4053dbcb-c655-479d-b54e-ec2f640c8586",
+  "date": "2022-02-20",
+  "summary": "55-year-old man reported missing Sunday night after an ATV accident in the desert off C Road near Palisade; Mesa County SAR ATV team tracked him down southwest of Horse Mountain; flown to the hospital by helicopter with serious injuries.",
+  "location": "desert off C Road near Palisade (found southwest of Horse Mountain)",
+  "county": "Mesa",
+  "incident_type": "vehicle",
+  "outcome": "airlifted",
+  "victims": 1,
+  "responding_agency": "Mesa County Search and Rescue (ATV team); Mesa County Sheriff's Office",
+  "source_urls": "https://muckrack.com/link/ojJfyJ/rescue-crews-find-injured-atv-rider",
+  "notes": "INSERTED run 985 (Mesa CrimeWatch chunk): KJCT-TV (Grand Junction) story via Muck Rack, dated 2022-02-21, reporting Sunday night -> 2022-02-20 (Sunday-verified); canonical KJCT/westernslopenow URL not recoverable from search index.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
