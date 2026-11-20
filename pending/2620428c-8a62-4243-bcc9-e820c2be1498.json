@@ -1,0 +1,18 @@
+{
+  "id": "2620428c-8a62-4243-bcc9-e820c2be1498",
+  "date": "2015-11-28",
+  "summary": "Vehicle drove into Lake Loveland at Colorado Ave and Eisenhower Blvd and submerged about 75 yards offshore; the driver was freed by civilian bystanders; Loveland Fire Dive 2, the Larimer County Sheriff Dive Rescue Team and Berthoud Dive searched the submerged vehicle and swept the lake bed for a reported second occupant (none existed — located elsewhere unharmed); three people treated for cold-water exposure; vehicle recovered for tow.",
+  "location": "Lake Loveland, Loveland",
+  "county": "Larimer",
+  "incident_type": "vehicle",
+  "outcome": "rescued",
+  "victims": 1,
+  "responding_agency": "Loveland Fire Rescue Authority; Larimer County Sheriff Dive Rescue Team",
+  "source_urls": "https://5280fire.com/2015-incidents/lake-loveland-dive-rescue/",
+  "notes": "Included per the id-3817 Horsetooth dive-recovery precedent: the Larimer County Sheriff Dive Rescue Team operation (submerged-vehicle search + lake-bed sweep for a reported second occupant) is the SAR element; driver freed by civilian bystanders before dive teams arrived; reported second occupant located elsewhere unharmed, never at the scene; 3 people treated for cold-water exposure (driver + 2 civilian rescuers); Nov 28, 2015 was a Saturday.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
