@@ -1,0 +1,18 @@
+{
+  "id": "bc0202fc-70f7-47a6-b806-3634e4d7760e",
+  "date": "2024-04-19",
+  "summary": "A vehicle drove into Horsetooth Reservoir just south of the Skyline day-use area; the driver had died before rangers arrived. The submerged vehicle was located by sonar and recovered by the Larimer County dive team with airbags and a wrecker tow, in a multi-agency recovery effort.",
+  "location": "Horsetooth Reservoir, just south of Skyline day-use area",
+  "county": "Larimer",
+  "incident_type": "vehicle",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Larimer County Dive Rescue",
+  "source_urls": "https://www.larimerdnr-compass.org/updates/summer-2023-plan-update-mjrxl-hyhms-an3e4-mgmzr-wx3m9-pxaz9-9arpf-drbps-czzlp-pbn2j-gwds2-jcdk3-p9nm3-69ydd-blfdm-na4yc-naepc-hw6gh-zglwg-4fawd-5cnh8-8h5t6-a9tl4-nyz8s-wx54b-rw7ee",
+  "notes": "Parent scope call: INCLUDED as a recovery operation (driver deceased before rangers arrived) per the indexed body-recovery precedents ids 1032/2767 — the county dive team + rangers operation is the SAR element, flagged here not hidden. Multi-agency: LCSO, Larimer Natural Resources rangers, Fort Collins Natural Areas rangers, Poudre Fire Authority, Colorado State Patrol, coroner, county emergency services. Source published 2024-04-24; Friday-verified.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

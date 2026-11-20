@@ -1,0 +1,18 @@
+{
+  "id": "b11d80bb-17a4-414b-b412-4661041b3d9f",
+  "date": "2026-10-25",
+  "summary": "Skier partially buried with head beneath the snow in a wind-slab avalanche in the east-facing Moose Creek Bowl on Mt. Bross (~14,100 ft, R2/D2, debris to ~13,550 ft); a ski partner dug the skier out in about five minutes and the party self-evacuated, with no injuries reported; Colorado's first avalanche accident of the 2026-27 season per a CAIC observation.",
+  "location": "Moose Creek Bowl, Mt. Bross (east-facing slope above 14,000 ft)",
+  "county": "Park",
+  "incident_type": "avalanche",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Ski partner (self-rescue); Colorado Avalanche Information Center",
+  "source_urls": "https://unofficialnetworks.com/2026/10/26/early-season-colorado-avalanche-buries-skier/|https://snowbrains.com/skier-buried-in-colorados-first-avalanche-accident-of-the-season-dug-out-by-partner-in-5-minutes/",
+  "notes": "Freshness sweep run 38: Unofficial Networks 2026-10-26 + SnowBrains 2026-10-27, both citing the CAIC observation submitted by Ryan Buller; Park County Search and Rescue quoted on early-season conditions; CAIC daily forecasts resume November 1.",
+  "peak": "Mount Bross",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

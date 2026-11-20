@@ -1,0 +1,18 @@
+{
+  "id": "b0cf027f-ddf2-4c4f-b892-61702438d106",
+  "date": "2026-10-24",
+  "summary": "Single-engine Piper PA-28-235 crashed at about 8:11 a.m. in mountainous terrain near Swampy Pass in the West Elk Wilderness of Gunnison National Forest; the Gunnison Regional 911 Center received the crash report at about 9:20 a.m. and emergency crews located the wreckage in the remote wilderness area; all three occupants were found dead at the scene — Mark Hendrickson, 46, Alan Hendrickson, 15, and Case Hendrickson, 13, all of New Castle.",
+  "location": "Near Swampy Pass, West Elk Wilderness, Gunnison National Forest",
+  "county": "Gunnison",
+  "incident_type": "vehicle",
+  "outcome": "fatality",
+  "victims": 3,
+  "responding_agency": "Gunnison County Sheriff's Office; Gunnison Regional 911 Center; Gunnison County Coroner's Office; National Transportation Safety Board; U.S. Forest Service",
+  "source_urls": "https://people.com/father-and-2-teenage-sons-killed-after-their-small-plane-crashed-in-colorado-12193571|https://aerocorner.com/news/piper-pa-28-235-crash-swampy-pass-gunnison-county/",
+  "notes": "Freshness sweep run 38: PEOPLE + AeroCorner, both carrying the Gunnison County release, coroner identification, and NTSB crash time; some early reports spell the youngest victim's name 'Chase' — coroner identification gives 'Case'. NTSB and U.S. Forest Service investigating; cause not yet reported.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null
+}
