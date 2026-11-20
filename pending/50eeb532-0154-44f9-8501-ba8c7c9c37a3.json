@@ -1,0 +1,18 @@
+{
+  "id": "50eeb532-0154-44f9-8501-ba8c7c9c37a3",
+  "date": "2015-06-21",
+  "summary": "Grand Junction man died after falling out of his inflatable kayak on the Fryingpan River in Basalt.",
+  "location": "Fryingpan River, Basalt",
+  "county": "Eagle",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://cpr.org/2015/06/22/rivers-running-high-and-fast-prove-deadly/",
+  "notes": "INSERT run979; thin source — CPR roundup only; victim name and responding agency unreported.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "BASIC_FACTS",
+  "place": null,
+  "place_type": null
+}

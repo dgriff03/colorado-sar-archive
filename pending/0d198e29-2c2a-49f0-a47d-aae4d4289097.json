@@ -1,0 +1,18 @@
+{
+  "id": "0d198e29-2c2a-49f0-a47d-aae4d4289097",
+  "date": "2015-06-20",
+  "summary": "20-year-old man fell off his inner tube in rapids on the South Platte River in Sheridan; searchers failed to find him; search resumed June 23 with Chatfield Dam releases slowed to lower the river, still unlocated at that point.",
+  "location": "South Platte River, Sheridan",
+  "county": "Arapahoe",
+  "incident_type": "other",
+  "outcome": "search ongoing, unlocated",
+  "victims": 1,
+  "responding_agency": "",
+  "source_urls": "https://cpr.org/2015/06/22/rivers-running-high-and-fast-prove-deadly/|https://www.cpr.org/2015/06/23/search-for-missing-south-platte-tuber-resumes/",
+  "notes": "INSERT run979; outcome unresolved as of the June 23 follow-up (search resumed with lowered river, still unlocated); later outcome unknown.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
