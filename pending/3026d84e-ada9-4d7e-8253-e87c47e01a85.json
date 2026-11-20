@@ -1,0 +1,18 @@
+{
+  "id": "3026d84e-ada9-4d7e-8253-e87c47e01a85",
+  "date": "2023-03-12",
+  "summary": "Omar Merlos, 25, of Hotchkiss, reported missing Mar 11 after failing to show for work; his abandoned vehicle was found Mar 12 just inside Gunnison County on Bear Creek Road near Somerset, and responders located his body near Bear Creek during a search of the area; investigators treating the death as suicide.",
+  "location": "Bear Creek Road near Somerset",
+  "county": "Gunnison",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Gunnison County Sheriff's Office",
+  "source_urls": "https://www.kvnf.org/show/kvnf-regional-newscast/2023-04-03/kvnf-regional-newscast-april-3-2023",
+  "notes": "Run 1008: KVNF Regional Newscast Apr 3, 2023 — reported missing Mar 11, vehicle found Mar 12, body located during search near the vehicle; exact body-recovery day not separately dated in source, so date is the Mar 12 vehicle-discovery/search day (approximate); investigators treating death as suicide; Delta County Sheriff's Office assisted. In scope per the id-2767 missing-person-found-deceased precedent.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

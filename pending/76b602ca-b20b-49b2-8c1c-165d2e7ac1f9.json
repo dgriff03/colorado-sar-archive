@@ -1,0 +1,18 @@
+{
+  "id": "76b602ca-b20b-49b2-8c1c-165d2e7ac1f9",
+  "date": "2024-02-18",
+  "summary": "Remains of Samantha Bartolo, 40, of Delta, found near Smith Mountain Trailhead east of Delta; reported missing by family Nov 12, 2023; SAR teams from Delta, Montrose, Mesa, Gunnison and San Miguel Counties had searched the H-75 Rd / Gunnison Gorge NCA area without locating her; Delta County Coroner investigating death as suspicious pending autopsy.",
+  "location": "Smith Mountain Trailhead, east of Delta",
+  "county": "Delta",
+  "incident_type": "lost/stranded",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Delta County Sheriff's Office",
+  "source_urls": "https://www.kvnf.org/show/kvnf-regional-newscast/2024-02-29/kvnf-regional-newscast-february-29-2024",
+  "notes": "Run 1008: KVNF Regional Newscast Feb 29, 2024 — remains found Feb 18 (Sunday); missing since Nov 12, 2023; five-county SAR search around H-75 Rd / Gunnison Gorge NCA; death investigated as suspicious pending autopsy. Date is the remains-found date per the id-2767 missing-person-found-deceased precedent.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
