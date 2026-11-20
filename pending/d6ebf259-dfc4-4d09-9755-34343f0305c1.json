@@ -1,0 +1,18 @@
+{
+  "id": "d6ebf259-dfc4-4d09-9755-34343f0305c1",
+  "date": "2026-10-24",
+  "summary": "Injured mountain biker in the Lair O The Bear area; Alpine Rescue Team paged code 3 (mission 2026-155, paged 11:09 a.m.); thin mission-log post, outcome unreported",
+  "location": "Lair O The Bear area",
+  "county": "Jefferson",
+  "incident_type": "injury",
+  "outcome": "assist",
+  "victims": 1,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/2026-155-team-paged-code-3-for-an-injured-mtn-biker-in-the-lair-o-the-bear-area/",
+  "notes": "Freshness sweep 2026-10-30: Alpine Rescue Team mission log post, 2026-10-24 (Saturday-verified); thin post, no further detail published.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

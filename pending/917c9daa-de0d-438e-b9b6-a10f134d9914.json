@@ -1,0 +1,18 @@
+{
+  "id": "917c9daa-de0d-438e-b9b6-a10f134d9914",
+  "date": "2014-01-26",
+  "summary": "A man about 30 snowshoeing on Mt. Princeton with two companions fell approximately 800 feet, suffering serious head, neck, and back injuries; more than 30 responders attended, and Flight for Life picked him up at a landing zone about 1,000 feet from the fall site and flew him to St. Anthony Summit Medical Center in Frisco, from where bad weather forced a ground-ambulance transfer onward to Denver.",
+  "location": "Mt. Princeton",
+  "county": "Chaffee",
+  "incident_type": "fall",
+  "outcome": "transported, hospitalized",
+  "victims": 1,
+  "responding_agency": "Chaffee County Search and Rescue North",
+  "source_urls": "https://www.themountainmail.com/news/article_4a114708-871b-11e3-8558-001a4bcf6878.html",
+  "notes": "Run 995 Mountain Mail chunk: Mountain Mail article reporting a Sunday fall; article record dated 2014-01-27 pins the Sunday to 2014-01-26.",
+  "peak": "Mount Princeton",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

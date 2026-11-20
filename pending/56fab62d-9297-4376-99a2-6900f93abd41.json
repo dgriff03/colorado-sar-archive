@@ -1,0 +1,18 @@
+{
+  "id": "56fab62d-9297-4376-99a2-6900f93abd41",
+  "date": "2017-05-07",
+  "summary": "A Colorado woman in her early 30s fell about 300 feet down a couloir at about 11,000 feet just west of Ptarmigan Lake and south of Turner Peak while descending off Cottonwood Pass Road; after a 23-member Chaffee County Search and Rescue North technical snow evacuation over six pitches, she reached hospital by 1 p.m. with only minor lacerations, bumps, and bruises.",
+  "location": "Couloir west of Ptarmigan Lake, south of Turner Peak, off Cottonwood Pass Road",
+  "county": "Chaffee",
+  "incident_type": "fall",
+  "outcome": "evacuated, hospitalized",
+  "victims": 1,
+  "responding_agency": "Chaffee County Search and Rescue North",
+  "source_urls": "https://www.themountainmail.com/free_content/article_5a061aee-343d-11e7-9ded-6f936059f90f.html",
+  "notes": "Run 995 Mountain Mail chunk: Mountain Mail article reporting a Sunday rescue; article record dated 2017-05-08 pins the Sunday to 2017-05-07; party had parked north of the Denny Creek Trailhead.",
+  "peak": "Cottonwood Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

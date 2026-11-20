@@ -1,0 +1,18 @@
+{
+  "id": "63bfaa3c-fd60-4a84-8cdb-7e9e34f177fa",
+  "date": "2017-09-03",
+  "summary": "Christine Isakson, 49, of Highlands Ranch, summited Mt. Shavano and Mt. Tabeguache, then descended the wrong gulch (McCoy Gulch) off Tabeguache, mistaking her position relative to the Jennings Creek trail; out of water at nightfall, she called 911 around 4:30 p.m., and a Chaffee County Search and Rescue South team reached her shortly after dark and guided her out of the gulch by 11 p.m., uninjured.",
+  "location": "McCoy Gulch, Mt. Tabeguache",
+  "county": "Chaffee",
+  "incident_type": "lost/stranded",
+  "outcome": "located uninjured, escorted out",
+  "victims": 1,
+  "responding_agency": "Chaffee County Search and Rescue South",
+  "source_urls": "https://www.themountainmail.com/news/article_1a2664c8-94b5-11e7-81dc-0fe2af1cb58c.html",
+  "notes": "Run 995 Mountain Mail chunk: Mountain Mail article on two Tabeguache incidents Sunday and Monday; article record dated 2017-09-08 pins the Sunday to 2017-09-03; same article as the 2017-09-04 Hunsaker rescue.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
