@@ -1,0 +1,18 @@
+{
+  "id": "06699254-4bf0-46dd-9bdc-10e238a7c4ba",
+  "date": "2011-05-16",
+  "summary": "Mountain biker crashed in the desert near 29 Road, Grand Junction; reported missing by family about 7:00 p.m. after failing to return home; about a dozen Mesa County SAR members searched several hours by ATV, located him, and CareFlight was dispatched; injuries not life-threatening.",
+  "location": "Desert near 29 Road, Grand Junction",
+  "county": "Mesa",
+  "incident_type": "injury",
+  "outcome": "rescued",
+  "victims": 1,
+  "responding_agency": "Mesa County Search and Rescue",
+  "source_urls": "https://forums.radioreference.com/threads/mesa-county-as-paged.211950/",
+  "notes": "INSERT run1004; source is a verbatim RadioReference forum repost of the KREX News story by Matt Kroschel (created May 16, 2011 9:50 PM MDT); KREX original URL not recoverable. Date pinned by story timestamp + \"Monday night\" search.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
