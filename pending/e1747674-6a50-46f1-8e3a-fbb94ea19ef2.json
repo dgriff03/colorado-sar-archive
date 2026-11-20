@@ -1,0 +1,18 @@
+{
+  "id": "e1747674-6a50-46f1-8e3a-fbb94ea19ef2",
+  "date": "2017-05-22",
+  "summary": "Arman \"Jack\" Qureshi, 22, fled Steamboat Springs police during a disturbance-call response and jumped into the Yampa River near Yampa Street around midnight; an officer entered the river attempting to save him; a multi-agency search (Steamboat Police, Routt County SO, Steamboat Fire Rescue, West Routt Fire, CPW boats, Routt County SAR, Classic Air helicopter ~2 hrs) recovered his body downriver near the Steamboat Golf Club; drowning fatality.",
+  "location": "Yampa River, Steamboat Springs",
+  "county": "Routt",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Routt County Search and Rescue; Steamboat Springs Police Department; Steamboat Springs Fire Rescue; Colorado Parks and Wildlife",
+  "source_urls": "https://www.police1.com/police-products/body-cameras/articles/man-dies-after-jumping-in-river-to-evade-police-video-released-KWm7iUpPCP6AuGla/",
+  "notes": "Run 1002 insert; Police1 article published 2017-06-09 (\"May 22 foot pursuit that ended with the drowning\"; RCSAR IC Del Bostock + Classic Air helicopter on the search). Recovery-day variant noted: the Pilot reports the body found Monday afternoon (May 22); Police1 reports recovery the following day (May 23) — row dated by the occurrence (May 22). Scope: fleeing suspect, but RCSAR + Classic Air deployed on the river search/recovery — indexed per the id-2880 fleeing-subject precedent (warrants subject found by SARDOC dog, indexed). First 2017 Routt row.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
