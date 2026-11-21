@@ -1,0 +1,18 @@
+{
+  "id": "2dfc52f8-87a9-4833-871c-0af0d5077696",
+  "date": "2019-03-08",
+  "summary": "Alex Theaker, 28, was buried in a roof slide while clearing a gas meter at 14 Anthracite Drive in Mt. Crested Butte, formed an air pocket near his face and survived more than two hours buried until family found his truck and debris and called 911; Mt. Crested Butte police and Crested Butte Fire/EMS responded; found breathing but unresponsive, transported to Gunnison Valley Hospital and released Sunday.",
+  "location": "14 Anthracite Drive, Mt. Crested Butte",
+  "county": "Gunnison",
+  "incident_type": "avalanche",
+  "outcome": "transported, hospitalized",
+  "victims": 1,
+  "responding_agency": "Mt. Crested Butte Police Department; Crested Butte Fire Protection District",
+  "source_urls": "https://crestedbuttenews.com/2019/03/roof-slides-in-area-claim-a-life-and-bury-local-man/",
+  "notes": "Crested Butte News published 2019-03-13 ('Friday evening at about 7:30 p.m.' in the same weekend as the Mar 9 Tully's fatality, id 2502). Run 1017 chunk C.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

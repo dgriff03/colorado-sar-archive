@@ -1,0 +1,18 @@
+{
+  "id": "e8fc80e5-9e22-4034-b81f-8b5164f716ba",
+  "date": "2024-02-26",
+  "summary": "Matthew Bachman, 49, of Oklahoma, killed snowmobiling in the Splains Gulch area toward Kebler Pass west of Crested Butte; a second rider was injured and transported to hospital; reported via Garmin inReach; Crested Butte SAR and Mt. Crested Butte police responded.",
+  "location": "Splains Gulch area toward Kebler Pass, west of Crested Butte",
+  "county": "Gunnison",
+  "incident_type": "vehicle",
+  "outcome": "fatality",
+  "victims": 2,
+  "responding_agency": "Crested Butte Search and Rescue; Mt. Crested Butte Police Department",
+  "source_urls": "https://crestedbuttenews.com/2024/02/visitor-killed-in-snowmobile-accident-near-crested-butte/",
+  "notes": "Crested Butte News, published 2024-02-28 (Gunnison County Sheriff's Office release). Victims = 1 killed + 1 injured. Run 1017 chunk C.",
+  "peak": "Kebler Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "d50ba3d0-da4f-498d-9c2d-1769381d34f3",
+  "date": "2021-07-24",
+  "summary": "Brian Fitzpatrick, 51, of Colorado Springs, drowned after a commercial raft flipped in Rapid #5 on the Numbers section of the Arkansas River north of Buena Vista; a downstream commercial guide pulled him from the river and began CPR; AHRA rangers, Chaffee County Sheriff's deputies and Chaffee County EMS responded but could not revive him; autopsy established drowning.",
+  "location": "Rapid #5, Numbers section, Arkansas River north of Buena Vista",
+  "county": "Chaffee",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "CPW Arkansas Headwaters Recreation Area rangers; Chaffee County Sheriff's Office; Chaffee County EMS",
+  "source_urls": "https://www.americanwhitewater.org/content/Accident/detail/accidentid/115074",
+  "notes": "American Whitewater accident record (Ark Valley Voice / KDVR accounts). Run 1017 chunk A.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

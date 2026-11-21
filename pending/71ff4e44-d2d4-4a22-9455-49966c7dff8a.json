@@ -1,0 +1,18 @@
+{
+  "id": "71ff4e44-d2d4-4a22-9455-49966c7dff8a",
+  "date": "2020-01-19",
+  "summary": "Experienced Front Range backcountry skier triggered an avalanche descending Red Lady Bowl above Crested Butte, deployed his airbag and rode about 100 yards on the surface uninjured; lost both skis, located one and skied out on a single ski; Crested Butte SAR hasty team and first RAD avalanche response deployed, helicopter from Rifle recalled once no burial was confirmed.",
+  "location": "Red Lady Bowl, above Crested Butte",
+  "county": "Gunnison",
+  "incident_type": "avalanche",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Crested Butte Search and Rescue",
+  "source_urls": "https://crestedbuttenews.com/2020/01/skier-triggered-red-lady-slide-early-sunday/",
+  "notes": "Crested Butte News, published 2020-01-22 ('last weekend... Sunday morning'). Run 1017 chunk C.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

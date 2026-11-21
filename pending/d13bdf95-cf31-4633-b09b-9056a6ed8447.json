@@ -1,0 +1,18 @@
+{
+  "id": "d13bdf95-cf31-4633-b09b-9056a6ed8447",
+  "date": "2024-08-19",
+  "summary": "Backpacker with altitude sickness in Fravert Basin on the Four Pass Loop; Crested Butte SAR dispatched and flew the patient out; one of five backcountry fly-outs by CBSAR since August 11.",
+  "location": "Fravert Basin, Four Pass Loop",
+  "county": "Gunnison",
+  "incident_type": "medical",
+  "outcome": "airlifted",
+  "victims": 1,
+  "responding_agency": "Crested Butte Search and Rescue",
+  "source_urls": "http://crestedbuttenews.com/2024/08/busy-august-for-cb-search-and-rescue-members/",
+  "notes": "Crested Butte News roundup published 2024-08-21 ('on Monday, August 19'). Run 1017 chunk C.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
