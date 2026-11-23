@@ -1,0 +1,18 @@
+{
+  "id": "4bd7bf7d-9cdf-4fd9-915c-747378eb0886",
+  "date": "2024-07-23",
+  "summary": "Hiker about 4 miles up East Maroon Trail suffered heart palpitations, shortness of breath and weakness; Mountain Rescue Aspen mobilized 3:55 p.m. and CareFlight flew the hiker to Aspen Valley Hospital about 5 p.m.; rest of party guided out by about 7:30 p.m.",
+  "location": "East Maroon Trail, ~4 miles up, Maroon Bells Wilderness",
+  "county": "Pitkin",
+  "incident_type": "medical",
+  "outcome": "airlifted",
+  "victims": 1,
+  "responding_agency": "Mountain Rescue Aspen; CareFlight of the Rockies",
+  "source_urls": "https://thenextsummit.org/hiker-in-distress-rescued-on-east-maroon-trail-in-pitkin-county/",
+  "notes": "The Next Summit article published 2024-07-25, retelling the Pitkin County Sheriff's Office release; July 23, 2024 was a Tuesday (Tuesday-verified). Run 1019 chunk B.",
+  "peak": "Maroon Bells",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

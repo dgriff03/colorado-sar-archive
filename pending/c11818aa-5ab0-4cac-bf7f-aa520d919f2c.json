@@ -1,0 +1,18 @@
+{
+  "id": "c11818aa-5ab0-4cac-bf7f-aa520d919f2c",
+  "date": "2026-11-22",
+  "summary": "Lost hiker in the South Colony Basin (gateway to Crestone Peak, Crestone Needle and Humboldt Peak); Custer County Search and Rescue running an active search mission with mutual-aid teams staging at the lower parking lot; the area was closed to hikers and vehicles on Monday, November 23; the hiker's name, age, hometown, intended peak and date reported overdue were not released; search ongoing in cold, snowy conditions",
+  "location": "South Colony Basin",
+  "county": "Custer",
+  "incident_type": "lost/stranded",
+  "outcome": "search ongoing",
+  "victims": 1,
+  "responding_agency": "Custer County Search and Rescue",
+  "source_urls": "https://snowbrains.com/lost-hiker-south-colony-crestone-search/|https://www.facebook.com/CCSOAdmin/posts/pfbid02iEvNd76rsEdeSWC87zKAqawgfpE3nsFBYCnAr1H49Zt2t9CdEjAMxv4sbnLF9pEKl",
+  "notes": "Freshness sweep 2026-11-23: Custer County Sheriff's Office Facebook post (posted Sun Nov 22, 9:48 p.m.) + SnowBrains article (published Nov 23, 06:09 MST), both parent-opened live. Date is the sheriff's announcement date; the exact date the hiker was reported overdue was not released, so the date is approximate. Search ongoing as of Nov 23 morning; follow up for resolution.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

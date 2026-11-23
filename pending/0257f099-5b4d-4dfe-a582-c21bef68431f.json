@@ -1,0 +1,18 @@
+{
+  "id": "0257f099-5b4d-4dfe-a582-c21bef68431f",
+  "date": "2024-07-08",
+  "summary": "Hiker injured a knee about 1.5 miles up Cathedral Lake Trail; text-to-911 at 2:04 p.m.; 17 Mountain Rescue Aspen members in 3 teams reached the hiker 3:39 p.m. and carried them down; hiker self-transported to Aspen Valley Hospital, declining further medical assistance; all out by 4:32 p.m.",
+  "location": "Cathedral Lake Trail, ~1.5 miles up, near Aspen",
+  "county": "Pitkin",
+  "incident_type": "injury",
+  "outcome": "carried out, declined treatment",
+  "victims": 1,
+  "responding_agency": "Mountain Rescue Aspen",
+  "source_urls": "https://thenextsummit.org/injured-hiker-rescued-by-mountain-rescue-aspen-on-cathedral-lake-trail/",
+  "notes": "The Next Summit article published 2024-07-11, retelling the Pitkin County Sheriff's Office / Mountain Rescue Aspen release; July 8, 2024 was a Monday (Monday-verified). Run 1019 chunk B.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

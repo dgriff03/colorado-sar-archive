@@ -1,0 +1,18 @@
+{
+  "id": "d34eefd5-6d89-42c7-a7f1-e275a78b12e8",
+  "date": "2023-07-13",
+  "summary": "52-year-old woman suffered an ankle injury near Capitol Lake; a passerby relayed a Garmin inReach report at 9:23 a.m.; CareFlight airlifted her at 10:48 a.m.; 17 Mountain Rescue Aspen members, all out by 11:59 a.m.",
+  "location": "Capitol Lake, near Capitol Peak",
+  "county": "Pitkin",
+  "incident_type": "injury",
+  "outcome": "airlifted",
+  "victims": 1,
+  "responding_agency": "Mountain Rescue Aspen; CareFlight of the Rockies",
+  "source_urls": "https://thenextsummit.org/mountain-rescue-aspen-swiftly-rescues-injured-hiker-near-capitol-lake/",
+  "notes": "The Next Summit article published 2023-07-14, retelling the Pitkin County Sheriff's Office / Mountain Rescue Aspen release; 'Thursday morning' = 2023-07-13 (Thursday-verified). Run 1019 chunk B.",
+  "peak": "Capitol Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
