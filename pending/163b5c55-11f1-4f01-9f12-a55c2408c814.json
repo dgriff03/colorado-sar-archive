@@ -1,0 +1,18 @@
+{
+  "id": "163b5c55-11f1-4f01-9f12-a55c2408c814",
+  "date": "2012-12-04",
+  "summary": "Woman overdue from a planned camp near Cottonwood Lake and a Sunday climb of Crestone Peak from the Saguache side; Custer County SAR dispatched five technical climbers and Flight for Life began a recon flight before Saguache dispatch reported her found walking down the Cottonwood Lake trail; Western State SAR, a National Guard helicopter and Air Force Reserve assistance stood down.",
+  "location": "Crestone Peak, Cottonwood Lake trail, Saguache side",
+  "county": "Saguache",
+  "incident_type": "lost/stranded",
+  "outcome": "located, walked out",
+  "victims": 1,
+  "responding_agency": "Custer County SAR (Saguache County SAR mutual aid; Flight for Life recon)",
+  "source_urls": "https://custersar.org/overdue-climber-not/",
+  "notes": "CCSAR mission log dated December 4, 2012. Subject found walking down the trail; \"uninjured\" is not stated in the source, so outcome is coded \"located, walked out\". Stand-down shape matches id 3843. Inserted run 1016 (Monte Vista Journal chunk).",
+  "peak": "Crestone Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "66c3135e-16d6-45f4-9d38-a59af13879a2",
+  "date": "2020-07-18",
+  "summary": "Man found dehydrated and vomiting at the bottom of the Warner Route; a park ranger hiked down and spent the night with him; the next morning a medevac helicopter evacuated him from the canyon bottom while the ranger led the rest of the party back up.",
+  "location": "Warner Route, Black Canyon of the Gunnison National Park",
+  "county": "Montrose",
+  "incident_type": "medical",
+  "outcome": "airlifted",
+  "victims": 1,
+  "responding_agency": "Black Canyon of the Gunnison National Park rangers",
+  "source_urls": "https://sites.temple.edu/prorangerblog/2020/07/24/busy-times-here-at-the-black-canyon/",
+  "notes": "Date inferred: ProRanger student blog post dated Fri 2020-07-24 narrates the prior Fri-Sun weekend; the report and overnight ranger stay were Sat 2020-07-18, the medevac helicopter evacuation Sun 2020-07-19. Filed on the Saturday report date. Inserted run 1016 (NPS BLCA chunk).",
+  "peak": "Black Canyon of the Gunnison",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
