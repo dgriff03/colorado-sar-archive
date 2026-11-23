@@ -1,0 +1,18 @@
+{
+  "id": "fb6153ea-fa90-49ce-80e5-1f6d00f0fb56",
+  "date": "2026-11-22",
+  "summary": "Missing party in the Hidden Wilderness Road area near Idaho Springs; Alpine Rescue Team paged (mission 2026-174); thin mission-log post, outcome and party size unreported",
+  "location": "Hidden Wilderness Road area",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": null,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/2026-174-team-paged-for-a-missing-party-in-the-hidden-wilderness-road-area/",
+  "notes": "Freshness sweep 2026-11-23: Alpine Rescue Team mission-log post parent-checked live (thin one-liner, Sun Nov 22); outcome and party size unreported; victims NULL per the unreported-count precedent; outcome 'assist' per the Alpine thin-log person-mission precedent (ids 3871/3872/3830). Hidden Wilderness Road is in Clear Creek County (Idaho Springs area).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

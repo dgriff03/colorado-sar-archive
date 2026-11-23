@@ -1,0 +1,18 @@
+{
+  "id": "46fe1ee3-e5d0-48e0-a680-dce1a4c21133",
+  "date": "2023-07-17",
+  "summary": "Injured solo hiker stranded without food or water at Crater Lake (10,075 ft), base of Maroon Bells; Zoleo SOS 8:38 p.m.; 10 Mountain Rescue Aspen volunteers reached the hiker 10:42 p.m. and walked them out to Maroon Bells day-use parking by 1:13 a.m. July 18.",
+  "location": "Crater Lake, Maroon Bells",
+  "county": "Pitkin",
+  "incident_type": "injury",
+  "outcome": "rescued",
+  "victims": 1,
+  "responding_agency": "Mountain Rescue Aspen",
+  "source_urls": "https://thenextsummit.org/crater-lake-rescue-injured-hiker-saved-by-mountain-rescue-aspen/",
+  "notes": "The Next Summit article published 2023-07-19, citing the Pitkin County Sheriff's Office / Mountain Rescue Aspen joint statement; 'Monday' = 2023-07-17 (Monday-verified). Run 1019 chunk B (Pitkin SO news alerts angle; no PCSO newsflash URL surfaced for this release).",
+  "peak": "Maroon Bells",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
