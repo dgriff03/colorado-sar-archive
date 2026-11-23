@@ -1,0 +1,18 @@
+{
+  "id": "aae756fa-a5e2-4027-8213-2089ac2e308f",
+  "date": "2019-07-26",
+  "summary": "Woman separated from her group and lost hiking up Silver Couloir on Buffalo Mountain; exhausted navigating snow, drenched and near hypothermic; three Summit County Rescue Group teams of three reached her about 7 p.m. near the bottom of the east face and escorted her off the mountain.",
+  "location": "Silver Couloir, Buffalo Mountain",
+  "county": "Summit",
+  "incident_type": "lost/stranded",
+  "outcome": "located uninjured, escorted out",
+  "victims": 1,
+  "responding_agency": "Summit County Rescue Group",
+  "source_urls": "https://snowbrains.com/summit-county-lost-woman-medical-emergency/",
+  "notes": "SnowBrains article published 2019-07-29, reporting Summit Daily coverage; events 'Friday' = 2019-07-26 (Friday-verified). Run 1018 chunk B.",
+  "peak": "Buffalo Mountain",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

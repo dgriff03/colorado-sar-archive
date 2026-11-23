@@ -1,0 +1,18 @@
+{
+  "id": "12ed800a-7a64-42aa-8d84-ea02fb824d25",
+  "date": "2026-11-18",
+  "summary": "Elderly couple's SUV slid off icy County Road 162 into Chalk Creek near Cascade Falls; the couple was trapped in the vehicle and unable to get out; Chaffee County Sheriff's Office, Chaffee County Search and Rescue, Chaffee County Fire Department, Chaffee County Emergency Management, Chaffee County EMS and Colorado State Patrol responded and extracted the couple; neither occupant was injured; the road was closed about two hours while crews worked to extract the occupants and the vehicle",
+  "location": "Chalk Creek along County Road 162 near Cascade Falls",
+  "county": "Chaffee",
+  "incident_type": "vehicle",
+  "outcome": "rescued-uninjured",
+  "victims": 2,
+  "responding_agency": "Chaffee County Search and Rescue",
+  "source_urls": "https://heartoftherockiesradio.com/couple-rescued-after-car-slides-into-chalk-creek-today/|https://stpauldailynews.com/stories/two-people-safe-after-suv-slides-off-road-into-creek-in-chaffee-county,2265997",
+  "notes": "Freshness sweep 2026-11-22: KRDO (via St. Paul Daily News mirror) + Heart of the Rockies Radio, both parent-opened live; call ~1 p.m. Wed Nov 18; SUV slid off icy CR 162 into Chalk Creek ~4 mi west of Mount Princeton Hot Springs Resort; elderly couple trapped, extracted uninjured; Chaffee County Search and Rescue among responding agencies. Overturns the Nov 20 freshness-sweep decline (road vehicle incident, couple uninjured): CCSAR involvement verified via KRDO/Heart of the Rockies Radio; consistent with vehicle-rescue rows 3670/3676/3788/3442/3444.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

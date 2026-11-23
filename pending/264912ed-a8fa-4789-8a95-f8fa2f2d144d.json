@@ -1,0 +1,18 @@
+{
+  "id": "264912ed-a8fa-4789-8a95-f8fa2f2d144d",
+  "date": "2019-07-26",
+  "summary": "Man in his early 70s from out of state fell ill about 1,000 ft below the Quandary Peak summit while attempting his first 14er; Good Samaritans escorted him down toward Highway 9 and Flight for Life airlifted him to St. Anthony Summit Medical Center.",
+  "location": "Quandary Peak Trail, ~1,000 ft below summit",
+  "county": "Summit",
+  "incident_type": "medical",
+  "outcome": "airlifted",
+  "victims": 1,
+  "responding_agency": "Summit County Rescue Group / Flight for Life",
+  "source_urls": "https://snowbrains.com/summit-county-lost-woman-medical-emergency/",
+  "notes": "Same SnowBrains article as the Buffalo Mountain incident (shared-page source); call received 10:22 am Friday. Run 1018 chunk B.",
+  "peak": "Quandary Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
