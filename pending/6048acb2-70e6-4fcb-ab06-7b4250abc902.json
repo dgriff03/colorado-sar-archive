@@ -1,0 +1,18 @@
+{
+  "id": "6048acb2-70e6-4fcb-ab06-7b4250abc902",
+  "date": "2023-12-05",
+  "summary": "Orion Koleis, 45, fell head-down into a tree well on Upper Canaan below Paradise Bowl at Crested Butte Mountain Resort, pinned upside-down and suffocating; fellow skiers dug him out and performed CPR until ski patrol arrived; patrol administered a nasal airway and hauled him to the clinic, and Crested Butte Fire Protection District EMTs transported him to Gunnison Valley Hospital, released the next day.",
+  "location": "Upper Canaan below Paradise Bowl, Crested Butte Mountain Resort",
+  "county": "Gunnison",
+  "incident_type": "injury",
+  "outcome": "transported, hospitalized",
+  "victims": 1,
+  "responding_agency": "Crested Butte Mountain Resort ski patrol; Crested Butte Fire Protection District",
+  "source_urls": "https://crestedbuttenews.com/2023/12/fluke-ski-fall-turns-tragic-but-locals-literally-save-the-day-and-orion/",
+  "notes": "In-bounds incident INCLUDED: ski patrol + CBFPD EMS response documented (run-999 Keystone distinction - no SAR/patrol response described there). Run 1017 chunk C.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

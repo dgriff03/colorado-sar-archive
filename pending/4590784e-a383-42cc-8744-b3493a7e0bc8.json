@@ -1,0 +1,18 @@
+{
+  "id": "4590784e-a383-42cc-8744-b3493a7e0bc8",
+  "date": "2021-08-03",
+  "summary": "Sick juvenile backpacking near South Texas Lakes off the Continental Divide Trail at the top of Cottonwood Pass; Crested Butte SAR assisted Western State Mountain Rescue; after medical care the patient walked out with SAR assistance.",
+  "location": "South Texas Lakes, Continental Divide Trail, top of Cottonwood Pass",
+  "county": "Gunnison",
+  "incident_type": "medical",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Western State Mountain Rescue; Crested Butte Search and Rescue",
+  "source_urls": "https://crestedbuttenews.com/2021/08/cb-search-and-rescue-at-the-ready-for-end-of-summer-incidents/",
+  "notes": "Crested Butte News roundup published 2021-08-04 ('called at 4:40 am Tuesday'). Run 1017 chunk C.",
+  "peak": "Cottonwood Pass",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

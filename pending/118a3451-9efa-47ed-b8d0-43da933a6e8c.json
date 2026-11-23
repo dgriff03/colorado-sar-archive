@@ -1,0 +1,18 @@
+{
+  "id": "118a3451-9efa-47ed-b8d0-43da933a6e8c",
+  "date": "2026-11-17",
+  "summary": "Unidentified adult man fell through the ice on a pond at Sand Creek Park in Aurora while walking three dogs; Aurora Fire Rescue responded shortly after 7 p.m., pulled the man and one of the dogs from the water, and took the man to a hospital in critical condition, where he later died; South Metro Fire Rescue's dive team searched the pond and found no other victims; all three dogs survived",
+  "location": "Sand Creek Park pond (2700 N. Peoria St.), Aurora",
+  "county": "Adams",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Aurora Fire Rescue; South Metro Fire Rescue",
+  "source_urls": "https://edition.pagesuite.com/tribune/article_popover.aspx?guid=72f18c4f-7562-454b-b327-2e94cad82ae3",
+  "notes": "Freshness sweep 2026-11-21: The Denver Post 2026-11-18 (parent-opened live), reporting from the Aurora Fire Rescue news release and PIO Eric Hurst; fell through ice Tue Nov 17 ~7 p.m. while walking three dogs; man unidentified at publication, to be identified by the Adams County Coroner's Office; one dog also pulled from the water; all three dogs survived, cared for by Aurora Animal Services.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

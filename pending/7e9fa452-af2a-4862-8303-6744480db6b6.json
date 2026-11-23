@@ -1,0 +1,18 @@
+{
+  "id": "7e9fa452-af2a-4862-8303-6744480db6b6",
+  "date": "2024-07-13",
+  "summary": "Unnamed man in his mid-30s fell off his innertube during a private tubing trip on the Arkansas River east of Portland and drowned; a bystander fisherman pulled him ashore and began CPR; Florence EMS, Fremont County Sheriff's Office, the Fremont County Coroner and CPW AHRA rangers responded; pronounced dead at the scene; no personal flotation device observed.",
+  "location": "Arkansas River east of Portland",
+  "county": "Fremont",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Fremont County Sheriff's Office; Florence EMS; Fremont County Coroner; CPW Arkansas Headwaters Recreation Area rangers",
+  "source_urls": "https://cpw.state.co.us/news/07152024/cpws-ahra-responds-report-man-receiving-cpr-along-arkansas-river-fremont-county-man",
+  "notes": "CPW AHRA release published 2024-07-15 (incident 'died Saturday'). Victim unnamed in source pending family notification. Run 1017 chunk A.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
