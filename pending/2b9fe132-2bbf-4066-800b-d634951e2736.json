@@ -1,0 +1,18 @@
+{
+  "id": "2b9fe132-2bbf-4066-800b-d634951e2736",
+  "date": "2018-06-15",
+  "summary": "David Bass, 64, of Hutchinson, Kansas, drowned at Steamboat Lake after the boat he was fixing a trolling motor on drifted away from shore Friday afternoon; he swam after it and disappeared under the surface; his body was recovered just after midnight early Saturday.",
+  "location": "Steamboat Lake",
+  "county": "Routt",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Routt County Sheriff's Office",
+  "source_urls": "https://kansaspublicradio.org/local-news/2018-06-18/headlines-for-monday-june-18-2018|https://northfortynews.com/category/news/cpw-seasonal-employee-drowns-at-steamboat-lake-state-park/",
+  "notes": "Kansas Public Radio AP item, 'Headlines for Monday, June 18, 2018', citing Steamboat Today; 'Friday afternoon' = 2018-06-15 (Friday-verified), body recovered just after midnight early Saturday June 16. Recovering agency not named in the AP item; Routt County Coroner Rob Ryg quoted. North Forty News Mutabazi article (July 15, 2018) corroborates: Mutabazi was 'the second drowning at Steamboat Lake State Park in the last two months.' Run 1020 chunk C; resolves the parked Kansas Steamboat Lake drowning lead (run 1002).",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "DETAILED_MULTIPLE_SOURCES",
+  "place": null,
+  "place_type": null
+}
