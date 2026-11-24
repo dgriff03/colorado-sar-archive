@@ -1,0 +1,18 @@
+{
+  "id": "00f7587d-3b9b-4c15-9105-c4b7efe4785e",
+  "date": "2010-11-06",
+  "summary": "22-year-old Colorado Springs hiker stranded after dark on Quandary Peak when his headlamp failed; he had left his pack at ~13,000 ft and continued to the summit without it. Friends called 911; Summit County Rescue Group paged 9:38 p.m.; 15 rescuers located him ~11:30 p.m. and walked him out by ~12:45 a.m. Nov 7.",
+  "location": "Quandary Peak",
+  "county": "Summit",
+  "incident_type": "lost/stranded",
+  "outcome": "rescued-uninjured",
+  "victims": 1,
+  "responding_agency": "Summit County Rescue Group",
+  "source_urls": "https://metrotomountain.cloudhiking.com/journal/scree/10_11/11_09_10-quandryRescue-leftPack-jakeClock.php",
+  "notes": "Metro to Mountain journal entry dated Nov 9, 2010 ('Over the weekend, a 22 year old climber called for help...'), citing the Denver Post as its source; Nov 6, 2010 was a Saturday (Saturday-verified); rescue spanned midnight into Nov 7. Times (9:38 p.m. page, 11:30 p.m. located, 12:45 a.m. out) and the hiker's hometown per the Denver Post account as quoted in a forum post - Denver Post URL not directly verifiable (domain blocked for fetch), so only the journal URL is cited. Run 1020 chunk A; first 2010 Quandary row.",
+  "peak": "Quandary Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
