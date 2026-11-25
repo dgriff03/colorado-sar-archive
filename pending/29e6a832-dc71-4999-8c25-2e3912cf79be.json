@@ -1,0 +1,18 @@
+{
+  "id": "29e6a832-dc71-4999-8c25-2e3912cf79be",
+  "date": "2024-06-22",
+  "summary": "Experienced boatman Matt Clemente of New Castle was on a family drift-boat trip on the Colorado River near New Castle when the boat hit a large wave at the Dino Hole rapid, filled with water and flipped; Clemente, not wearing a PFD, drowned. His brother and raft guides rescued his three children; a Garfield County SAR team of eight members with two watercraft located his body on a sandbar near the New Castle boat ramp Saturday evening, and it was retrieved by helicopter around 7:35 p.m.",
+  "location": "Colorado River, Dino Hole, near New Castle",
+  "county": "Garfield",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Garfield County Search and Rescue",
+  "source_urls": "https://www.americanwhitewater.org/content/Accident/detail/accidentid/118339",
+  "notes": "American Whitewater accident record (parent-opened), embedding the Garfield County Post Independent article of June 25, 2024; accident_date 2024-06-22 in the AW record and 'on Saturday' in the PI article (June 22, 2024 was a Saturday). Run 1021 chunk C.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
