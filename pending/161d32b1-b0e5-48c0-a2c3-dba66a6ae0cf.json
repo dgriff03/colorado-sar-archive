@@ -1,0 +1,18 @@
+{
+  "id": "161d32b1-b0e5-48c0-a2c3-dba66a6ae0cf",
+  "date": "2026-11-24",
+  "summary": "Three stranded hikers on Kelso Ridge on Torrey's Peak; Alpine Rescue Team paged (mission 2026-176, paged 12:55 p.m.); thin mission-log post, outcome unreported",
+  "location": "Kelso Ridge, Torrey's Peak",
+  "county": "Clear Creek",
+  "incident_type": "lost/stranded",
+  "outcome": "assist",
+  "victims": 3,
+  "responding_agency": "Alpine Rescue Team",
+  "source_urls": "https://alpinerescueteam.org/2026-176-team-paged-for-three-stranded-hikers-on-kelso-ridge-on-torreys-peak/",
+  "notes": "Freshness sweep 2026-11-25: Alpine Rescue Team mission-log post parent-opened live (thin one-liner, paged 12:55 p.m. Tue Nov 24 per wp-json timestamp); outcome unreported; outcome 'assist' per the Alpine thin-log precedent (ids 3841/3860/3862/3926). Distinct from id 3841 (Oct 31, mission 2026-161, single stranded hiker, same ridge).",
+  "peak": "Torreys Peak",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

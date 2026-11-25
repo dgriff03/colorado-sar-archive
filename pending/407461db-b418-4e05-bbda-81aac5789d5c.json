@@ -1,0 +1,18 @@
+{
+  "id": "407461db-b418-4e05-bbda-81aac5789d5c",
+  "date": "2013-04-06",
+  "summary": "Unnamed backpacker overdue from a permitted backcountry trip in Black Canyon of the Gunnison NP (planned exit Saturday); rangers found his car still at the trailhead Sunday morning and began searching his intended route; his body was located Tuesday ~1,000 ft below the South Rim, an apparent fatal fall; NPS coordinating recovery with the Montrose County Sheriff's Office.",
+  "location": "South Rim, Black Canyon of the Gunnison National Park",
+  "county": "Montrose",
+  "incident_type": "fall",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "National Park Service; Montrose County Sheriff's Office",
+  "source_urls": "https://crestedbuttenews.com/2013/04/body-of-missing-hiker-found-in-black-canyon-this-week/",
+  "notes": "Crested Butte News, April 10, 2013 (parent-opened); backpacker held a backcountry permit indicating a planned exit on Saturday; search began Sunday after rangers found his car at the trailhead; body located Tuesday Apr 9. Row dated by the planned-exit Saturday, Apr 6, 2013 (Saturday-verified), per the id 302 (Ryan Wood Moss, 2016) overdue-Saturday precedent; the fall itself is undated. Identity withheld at publication; no follow-up naming the victim found. Run 1021 chunk A.",
+  "peak": "Black Canyon of the Gunnison",
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
