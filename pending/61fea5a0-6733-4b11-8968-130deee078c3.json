@@ -1,0 +1,18 @@
+{
+  "id": "61fea5a0-6733-4b11-8968-130deee078c3",
+  "date": "2012-08-14",
+  "summary": "Juvenile male from Texas tripped hiking down Deer Mountain trail, suffering a significant injury; litter carry-out to an awaiting ambulance at the trailhead, then flown by Flight for Life to Children's Hospital.",
+  "location": "Deer Mountain Trail, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "injury",
+  "outcome": "carried out, hospitalized",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park rangers",
+  "source_urls": "https://www.estesparknews.com/rmnp_news/article_93cd7a28-aa34-58e2-a1d5-8c30a16b802d.html",
+  "notes": "Source: Estes Park News, \"Six Incidents in Rocky Mountain National Park on Tuesday, August 14, 2012\" — one of six same-day RMNP incidents; the Broadway Ledge pair from the same article is id 3086.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "8c9cd645-6cb6-4c4d-935e-c60d82b0d831",
+  "date": "2012-08-14",
+  "summary": "74-year-old woman from Chicago suffered a medical emergency aboard a tour bus on Trail Ridge Road; flown by St. Anthony Flight for Life from the west side of the park to St. Anthony Central Hospital.",
+  "location": "Trail Ridge Road, Rocky Mountain National Park",
+  "county": "Grand",
+  "incident_type": "medical",
+  "outcome": "transported, hospitalized",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park rangers; St. Anthony Flight for Life",
+  "source_urls": "https://www.estesparknews.com/rmnp_news/article_93cd7a28-aa34-58e2-a1d5-8c30a16b802d.html",
+  "notes": "Source: Estes Park News, \"Six Incidents in Rocky Mountain National Park on Tuesday, August 14, 2012\". County Grand inferred: flown from the west side of the park, with Grand Lake Fire and Grand County EMS/Ambulance assisting per the article.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
