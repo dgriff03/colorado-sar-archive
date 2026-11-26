@@ -1,0 +1,18 @@
+{
+  "id": "1e1f1cb7-db32-4311-8de3-f8b4d79823e4",
+  "date": "2012-08-14",
+  "summary": "27-year-old Boulder man suffered a significant lower leg injury hiking near Lake Haiyaha; litter-evacuated to Glacier Gorge Trailhead, then taken by personal vehicle for further care.",
+  "location": "Lake Haiyaha, Bear Lake area, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "injury",
+  "outcome": "evacuated by litter",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park rangers",
+  "source_urls": "https://www.estesparknews.com/rmnp_news/article_93cd7a28-aa34-58e2-a1d5-8c30a16b802d.html",
+  "notes": "Source: Estes Park News, \"Six Incidents in Rocky Mountain National Park on Tuesday, August 14, 2012\" — one of six same-day RMNP incidents; the Broadway Ledge pair from the same article is id 3086.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

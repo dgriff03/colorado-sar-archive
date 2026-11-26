@@ -1,0 +1,18 @@
+{
+  "id": "5766018f-a085-4068-8826-8c0eb7faa02b",
+  "date": "2012-08-14",
+  "summary": "Female hiker from Brooklyn, NY sustained a lower leg injury and was assisted by rangers down Dream Lake Trail to Bear Lake, then taken by personal vehicle for further care.",
+  "location": "Dream Lake Trail, Bear Lake area, Rocky Mountain National Park",
+  "county": "Larimer",
+  "incident_type": "injury",
+  "outcome": "assisted",
+  "victims": 1,
+  "responding_agency": "Rocky Mountain National Park rangers",
+  "source_urls": "https://www.estesparknews.com/rmnp_news/article_93cd7a28-aa34-58e2-a1d5-8c30a16b802d.html",
+  "notes": "Source: Estes Park News, \"Six Incidents in Rocky Mountain National Park on Tuesday, August 14, 2012\" — one of six same-day RMNP incidents; the Broadway Ledge pair from the same article is id 3086.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
