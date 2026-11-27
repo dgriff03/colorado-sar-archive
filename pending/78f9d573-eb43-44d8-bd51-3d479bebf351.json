@@ -1,0 +1,18 @@
+{
+  "id": "78f9d573-eb43-44d8-bd51-3d479bebf351",
+  "date": "2023-06-23",
+  "summary": "Person fell from an inflatable canoe into the Colorado River around mile marker 15 on Colorado River Road and was swept away in a fast current; found unresponsive by a party member and pulled to shore; CPR unsuccessful, pronounced dead on scene. Party of three in three separate inflatable canoes, all wearing PFDs; identity not released.",
+  "location": "Colorado River around mile marker 15, Colorado River Road",
+  "county": "Eagle",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Eagle County Sheriff's Office",
+  "source_urls": "https://mailchi.mp/eaglecounty.us/media-release-62323-boating-accident-results-in-death-on-colorado-river",
+  "notes": "Agencies per ECSO release: Vail Public Safety Communications Center, Eagle County Paramedic Services, Gypsum Fire Rescue, Eagle County Sheriff's Office, Eagle County Coroner's Office.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
