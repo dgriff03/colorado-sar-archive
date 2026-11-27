@@ -1,0 +1,18 @@
+{
+  "id": "20aa5617-ac60-4c3c-94af-aa03dc2eb8e7",
+  "date": "2017-06-05",
+  "summary": "Large private group from Edwards with several boats and kayaks; one boat high-centered on an already-pinned abandoned raft in Boneyard Rapid between Yarmony and Rancho Del Rio; occupants swam out, one woman in her early 30s became trapped; recovered by about 5 p.m., unresponsive to CPR.",
+  "location": "Boneyard Rapid, Upper Colorado River, between Yarmony and Rancho Del Rio",
+  "county": "Grand",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Eagle County Sheriff's Office",
+  "source_urls": "https://mailchi.mp/299665d5c88f/media-release-060517-woman-dies-in-boating-accident-on-upper-colorado-river",
+  "notes": "County filed Grand per the Yarmony Rapid precedent (id 3417); Boneyard Rapid sits in the Radium-Rancho del Rio stretch near the Eagle/Grand line - ECSO release notes first responders from both Eagle and Grand counties.",
+  "peak": null,
+  "setting": "wilderness",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

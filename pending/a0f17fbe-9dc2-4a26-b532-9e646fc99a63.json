@@ -1,0 +1,18 @@
+{
+  "id": "a0f17fbe-9dc2-4a26-b532-9e646fc99a63",
+  "date": "2022-06-22",
+  "summary": "20-month-old child fell into the fast-moving canal near the baseball fields in El Jebel just before 5 p.m.; multi-agency search located the child after about an hour; CPR performed, child transported to a local hospital and pronounced dead there; identity not released.",
+  "location": "Canal near baseball fields, El Jebel",
+  "county": "Eagle",
+  "incident_type": "other",
+  "outcome": "fatality",
+  "victims": 1,
+  "responding_agency": "Eagle County Sheriff's Office",
+  "source_urls": "https://mailchi.mp/eaglecounty.us/media-release-062422-toddler-dies-after-falling-into-canal-near-baseball-fields-in-el-jebel",
+  "notes": "Responders per ECSO release: Eagle County Sheriff's Office, Basalt Police Department, Pitkin County Sheriff's Office, Colorado State Patrol, Carbondale Fire, Roaring Fork Fire Rescue. Identity not released.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}

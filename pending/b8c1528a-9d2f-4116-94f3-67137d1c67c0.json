@@ -1,0 +1,18 @@
+{
+  "id": "b8c1528a-9d2f-4116-94f3-67137d1c67c0",
+  "date": "2017-06-23",
+  "summary": "Paraglider crashed into the Eagle River near the Eagle County Fairgrounds about 9 a.m.; nearby rafters pulled the victim from the water onto their raft; first responders met the raft near Draggin A Ranch a couple of miles downriver; victim transported to a nearby hospital, condition unknown at publication; FAA/NTSB notified.",
+  "location": "Eagle River near Eagle County Fairgrounds, Eagle",
+  "county": "Eagle",
+  "incident_type": "other",
+  "outcome": "transported, hospitalized",
+  "victims": 1,
+  "responding_agency": "Vail Mountain Rescue Group",
+  "source_urls": "https://mailchi.mp/sheriff.eagle.co.us/media-release-0623-17-paraglider-crashes-in-eagle-river",
+  "notes": "Agencies per ECSO release: Eagle County Sheriff's Office, Vail Mountain Rescue Group, Greater Eagle Fire Protection District, Gypsum Fire Protection District, Eagle County Paramedic Services.",
+  "peak": null,
+  "setting": "frontcountry",
+  "detail_score": "MECHANISM_SINGLE_SOURCE",
+  "place": null,
+  "place_type": null
+}
